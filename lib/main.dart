@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/view/home_view.dart';
 import 'package:kuran/view/kurandownload_view.dart';
+import 'package:kuran/view/testpdfcached_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,13 +18,10 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-     initialRoute: '/',
+      initialRoute: '/',
       routes: {
-        '/':(contex)=>const KuranDownloadView(),
+        '/': (contex) => Cachedtest(),
       },
     );
   }
 }
-
-
-
