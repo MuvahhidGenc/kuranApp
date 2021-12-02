@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/test/view/hivetest_view.dart';
 import 'package:kuran/view/home_view.dart';
 import 'package:kuran/view/kurandownload_view.dart';
 import 'package:kuran/view/testpdfcached_view.dart';
+import 'package:hive/hive.dart';
+import 'package:hive_flutter/hive_flutter.dart';
 
-void main() {
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+  await  Hive.initFlutter(); // Hive Database Başlatıldı
   runApp(const MyApp());
 }
 
@@ -20,7 +25,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (contex) => Cachedtest(),
+        '/': (contex) =>const HiveNoSql(),
       },
     );
   }

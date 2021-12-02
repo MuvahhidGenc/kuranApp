@@ -44,7 +44,7 @@ class Cachedtest extends StatelessWidget {
               context,
               MaterialPageRoute<dynamic>(
                 builder: (_) => PDFViewerFromAsset(
-                  pdfAssetPath: 'assets/pdf/file-example.pdf',
+                  pdfAssetPath: 'assets/pdf/kuran.pdf',
                 ),
               ),
             ),
@@ -76,15 +76,25 @@ class PDFViewerFromUrl extends StatelessWidget {
   }
 }
 
-class PDFViewerCachedFromUrl extends StatelessWidget {
+class PDFViewerCachedFromUrl extends StatefulWidget {
   PDFViewerCachedFromUrl({Key? key, @required this.url}) : super(key: key);
+  final String? url;
+
+  @override
+  State<PDFViewerCachedFromUrl> createState() => _PDFViewerCachedFromUrlState();
+}
+
+class _PDFViewerCachedFromUrlState extends State<PDFViewerCachedFromUrl> {
   final Completer<PDFViewController> _pdfViewController =
       Completer<PDFViewController>();
+
   final StreamController<String> _pageCountController =
       StreamController<String>();
 
-  final String? url;
-  int page = 1;
+  int? pageNum;
+  int? pageTotalNum;
+
+ 
 
   @override
   Widget build(BuildContext context) {
@@ -97,8 +107,17 @@ class PDFViewerCachedFromUrl extends StatelessWidget {
         nightMode: false,
         autoSpacing: true,
         pageFling: true,
-        defaultPage: 2,
-        fitPolicy: FitPolicy.HEIGHT,
+        defaultPage: 1,
+        
+        fitPolicy:FitPolicy.WIDTH,
+        onPageChanged: (int? current, int? total) {
+          _pageCountController.add('${current! + 1} - $total');
+          setState(() {
+            pageNum=current;
+            pageTotalNum=total;
+          });
+        },
+            
         onViewCreated: (PDFViewController pdfViewController) async {
           _pdfViewController.complete(pdfViewController);
           final int? currentPage = await pdfViewController.getCurrentPage();
@@ -106,7 +125,7 @@ class PDFViewerCachedFromUrl extends StatelessWidget {
           _pageCountController.add('${currentPage! + 1} - $pageCount');
         },
       ).cachedFromUrl(
-        url!,
+        widget.url!,
         placeholder: (double progress) => Center(child: Text('$progress %')),
         errorWidget: (dynamic error) => Center(child: Text(error.toString())),
       ),
@@ -130,7 +149,7 @@ class PDFViewerCachedFromUrl extends StatelessWidget {
                     }
                   },
                 ),
-                Text("$page"),
+                Text("$pageNum / $pageTotalNum"),
                 FloatingActionButton(
                   heroTag: '+',
                   child: const Text('+'),
@@ -138,7 +157,7 @@ class PDFViewerCachedFromUrl extends StatelessWidget {
                     final PDFViewController pdfController = snapshot.data!;
                     final int currentPage =
                         (await pdfController.getCurrentPage())! + 1;
-                    this.page = currentPage;
+                    //this.pageNum = currentPage;
                     final int numberOfPages =
                         await pdfController.getPageCount() ?? 0;
                     if (numberOfPages > currentPage) {
@@ -192,8 +211,9 @@ class PDFViewerFromAsset extends StatelessWidget {
       body: PDF(
         enableSwipe: true,
         swipeHorizontal: true,
-        autoSpacing: false,
-        pageFling: false,
+        autoSpacing: true,
+        pageFling: true,
+        fitPolicy: FitPolicy.HEIGHT,
         onPageChanged: (int? current, int? total) =>
             _pageCountController.add('${current! + 1} - $total'),
         onViewCreated: (PDFViewController pdfViewController) async {
@@ -203,7 +223,7 @@ class PDFViewerFromAsset extends StatelessWidget {
           _pageCountController.add('${currentPage! + 1} - $pageCount');
         },
       ).fromAsset(
-        pdfAssetPath!,
+        'assets/kuran.pdf',
         errorWidget: (dynamic error) => Center(child: Text(error.toString())),
       ),
       floatingActionButton: FutureBuilder<PDFViewController>(
