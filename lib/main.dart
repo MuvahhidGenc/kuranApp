@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/test/model/user_model.dart';
 import 'package:kuran/test/view/hivetest_view.dart';
 import 'package:kuran/view/home_view.dart';
 import 'package:kuran/view/kurandownload_view.dart';
@@ -6,9 +7,12 @@ import 'package:kuran/view/testpdfcached_view.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 
-void main() async{
+void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await  Hive.initFlutter(); // Hive Database Başlatıldı
+  await Hive.initFlutter(); // Hive Database Başlatıldı
+  Hive.registerAdapter(UserAdapter());
+
+  await Hive.openBox<User>("users");
   runApp(const MyApp());
 }
 
@@ -25,7 +29,7 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (contex) =>const HiveNoSql(),
+        '/': (contex) => const HiveNoSql(),
       },
     );
   }
