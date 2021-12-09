@@ -108,8 +108,6 @@ class _PDFViewerCachedFromUrlState extends State<PDFViewerCachedFromUrl> {
         autoSpacing: true,
         pageFling: true,
         defaultPage: 1,
-        
-        fitPolicy:FitPolicy.WIDTH,
         onPageChanged: (int? current, int? total) {
           _pageCountController.add('${current! + 1} - $total');
           setState(() {
