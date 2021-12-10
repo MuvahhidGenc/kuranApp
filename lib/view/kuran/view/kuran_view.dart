@@ -51,13 +51,20 @@ class _KuranState extends State<Kuran> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      extendBodyBehindAppBar: true,
+      appBar:AppBar(
+        //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
+        iconTheme: IconThemeData(color: Colors.black54),
+        backgroundColor: Colors.transparent,
+      elevation: 0.0,
+      ),
       body: cachedPdfReader.cachedFromUrl(Constaine.url),
       floatingActionButton: Text("$pageNum / $pageTotalNum"),
     );
   }
 
   PDF get cachedPdfReader=>PDF(
-      swipeHorizontal: true,
+      swipeHorizontal: false,
         nightMode: false,
         autoSpacing: true,
         pageFling: true,
