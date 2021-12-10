@@ -103,7 +103,7 @@ class _PDFViewerCachedFromUrlState extends State<PDFViewerCachedFromUrl> {
         title: const Text('Cached PDF From Url'),
       ),
       body: PDF(
-        swipeHorizontal: true,
+        swipeHorizontal: false,
         nightMode: false,
         autoSpacing: true,
         pageFling: true,
@@ -113,6 +113,7 @@ class _PDFViewerCachedFromUrlState extends State<PDFViewerCachedFromUrl> {
           setState(() {
             pageNum=current;
             pageTotalNum=total;
+            
           });
         },
             
