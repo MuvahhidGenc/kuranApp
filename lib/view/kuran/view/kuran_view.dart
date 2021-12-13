@@ -1,11 +1,16 @@
 import 'dart:async';
+import 'dart:convert';
 
+import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
+import 'package:kuran/constains/urls_constains.dart';
+import 'package:kuran/services/dio/request.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/view/kuran/consts/constaine.dart';
 import 'package:kuran/view/kuran/model/kuran_model.dart';
+import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:kuran/view/widgets/listtile_widget.dart';
 
 class Kuran extends StatefulWidget {
@@ -26,6 +31,8 @@ class _KuranState extends State<Kuran> {
   int? pageTotalNum;
   List<KuranModel> list = [];
   final kuranModel = KuranModel();
+  var response;
+
   @override
   void initState() {
     // TODO: implement initState
@@ -34,11 +41,21 @@ class _KuranState extends State<Kuran> {
   }
 
   Future kuranPageInit() async {
+    var getrespone =
+        await GetPageAPI().getHttp(UrlsConstaine.ACIK_KURAN_URL + "/surahs");
+    var res = getrespone;
+    //print(res[0]["name"]);
+    var result = SureNameModel.fromJson(res["data"][0]);
+
+    print(result.name);
     box = await Hive.openBox("kuranPage");
     list = await kuranModel.juzListCount();
-    /* list = list.map((e) {
-      return KuranModel(juz: e.juz, page: e.page);
-    }).toList();*/
+    pageNum = box!.get("kuranPage");
+
+    if (pageNum == null) {
+      box!.put("kuranPage", 1);
+    }
+    print(pageNum);
     setState(() {
       pageNum = box!.get("kuranPage");
     });
@@ -56,15 +73,19 @@ class _KuranState extends State<Kuran> {
         extendBodyBehindAppBar: true,
         appBar: AppBar(
           //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
-          iconTheme: IconThemeData(color: Colors.black),
+          iconTheme: const IconThemeData(color: Colors.black),
           backgroundColor: Colors.transparent,
           elevation: 0.0,
           leading: IconButton(
-            icon: Icon(Icons.arrow_back, color: Colors.black),
+            icon: const Icon(Icons.arrow_back, color: Colors.black),
             onPressed: () => Navigator.of(context).pop(),
           ),
         ),
-        body: cachedPdfReader.cachedFromUrl(Constaine.url),
+        body: pageNum != null
+            ? cachedPdfReader.cachedFromUrl(Constaine.url)
+            : Center(
+                child: Text("Yükleniyor"),
+              ),
         floatingActionButton: Text("$pageNum / $pageTotalNum"),
         endDrawer: Drawer(
           elevation: 0.0,
@@ -73,7 +94,7 @@ class _KuranState extends State<Kuran> {
             child: ListView(
               children: [
                 const Padding(
-                    padding: const EdgeInsets.symmetric(
+                    padding: EdgeInsets.symmetric(
                   vertical: 10.0,
                 )),
                 ExpansionTile(
@@ -84,12 +105,7 @@ class _KuranState extends State<Kuran> {
                         title: Text(e.juz.toString() + ".juz"),
                         subtitle: Text("Sayfa : " + e.page.toString()),
                         onTap: () async {
-                          var deneme = await box!.put("kuranPage", e.page);
-
-                          setState(() {
-                            pageNum = e.page;
-                          });
-                          cachedPdfReader.cachedFromUrl(Constaine.url);
+                          box!.put("kuranPage", e.page);
                           Navigator.pushReplacement(
                               context,
                               MaterialPageRoute(
@@ -115,11 +131,11 @@ class _KuranState extends State<Kuran> {
           setState(() {
             pageNum = current;
             pageTotalNum = total;
-
-            box!.put("kuranPage", current);
-
-            print(pageNum.toString() + " " + box!.get("kuranPage").toString());
           });
+
+          box!.put("kuranPage", current);
+
+          print(pageNum.toString() + " " + box!.get("kuranPage").toString());
         },
         onViewCreated: (PDFViewController pdfViewController) async {
           _pdfViewController.complete(pdfViewController);
