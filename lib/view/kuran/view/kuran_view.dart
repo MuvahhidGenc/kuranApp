@@ -5,12 +5,15 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
+import 'package:kuran/constains/hivedb_constains.dart';
 import 'package:kuran/constains/urls_constains.dart';
 import 'package:kuran/services/dio/request.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/view/kuran/consts/constaine.dart';
 import 'package:kuran/view/kuran/model/kuran_model.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:kuran/view/kuran/modelview/hiveboxes.dart';
+import 'package:kuran/view/kuran/modelview/kuran_model_view.dart';
 import 'package:kuran/view/widgets/listtile_widget.dart';
 
 class Kuran extends StatefulWidget {
@@ -42,28 +45,20 @@ class _KuranState extends State<Kuran> {
   }
 
   Future kuranPageInit() async {
-    var getrespone =
-        await GetPageAPI().getHttp(UrlsConstaine.ACIK_KURAN_URL + "/surahs");
-
-    //print(res[0]["name"]);
-    var result = await SureNameModel.fromJson(getrespone);
+    var result = await KuranModelView()
+        .sureModelListMetod(); // get Süre Name And Details
     setState(() {
-      sureModelList = result;
+      sureModelList = result; //Updete Widgets
     });
-    /* await result.data!.map((e) {
-      print(e.name);
-    } 
-    ).toList();*/
-    box = await Hive.openBox("kuranPage");
-    list = await kuranModel.juzListCount();
-    pageNum = await box!.get("kuranPage");
 
-    if (pageNum == null) {
-      box!.put("kuranPage", 1);
-    }
-    print(pageNum);
+    box = await KuranPageHiveBoxes.getOpenKuranPageBox; // Open kuranPage DB
+    list = await kuranModel.juzListCount(); //  get Juz List Count
+
+    var getpageNum = await KuranModelView().dbController(); // db Control method
+
     setState(() {
-      pageNum = box!.get("kuranPage");
+      // pageNum = box!.get(HiveDbConstains.kuranPageName);
+      pageNum = getpageNum;
     });
   }
 
@@ -77,79 +72,95 @@ class _KuranState extends State<Kuran> {
   Widget build(BuildContext context) {
     return Scaffold(
         extendBodyBehindAppBar: true,
-        appBar: AppBar(
-          //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
-          iconTheme: const IconThemeData(color: Colors.black),
-          backgroundColor: Colors.transparent,
-          elevation: 0.0,
-          leading: IconButton(
-            icon: const Icon(Icons.arrow_back, color: Colors.black),
-            onPressed: () => Navigator.of(context).pop(),
-          ),
-        ),
+        appBar: appBarWidget(context),
         body: pageNum != null
             ? cachedPdfReader.cachedFromUrl(Constaine.url)
             : Center(
                 child: Text("Yükleniyor"),
               ),
         floatingActionButton: Text("$pageNum / $pageTotalNum"),
-        endDrawer: Drawer(
-          elevation: 0.0,
-          child: Container(
-            color: Colors.transparent,
-            child: ListView(
-              children: [
-                const Padding(
-                    padding: EdgeInsets.symmetric(
-                  vertical: 10.0,
-                )),
-                ExpansionTile(
-                  title: const Text("Juzler"),
-                  leading: const Icon(Icons.book_online_outlined),
-                  children: list.map<ListTile>((e) {
-                    return ListTile(
-                        title: Text(e.juz.toString() + ".juz"),
-                        subtitle: Text("Sayfa : " + e.page.toString()),
-                        onTap: () async {
-                          box!.put("kuranPage", e.page);
-                          Navigator.pushReplacement(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (BuildContext context) =>
-                                      super.widget));
-                        });
-                  }).toList(),
-                ),
-                ExpansionTile(
-                    title: const Text("Süreler"),
-                    leading: Icon(Icons.bookmark),
-                    children:sureModelList !=null ? sureModelList!.data!.map<ListTile>((e) {
-                      return ListTile(
-                        title: Text(e.name!),
-                        subtitle: Text("Sayfa : "+e.pageNumber!.toString()),
-                        // leading: Text(data),
-                        trailing: Text("Ayet Sayısı : "+e.verseCount!.toString()),
-                        onTap: () {
-                          if(e.pageNumber==0 || e.pageNumber==1){
-                           pageNum=e.pageNumber!+1;
-                          }else{
-                            pageNum = e.pageNumber;
-                          }
-                         // pageNum = e.pageNumber;
-                          box!.put("kuranPage", pageNum);
-                          Navigator.pushReplacement(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (BuildContext context) =>
-                                      super.widget));
-                        },
-                      );
-                    }).toList() : [Text("Yükleniyor")],
-                    ),
-              ],
-            ),
-          ),
-        ));
+        endDrawer: drawerList(context));
+  }
+
+  AppBar appBarWidget(BuildContext context) {
+    return AppBar(
+      //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
+      iconTheme: const IconThemeData(color: Colors.black),
+      backgroundColor: Colors.transparent,
+      elevation: 0.0,
+      leading: IconButton(
+        icon: const Icon(Icons.arrow_back, color: Colors.black),
+        onPressed: () => Navigator.of(context).pop(),
+      ),
+    );
+  }
+
+  Drawer drawerList(BuildContext context) {
+    return Drawer(
+      elevation: 0.0,
+      child: Container(
+        color: Colors.transparent,
+        child: ListView(
+          children: [
+            const Padding(
+                padding: EdgeInsets.symmetric(
+              vertical: 10.0,
+            )),
+            expansionTileJuzler(context),
+            expansionTileSureler(context),
+          ],
+        ),
+      ),
+    );
+  }
+
+  ExpansionTile expansionTileSureler(BuildContext context) {
+    return ExpansionTile(
+      title: const Text("Süreler"),
+      leading: Icon(Icons.bookmark),
+      children: sureModelList != null
+          ? sureModelList!.data!.map<ListTile>((e) {
+              return ListTile(
+                title: Text(e.name!),
+                subtitle: Text("Sayfa : " + e.pageNumber!.toString()),
+                // leading: Text(data),
+                trailing: Text("Ayet Sayısı : " + e.verseCount!.toString()),
+                onTap: () {
+                  if (e.pageNumber == 0 || e.pageNumber == 1) {
+                    pageNum = e.pageNumber! + 1;
+                  } else {
+                    pageNum = e.pageNumber;
+                  }
+                  // pageNum = e.pageNumber;
+                  box!.put(HiveDbConstains.kuranPageName, pageNum);
+                  Navigator.pushReplacement(
+                      context,
+                      MaterialPageRoute(
+                          builder: (BuildContext context) => super.widget));
+                },
+              );
+            }).toList()
+          : [Text("Yükleniyor")],
+    );
+  }
+
+  ExpansionTile expansionTileJuzler(BuildContext context) {
+    return ExpansionTile(
+      title: const Text("Juzler"),
+      leading: const Icon(Icons.book_online_outlined),
+      children: list.map<ListTile>((e) {
+        return ListTile(
+            title: Text(e.juz.toString() + ".juz"),
+            subtitle: Text("Sayfa : " + e.page.toString()),
+            onTap: () {
+              box!.put(HiveDbConstains.kuranPageName, e.page);
+              Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(
+                      builder: (BuildContext context) => super.widget));
+            });
+      }).toList(),
+    );
   }
 
   PDF get cachedPdfReader => PDF(
@@ -160,14 +171,13 @@ class _KuranState extends State<Kuran> {
         defaultPage: pageNum == null ? 1 : pageNum!,
         onPageChanged: (int? current, int? total) {
           _pageCountController.add('${current! + 1} - $total');
+
           setState(() {
             pageNum = current;
             pageTotalNum = total;
           });
-
-          box!.put("kuranPage", current);
-
-          print(pageNum.toString() + " " + box!.get("kuranPage").toString());
+          box!.put(HiveDbConstains.kuranPageName, current);
+          print(box!.get("kuranPage"));
         },
         onViewCreated: (PDFViewController pdfViewController) async {
           _pdfViewController.complete(pdfViewController);
