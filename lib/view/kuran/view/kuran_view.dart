@@ -30,8 +30,9 @@ class _KuranState extends State<Kuran> {
   int? pageNum;
   int? pageTotalNum;
   List<KuranModel> list = [];
+  SureNameModel? sureModelList;
   final kuranModel = KuranModel();
-  var response;
+  //var response;
 
   @override
   void initState() {
@@ -43,14 +44,19 @@ class _KuranState extends State<Kuran> {
   Future kuranPageInit() async {
     var getrespone =
         await GetPageAPI().getHttp(UrlsConstaine.ACIK_KURAN_URL + "/surahs");
-    var res = getrespone;
-    //print(res[0]["name"]);
-    var result = SureNameModel.fromJson(res["data"][0]);
 
-    print(result.name);
+    //print(res[0]["name"]);
+    var result = await SureNameModel.fromJson(getrespone);
+    setState(() {
+      sureModelList = result;
+    });
+    /* await result.data!.map((e) {
+      print(e.name);
+    } 
+    ).toList();*/
     box = await Hive.openBox("kuranPage");
     list = await kuranModel.juzListCount();
-    pageNum = box!.get("kuranPage");
+    pageNum = await box!.get("kuranPage");
 
     if (pageNum == null) {
       box!.put("kuranPage", 1);
@@ -98,7 +104,7 @@ class _KuranState extends State<Kuran> {
                   vertical: 10.0,
                 )),
                 ExpansionTile(
-                  title: const Text("Süreler"),
+                  title: const Text("Juzler"),
                   leading: const Icon(Icons.book_online_outlined),
                   children: list.map<ListTile>((e) {
                     return ListTile(
@@ -114,6 +120,32 @@ class _KuranState extends State<Kuran> {
                         });
                   }).toList(),
                 ),
+                ExpansionTile(
+                    title: const Text("Süreler"),
+                    leading: Icon(Icons.bookmark),
+                    children:sureModelList !=null ? sureModelList!.data!.map<ListTile>((e) {
+                      return ListTile(
+                        title: Text(e.name!),
+                        subtitle: Text("Sayfa : "+e.pageNumber!.toString()),
+                        // leading: Text(data),
+                        trailing: Text("Ayet Sayısı : "+e.verseCount!.toString()),
+                        onTap: () {
+                          if(e.pageNumber==0 || e.pageNumber==1){
+                           pageNum=e.pageNumber!+1;
+                          }else{
+                            pageNum = e.pageNumber;
+                          }
+                         // pageNum = e.pageNumber;
+                          box!.put("kuranPage", pageNum);
+                          Navigator.pushReplacement(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (BuildContext context) =>
+                                      super.widget));
+                        },
+                      );
+                    }).toList() : [Text("Yükleniyor")],
+                    ),
               ],
             ),
           ),
