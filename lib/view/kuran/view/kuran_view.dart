@@ -7,6 +7,7 @@ import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
 import 'package:kuran/constains/hivedb_constains.dart';
 import 'package:kuran/constains/urls_constains.dart';
+import 'package:kuran/extantions/hivedb.dart';
 import 'package:kuran/services/dio/request.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/view/kuran/consts/constaine.dart';
@@ -35,7 +36,9 @@ class _KuranState extends State<Kuran> {
   List<KuranModel> list = [];
   SureNameModel? sureModelList;
   final kuranModel = KuranModel();
+ 
   //var response;
+
 
   @override
   void initState() {
@@ -43,6 +46,7 @@ class _KuranState extends State<Kuran> {
     super.initState();
     kuranPageInit();
   }
+  
 
   Future kuranPageInit() async {
     var result = await KuranModelView()
@@ -51,7 +55,7 @@ class _KuranState extends State<Kuran> {
       sureModelList = result; //Updete Widgets
     });
 
-    box = await KuranPageHiveBoxes.getOpenKuranPageBox; // Open kuranPage DB
+   
     list = await kuranModel.juzListCount(); //  get Juz List Count
 
     var getpageNum = await KuranModelView().dbController(); // db Control method
@@ -66,6 +70,7 @@ class _KuranState extends State<Kuran> {
   void dispose() {
     // TODO: implement dispose
     super.dispose();
+    Hive.close();
   }
 
   @override
@@ -125,14 +130,15 @@ class _KuranState extends State<Kuran> {
                 subtitle: Text("Sayfa : " + e.pageNumber!.toString()),
                 // leading: Text(data),
                 trailing: Text("Ayet Sayısı : " + e.verseCount!.toString()),
-                onTap: () {
+                onTap: ()async {
                   if (e.pageNumber == 0 || e.pageNumber == 1) {
                     pageNum = e.pageNumber! + 1;
                   } else {
                     pageNum = e.pageNumber;
                   }
                   // pageNum = e.pageNumber;
-                  box!.put(HiveDbConstains.kuranPageName, pageNum);
+                 await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
+                // await box!.put(HiveDbConstains.kuranPageName, pageNum);
                   Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
@@ -152,8 +158,8 @@ class _KuranState extends State<Kuran> {
         return ListTile(
             title: Text(e.juz.toString() + ".juz"),
             subtitle: Text("Sayfa : " + e.page.toString()),
-            onTap: () {
-              box!.put(HiveDbConstains.kuranPageName, e.page);
+            onTap: () async{
+             await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
               Navigator.pushReplacement(
                   context,
                   MaterialPageRoute(
@@ -176,7 +182,7 @@ class _KuranState extends State<Kuran> {
             pageNum = current;
             pageTotalNum = total;
           });
-          box!.put(HiveDbConstains.kuranPageName, current);
+          HiveDb().putBox(HiveDbConstains.kuranPageName, current);
           print(box!.get("kuranPage"));
         },
         onViewCreated: (PDFViewController pdfViewController) async {
