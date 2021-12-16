@@ -16,8 +16,6 @@ class KuranModelView {
     var result;
   Future sureModelListMetod() async {
     
-    
-
    var dir=await getTemporaryDirectory();
 
     File file=await File(dir.path+"/"+fileName);
@@ -37,40 +35,15 @@ class KuranModelView {
         file.writeAsStringSync(jsonEncode(getrespone),flush: true,mode: FileMode.write);
         return result;
    }
-
-
     //print(res[0]["name"]);
    
    // await HiveDb().putBox(HiveDbConstains.SURAHS, getrespone);
-    
-  
-
-  
-   
   }
 
-  Future<int> dbController() async {
-    int? pageNum;
-    var box = await KuranPageHiveBoxes.getOpenKuranPageBox;
-    pageNum = await HiveDb().getBox(HiveDbConstains.kuranPageName); // get Db kuranPage
-    if (pageNum == null) {
-      HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
-
-      return 1;
-    }
-    print(pageNum.toString() + " Bu");
-    return pageNum;
-  }
-
-  Future<bool> dbKeyControl(String key)async{
-
+  Future dbKeyControl(String key)async{
     dynamic dbControl=HiveDb().getBox(key);
-   if(dbControl==null)
-   return false;
-
+   return dbControl!=null?dbControl:null;
    return true;
-      
-
   }
 
 }

@@ -36,9 +36,9 @@ class _KuranState extends State<Kuran> {
   List<KuranModel> list = [];
   SureNameModel? sureModelList;
   final kuranModel = KuranModel();
- 
-  //var response;
+  bool nightMode = false;
 
+  //var response;
 
   @override
   void initState() {
@@ -46,24 +46,19 @@ class _KuranState extends State<Kuran> {
     super.initState();
     kuranPageInit();
   }
-  
 
   Future kuranPageInit() async {
     var result = await KuranModelView()
         .sureModelListMetod(); // get Süre Name And Details
-        
-
-    setState(() {
-      sureModelList = result; //Updete Widgets
-    });
-
-   
     list = await kuranModel.juzListCount(); //  get Juz List Count
-
-    var getpageNum = await KuranModelView().dbController(); // db Control method
-
+    var getpageNum =
+        await KuranModelView().dbKeyControl(HiveDbConstains.kuranPageName) ??
+            0; // db Control method
+    nightMode =
+        await KuranModelView().dbKeyControl(HiveDbConstains.NIGHTMODE) ?? false;
     setState(() {
-      // pageNum = box!.get(HiveDbConstains.kuranPageName);
+      nightMode;
+      sureModelList = result; //Updete Widgets
       pageNum = getpageNum;
     });
   }
@@ -92,11 +87,12 @@ class _KuranState extends State<Kuran> {
   AppBar appBarWidget(BuildContext context) {
     return AppBar(
       //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
-      iconTheme: const IconThemeData(color: Colors.black),
+      iconTheme: IconThemeData(color: !nightMode ? Colors.black : Colors.white),
       backgroundColor: Colors.transparent,
       elevation: 0.0,
       leading: IconButton(
-        icon: const Icon(Icons.arrow_back, color: Colors.black),
+        icon: Icon(Icons.arrow_back,
+            color: !nightMode ? Colors.black : Colors.white),
         onPressed: () => Navigator.of(context).pop(),
       ),
     );
@@ -113,6 +109,20 @@ class _KuranState extends State<Kuran> {
                 padding: EdgeInsets.symmetric(
               vertical: 10.0,
             )),
+            SwitchListTile(
+                value: nightMode,
+                title: Text("Gece Modu "),
+                secondary: Icon(Icons.nightlight),
+                onChanged: (bool? val) {
+                  setState(() {
+                    nightMode = val!;
+                    HiveDb().putBox(HiveDbConstains.NIGHTMODE, nightMode);
+                    Navigator.pushReplacement(
+                        context,
+                        MaterialPageRoute(
+                            builder: (BuildContext context) => super.widget));
+                  });
+                }),
             expansionTileJuzler(context),
             expansionTileSureler(context),
           ],
@@ -123,7 +133,7 @@ class _KuranState extends State<Kuran> {
 
   ExpansionTile expansionTileSureler(BuildContext context) {
     return ExpansionTile(
-      title: const Text("Süreler"),
+      title: const Text("Sureler"),
       leading: Icon(Icons.bookmark),
       children: sureModelList != null
           ? sureModelList!.data!.map<ListTile>((e) {
@@ -132,15 +142,15 @@ class _KuranState extends State<Kuran> {
                 subtitle: Text("Sayfa : " + e.pageNumber!.toString()),
                 // leading: Text(data),
                 trailing: Text("Ayet Sayısı : " + e.verseCount!.toString()),
-                onTap: ()async {
+                onTap: () async {
                   if (e.pageNumber == 0 || e.pageNumber == 1) {
                     pageNum = e.pageNumber! + 1;
                   } else {
                     pageNum = e.pageNumber;
                   }
                   // pageNum = e.pageNumber;
-                 await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
-                // await box!.put(HiveDbConstains.kuranPageName, pageNum);
+                  await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
+                  // await box!.put(HiveDbConstains.kuranPageName, pageNum);
                   Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
@@ -154,14 +164,14 @@ class _KuranState extends State<Kuran> {
 
   ExpansionTile expansionTileJuzler(BuildContext context) {
     return ExpansionTile(
-      title: const Text("Juzler"),
+      title: const Text("Cüzler"),
       leading: const Icon(Icons.book_online_outlined),
       children: list.map<ListTile>((e) {
         return ListTile(
-            title: Text(e.juz.toString() + ".juz"),
+            title: Text(e.juz.toString() + ". Cüz"),
             subtitle: Text("Sayfa : " + e.page.toString()),
-            onTap: () async{
-             await HiveDb().putBox(HiveDbConstains.kuranPageName, e.page);
+            onTap: () async {
+              await HiveDb().putBox(HiveDbConstains.kuranPageName, e.page);
               Navigator.pushReplacement(
                   context,
                   MaterialPageRoute(
@@ -173,7 +183,7 @@ class _KuranState extends State<Kuran> {
 
   PDF get cachedPdfReader => PDF(
         swipeHorizontal: false,
-        nightMode: true,
+        nightMode: nightMode,
         autoSpacing: true,
         pageFling: true,
         defaultPage: pageNum == null ? 1 : pageNum!,
