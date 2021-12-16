@@ -10,7 +10,6 @@ class HiveDb {
 
   Future getBox(String boxName)async{
     box=await openBox(boxName);
-    
    return box!.get(boxName);
   }
 

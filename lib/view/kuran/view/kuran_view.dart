@@ -51,6 +51,8 @@ class _KuranState extends State<Kuran> {
   Future kuranPageInit() async {
     var result = await KuranModelView()
         .sureModelListMetod(); // get Süre Name And Details
+        
+
     setState(() {
       sureModelList = result; //Updete Widgets
     });
@@ -159,7 +161,7 @@ class _KuranState extends State<Kuran> {
             title: Text(e.juz.toString() + ".juz"),
             subtitle: Text("Sayfa : " + e.page.toString()),
             onTap: () async{
-             await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
+             await HiveDb().putBox(HiveDbConstains.kuranPageName, e.page);
               Navigator.pushReplacement(
                   context,
                   MaterialPageRoute(
@@ -171,7 +173,7 @@ class _KuranState extends State<Kuran> {
 
   PDF get cachedPdfReader => PDF(
         swipeHorizontal: false,
-        nightMode: false,
+        nightMode: true,
         autoSpacing: true,
         pageFling: true,
         defaultPage: pageNum == null ? 1 : pageNum!,
