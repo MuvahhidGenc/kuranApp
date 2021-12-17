@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/test/view/audio_rest_view.dart';
 import 'test/model/user_model.dart';
-import 'test/view/hivetest_view.dart';
-import 'test/view/testpdf_view.dart';
 import 'view/home/home_view.dart';
-import 'test/view/testpdfcached_view.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'view/kuran/view/kuran_view.dart';
@@ -34,6 +32,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (contex) =>const HomeView(),
         'kuran':(context)=>const Kuran(),
+        'audioTest':(context)=> AudioTestView(),
       },
     );
   }

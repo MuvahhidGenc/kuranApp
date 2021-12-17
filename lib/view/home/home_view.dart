@@ -35,7 +35,15 @@ class _HomeViewState extends State<HomeView> {
                 },
                 icon: Icon(Icons.book),
                 label: Text("Kuran"),
-              )
+              ),
+               SizedBox(height: 10,),
+              TextButton.icon(
+                onPressed: () {
+                  Navigator.of(context).pushNamed("audioTest");
+                },
+                icon: Icon(Icons.book),
+                label: Text("Kuran"),
+              ),
             ],
           ),
         ),
