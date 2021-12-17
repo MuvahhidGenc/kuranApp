@@ -1,5 +1,4 @@
 import 'package:hive/hive.dart';
-import 'package:kuran/view/kuran/modelview/hiveboxes.dart';
 
 class HiveDb {
   Box? box;

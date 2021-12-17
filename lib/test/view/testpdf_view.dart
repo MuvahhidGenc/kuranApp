@@ -1,9 +1,7 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
-import 'package:kuran/services/dio/pdfdownloadlinks_constains.dart';
 import 'package:path_provider/path_provider.dart';
+import 'package:kuran/globals/constant/urls_constant.dart';
 
 class TestPdfView extends StatefulWidget {
   const TestPdfView({ Key? key }) : super(key: key);
@@ -34,7 +32,7 @@ String? path;
       appBar: AppBar(
         title: Text("Arapça Kur'an"),
       ),
-      body:const PDF().cachedFromUrl(PdfDownloadLinks.mushafStyle1),
+      body:const PDF().cachedFromUrl(UrlsConstant.PDF_KURAN_URL),
       
     );
   }

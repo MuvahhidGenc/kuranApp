@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kuran/test/model/user_model.dart';
+import '../model/user_model.dart';
 
 class UsersDialog extends StatefulWidget {
   final User? user;

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:kuran/test/model/user_model.dart';
-import 'package:kuran/test/view/hivetest_view.dart';
-import 'package:kuran/test/view/testpdf_view.dart';
-import 'package:kuran/view/home/home_view.dart';
-import 'package:kuran/test/view/testpdfcached_view.dart';
+import 'test/model/user_model.dart';
+import 'test/view/hivetest_view.dart';
+import 'test/view/testpdf_view.dart';
+import 'view/home/home_view.dart';
+import 'test/view/testpdfcached_view.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:kuran/view/kuran/view/kuran_view.dart';
+import 'view/kuran/view/kuran_view.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

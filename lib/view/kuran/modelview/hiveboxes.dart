@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-import 'package:kuran/constains/hivedb_constains.dart';
+import '../../../constains/hivedb_constains.dart';
 
 class KuranPageHiveBoxes {
   static Future<Box> get getOpenKuranPageBox async =>

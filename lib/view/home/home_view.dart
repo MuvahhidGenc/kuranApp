@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kuran/constains/apptitles_constains.dart';
-import 'package:kuran/extantions/extanstion.dart';
-
+import 'package:kuran/globals/constant/apptitles_constant.dart';
+import 'package:kuran/globals/extantions/extanstion.dart';
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);
 
@@ -14,7 +13,7 @@ class _HomeViewState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text(AppTitlesConstains.MAIN_VIEW_TITLE),
+        title: const Text(AppTitlesConstant.MAIN_VIEW_TITLE),
       ),
       body: Center(
         child: Padding(

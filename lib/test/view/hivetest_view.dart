@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'package:kuran/test/model/user_model.dart';
-import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/test/widgets/usersdialog.dart';
+import '../model/user_model.dart';
+import '../snippet/hive_boxes.dart';
+import '../widgets/usersdialog.dart';
 
 class HiveNoSql extends StatefulWidget {
   const HiveNoSql({Key? key}) : super(key: key);

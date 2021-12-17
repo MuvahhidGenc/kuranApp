@@ -1,21 +1,13 @@
 import 'dart:async';
-import 'dart:convert';
-
-import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
-import 'package:kuran/constains/hivedb_constains.dart';
-import 'package:kuran/constains/urls_constains.dart';
-import 'package:kuran/extantions/hivedb.dart';
-import 'package:kuran/services/dio/request.dart';
-import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/view/kuran/consts/constaine.dart';
-import 'package:kuran/view/kuran/model/kuran_model.dart';
-import 'package:kuran/view/kuran/model/sure_name_model.dart';
-import 'package:kuran/view/kuran/modelview/hiveboxes.dart';
-import 'package:kuran/view/kuran/modelview/kuran_model_view.dart';
-import 'package:kuran/view/widgets/listtile_widget.dart';
+import 'package:kuran/globals/constant/hivedb_constant.dart';
+import 'package:kuran/globals/extantions/hivedb.dart';
+import '../../../globals/constant/urls_constant.dart';
+import '../model/kuran_model.dart';
+import '../model/sure_name_model.dart';
+import '../modelview/kuran_model_view.dart';
 
 class Kuran extends StatefulWidget {
   const Kuran({Key? key}) : super(key: key);
@@ -30,7 +22,6 @@ class _KuranState extends State<Kuran> {
 
   final StreamController<String> _pageCountController =
       StreamController<String>();
-  Box<dynamic>? box;
   int? pageNum;
   int? pageTotalNum;
   List<KuranModel> list = [];
@@ -52,10 +43,10 @@ class _KuranState extends State<Kuran> {
         .sureModelListMetod(); // get Süre Name And Details
     list = await kuranModel.juzListCount(); //  get Juz List Count
     var getpageNum =
-        await KuranModelView().dbKeyControl(HiveDbConstains.kuranPageName) ??
+        await KuranModelView().dbKeyControl(HiveDbConstant.kuranPageName) ??
             0; // db Control method
     nightMode =
-        await KuranModelView().dbKeyControl(HiveDbConstains.NIGHTMODE) ?? false;
+        await KuranModelView().dbKeyControl(HiveDbConstant.NIGHTMODE) ?? false;
     setState(() {
       nightMode;
       sureModelList = result; //Updete Widgets
@@ -76,8 +67,8 @@ class _KuranState extends State<Kuran> {
         extendBodyBehindAppBar: true,
         appBar: appBarWidget(context),
         body: pageNum != null
-            ? cachedPdfReader.cachedFromUrl(Constaine.url)
-            : Center(
+            ? cachedPdfReader.cachedFromUrl(UrlsConstant.PDF_KURAN_URL)
+            :const Center(
                 child: Text("Yükleniyor"),
               ),
         floatingActionButton: Text("$pageNum / $pageTotalNum"),
@@ -111,12 +102,12 @@ class _KuranState extends State<Kuran> {
             )),
             SwitchListTile(
                 value: nightMode,
-                title: Text("Gece Modu "),
+                title:const Text("Gece Modu "),
                 secondary: Icon(Icons.nightlight),
                 onChanged: (bool? val) {
                   setState(() {
                     nightMode = val!;
-                    HiveDb().putBox(HiveDbConstains.NIGHTMODE, nightMode);
+                    HiveDb().putBox(HiveDbConstant.NIGHTMODE, nightMode);
                     Navigator.pushReplacement(
                         context,
                         MaterialPageRoute(
@@ -149,8 +140,8 @@ class _KuranState extends State<Kuran> {
                     pageNum = e.pageNumber;
                   }
                   // pageNum = e.pageNumber;
-                  await HiveDb().putBox(HiveDbConstains.kuranPageName, pageNum);
-                  // await box!.put(HiveDbConstains.kuranPageName, pageNum);
+                  await HiveDb().putBox(HiveDbConstant.kuranPageName, pageNum);
+                  // await box!.put(HiveDbConstant.kuranPageName, pageNum);
                   Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
@@ -158,7 +149,7 @@ class _KuranState extends State<Kuran> {
                 },
               );
             }).toList()
-          : [Text("Yükleniyor")],
+          : [const Text("Yükleniyor")],
     );
   }
 
@@ -171,7 +162,7 @@ class _KuranState extends State<Kuran> {
             title: Text(e.juz.toString() + ". Cüz"),
             subtitle: Text("Sayfa : " + e.page.toString()),
             onTap: () async {
-              await HiveDb().putBox(HiveDbConstains.kuranPageName, e.page);
+              await HiveDb().putBox(HiveDbConstant.kuranPageName, e.page);
               Navigator.pushReplacement(
                   context,
                   MaterialPageRoute(
@@ -194,8 +185,7 @@ class _KuranState extends State<Kuran> {
             pageNum = current;
             pageTotalNum = total;
           });
-          HiveDb().putBox(HiveDbConstains.kuranPageName, current);
-          print(box!.get("kuranPage"));
+          HiveDb().putBox(HiveDbConstant.kuranPageName, current);
         },
         onViewCreated: (PDFViewController pdfViewController) async {
           _pdfViewController.complete(pdfViewController);

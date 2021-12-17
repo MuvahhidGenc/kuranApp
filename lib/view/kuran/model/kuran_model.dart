@@ -1,4 +1,4 @@
-import 'package:kuran/view/kuran/view/kuran_view.dart';
+import '../view/kuran_view.dart';
 
 class KuranModel {
   int? juz;
