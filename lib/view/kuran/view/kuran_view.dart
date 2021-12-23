@@ -4,6 +4,7 @@ import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
+import 'package:kuran/globals/widgets/appbar_widget.dart';
 import '../../../globals/constant/urls_constant.dart';
 import '../model/kuran_model.dart';
 import '../model/sure_name_model.dart';
@@ -65,28 +66,14 @@ class _KuranState extends State<Kuran> {
   Widget build(BuildContext context) {
     return Scaffold(
         extendBodyBehindAppBar: true,
-        appBar: appBarWidget(context),
+        appBar: appBarWidget(context: context, nightMode: nightMode),
         body: pageNum != null
             ? cachedPdfReader.cachedFromUrl(UrlsConstant.PDF_KURAN_URL)
-            :const Center(
+            : const Center(
                 child: Text("Yükleniyor"),
               ),
         floatingActionButton: Text("$pageNum / $pageTotalNum"),
         endDrawer: drawerList(context));
-  }
-
-  AppBar appBarWidget(BuildContext context) {
-    return AppBar(
-      //title: Text("Kuran Oku",style: TextStyle(color: Colors.black),),
-      iconTheme: IconThemeData(color: !nightMode ? Colors.black : Colors.white),
-      backgroundColor: Colors.transparent,
-      elevation: 0.0,
-      leading: IconButton(
-        icon: Icon(Icons.arrow_back,
-            color: !nightMode ? Colors.black : Colors.white),
-        onPressed: () => Navigator.of(context).pop(),
-      ),
-    );
   }
 
   Drawer drawerList(BuildContext context) {
@@ -102,7 +89,7 @@ class _KuranState extends State<Kuran> {
             )),
             SwitchListTile(
                 value: nightMode,
-                title:const Text("Gece Modu "),
+                title: const Text("Gece Modu "),
                 secondary: Icon(Icons.nightlight),
                 onChanged: (bool? val) {
                   setState(() {

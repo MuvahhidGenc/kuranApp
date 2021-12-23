@@ -9,9 +9,9 @@ import 'view/kuran/view/kuran_view.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter(); // Hive Database Başlatıldı
-  Hive.registerAdapter(UserAdapter());
+  // Hive.registerAdapter(UserAdapter());
 
-  await Hive.openBox<User>("users");
+  // await Hive.openBox<User>("users");
   await Hive.openBox("kuranPage");
   runApp(const MyApp());
 }
@@ -30,9 +30,9 @@ class MyApp extends StatelessWidget {
       ),
       initialRoute: '/',
       routes: {
-        '/': (contex) =>const HomeView(),
-        'kuran':(context)=>const Kuran(),
-        'audioTest':(context)=> AudioTestView(),
+        '/': (contex) => const HomeView(),
+        'kuran': (context) => const Kuran(),
+        'audioTest': (context) => AudioTestView(),
       },
     );
   }

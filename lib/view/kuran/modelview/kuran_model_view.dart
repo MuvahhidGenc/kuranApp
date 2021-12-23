@@ -8,39 +8,38 @@ import 'package:kuran/globals/extantions/hivedb.dart';
 
 class KuranModelView {
   late bool dbControl;
-  String fileName="surelist.json";
-   var getrespone;
-    var result;
+  String fileName = "surelist.json";
+  var getrespone;
+  var result;
   Future sureModelListMetod() async {
-    
-   var dir=await getTemporaryDirectory();
+    var dir = await getTemporaryDirectory();
 
-    File file=await File(dir.path+"/"+fileName);
+    File file = await File(dir.path + "/" + fileName);
 
-    if(file.existsSync()){
-      dynamic data=await file.readAsStringSync();
-      data=jsonDecode(data);
+    if (file.existsSync()) {
+      dynamic data = await file.readAsStringSync();
+      data = jsonDecode(data);
       // getrespone=json.decode(data);
-        result =await SureNameModel.fromJson(data);
-       return result;
-    }else{
-       getrespone =
-        await GetPageAPI().getHttp(UrlsConstant.ACIK_KURAN_URL + "/surahs");
-       // var res=json.decode(getrespone);
-        //  String veri=res[0] as String;
-         result = await SureNameModel.fromJson(getrespone);
-        file.writeAsStringSync(jsonEncode(getrespone),flush: true,mode: FileMode.write);
-        return result;
-   }
+      result = await SureNameModel.fromJson(data);
+      return result;
+    } else {
+      getrespone =
+          await GetPageAPI().getHttp(UrlsConstant.ACIK_KURAN_URL + "/surahs");
+      // var res=json.decode(getrespone);
+      //  String veri=res[0] as String;
+      result = await SureNameModel.fromJson(getrespone);
+      file.writeAsStringSync(jsonEncode(getrespone),
+          flush: true, mode: FileMode.write);
+      return result;
+    }
     //print(res[0]["name"]);
-   
-   // await HiveDb().putBox(HiveDbConstains.SURAHS, getrespone);
+
+    // await HiveDb().putBox(HiveDbConstains.SURAHS, getrespone);
   }
 
-  Future dbKeyControl(String key)async{
-    dynamic dbControl=HiveDb().getBox(key);
-   return dbControl!=null?dbControl:null;
-   return true;
+  Future dbKeyControl(String key) async {
+    dynamic dbControl = HiveDb().getBox(key);
+    return dbControl != null ? dbControl : null;
+    return true;
   }
-
 }
