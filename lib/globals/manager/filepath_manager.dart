@@ -7,4 +7,14 @@ class FilePathManager {
     var file = File("${dir.path}/$path");
     return file.existsSync();
   }
+
+  Future<String> getFilePath(String path) async {
+    var dir = await getApplicationDocumentsDirectory();
+    var file = File("${dir.path}/$path");
+    if (file.existsSync()) {
+      return file.path;
+    } else {
+      return "";
+    }
+  }
 }

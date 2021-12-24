@@ -6,24 +6,23 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/test/model/hafizlar_audio_model.dart';
-import 'package:kuran/test/viewmodel/kariler_viewmodel.dart';
+import 'package:kuran/view/karikuranmp3/model/kari_kuran_mp3_model.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:kuran/view/kuran/modelview/kuran_model_view.dart';
 
-class AudioTestView extends StatefulWidget {
-  const AudioTestView({Key? key}) : super(key: key);
+class KariKuranMp3View extends StatefulWidget {
+  const KariKuranMp3View({Key? key}) : super(key: key);
 
   @override
-  _AudioTestViewState createState() => _AudioTestViewState();
+  _KariKuranMp3ViewState createState() => _KariKuranMp3ViewState();
 }
 
-class _AudioTestViewState extends State<AudioTestView> {
+class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState _audioPlayerState = PlayerState.STOPPED;
   Map<String, bool> audioPathState = Map<String, bool>();
 
-  Hafizlar? hafizlar;
+  KariKuranMp3Model? hafizlar;
   String fileName = "hafizlar.json";
   String sureListName = "surelist.json";
   var _sureNameModel = SureNameModel();
@@ -131,7 +130,7 @@ class _AudioTestViewState extends State<AudioTestView> {
     String? path = DirectoryNameEnum(DirectoryName.kiraat).getjsonPath;
     dynamic getHafizlar = await NetworkManager().saveStorage(
         url: UrlsConstant.KURAN_MP3_URL, folder: path, fileName: fileName);
-    hafizlar = Hafizlar.fromJson(jsonDecode(jsonDecode(getHafizlar)));
+    hafizlar = KariKuranMp3Model.fromJson(jsonDecode(jsonDecode(getHafizlar)));
 
 //Get List Surah Names
     var getSureName = await NetworkManager().saveStorage(

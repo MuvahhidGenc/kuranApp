@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/apptitles_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);
 
@@ -28,7 +29,9 @@ class _HomeViewState extends State<HomeView> {
                   style: context.theme.textTheme.headline5,
                 ),
               ),
-              SizedBox(height: 10,),
+              SizedBox(
+                height: 10,
+              ),
               TextButton.icon(
                 onPressed: () {
                   Navigator.of(context).pushNamed("kuran");
@@ -36,10 +39,12 @@ class _HomeViewState extends State<HomeView> {
                 icon: Icon(Icons.book),
                 label: Text("Kuran"),
               ),
-               SizedBox(height: 10,),
+              SizedBox(
+                height: 10,
+              ),
               TextButton.icon(
                 onPressed: () {
-                  Navigator.of(context).pushNamed("audioTest");
+                  Navigator.of(context).pushNamed("kuranMp3");
                 },
                 icon: Icon(Icons.book),
                 label: Text("Kuran"),

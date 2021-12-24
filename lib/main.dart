@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/test/view/audio_rest_view.dart';
+import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
 import 'test/model/user_model.dart';
 import 'view/home/home_view.dart';
 import 'package:hive/hive.dart';
@@ -26,13 +27,24 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'kuran',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        brightness: Brightness.light,
+        primarySwatch: Colors.brown,
+        primaryColor: Colors.brown,
+        scaffoldBackgroundColor: Colors.brown[100],
+        listTileTheme: ListTileThemeData(
+            tileColor: Colors.brown[300],
+            textColor: Colors.brown[50],
+            iconColor: Colors.brown[50]),
+        drawerTheme: DrawerThemeData(backgroundColor: Colors.brown[100]),
+        iconTheme: IconThemeData(color: Colors.brown),
+        //colorScheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness)
+        //accentIconTheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness),
       ),
       initialRoute: '/',
       routes: {
         '/': (contex) => const HomeView(),
         'kuran': (context) => const Kuran(),
-        'audioTest': (context) => AudioTestView(),
+        'kuranMp3': (context) => KariKuranMp3View(),
       },
     );
   }
