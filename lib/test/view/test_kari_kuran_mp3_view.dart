@@ -6,42 +6,44 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/test/model/hafizlar_audio_model.dart';
-import 'package:kuran/test/viewmodel/kariler_viewmodel.dart';
+import 'package:kuran/test/viewmodel/karikuranmp3_modelview.dart';
+import 'package:kuran/view/karikuranmp3/model/kari_kuran_mp3_model.dart';
+import 'package:kuran/view/karikuranmp3/modelview/karikuranmp3_modelview.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
-import 'package:kuran/view/kuran/modelview/kuran_model_view.dart';
 
-class AudioTestView extends StatefulWidget {
-  const AudioTestView({Key? key}) : super(key: key);
+class TestKariKuranMp3View extends StatefulWidget {
+  const TestKariKuranMp3View({Key? key}) : super(key: key);
 
   @override
-  _AudioTestViewState createState() => _AudioTestViewState();
+  _TestKariKuranMp3ViewState createState() => _TestKariKuranMp3ViewState();
 }
 
-class _AudioTestViewState extends State<AudioTestView> {
+class _TestKariKuranMp3ViewState extends State<TestKariKuranMp3View> {
+  final _kariKuranMp3ModelView = TestKariKuranMp3ModelView();
+
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState _audioPlayerState = PlayerState.STOPPED;
   Map<String, bool> audioPathState = Map<String, bool>();
 
-  Hafizlar? hafizlar;
-  String fileName = "hafizlar.json";
-  String sureListName = "surelist.json";
-  var _sureNameModel = SureNameModel();
+  // KariKuranMp3Model? hafizlar;
+  // String fileName = "hafizlar.json";
+  // String sureListName = "surelist.json";
+  // var _sureNameModel = SureNameModel();
 
-  Map<String, Widget> pathStateWidget =
-      Map<String, Widget>(); //List Tile Path State Control And
+  // Map<String, Widget> pathStateWidget =
+  //     Map<String, Widget>(); //List Tile Path State Control And
 
-  Map<String, dynamic> kari = Map<String, dynamic>(); //Selected Kari Data
-  //Kari Hive Keys
-  Map<String, dynamic> hiveKey = {
-    "kariId": "kariId",
-    "kariName": "kariName",
-    "kariUrl": "kariUrl",
-    "kariSurahs": "kariSurahs"
-  };
+  // Map<String, dynamic> kari = Map<String, dynamic>(); //Selected Kari Data
+  // //Kari Hive Keys
+  // Map<String, dynamic> hiveKey = {
+  //   "kariId": "kariId",
+  //   "kariName": "kariName",
+  //   "kariUrl": "kariUrl",
+  //   "kariSurahs": "kariSurahs"
+  // };
 
   List<dynamic> kariSurahlist = List<int>.empty(growable: true);
-  Map<int, bool> playerControl = Map<int, bool>();
+  //Map<int, bool> playerControl = Map<int, bool>();
   IconData? rightIcon;
   IconData? buttomSheetPlayIcon;
   int say = 0;
@@ -54,17 +56,17 @@ class _AudioTestViewState extends State<AudioTestView> {
   void dispose() {
     // TODO: implement dispose
     super.dispose();
-    audioPlayer.dispose();
   }
 
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
-    initAsyc();
+    _kariKuranMp3ModelView.initAsyc();
+    audioPlayerStream();
   }
 
-  Future initAsyc() async {
+  /*Future initAsyc() async {
     dynamic v = KuranModelView().dbKeyControl(hiveKey["kariUrl"]);
     if (v == null) {
       HiveDb().putBox(hiveKey["kariUrl"], "https://server7.mp3quran.net/basit");
@@ -83,21 +85,23 @@ class _AudioTestViewState extends State<AudioTestView> {
         // kariName!.toLowerCase().trim();
       });
     }
+    // _kariKuranMp3ModelView.downloadHafizlar(kari);
     downloadHafizlar();
     audioPlayerStream();
-  }
+  }*/
 
   audioPlayerStream() {
     audioPlayer.onDurationChanged.listen((Duration d) {
-      print('Max duration: $d');
+      //print('Max duration: $d');
       setState(() => duration = d);
     });
 
+    var posControl = false;
     audioPlayer.onAudioPositionChanged.listen((Duration p) {
-      print('Max duration: ${p.inMinutes}:${p.inSeconds}' +
-          " Duration : ${duration.inMinutes}: ${duration.inSeconds}");
-      pos = position.inSeconds.toDouble();
-      if (position.inSeconds.toDouble() >= duration.inSeconds - 1) {
+      /*print('Max duration: ${p.inMinutes}:${p.inSeconds}' +
+          " Duration : ${duration.inMinutes}: ${duration.inSeconds}");*/
+      if (p.inSeconds == duration.inSeconds - 1 ||
+          p.inSeconds == duration.inSeconds) {
         audioNextAndPrevious(progress: "next");
       }
       setState(() {
@@ -114,9 +118,10 @@ class _AudioTestViewState extends State<AudioTestView> {
     });
   }
 
-  Future kariUpdate() async {
+  /* Future kariUpdate() async {
     for (var i = 0; i < _sureNameModel.data!.length; i++) {
-      String surestring = toStringMp3(i: i, url: false);
+      String surestring =
+          _kariKuranMp3ModelView.toStringMp3(i: i, url: false, kari: kari);
       bool pathState = await FilePathManager().getFilePathControl(surestring);
 
       if (pathState != true) {
@@ -124,14 +129,14 @@ class _AudioTestViewState extends State<AudioTestView> {
       }
       audioPathState[surestring] = pathState;
     }
-  }
+  }*/
 
-  Future downloadHafizlar() async {
+  /* Future downloadHafizlar() async {
     // Get Kari
     String? path = DirectoryNameEnum(DirectoryName.kiraat).getjsonPath;
     dynamic getHafizlar = await NetworkManager().saveStorage(
         url: UrlsConstant.KURAN_MP3_URL, folder: path, fileName: fileName);
-    hafizlar = Hafizlar.fromJson(jsonDecode(jsonDecode(getHafizlar)));
+    hafizlar = KariKuranMp3Model.fromJson(jsonDecode(jsonDecode(getHafizlar)));
 
 //Get List Surah Names
     var getSureName = await NetworkManager().saveStorage(
@@ -155,37 +160,22 @@ class _AudioTestViewState extends State<AudioTestView> {
       hafizlar;
       _sureNameModel;
     });
-  }
-
-  String toStringMp3({int? i, bool? url}) {
-    String surestring = (i! + 1).toString();
-    if (surestring.length == 1) {
-      surestring = "00" + surestring + ".mp3";
-    } else if (surestring.length == 2) {
-      surestring = "0" + surestring + ".mp3";
-    } else {
-      surestring += ".mp3";
-    }
-    if (url!) {
-      return surestring;
-    } else {
-      // return kariName! + surestring;
-      return kari["name"]! + surestring;
-    }
-  }
+  }*/
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text(kari["name"] ?? "")),
+        title:
+            Center(child: Text(_kariKuranMp3ModelView.getKari["name"] ?? "")),
       ),
       endDrawer: drawer(),
       body: Column(
         children: [
           Expanded(
             flex: 7,
-            child: _sureNameModel.data != null && kariSurahlist != null
+            child: _kariKuranMp3ModelView.getsuraNameModel.data != null &&
+                    kariSurahlist != null
                 ? sureListViewBuilder()
                 : Center(child: Text("Yükleniyor")),
           ),
@@ -232,7 +222,7 @@ class _AudioTestViewState extends State<AudioTestView> {
       child: Column(
         children: [
           Text(
-              "${kari['surahName'] != null ? "Sure : " + kari["surahName"].toUpperCase() : ''}",
+              "${_kariKuranMp3ModelView.getKari['surahName'] != null ? "Sure : " + _kariKuranMp3ModelView.getKari["surahName"].toUpperCase() : ''}",
               style: TextStyle(
                 fontSize: 20,
               )),
@@ -264,14 +254,12 @@ class _AudioTestViewState extends State<AudioTestView> {
                                 return;
                               }
                               final positions = val;
-                              // if (positions > duration.inSeconds.toDouble())
+                              // if (positions < duration.inSeconds.toDouble())
                               audioPlayer
                                   .seek(Duration(seconds: positions.round()));
-
-                              // position.inSeconds = pos.;
                             })),
                     Text(
-                        "${duration.inMinutes}:${duration.inSeconds.remainder(60) - 1}"),
+                        "${duration.inMinutes}:${duration.inSeconds.remainder(60)}"),
                   ],
                 ),
               ],
@@ -303,14 +291,22 @@ class _AudioTestViewState extends State<AudioTestView> {
                           if (_audioPlayerState == PlayerState.PLAYING) {
                             audioPlayer.pause();
                             buttomSheetPlayIcon = Icons.play_circle_fill;
-                            playerControl[kari["surah"] - 1] = false;
+                            _kariKuranMp3ModelView.getPlayerControl[
+                                _kariKuranMp3ModelView.getKari["surah"] -
+                                    1] = false;
                           } else if (_audioPlayerState == PlayerState.PAUSED) {
                             audioPlayer.resume();
                             buttomSheetPlayIcon = Icons.pause_circle_filled;
-                            playerControl[kari["surah"] - 1] = true;
-                          } else if (kari["path"] != null) {
-                            playerControl[kari["surah"] - 1] = true;
-                            audioPlayer.play(kari["path"]!);
+                            _kariKuranMp3ModelView.getPlayerControl[
+                                _kariKuranMp3ModelView.getKari["surah"] -
+                                    1] = true;
+                          } else if (_kariKuranMp3ModelView.getKari["path"] !=
+                              null) {
+                            _kariKuranMp3ModelView.getPlayerControl[
+                                _kariKuranMp3ModelView.getKari["surah"] -
+                                    1] = true;
+                            audioPlayer
+                                .play(_kariKuranMp3ModelView.getKari["path"]!);
                           }
 
                           setState(() {
@@ -343,45 +339,52 @@ class _AudioTestViewState extends State<AudioTestView> {
   }
 
   Future<void> audioNextAndPrevious({String? progress}) async {
-    int getIndex = getKariSurahListIndex();
+    int getIndex = _kariKuranMp3ModelView
+        .getKariSurahListIndex(_kariKuranMp3ModelView.getKari);
     var firstIndex = getIndex;
     progress == "next" ? getIndex += 1 : getIndex -= 1;
-    if (kari["surah"] != null && getIndex >= 0) {
-      String sureToString =
-          toStringMp3(i: kariSurahlist[getIndex] - 1, url: false);
-      String webServisUrl =
-          toStringMp3(i: kariSurahlist[getIndex] - 1, url: true);
+    if (_kariKuranMp3ModelView.getKari["surah"] != null && getIndex >= 0) {
+      String sureToString = _kariKuranMp3ModelView.toStringMp3(
+          i: kariSurahlist[getIndex] - 1,
+          url: false,
+          kari: _kariKuranMp3ModelView.getKari);
+      String webServisUrl = _kariKuranMp3ModelView.toStringMp3(
+          i: kariSurahlist[getIndex] - 1,
+          url: true,
+          kari: _kariKuranMp3ModelView.getKari);
 
       print(kariSurahlist[getIndex]);
 
       var isPath = await FilePathManager().getFilePath(sureToString);
 
       if (isPath != "") {
-        if (playerControl[firstIndex] == true) {
-          playerControl[firstIndex] = false;
-          audioPlayer.stop();
-        }
+        _kariKuranMp3ModelView.getKari["surah"] = kariSurahlist[getIndex];
+        _kariKuranMp3ModelView.getPlayerControl.forEach((key, value) {
+          _kariKuranMp3ModelView.getPlayerControl[key] = false;
+        });
+
+        audioPlayer.stop();
         buttomSheetPlayIcon = Icons.pause_circle_filled;
         audioPlayer.play(isPath);
-        // playerControl[getIndex-1] = false;
-        playerControl[getIndex] = true;
-        kari["surah"] = kariSurahlist[getIndex];
-        kari["surahName"] = _sureNameModel.data![kari["surah"] - 1].name;
+        _kariKuranMp3ModelView
+                .getPlayerControl[_kariKuranMp3ModelView.getKari["surah"] - 1] =
+            true;
+
+        _kariKuranMp3ModelView.getKari["surahName"] = _kariKuranMp3ModelView
+            .getsuraNameModel
+            .data![_kariKuranMp3ModelView.getKari["surah"] - 1]
+            .name;
       } else {
-        // if (playerControl[firstIndex] == true) {
-        //   playerControl[firstIndex] = false;
-        //   audioPlayer.stop();
-        // }
         await downloadAndAudioPlaySettings(
             sureToString, webServisUrl, getIndex);
       }
     }
   }
 
-  int getKariSurahListIndex() {
+  /*int getKariSurahListIndex() {
     var getIndex = kariSurahlist.indexOf(kari["surah"]);
     return getIndex;
-  }
+  }*/
 
   Drawer drawer() {
     return Drawer(
@@ -398,26 +401,33 @@ class _AudioTestViewState extends State<AudioTestView> {
     return ExpansionTile(
       leading: Icon(Icons.person),
       title: Text("KARİ'LER"),
-      children: hafizlar != null
-          ? hafizlar!.reciters!.map<Card>((e) {
+      children: _kariKuranMp3ModelView.getHafizlar != null
+          ? _kariKuranMp3ModelView.getHafizlar.reciters.map<Card>((e) {
               return Card(
                 child: ListTile(
                   leading: Icon(Icons.mic_external_on),
                   title: Text(e.name!),
                   trailing: Text("Sure : ${e.count}"),
                   onTap: () async {
-                    HiveDb().putBox(hiveKey["kariId"], e.id);
-                    HiveDb().putBox(hiveKey["kariUrl"], e.server);
-                    HiveDb().putBox(hiveKey["kariName"], e.name);
-                    HiveDb().putBox(hiveKey["kariSurahs"], e.suras);
-                    kari["surahs"] = e.suras;
-                    kari["name"] = e.name;
-                    await kariUpdate();
+                    HiveDb()
+                        .putBox(_kariKuranMp3ModelView.hiveKey["kariId"], e.id);
+                    HiveDb().putBox(
+                        _kariKuranMp3ModelView.hiveKey["kariUrl"], e.server);
+                    HiveDb().putBox(
+                        _kariKuranMp3ModelView.hiveKey["kariName"], e.name);
+                    HiveDb().putBox(
+                        _kariKuranMp3ModelView.hiveKey["kariSurahs"], e.suras);
+                    _kariKuranMp3ModelView.getKari["surahs"] = e.suras;
+                    _kariKuranMp3ModelView.getKari["name"] = e.name;
+                    await _kariKuranMp3ModelView.kariUpdate();
                     setState(() {
-                      kari["name"].toString().toLowerCase().trim();
-                      kari["surahs"];
+                      _kariKuranMp3ModelView.getKari["name"]
+                          .toString()
+                          .toLowerCase()
+                          .trim();
+                      _kariKuranMp3ModelView.getKari["surahs"];
                       audioPathState;
-                      pathStateWidget;
+                      _kariKuranMp3ModelView.getPathStateWidget;
                     });
                     // print(e.suras);
 
@@ -435,24 +445,27 @@ class _AudioTestViewState extends State<AudioTestView> {
     return Container(
       child: ListView.builder(
           shrinkWrap: true,
-          itemCount: _sureNameModel.data!.length,
+          itemCount: _kariKuranMp3ModelView.getsuraNameModel.data!.length,
           physics: BouncingScrollPhysics(),
           itemBuilder: (context, int index) {
-            kari["surahs"] != null
-                ? kariSurahlist =
-                    kari["surahs"]!.split(",").map(int.parse).toList()
-                : kari["surahs"];
+            _kariKuranMp3ModelView.getKari["surahs"] != null
+                ? kariSurahlist = _kariKuranMp3ModelView
+                    .createKariList(_kariKuranMp3ModelView.getKari)
+                // kari["surahs"]!.split(",").map(int.parse).toList()
+                : null;
 
             if (kariSurahlist.contains(index + 1)) {
               //205,55,16
-              String surahToString = toStringMp3(i: (index), url: false);
+              String surahToString = _kariKuranMp3ModelView.toStringMp3(
+                  i: index, url: false, kari: _kariKuranMp3ModelView.getKari);
 
-              String webServisUrl = toStringMp3(i: index, url: true);
+              String webServisUrl = _kariKuranMp3ModelView.toStringMp3(
+                  i: index, url: true, kari: _kariKuranMp3ModelView.getKari);
 
               return Card(
                 child: ListTile(
                   tileColor: audioPathState[surahToString] != false
-                      ? playerControl[index] == false
+                      ? _kariKuranMp3ModelView.getPlayerControl[index] == false
                           ? SnippetExtanstion(context)
                               .theme
                               .listTileTheme
@@ -463,18 +476,21 @@ class _AudioTestViewState extends State<AudioTestView> {
                           .listTileTheme
                           .tileColor,
                   leading: const Icon(Icons.headphones),
-                  title: Text(_sureNameModel.data![index].name!),
+                  title: Text(_kariKuranMp3ModelView
+                      .getsuraNameModel.data![index].name!),
                   trailing: Wrap(
                     spacing: 12, // space between two icons
                     children: <Widget>[
                       audioPathState[surahToString] != false
-                          ? playerControl[index] == false
+                          ? _kariKuranMp3ModelView.getPlayerControl[index] ==
+                                  false
                               ? Icon(Icons.play_arrow)
                               : Icon(Icons.pause)
                           : Text(""),
 
                       audioPathState[surahToString] == false
-                          ? pathStateWidget[surahToString] as Widget
+                          ? _kariKuranMp3ModelView
+                              .getPathStateWidget[surahToString] as Widget
                           : Text(""), // icon-2
                     ],
                   ),
@@ -493,45 +509,51 @@ class _AudioTestViewState extends State<AudioTestView> {
 
   Future<void> downloadAndAudioPlaySettings(
       String surahToString, String webServisUrl, int index) async {
-    var getSurahIndex = getKariSurahListIndex();
-    if (playerControl[getSurahIndex] == true) {
-      playerControl[getSurahIndex] = false;
-      audioPlayer.stop();
-    }
+    var getSurahIndex = _kariKuranMp3ModelView
+        .getKariSurahListIndex(_kariKuranMp3ModelView.getKari);
+    _kariKuranMp3ModelView.getPlayerControl.forEach((key, value) {
+      _kariKuranMp3ModelView.getPlayerControl[key] = false;
+    });
     if (audioPathState[surahToString] == false) {
       setState(() {
-        pathStateWidget[surahToString] = CircularProgressIndicator();
+        _kariKuranMp3ModelView.getPathStateWidget[surahToString] =
+            CircularProgressIndicator();
       });
     }
     audioPlayer.stop();
     //Kari Keep Veriable
-    kari["url"] = await HiveDb().getBox(hiveKey["kariUrl"]);
-    kari["url"] = kari["url"]! + "/" + webServisUrl;
+    _kariKuranMp3ModelView.getKari["url"] =
+        await HiveDb().getBox(_kariKuranMp3ModelView.hiveKey["kariUrl"]);
+    _kariKuranMp3ModelView.getKari["url"] =
+        _kariKuranMp3ModelView.getKari["url"]! + "/" + webServisUrl;
 
-    var path = await NetworkManager()
-        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
+    var path = await NetworkManager().downloadMediaFile(
+        url: _kariKuranMp3ModelView.getKari["url"],
+        folderandpath: surahToString);
 
     //Kari Keep Veriable
-    kari["name"] = await HiveDb().getBox(hiveKey["kariName"]);
-    kari["path"] = path;
-    kari["surah"] = index + 1;
-    kari["surahName"] = _sureNameModel.data![index].name;
+    _kariKuranMp3ModelView.getKari["name"] =
+        await HiveDb().getBox(_kariKuranMp3ModelView.hiveKey["kariName"]);
+    _kariKuranMp3ModelView.getKari["path"] = path;
+    _kariKuranMp3ModelView.getKari["surah"] = index + 1;
+    _kariKuranMp3ModelView.getKari["surahName"] =
+        _kariKuranMp3ModelView.getsuraNameModel.data![index].name;
 
-    pathStateWidget[surahToString] = Icon(Icons.download);
+    _kariKuranMp3ModelView.getPathStateWidget[surahToString] =
+        Icon(Icons.download);
     audioPathState[surahToString] = true;
 
-    if (playerControl[index] == true) {
-      playerControl[index] = false;
-      audioPlayer.pause();
+    if (_kariKuranMp3ModelView.getPlayerControl[index] == true) {
       buttomSheetPlayIcon = Icons.play_circle_fill;
+      audioPlayer.pause();
     } else {
-      playerControl[index] = true;
+      _kariKuranMp3ModelView.getPlayerControl[index] = true;
       audioPlayer.play(path);
       buttomSheetPlayIcon = Icons.pause_circle_filled;
     }
     setState(() {
       audioPathState;
-      playerControl;
+      _kariKuranMp3ModelView.getPlayerControl;
     });
   }
 }

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:kuran/test/view/audio_rest_view.dart';
+import 'package:kuran/test/view/test_kari_kuran_mp3_view.dart';
+import 'package:kuran/test/view/trar_mp3_view.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
 import 'test/model/user_model.dart';
 import 'view/home/home_view.dart';
@@ -45,6 +46,8 @@ class MyApp extends StatelessWidget {
         '/': (contex) => const HomeView(),
         'kuran': (context) => const Kuran(),
         'kuranMp3': (context) => KariKuranMp3View(),
+        'testKuranMp3': (context) => TestKariKuranMp3View(),
+        'trarMp3': (context) => TrArMp3View()
       },
     );
   }

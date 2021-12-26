@@ -1,19 +1,21 @@
 // To parse this JSON data, do
 //
-//     final hafizlar = hafizlarFromJson(jsonString);
+//     final KariKuranMp3Model = KariKuranMp3ModelFromJson(jsonString);
 
 import 'dart:convert';
 
-Hafizlar hafizlarFromJson(String str) => Hafizlar.fromJson(json.decode(str));
+KariKuranMp3Model KariKuranMp3ModelFromJson(String str) =>
+    KariKuranMp3Model.fromJson(json.decode(str));
 
-class Hafizlar {
-  Hafizlar({
+class KariKuranMp3Model {
+  KariKuranMp3Model({
     this.reciters,
   });
 
   List<Reciter>? reciters;
 
-  factory Hafizlar.fromJson(Map<String, dynamic> json) => Hafizlar(
+  factory KariKuranMp3Model.fromJson(Map<String, dynamic> json) =>
+      KariKuranMp3Model(
         reciters: List<Reciter>.from(
             json["reciters"].map((x) => Reciter.fromJson(x))),
       );

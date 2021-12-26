@@ -14,16 +14,16 @@ Drawer drawerList(
               padding: EdgeInsets.symmetric(
             vertical: 10.0,
           )),
-          // SwitchListTile(
-          //     value: nightMode!,
-          //     title: const Text("Gece Modu "),
-          //     secondary: Icon(Icons.nightlight),
-          //     onChanged: (bool? val) {
-          //       nightMode = val!;
-          //       HiveDb().putBox(HiveDbConstant.NIGHTMODE, nightMode);
-          //       Navigator.pushReplacement(context!,
-          //           MaterialPageRoute(builder: (context) => context.widget));
-          //     }),
+          SwitchListTile(
+              value: nightMode!,
+              title: const Text("Gece Modu "),
+              secondary: Icon(Icons.nightlight),
+              onChanged: (bool? val) {
+                nightMode = val!;
+                HiveDb().putBox(HiveDbConstant.NIGHTMODE, nightMode);
+                Navigator.pushReplacement(context!,
+                    MaterialPageRoute(builder: (context) => context.widget));
+              }),
         ],
       ),
     ),
