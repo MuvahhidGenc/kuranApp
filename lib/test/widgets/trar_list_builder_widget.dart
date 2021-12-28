@@ -60,8 +60,9 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
               ],
             ),
             onTap: () async {
+              // provider.getPlayController(index: index);
               String path = await provider.downloadingAudio(index);
-              provider.getPlayController(index: index);
+              await provider.getPlayController(index: index);
               provider.audioPlay(path, index);
             },
           ),

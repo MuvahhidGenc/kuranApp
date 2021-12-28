@@ -69,12 +69,13 @@ class TrArMp3ViewModel extends ChangeNotifier {
     );
   }
 
-  getPlayController({int? index}) {
+  getPlayController({int? index}) async {
     if (index != null) {
       if (playController[index] == true) {
         playController[index] = false;
         audioPlayer.stop();
       } else if (playController[index] != true) {
+        playController = await createMap(playController, false);
         playController[index] = true;
       }
     }
@@ -122,11 +123,11 @@ class TrArMp3ViewModel extends ChangeNotifier {
 
   get getPathControlList async => await createAudioPathControl;
 
-  /*Future createMap(Map<int, dynamic> map, dynamic value) async {
+  Future createMap(Map<int, dynamic> map, dynamic value) async {
     sureNameModel = await getSureNameModel();
     for (var i = 0; i <= sureNameModel.data!.length; i++) {
       map[i] = value;
     }
     return map;
-  }*/
+  }
 }
