@@ -1,52 +1,76 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get_core/src/get_main.dart';
+import 'package:get/get_instance/src/extension_instance.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
+import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:provider/provider.dart';
 
 class TrArListBuilderWidget extends StatefulWidget {
   SureNameModel sureNameModel;
-  Map<int, bool> playController;
-  TrArListBuilderWidget(this.sureNameModel, this.playController);
+  /* Map<int, bool> playController;
+  Map<int, dynamic> audioPathController;
+  Map<int, dynamic> downloadingWidgetState;*/
+  TrArListBuilderWidget(this.sureNameModel, {Key? key}) : super(key: key);
 
   @override
   _TrArListBuilderWidgetState createState() => _TrArListBuilderWidgetState();
 }
 
 class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
-  var _trArMp3ModelView = TrArMp3ViewModel();
-  AudioPlayer _audioPlayer = AudioPlayer();
+  @override
+  void initState() {
+    // TODO: implement initState
+    Provider.of<TrArMp3ViewModel>(context, listen: false)
+        .createAudioPathControl;
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
+    var provider = Provider.of<TrArMp3ViewModel>(context);
+    dynamic snipperTheme = SnippetExtanstion(context).theme;
     return ListView.builder(
       shrinkWrap: true,
-      physics: BouncingScrollPhysics(),
+      physics: const BouncingScrollPhysics(),
       itemCount: widget.sureNameModel.data?.length,
       itemBuilder: (context, int index) {
         return Card(
           child: ListTile(
-            leading: Icon(Icons.headphones),
+            tileColor: provider.playController[index] == true
+                ? snipperTheme.primaryColor
+                : snipperTheme.listTileTheme.tileColor,
+            leading: const Icon(Icons.headphones),
             title: Text(widget.sureNameModel.data![index].name.toString()),
-            trailing: widget.playController[index] != true
-                ? Icon(Icons.play_circle)
-                : Icon(Icons.pause_circle),
+            trailing: Wrap(
+              spacing: 12,
+              children: [
+                provider.audioPathController[index] == true
+                    ? provider.playController[index] != true
+                        ? const Icon(Icons.play_circle)
+                        : const Icon(Icons.pause_circle)
+                    : const Text(""),
+                provider.audioPathController[index] != true
+                    ? provider.downloadControlWidget[index] != null
+                        ? provider.downloadControlWidget[index] as Widget
+                        : Text("") //Text("")
+                    : const Text(""),
+              ],
+            ),
             onTap: () async {
-              widget.playController =
-                  await _trArMp3ModelView.getPlayController(index: index);
-              String path = await _trArMp3ModelView.pathControllerAndDownload(
-                  UrlsConstant.KURAN_MP3_TRAR_URL + "artukmp3/${index + 1}.mp3",
-                  "trar_${index + 1}.mp3");
-              // print(path);
-              _trArMp3ModelView.audioPlay(path);
-
-              setState(() {});
+              String path = await provider.downloadingAudio(index);
+              provider.getPlayController(index: index);
+              provider.audioPlay(path, index);
             },
           ),
         );
       },
     );
   }
+
+  Future<void> onTapButton(int index) async {}
 }
 
 

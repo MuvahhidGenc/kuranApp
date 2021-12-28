@@ -1,3 +1,4 @@
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/test/widgets/trar_bottom_sheet_widget.dart';
@@ -15,6 +16,14 @@ class _TrArMp3ViewState extends State<TrArMp3View> {
   //var _sureNameModel = SureNameModel();
   var _trarMp3ViewModel = TrArMp3ViewModel();
   Widget? surelerListView;
+  @override
+  void dispose() {
+    // TODO: implement dispose
+    AudioPlayer().stop();
+    AudioPlayer().dispose();
+    super.dispose();
+  }
+
   @override
   void initState() {
     // TODO: implement initState
