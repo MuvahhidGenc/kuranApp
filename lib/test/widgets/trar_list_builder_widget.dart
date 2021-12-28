@@ -20,6 +20,7 @@ class TrArListBuilderWidget extends StatefulWidget {
 }
 
 class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
+  AudioPlayer _audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   @override
   void initState() {
     // TODO: implement initState
@@ -60,10 +61,14 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
               ],
             ),
             onTap: () async {
-              // provider.getPlayController(index: index);
+              //await provider.getPlayController(index: index);
               String path = await provider.downloadingAudio(index);
               await provider.getPlayController(index: index);
-              provider.audioPlay(path, index);
+              if (provider.playController[index] == true)
+                _audioPlayer.play(path);
+              else {
+                _audioPlayer.stop();
+              }
             },
           ),
         );

@@ -73,18 +73,17 @@ class TrArMp3ViewModel extends ChangeNotifier {
     if (index != null) {
       if (playController[index] == true) {
         playController[index] = false;
-        audioPlayer.stop();
       } else if (playController[index] != true) {
         playController = await createMap(playController, false);
         playController[index] = true;
       }
     }
-
+    audioPlayer.stop();
     notifyListeners();
   }
 
-  Future audioPlay(String path, int i) async {
-    if (playController[i] == true) return await audioPlayer.play(path);
+  audioPlay(String path, int i) {
+    if (playController[i] == true) return audioPlayer.play(path);
   }
 
   Future<String> pathControllerAndDownload(String url, String fileName) async {
