@@ -2,34 +2,38 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:dio/dio.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:kuran/globals/services/dio/request.dart';
-import '../constant/urls_constant.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:http/http.dart';
 
-class NetworkManager {
+class NetworkManager extends ChangeNotifier {
   bool downloading = true;
-  String progressString = "";
+  double progress = 0;
+  double newProgress = 0;
+  @override
+  notifyListeners();
 
-  Future<void> downloadFile() async {
+  Future downloadFile({required String url, required String fileName}) async {
     Dio dio = Dio();
-
-    try {
-      var dir = await getApplicationDocumentsDirectory();
-      await dio
-          .download(UrlsConstant.PDF_KURAN_URL, "${dir.path}/kuranuthmani.pdf",
-              onReceiveProgress: (rec, total) {
-        print("Rec:$rec,Total: $total test");
+    var dir = await getApplicationDocumentsDirectory();
+    var path = "${dir.path}/$fileName";
+    var pathState = File(path);
+    if (!pathState.existsSync()) {
+      await dio.download(url, path, onReceiveProgress: (rec, total) {
+        // print("Rec:$rec,Total: $total test");
         downloading = true;
-        progressString = ((rec / total) * 100).toStringAsFixed(0) + "%";
-        print("test2");
+        progress = ((rec / total) * 100);
+        notifyListeners();
+        //print(progress);
         //print(dir.path+"/kuranuthmani.dpf");
       });
-    } catch (e) {
-      print(e);
+
+      downloading = false;
+      notifyListeners();
     }
-    downloading = false;
-    progressString = "İndirme İşlemi Tamamlamdı";
+
+    return path;
   }
 
   /*Future<int?> download(String url, String folderandpath) async {

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/view/test_kari_kuran_mp3_view.dart';
 import 'package:kuran/test/view/trar_mp3_view.dart';
 import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
@@ -17,9 +18,10 @@ void main() async {
 
   // await Hive.openBox<User>("users");
   await Hive.openBox("kuranPage");
-  runApp(MultiProvider(
-      providers: [ChangeNotifierProvider(create: (_) => TrArMp3ViewModel())],
-      child: const MyApp()));
+  runApp(MultiProvider(providers: [
+    ChangeNotifierProvider(create: (_) => NetworkManager()),
+    ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
+  ], child: const MyApp()));
 }
 
 class MyApp extends StatelessWidget {

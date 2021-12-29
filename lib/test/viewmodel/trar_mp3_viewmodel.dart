@@ -1,6 +1,8 @@
 import 'dart:convert';
+import 'dart:io';
 
 import 'package:audioplayers/audioplayers.dart';
+import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -10,6 +12,8 @@ import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/widgets/trar_list_builder_widget.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:provider/provider.dart';
 
 class TrArMp3ViewModel extends ChangeNotifier {
   var sureNameModel = SureNameModel();
@@ -18,13 +22,15 @@ class TrArMp3ViewModel extends ChangeNotifier {
   Map<int, dynamic> audioPathController = Map<int, bool>();
   Map<int, Widget> downloadControlWidget = Map<int, Widget>();
   Map<int, Widget> playingWidget = Map();
+  Map<int, bool> dowloading = Map();
 
   late AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.LOW_LATENCY);
   PlayerState? audioPlayerState;
   Duration duration = Duration();
   Duration position = Duration();
+  double progress = 0;
 
-  audioPlayerStream() {
+  /*audioPlayerStream() {
     audioPlayer.onDurationChanged.listen((Duration d) {
       print('Max duration: $d');
       duration = d;
@@ -35,10 +41,6 @@ class TrArMp3ViewModel extends ChangeNotifier {
     audioPlayer.onAudioPositionChanged.listen((Duration p) {
       print('Max duration: ${p.inMinutes}:${p.inSeconds}' +
           " Duration : ${duration.inMinutes}: ${duration.inSeconds}");
-      /* if (p.inSeconds == duration.inSeconds - 1 ||
-          p.inSeconds == duration.inSeconds) {
-      //  audioNextAndPrevious(progress: "next");
-      }*/
       position = p;
       notifyListeners();
     });
@@ -47,9 +49,22 @@ class TrArMp3ViewModel extends ChangeNotifier {
       audioPlayerState = state;
       notifyListeners();
     });
-  }
+  }*/
 
-  get getDuration => duration;
+  Future downloadFile({required String url, required String fileName}) async {
+    Dio dio = Dio();
+    var dir = await getApplicationDocumentsDirectory();
+    var path = "${dir.path}/$fileName";
+    var pathState = File(path);
+    if (!pathState.existsSync()) {
+      await dio.download(url, path, onReceiveProgress: (rec, total) {
+        progress = ((rec / total));
+        notifyListeners();
+      });
+    }
+
+    return path;
+  }
 
   Future<SureNameModel> getSureNameModel() async {
     //get List Surah Names;
@@ -82,13 +97,8 @@ class TrArMp3ViewModel extends ChangeNotifier {
     notifyListeners();
   }
 
-  audioPlay(String path, int i) {
-    if (playController[i] == true) return audioPlayer.play(path);
-  }
-
   Future<String> pathControllerAndDownload(String url, String fileName) async {
-    return await NetworkManager()
-        .downloadMediaFile(url: url, folderandpath: fileName);
+    return await downloadFile(url: url, fileName: fileName);
   }
 
   Future pathController(String path) async =>
@@ -106,7 +116,7 @@ class TrArMp3ViewModel extends ChangeNotifier {
   }
 
   Future downloadingAudio(int i) async {
-    downloadControlWidget[i] = CircularProgressIndicator();
+    dowloading[i] = true;
     notifyListeners();
     String path = await pathControllerAndDownload(
         UrlsConstant.KURAN_MP3_TRAR_URL + "artukmp3/${i + 1}.mp3",
@@ -115,12 +125,13 @@ class TrArMp3ViewModel extends ChangeNotifier {
     if (audioPathController[i] == false) {
       downloadControlWidget[i] = Icon(Icons.download);
       playController[i] = false;
+      dowloading[i] = false;
     }
     notifyListeners();
     return path;
   }
 
-  get getPathControlList async => await createAudioPathControl;
+  //get getPathControlList async => await createAudioPathControl;
 
   Future createMap(Map<int, dynamic> map, dynamic value) async {
     sureNameModel = await getSureNameModel();

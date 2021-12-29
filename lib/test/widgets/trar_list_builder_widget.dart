@@ -4,6 +4,7 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:get/get_instance/src/extension_instance.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:provider/provider.dart';
@@ -32,6 +33,7 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
   @override
   Widget build(BuildContext context) {
     var provider = Provider.of<TrArMp3ViewModel>(context);
+
     dynamic snipperTheme = SnippetExtanstion(context).theme;
     return ListView.builder(
       shrinkWrap: true,
@@ -40,43 +42,54 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
       itemBuilder: (context, int index) {
         return Card(
           child: ListTile(
-            tileColor: provider.playController[index] == true
-                ? snipperTheme.primaryColor
-                : snipperTheme.listTileTheme.tileColor,
-            leading: const Icon(Icons.headphones),
-            title: Text(widget.sureNameModel.data![index].name.toString()),
-            trailing: Wrap(
-              spacing: 12,
-              children: [
-                provider.audioPathController[index] == true
-                    ? provider.playController[index] != true
-                        ? const Icon(Icons.play_circle)
-                        : const Icon(Icons.pause_circle)
-                    : const Text(""),
-                provider.audioPathController[index] != true
-                    ? provider.downloadControlWidget[index] != null
-                        ? provider.downloadControlWidget[index] as Widget
-                        : Text("") //Text("")
-                    : const Text(""),
-              ],
-            ),
-            onTap: () async {
-              //await provider.getPlayController(index: index);
-              String path = await provider.downloadingAudio(index);
-              await provider.getPlayController(index: index);
-              if (provider.playController[index] == true)
-                _audioPlayer.play(path);
-              else {
-                _audioPlayer.stop();
-              }
-            },
-          ),
+              tileColor: provider.playController[index] == true
+                  ? snipperTheme.primaryColor
+                  : snipperTheme.listTileTheme.tileColor,
+              leading: const Icon(Icons.headphones),
+              title: Text(widget.sureNameModel.data![index].name.toString()),
+              //subtitle: Text(provider.progress.toString()),
+              trailing: Wrap(
+                spacing: 12,
+                children: [IconController(provider, index)],
+              ),
+              onTap: () async => await onClickListTile(provider, index)),
         );
       },
     );
   }
 
-  Future<void> onTapButton(int index) async {}
+  /* Methods */
+
+  Future<void> onClickListTile(TrArMp3ViewModel provider, int index) async {
+    String path = await provider.downloadingAudio(index);
+    await provider.getPlayController(index: index);
+    if (provider.playController[index] == true)
+      _audioPlayer.play(path);
+    else {
+      _audioPlayer.stop();
+    }
+  }
+
+  Widget IconController(TrArMp3ViewModel provider, int index) {
+    Widget icon = Text("");
+    if (provider.audioPathController[index] == true) {
+      if (provider.playController[index] != true) {
+        icon = const Icon(Icons.play_circle);
+      } else {
+        icon = const Icon(Icons.pause_circle);
+      }
+    } else if (provider.audioPathController[index] != true) {
+      if (provider.dowloading[index] == true) {
+        icon = CircularProgressIndicator(
+          value: provider.progress,
+        );
+      } else if (provider.downloadControlWidget[index] != null) {
+        icon = provider.downloadControlWidget[index] as Widget;
+      }
+    }
+
+    return icon;
+  }
 }
 
 
