@@ -52,11 +52,11 @@ class _TrArMp3ViewState extends State<TrArMp3View> {
         ],
       ),
       bottomSheet: TrArBottomSheetWidget(),
-      floatingActionButton: Padding(
+      /* floatingActionButton: Padding(
         padding: const EdgeInsets.only(bottom: 30.0),
         child:
             FloatingActionButton(onPressed: () {}, child: Icon(Icons.download)),
-      ),
+      ),*/
     );
   }
 }

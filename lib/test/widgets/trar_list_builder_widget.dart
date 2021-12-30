@@ -11,9 +11,6 @@ import 'package:provider/provider.dart';
 
 class TrArListBuilderWidget extends StatefulWidget {
   SureNameModel sureNameModel;
-  /* Map<int, bool> playController;
-  Map<int, dynamic> audioPathController;
-  Map<int, dynamic> downloadingWidgetState;*/
   TrArListBuilderWidget(this.sureNameModel, {Key? key}) : super(key: key);
 
   @override
@@ -21,12 +18,13 @@ class TrArListBuilderWidget extends StatefulWidget {
 }
 
 class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
-  AudioPlayer _audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   @override
   void initState() {
     // TODO: implement initState
     Provider.of<TrArMp3ViewModel>(context, listen: false)
         .createAudioPathControl;
+    Provider.of<TrArMp3ViewModel>(context, listen: false).audioPlayerStream();
+
     super.initState();
   }
 
@@ -42,6 +40,7 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
       itemBuilder: (context, int index) {
         return Card(
           child: ListTile(
+              key: UniqueKey(),
               tileColor: provider.playController[index] == true
                   ? snipperTheme.primaryColor
                   : snipperTheme.listTileTheme.tileColor,
@@ -50,45 +49,12 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
               //subtitle: Text(provider.progress.toString()),
               trailing: Wrap(
                 spacing: 12,
-                children: [IconController(provider, index)],
+                children: [provider.IconController(provider, index)],
               ),
-              onTap: () async => await onClickListTile(provider, index)),
+              onTap: () async => await provider.onClickListTile(index)),
         );
       },
     );
-  }
-
-  /* Methods */
-
-  Future<void> onClickListTile(TrArMp3ViewModel provider, int index) async {
-    String path = await provider.downloadingAudio(index);
-    await provider.getPlayController(index: index);
-    if (provider.playController[index] == true)
-      _audioPlayer.play(path);
-    else {
-      _audioPlayer.stop();
-    }
-  }
-
-  Widget IconController(TrArMp3ViewModel provider, int index) {
-    Widget icon = Text("");
-    if (provider.audioPathController[index] == true) {
-      if (provider.playController[index] != true) {
-        icon = const Icon(Icons.play_circle);
-      } else {
-        icon = const Icon(Icons.pause_circle);
-      }
-    } else if (provider.audioPathController[index] != true) {
-      if (provider.dowloading[index] == true) {
-        icon = CircularProgressIndicator(
-          value: provider.progress,
-        );
-      } else if (provider.downloadControlWidget[index] != null) {
-        icon = provider.downloadControlWidget[index] as Widget;
-      }
-    }
-
-    return icon;
   }
 }
 

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
+import 'package:provider/provider.dart';
 
 class TrArBottomSheetWidget extends StatefulWidget {
   const TrArBottomSheetWidget({Key? key}) : super(key: key);
@@ -11,6 +13,7 @@ class TrArBottomSheetWidget extends StatefulWidget {
 class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
   @override
   Widget build(BuildContext context) {
+    var trArViewModelProvider = Provider.of<TrArMp3ViewModel>(context);
     return Container(
       //color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
       width: MediaQuery.of(context).size.width,
@@ -47,24 +50,28 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
               children: [
                 Row(
                   children: [
-                    // Text(
-                    //     "${position.inMinutes}:${position.inSeconds.remainder(60)}"),
+                    Text(
+                        "${trArViewModelProvider.position.inMinutes}:${trArViewModelProvider.position.inSeconds.remainder(60)}"),
                     Expanded(
                         child: Slider.adaptive(
-                            value: 0, //position.inSeconds.toDouble(),
-                            max: 100, //duration.inSeconds.toDouble(),
+                            value: trArViewModelProvider.position.inSeconds
+                                .toDouble(),
+                            max: trArViewModelProvider.duration.inSeconds
+                                .toDouble(),
                             onChanged: (val) {
-                              // final durations = duration;
-                              // if (durations == null) {
-                              //   return;
-                              // }
-                              // final positions = val;
-                              // // if (positions < duration.inSeconds.toDouble())
-                              // audioPlayer
-                              //     .seek(Duration(seconds: positions.round()));
+                              final durations = trArViewModelProvider.duration;
+                              if (durations == null) {
+                                return;
+                              }
+                              final positions = val;
+                              if (positions <
+                                  trArViewModelProvider.duration.inSeconds
+                                      .toDouble())
+                                trArViewModelProvider.audioPlayer
+                                    .seek(Duration(seconds: positions.round()));
                             })),
-                    // Text(
-                    //     "${duration.inMinutes}:${duration.inSeconds.remainder(60)}"),
+                    Text(
+                        "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),
                   ],
                 ),
               ],
@@ -81,9 +88,8 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
                   Expanded(
                     // skip Previous Button
                     child: IconButton(
-                        onPressed: () async {
-                          // await audioNextAndPrevious(progress: "previous");
-                        },
+                        onPressed: () async => await trArViewModelProvider
+                            .bottomSheetNextAndBack(work: "previouse"),
                         icon: Icon(
                           Icons.skip_previous,
                           size: 35.0,
@@ -92,45 +98,19 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
                   Expanded(
                     //Play Buttom
                     child: IconButton(
-                        onPressed: () {},
-                        /* onPressed: () {
-                          if (_audioPlayerState == PlayerState.PLAYING) {
-                            audioPlayer.pause();
-                            buttomSheetPlayIcon = Icons.play_circle_fill;
-                            _kariKuranMp3ModelView.getPlayerControl[
-                                _kariKuranMp3ModelView.getKari["surah"] -
-                                    1] = false;
-                          } else if (_audioPlayerState == PlayerState.PAUSED) {
-                            audioPlayer.resume();
-                            buttomSheetPlayIcon = Icons.pause_circle_filled;
-                            _kariKuranMp3ModelView.getPlayerControl[
-                                _kariKuranMp3ModelView.getKari["surah"] -
-                                    1] = true;
-                          } else if (_kariKuranMp3ModelView.getKari["path"] !=
-                              null) {
-                            _kariKuranMp3ModelView.getPlayerControl[
-                                _kariKuranMp3ModelView.getKari["surah"] -
-                                    1] = true;
-                            audioPlayer
-                                .play(_kariKuranMp3ModelView.getKari["path"]!);
-                          }
-
-                          setState(() {
-                            buttomSheetPlayIcon;
-                          });
-                        },*/
+                        onPressed: () async => await trArViewModelProvider
+                            .bottomSheetPlayButtonClick(),
                         icon: Icon(
-                          //buttomSheetPlayIcon ??
-                          Icons.play_circle_fill,
+                          trArViewModelProvider.buttomSheetPlayIcon ??
+                              Icons.play_circle,
                           size: 50.0,
                         )),
                   ),
                   Expanded(
                     //Next Buttom
                     child: IconButton(
-                        onPressed: () async {
-                          //   await audioNextAndPrevious(progress: "next");
-                        },
+                        onPressed: () async => await trArViewModelProvider
+                            .bottomSheetNextAndBack(work: "next"),
                         icon: Icon(
                           Icons.skip_next,
                           size: 35.0,
