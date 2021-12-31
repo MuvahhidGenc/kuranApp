@@ -1,30 +1,22 @@
-import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:get/get_instance/src/extension_instance.dart';
-import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:provider/provider.dart';
 
+// ignore: must_be_immutable
 class TrArListBuilderWidget extends StatefulWidget {
   SureNameModel sureNameModel;
   TrArListBuilderWidget(this.sureNameModel, {Key? key}) : super(key: key);
-
   @override
   _TrArListBuilderWidgetState createState() => _TrArListBuilderWidgetState();
 }
-
 class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
   @override
   void initState() {
-    // TODO: implement initState
     Provider.of<TrArMp3ViewModel>(context, listen: false)
         .createAudioPathControl;
     Provider.of<TrArMp3ViewModel>(context, listen: false).audioPlayerStream();
-
     super.initState();
   }
 
@@ -46,10 +38,9 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
                   : snipperTheme.listTileTheme.tileColor,
               leading: const Icon(Icons.headphones),
               title: Text(widget.sureNameModel.data![index].name.toString()),
-              //subtitle: Text(provider.progress.toString()),
               trailing: Wrap(
                 spacing: 12,
-                children: [provider.IconController(provider, index)],
+                children: [provider.iconController(index)],
               ),
               onTap: () async => await provider.onClickListTile(index)),
         );
@@ -57,75 +48,3 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
     );
   }
 }
-
-
-/*
- Container sureListViewBuilder() {
-    return Container(
-      child: ListView.builder(
-          shrinkWrap: true,
-          itemCount: _kariKuranMp3ModelView.getsuraNameModel.data!.length,
-          physics: BouncingScrollPhysics(),
-          itemBuilder: (context, int index) {
-            _kariKuranMp3ModelView.getKari["surahs"] != null
-                ? kariSurahlist = _kariKuranMp3ModelView
-                    .createKariList(_kariKuranMp3ModelView.getKari)
-                // kari["surahs"]!.split(",").map(int.parse).toList()
-                : null;
-
-            if (kariSurahlist.contains(index + 1)) {
-              //205,55,16
-              String surahToString = _kariKuranMp3ModelView.toStringMp3(
-                  i: index, url: false, kari: _kariKuranMp3ModelView.getKari);
-
-              String webServisUrl = _kariKuranMp3ModelView.toStringMp3(
-                  i: index, url: true, kari: _kariKuranMp3ModelView.getKari);
-
-              return Card(
-                child: ListTile(
-                  tileColor: audioPathState[surahToString] != false
-                      ? _kariKuranMp3ModelView.getPlayerControl[index] == false
-                          ? SnippetExtanstion(context)
-                              .theme
-                              .listTileTheme
-                              .tileColor
-                          : SnippetExtanstion(context).theme.primaryColor
-                      : SnippetExtanstion(context)
-                          .theme
-                          .listTileTheme
-                          .tileColor,
-                  leading: const Icon(Icons.headphones),
-                  title: Text(_kariKuranMp3ModelView
-                      .getsuraNameModel.data![index].name!),
-                  trailing: Wrap(
-                    spacing: 12, // space between two icons
-                    children: <Widget>[
-                      audioPathState[surahToString] != false
-                          ? _kariKuranMp3ModelView.getPlayerControl[index] ==
-                                  false
-                              ? Icon(Icons.play_arrow)
-                              : Icon(Icons.pause)
-                          : Text(""),
-
-                      audioPathState[surahToString] == false
-                          ? _kariKuranMp3ModelView
-                              .getPathStateWidget[surahToString] as Widget
-                          : Text(""), // icon-2
-                    ],
-                  ),
-                  onTap: () async {
-                    await downloadAndAudioPlaySettings(
-                        surahToString, webServisUrl, index);
-                  },
-                ),
-              );
-            } else {
-              return SizedBox();
-            }
-          }),
-    );
-  }
-
-
-
- */

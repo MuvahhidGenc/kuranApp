@@ -18,9 +18,9 @@ class FilePathManager {
     }
   }
 
-  Future<String> converToPath(String path) async {
+  Future<File> converToPath(String path) async {
     var dir = await getApplicationDocumentsDirectory();
     var file = File("${dir.path}/$path");
-    return file.path;
+    return file;
   }
 }
