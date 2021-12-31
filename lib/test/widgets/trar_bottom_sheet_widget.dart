@@ -17,7 +17,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
     return Container(
       //color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
       width: MediaQuery.of(context).size.width,
-      height: MediaQuery.of(context).size.height * 0.23,
+      height: MediaQuery.of(context).size.height * 0.225,
       decoration: BoxDecoration(
           color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
           borderRadius: BorderRadius.circular(20),
@@ -29,52 +29,46 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
           ]),
       child: Column(
         children: [
-          // Text(
-          //     "${_kariKuranMp3ModelView.getKari['surahName'] != null ? "Sure : " + _kariKuranMp3ModelView.getKari["surahName"].toUpperCase() : ''}",
-          //     style: TextStyle(
-          //       fontSize: 20,
-          //     )),
-          Divider(
-            height: 10,
-            color: SnippetExtanstion(context).theme.primaryColor,
-          ),
+         
           Padding(
             // Audio Slider Bar Left Right Text
             padding: EdgeInsets.symmetric(
               horizontal: 12.0,
               vertical: 0.0,
             ),
-            child: Column(
-              // Audio Sl
-              crossAxisAlignment: CrossAxisAlignment.center,
-              children: [
-                Row(
-                  children: [
-                    Text(
-                        "${trArViewModelProvider.position.inMinutes}:${trArViewModelProvider.position.inSeconds.remainder(60)}"),
-                    Expanded(
-                        child: Slider.adaptive(
-                            value: trArViewModelProvider.position.inSeconds
-                                .toDouble(),
-                            max: trArViewModelProvider.duration.inSeconds
-                                .toDouble(),
-                            onChanged: (val) {
-                              final durations = trArViewModelProvider.duration;
-                              if (durations == null) {
-                                return;
-                              }
-                              final positions = val;
-                              if (positions <
-                                  trArViewModelProvider.duration.inSeconds
-                                      .toDouble())
-                                trArViewModelProvider.audioPlayer
-                                    .seek(Duration(seconds: positions.round()));
-                            })),
-                    Text(
-                        "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),
-                  ],
-                ),
-              ],
+            child: Expanded(
+              child: Column(
+                // Audio Sl
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  Row(
+                    children: [
+                      Text(
+                          "${trArViewModelProvider.position.inMinutes}:${trArViewModelProvider.position.inSeconds.remainder(60)}"),
+                      Expanded(
+                          child: Slider.adaptive(
+                              value: trArViewModelProvider.position.inSeconds
+                                  .toDouble(),
+                              max: trArViewModelProvider.duration.inSeconds
+                                  .toDouble(),
+                              onChanged: (val) {
+                                final durations = trArViewModelProvider.duration;
+                                if (durations == null) {
+                                  return;
+                                }
+                                final positions = val;
+                                if (positions <
+                                    trArViewModelProvider.duration.inSeconds
+                                        .toDouble())
+                                  trArViewModelProvider.audioPlayer
+                                      .seek(Duration(seconds: positions.round()));
+                              })),
+                      Text(
+                          "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),
+                    ],
+                  ),
+                ],
+              ),
             ),
           ),
           Center(
