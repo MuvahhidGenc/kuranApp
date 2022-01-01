@@ -1,9 +1,9 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
-import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
-import 'package:kuran/test/widgets/trar_bottom_sheet_widget.dart';
-import 'package:kuran/test/widgets/trar_list_builder_widget.dart';
+
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:kuran/view/trarmp3/viewmodel/trar_mp3_viewmodel.dart';
+import 'package:kuran/view/trarmp3/widgets/trar_bottom_sheet_widget.dart';
 
 class TrArMp3View extends StatefulWidget {
   const TrArMp3View({Key? key}) : super(key: key);
@@ -45,10 +45,10 @@ class _TrArMp3ViewState extends State<TrArMp3View> {
       body: Column(
         children: [
           Expanded(
-              flex: 7,
+              flex: 8,
               child: surelerListView ??
                   Center(child: CircularProgressIndicator())),
-          Expanded(flex: 3, child: SizedBox())
+          Expanded(flex: 2, child: SizedBox())
         ],
       ),
       bottomSheet: TrArBottomSheetWidget(),

@@ -8,10 +8,9 @@ import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/test/widgets/trar_list_builder_widget.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:kuran/view/trarmp3/widgets/trar_list_builder_widget.dart';
 import 'package:path_provider/path_provider.dart';
-import 'package:provider/provider.dart';
 
 class TrArMp3ViewModel extends ChangeNotifier {
   var sureNameModel = SureNameModel();
@@ -41,10 +40,12 @@ class TrArMp3ViewModel extends ChangeNotifier {
     });
     audioPlayer.onPlayerStateChanged.listen((state) {
       audioPlayerState = state;
-      audioPlayerState==PlayerState.PLAYING?
-      buttomSheetPlayIcon = Icons.pause_circle:
-      buttomSheetPlayIcon = Icons.play_circle;
-      audioPlayerState==PlayerState.COMPLETED?bottomSheetNextAndBack(work: "next"):null;
+      audioPlayerState == PlayerState.PLAYING
+          ? buttomSheetPlayIcon = Icons.pause_circle
+          : buttomSheetPlayIcon = Icons.play_circle;
+      audioPlayerState == PlayerState.COMPLETED
+          ? bottomSheetNextAndBack(work: "next")
+          : null;
       notifyListeners();
     });
   }
@@ -55,11 +56,22 @@ class TrArMp3ViewModel extends ChangeNotifier {
     } else if (audioPlayerState == PlayerState.PLAYING) {
       audioPlayer.pause();
     } else if (audioPlayerState == PlayerState.PAUSED) {
-      playController[index]=true;
+      playController[index] = true;
       audioPlayer.resume();
     }
     notifyListeners();
   }
+
+  /*getposition() {
+    var position = _position.inSeconds.toDouble();
+    notifyListeners();
+    return position;
+  }
+   getDu() {
+    var duration = _position.inSeconds.toDouble();
+    notifyListeners();
+    return duration;
+  }*/
 
   bottomSheetPlayButtonClick() async {
     if (activeSurah != null) {
@@ -81,31 +93,24 @@ class TrArMp3ViewModel extends ChangeNotifier {
 
   bottomSheetNextAndBack({required String work}) async {
     if (activeSurah != null) {
-      
       playController[activeSurah!] = false;
-      if (work == "next" && activeSurah! < 113){
-          activeSurah = activeSurah! + 1;
-      } 
-      if (work == "previouse" && activeSurah! > 0){
-         activeSurah = activeSurah! - 1;
+      if (work == "next" && activeSurah! < 113) {
+        activeSurah = activeSurah! + 1;
       }
-       var file =
+      if (work == "previouse" && activeSurah! > 0) {
+        activeSurah = activeSurah! - 1;
+      }
+      var file =
           await FilePathManager().converToPath("trar_${activeSurah! + 1}.mp3");
-       
-
-     
-          if(file.existsSync()){
-             playController[activeSurah!] = true;
-             audioPlayer.play(file.path);
-          }else{
-           onClickListTile(activeSurah!);
-          }
-     
+      if (file.existsSync()) {
+        playController[activeSurah!] = true;
+        audioPlayer.play(file.path);
+      } else {
+        onClickListTile(activeSurah!);
+      }
     }
     notifyListeners();
   }
-
-  
 
   Future downloadFile({required String url, required String fileName}) async {
     Dio dio = Dio();
@@ -165,7 +170,7 @@ class TrArMp3ViewModel extends ChangeNotifier {
     for (var i = 0; i <= sureNameModel.data!.length; i++) {
       audioPathController[i] = await pathController("trar_${i + 1}.mp3");
       if (audioPathController[i] == false) {
-        downloadControlWidget[i] =const Icon(Icons.download);
+        downloadControlWidget[i] = const Icon(Icons.download);
       }
     }
     notifyListeners();
@@ -179,14 +184,13 @@ class TrArMp3ViewModel extends ChangeNotifier {
         "trar_${i + 1}.mp3");
     audioPathController[i] = await pathController("trar_${i + 1}.mp3");
     if (audioPathController[i] == false) {
-      downloadControlWidget[i] =const Icon(Icons.download);
+      downloadControlWidget[i] = const Icon(Icons.download);
       playController[i] = false;
       dowloading[i] = false;
     }
     notifyListeners();
     return path;
   }
-
 
   Future createMap(Map<int, dynamic> map, dynamic value) async {
     sureNameModel = await getSureNameModel();
@@ -195,7 +199,6 @@ class TrArMp3ViewModel extends ChangeNotifier {
     }
     return map;
   }
-
 
   Future<void> onClickListTile(int index) async {
     String path = await downloadingAudio(index);
@@ -206,23 +209,23 @@ class TrArMp3ViewModel extends ChangeNotifier {
   // İcon Controller Widget
 
   Widget iconController(int index) {
-    Widget icon =const Text("");
+    Widget icon = const Text("");
     if (audioPathController[index] == true) {
       if (playController[index] != true) {
         icon = const Icon(Icons.play_circle);
-      }else if(playController[index]==true && audioPlayerState==PlayerState.PAUSED){
-         icon = const Icon(Icons.play_circle);
-      } 
-      else{
+      } else if (playController[index] == true &&
+          audioPlayerState == PlayerState.PAUSED) {
+        icon = const Icon(Icons.play_circle);
+      } else {
         icon = const Icon(Icons.pause_circle);
       }
     } else if (audioPathController[index] != true) {
       if (dowloading[index] == true) {
         icon = CircularProgressIndicator(
-          value:progress,
+          value: progress,
         );
       } else if (downloadControlWidget[index] != null) {
-        icon =downloadControlWidget[index] as Widget;
+        icon = downloadControlWidget[index] as Widget;
       }
     }
 

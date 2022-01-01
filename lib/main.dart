@@ -1,11 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/test/view/test_kari_kuran_mp3_view.dart';
-import 'package:kuran/test/view/trar_mp3_view.dart';
-import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
+import 'package:kuran/view/trarmp3/view/trar_mp3_view.dart';
 import 'package:provider/provider.dart';
-import 'test/model/user_model.dart';
 import 'view/home/home_view.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
@@ -20,7 +17,6 @@ void main() async {
   await Hive.openBox("kuranPage");
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(create: (_) => NetworkManager()),
-    ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
   ], child: const MyApp()));
 }
 
@@ -52,7 +48,6 @@ class MyApp extends StatelessWidget {
         '/': (contex) => const HomeView(),
         'kuran': (context) => const Kuran(),
         'kuranMp3': (context) => KariKuranMp3View(),
-        'testKuranMp3': (context) => TestKariKuranMp3View(),
         'trarMp3': (context) => TrArMp3View()
       },
     );

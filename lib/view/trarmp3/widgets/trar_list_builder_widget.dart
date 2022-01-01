@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/test/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:kuran/view/trarmp3/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 // ignore: must_be_immutable
@@ -11,6 +11,7 @@ class TrArListBuilderWidget extends StatefulWidget {
   @override
   _TrArListBuilderWidgetState createState() => _TrArListBuilderWidgetState();
 }
+
 class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
   @override
   void initState() {
