@@ -63,6 +63,13 @@ class _HomeViewState extends State<HomeView> {
                 icon: Icon(Icons.book),
                 label: Text("Türkçe Arapça Kuran Mp3"),
               ),
+              TextButton.icon(
+                onPressed: () {
+                  Navigator.of(context).pushNamed("meal");
+                },
+                icon: Icon(Icons.book),
+                label: Text("Meal"),
+              ),
             ],
           ),
         ),

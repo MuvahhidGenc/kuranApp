@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
+import 'package:kuran/test/view/meal_view.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
 import 'package:kuran/view/trarmp3/view/trar_mp3_view.dart';
 import 'package:provider/provider.dart';
@@ -48,7 +49,8 @@ class MyApp extends StatelessWidget {
         '/': (contex) => const HomeView(),
         'kuran': (context) => const Kuran(),
         'kuranMp3': (context) => KariKuranMp3View(),
-        'trarMp3': (context) => TrArMp3View()
+        'trarMp3': (context) => TrArMp3View(),
+        'meal': (context) => MealView(),
       },
     );
   }
