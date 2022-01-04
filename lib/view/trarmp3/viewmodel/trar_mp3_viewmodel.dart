@@ -121,7 +121,7 @@ class TrArMp3ViewModel extends ChangeNotifier {
       await dio.download(url, path, onReceiveProgress: (rec, total) {
         progress = ((rec / total));
         notifyListeners();
-      });
+      }).then((value) => value.statusCode!=200?print("indirme Başarısız"):print("indirme başarılı"));
     }
 
     return path;

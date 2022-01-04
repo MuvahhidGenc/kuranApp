@@ -27,6 +27,8 @@ class NetworkManager extends ChangeNotifier {
         notifyListeners();
         //print(progress);
         //print(dir.path+"/kuranuthmani.dpf");
+      }).then((value){
+        value.statusCode!=200?print("Hata"):print("İndirme Başarılı");
       });
 
       downloading = false;

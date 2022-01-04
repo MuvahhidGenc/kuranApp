@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/view/meal_view.dart';
+import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
 import 'package:kuran/view/trarmp3/view/trar_mp3_view.dart';
+import 'package:kuran/view/trarmp3/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:provider/provider.dart';
 import 'view/home/home_view.dart';
 import 'package:hive/hive.dart';
@@ -17,7 +19,8 @@ void main() async {
   // await Hive.openBox<User>("users");
   await Hive.openBox("kuranPage");
   runApp(MultiProvider(providers: [
-    ChangeNotifierProvider(create: (_) => NetworkManager()),
+    ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
+    ChangeNotifierProvider(create: (_) => SurahVerseByVerseViewModel()),
   ], child: const MyApp()));
 }
 
