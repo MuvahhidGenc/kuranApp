@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/test/view/meal_detail_view.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:provider/provider.dart';
 
@@ -10,45 +11,57 @@ class MealView extends StatefulWidget {
 }
 
 class _MealViewState extends State<MealView> {
-  SurahVerseByVerseViewModel _surahVerseByVerseViewModel =
-      SurahVerseByVerseViewModel();
+  // SurahVerseByVerseViewModel _surahVerseByVerseViewModel =
+  //     SurahVerseByVerseViewModel();
   @override
   void initState() {
     // TODO: implement initState
+    Provider.of<SurahVerseByVerseViewModel>(context, listen: false)
+        .getSureName();
     initAsyc();
     super.initState();
-    Provider.of<SurahVerseByVerseViewModel>(context).getSureName();
   }
 
   initAsyc() async {
-    await _surahVerseByVerseViewModel.getSureName();
+    //await _surahVerseByVerseViewModel.getSureName();
   }
 
   @override
   Widget build(BuildContext context) {
-    var provider=Provider.of<SurahVerseByVerseViewModel>(context);
+    var provider = Provider.of<SurahVerseByVerseViewModel>(context);
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Kuran'ı Kerim Türkçe Meal"),
-      ),
-      body: surahListBuilderWidget(provider)
-    );
+        appBar: AppBar(
+          title: Text("Kuran'ı Kerim Türkçe Meal"),
+        ),
+        body: surahListBuilderWidget(provider));
   }
 
-
-  Widget surahListBuilderWidget(SurahVerseByVerseViewModel provider){
-    if(provider.sureNameModel.data!=null){
-       return ListView.builder(itemCount: provider.sureNameModel.data!.length,itemBuilder: (context,i){
-        return ListTile(
-          title: Text("Test $i"),
-        );
-    });
-    }else{
-      return Center(child: CircularProgressIndicator(),);
+  Widget surahListBuilderWidget(SurahVerseByVerseViewModel provider) {
+    if (provider.sureNameModel.data != null) {
+      return ListView.builder(
+          itemCount: provider.sureNameModel.data!.length,
+          itemBuilder: (context, i) {
+            return Card(
+              child: ListTile(
+                leading: Icon(Icons.pageview),
+                title: Text(provider.sureNameModel.data![i].name!),
+                trailing: Text(provider.sureNameModel.data![i].nameOriginal!),
+                subtitle: Text("Ayet Sayısı : " +
+                    provider.sureNameModel.data![i].verseCount.toString()),
+                onTap: () {
+                  Navigator.of(context).push(MaterialPageRoute(
+                      builder: (context) =>
+                          MealDetailView(provider.sureNameModel.data![i].id!)));
+                  /*Navigator.of(context).pushNamed("mealDetail",
+                      arguments: {"id": provider.sureNameModel.data![i].id});*/
+                },
+              ),
+            );
+          });
+    } else {
+      return Center(
+        child: CircularProgressIndicator(),
+      );
     }
-   
   }
-
-
-
 }
