@@ -50,8 +50,9 @@ class _MealViewState extends State<MealView> {
                     provider.sureNameModel.data![i].verseCount.toString()),
                 onTap: () {
                   Navigator.of(context).push(MaterialPageRoute(
-                      builder: (context) =>
-                          MealDetailView(provider.sureNameModel.data![i].id!)));
+                      builder: (context) => MealDetailView(
+                          id: provider.sureNameModel.data![i].id!,
+                          surahName: provider.sureNameModel.data![i].name!)));
                   /*Navigator.of(context).pushNamed("mealDetail",
                       arguments: {"id": provider.sureNameModel.data![i].id});*/
                 },

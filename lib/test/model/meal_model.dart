@@ -1,19 +1,19 @@
 // To parse this JSON data, do
 //
-//     final meal = mealFromJson(jsonString);
+//     final MealModel = MealModelFromJson(jsonString);
 
 import 'dart:convert';
 
-Meal mealFromJson(String str) => Meal.fromJson(json.decode(str));
+MealModel MealModelFromJson(String str) => MealModel.fromJson(json.decode(str));
 
-class Meal {
-  Meal({
+class MealModel {
+  MealModel({
     this.data,
   });
 
   final Data? data;
 
-  factory Meal.fromJson(Map<String, dynamic> json) => Meal(
+  factory MealModel.fromJson(Map<String, dynamic> json) => MealModel(
         data: Data.fromJson(json["data"]),
       );
 }
@@ -61,11 +61,6 @@ class Audio {
         mp3: json["mp3"],
         duration: json["duration"],
       );
-
-  Map<String, dynamic> toJson() => {
-        "mp3": mp3,
-        "duration": duration,
-      };
 }
 
 class Verse {
