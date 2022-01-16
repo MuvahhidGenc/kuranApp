@@ -11,6 +11,7 @@ class SurahVerseByVerseViewModel extends ChangeNotifier {
   TrArMp3ViewModel _trArViewModel = TrArMp3ViewModel();
   SureNameModel sureNameModel = SureNameModel();
   MealModel mealModel = MealModel();
+  List<Verse> ayahs = List.empty();
   String translationFileName = "tanslation";
   @override
   // ignore: must_call_super
@@ -27,6 +28,7 @@ class SurahVerseByVerseViewModel extends ChangeNotifier {
         folder: "translations");
 
     mealModel = await MealModel.fromJson(jsonDecode(translationPath));
-    print(mealModel.data!.verses!.length);
+    return await mealModel.data!.verses!;
+    //print(mealModel.data!.verses!.length);
   }
 }

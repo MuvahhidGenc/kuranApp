@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:hive/hive.dart';
+import 'package:kuran/test/model/hive_favorilerim_model.dart';
+import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/view/meal_detail_view.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:provider/provider.dart';
@@ -13,12 +16,13 @@ class MealView extends StatefulWidget {
 class _MealViewState extends State<MealView> {
   // SurahVerseByVerseViewModel _surahVerseByVerseViewModel =
   //     SurahVerseByVerseViewModel();
+
   @override
   void initState() {
     // TODO: implement initState
     Provider.of<SurahVerseByVerseViewModel>(context, listen: false)
         .getSureName();
-    initAsyc();
+
     super.initState();
   }
 
@@ -30,10 +34,11 @@ class _MealViewState extends State<MealView> {
   Widget build(BuildContext context) {
     var provider = Provider.of<SurahVerseByVerseViewModel>(context);
     return Scaffold(
-        appBar: AppBar(
-          title: Text("Kuran'ı Kerim Türkçe Meal"),
-        ),
-        body: surahListBuilderWidget(provider));
+      appBar: AppBar(
+        title: Text("Kuran'ı Kerim Türkçe Meal"),
+      ),
+      body: surahListBuilderWidget(provider),
+    );
   }
 
   Widget surahListBuilderWidget(SurahVerseByVerseViewModel provider) {

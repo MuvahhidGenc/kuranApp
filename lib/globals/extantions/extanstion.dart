@@ -1,9 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_toastr/flutter_toastr.dart';
 
 extension SnippetExtanstion on BuildContext {
   ThemeData get theme => Theme.of(this);
   MediaQueryData get media => MediaQuery.of(this);
+  showToast(String msg, {int? duration, int? position}) {
+    FlutterToastr.show(msg, this, duration: duration, position: 0);
+  }
 }
 
 enum DirectoryName {
