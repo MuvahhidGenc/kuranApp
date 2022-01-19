@@ -10,16 +10,19 @@ class HiveFavorilerimModel {
   @HiveField(2)
   String? latinText;
   @HiveField(3)
-  int? id;
+  String? surahName;
   @HiveField(4)
-  int? surahNo;
+  int? id;
   @HiveField(5)
+  int? surahNo;
+  @HiveField(6)
   int? ayahNo;
   HiveFavorilerimModel(
       {this.id,
       this.arabicText,
       this.turkishText,
       this.latinText,
+      this.surahName,
       this.surahNo,
       this.ayahNo});
 }

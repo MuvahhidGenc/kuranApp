@@ -13,9 +13,12 @@ import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:share/share.dart';
 
 class MealDetailView extends StatefulWidget {
-  int id;
+  int id; // Surah id
   String surahName;
+  late int gotoAyah;
   MealDetailView({required this.id, required this.surahName, Key? key})
+      : super(key: key);
+      MealDetailView.withAyah({required this.id, required this.surahName,required this.gotoAyah, Key? key})
       : super(key: key);
 
   @override
@@ -35,17 +38,25 @@ class _MealDetailViewState extends State<MealDetailView> {
     // TODO: implement initState
 
     initAsyc();
+    print(widget.gotoAyah);
+    
     super.initState();
   }
 
   Future<List<Verse>> initAsyc() async {
-    return ayahs =
+    
+     ayahs =
         await _surahVerseByVerseViewModel.getMealDetail(surahId: widget.id);
+
+       await scrolTest(widget.gotoAyah);
+        return ayahs;
+        
   }
 
-  scrolTest(int index) {
+  scrolTest(int index) async{
+   await
     itemController.scrollTo(
-        index: 15,
+        index: index,
         duration: Duration(seconds: 2),
         curve: Curves.easeInOutCubic);
   }
@@ -61,6 +72,7 @@ class _MealDetailViewState extends State<MealDetailView> {
       latinText: latinText,
       turkishText: turkishText,
       surahNo: surahNo,
+      surahName: widget.surahName,
       ayahNo: ayahNo,
     );
     box = HiveBoxes.faroviAyetlerimBox();
@@ -140,6 +152,7 @@ class _MealDetailViewState extends State<MealDetailView> {
                 arabicText: ayahs[index].verse.toString(),
                 latinText: ayahs[index].transcription.toString(),
                 turkishText: ayahs[index].translation!.text.toString(),
+                
                 surahNo: widget.id,
                 ayahNo: index + 1);
             print("Favori Ayetim Eklendi");
@@ -164,7 +177,7 @@ class _MealDetailViewState extends State<MealDetailView> {
       color: theme.backgroundColor,
       child: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: Text(ayahs[i].translation!.text ?? ""),
+        child: Text(ayahs[i].translation!.text?? ""),
       ),
     );
   }

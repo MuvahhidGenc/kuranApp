@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
+import 'package:kuran/test/view/meal_detail_view.dart';
 import 'package:share/share.dart';
 
 class FavoriAyetlerimView extends StatefulWidget {
@@ -79,10 +81,10 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
         children: [
           iconButonWidget(Icons.share_rounded, () {
             Share.share(
-                "${_favoriBox!.values.elementAt(index).arabicText} \n \n ${_favoriBox!.values.elementAt(index).turkishText}");
+                "${_favoriBox!.values.elementAt(index).arabicText} \n \n ${_favoriBox!.values.elementAt(index).turkishText} \n \n ${_favoriBox!.values.elementAt(index).surahName}");
           }),
           iconButonWidget(Icons.arrow_right_alt /* star */, () {
-            print("Ayete Git");
+            Navigator.of(context).push(MaterialPageRoute(builder: (context)=>MealDetailView.withAyah(id: _favoriBox!.values.elementAt(index).surahNo!.toInt(), surahName: _favoriBox!.values.elementAt(index).surahName.toString(),gotoAyah: _favoriBox!.values.elementAt(index).ayahNo!.toInt(),)));
           }),
         ],
       ),
@@ -115,7 +117,7 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
       //color: theme.backgroundColor,
       child: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: Text(_favoriBox!.values.elementAt(i).surahNo.toString() +
+        child: Text(_favoriBox!.values.elementAt(i).surahName.toString() +
             " / ${_favoriBox!.values.elementAt(i).ayahNo} "),
       ),
     );

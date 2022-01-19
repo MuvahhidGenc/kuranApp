@@ -24,6 +24,7 @@ class _HomeViewState extends State<HomeView> {
               Container(
                 height: 150,
                 color: context.theme.colorScheme.background,
+                alignment: Alignment.centerRight,
                 child: Text(
                   "Ey iman edenler! Sabır ve namazla yardım dileyin. Şüphesiz Allah sabredenlerin yanındadır. \n \t Bakara 153",
                   style: context.theme.textTheme.headline5,
@@ -32,6 +33,7 @@ class _HomeViewState extends State<HomeView> {
               SizedBox(
                 height: 10,
               ),
+              
               TextButton.icon(
                 onPressed: () {
                   Navigator.of(context).pushNamed("kuran");
@@ -48,13 +50,6 @@ class _HomeViewState extends State<HomeView> {
                 },
                 icon: Icon(Icons.book),
                 label: Text("Kuran Mp3"),
-              ),
-              TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed("testKuranMp3");
-                },
-                icon: Icon(Icons.book),
-                label: Text("Kuran Mp3 Test"),
               ),
               TextButton.icon(
                 onPressed: () {

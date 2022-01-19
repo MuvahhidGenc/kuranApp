@@ -17,19 +17,20 @@ class HiveFavorilerimModelAdapter extends TypeAdapter<HiveFavorilerimModel> {
       for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
     };
     return HiveFavorilerimModel(
-      id: fields[3] as int?,
+      id: fields[4] as int?,
       arabicText: fields[0] as String?,
       turkishText: fields[1] as String?,
       latinText: fields[2] as String?,
-      surahNo: fields[4] as int?,
-      ayahNo: fields[5] as int?,
+      surahName: fields[3] as String?,
+      surahNo: fields[5] as int?,
+      ayahNo: fields[6] as int?,
     );
   }
 
   @override
   void write(BinaryWriter writer, HiveFavorilerimModel obj) {
     writer
-      ..writeByte(6)
+      ..writeByte(7)
       ..writeByte(0)
       ..write(obj.arabicText)
       ..writeByte(1)
@@ -37,10 +38,12 @@ class HiveFavorilerimModelAdapter extends TypeAdapter<HiveFavorilerimModel> {
       ..writeByte(2)
       ..write(obj.latinText)
       ..writeByte(3)
-      ..write(obj.id)
+      ..write(obj.surahName)
       ..writeByte(4)
-      ..write(obj.surahNo)
+      ..write(obj.id)
       ..writeByte(5)
+      ..write(obj.surahNo)
+      ..writeByte(6)
       ..write(obj.ayahNo);
   }
 
