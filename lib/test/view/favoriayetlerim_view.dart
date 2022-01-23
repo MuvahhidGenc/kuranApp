@@ -3,6 +3,8 @@ import 'package:get/get.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
+import 'package:kuran/globals/widgets/iconbuton_widget.dart';
 import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/view/meal_detail_view.dart';
@@ -37,25 +39,48 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
                       children: [
                         Container(
                           alignment: Alignment.topRight,
-                          child: iconButonWidget(Icons.close /* star */, () {
-                            setState(() {
-                              box.delete(box.keys.elementAt(i));
-                            });
-                            print(box.keys.elementAt(i));
-                            print("Favori Ayetim Silindi");
-                          }),
+                          child: IconButonWidget(
+                              icon: Icons.close /* star */,
+                              voidCallback: () {
+                                print(box.keys.elementAt(i));
+                                setState(() {
+                                  box.delete(box.keys.elementAt(i));
+                                });
+                                SnippetExtanstion(context).showToast(
+                                    "Favori Kaldırıldı",
+                                    duration: 2);
+                              }),
                         ),
-                        arabicTextWidget(theme, i),
+                        AyahCardInTextWidget(
+                          color: theme.focusColor,
+                          ayah: _favoriBox!.values.elementAt(i).arabicText!,
+                          textPosition: Alignment.topRight,
+                          style: TextStyle(fontSize: 22),
+                        ),
                         dividerWidget(),
-                        latinceTextWidget(theme, i),
+                        AyahCardInTextWidget(
+                          color: theme.focusColor,
+                          ayah: _favoriBox!.values.elementAt(i).latinText!,
+                          textPosition: Alignment.topLeft,
+                        ),
                         dividerWidget(),
-                        translationTextWidget(theme, i),
+                        AyahCardInTextWidget(
+                          color: theme.focusColor,
+                          ayah: "${_favoriBox!.values.elementAt(i).ayahNo} - " +
+                              _favoriBox!.values.elementAt(i).turkishText!,
+                          textPosition: Alignment.topLeft,
+                        ),
                         dividerWidget(),
-                        surahNameAndNo(theme, i),
+                        AyahCardInTextWidget(
+                          color: Colors.transparent,
+                          ayah: _favoriBox!.values
+                                  .elementAt(i)
+                                  .surahName
+                                  .toString() +
+                              " / ${_favoriBox!.values.elementAt(i).ayahNo} ",
+                          textPosition: Alignment.center,
+                        ),
                         bottomButonWidgets(theme, i),
-                        /*Text(box.get(i)!.arabicText.toString()),
-                        Text(box.get(i)!.latinText.toString()),
-                        Text(box.get(i)!.turkishText.toString()),*/
                       ],
                     ),
                   ),
@@ -79,74 +104,33 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
       child: Wrap(
         spacing: 12,
         children: [
-          iconButonWidget(Icons.share_rounded, () {
-            Share.share(
-                "${_favoriBox!.values.elementAt(index).arabicText} \n \n ${_favoriBox!.values.elementAt(index).turkishText} \n \n ${_favoriBox!.values.elementAt(index).surahName}");
-          }),
-          iconButonWidget(Icons.arrow_right_alt /* star */, () {
-            Navigator.of(context).push(MaterialPageRoute(builder: (context)=>MealDetailView.withAyah(id: _favoriBox!.values.elementAt(index).surahNo!.toInt(), surahName: _favoriBox!.values.elementAt(index).surahName.toString(),gotoAyah: _favoriBox!.values.elementAt(index).ayahNo!.toInt(),)));
-          }),
+          IconButonWidget(
+              icon: Icons.share_rounded,
+              voidCallback: () {
+                Share.share(
+                    "${_favoriBox!.values.elementAt(index).arabicText} \n \n ${_favoriBox!.values.elementAt(index).turkishText} \n \n ${_favoriBox!.values.elementAt(index).surahName}");
+              }),
+          IconButonWidget(
+              icon: Icons.arrow_right_alt /* star */,
+              voidCallback: () {
+                Navigator.of(context).push(MaterialPageRoute(
+                    builder: (context) => MealDetailView(
+                          id: _favoriBox!.values
+                              .elementAt(index)
+                              .surahNo!
+                              .toInt(),
+                          surahName: _favoriBox!.values
+                              .elementAt(index)
+                              .surahName
+                              .toString(),
+                          gotoAyah: _favoriBox!.values
+                              .elementAt(index)
+                              .ayahNo!
+                              .toInt(),
+                        )));
+              }),
         ],
       ),
-    );
-  }
-
-  IconButton iconButonWidget(IconData icon, VoidCallback voidCallback) {
-    return IconButton(
-      onPressed: voidCallback,
-      icon: Icon(
-        icon,
-        color: Colors.white,
-      ),
-    );
-  }
-
-  Container translationTextWidget(ThemeData theme, int i) {
-    return Container(
-      color: theme.backgroundColor,
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Text("${_favoriBox!.values.elementAt(i).ayahNo}- " +
-            _favoriBox!.values.elementAt(i).turkishText.toString()),
-      ),
-    );
-  }
-
-  Container surahNameAndNo(ThemeData theme, int i) {
-    return Container(
-      //color: theme.backgroundColor,
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Text(_favoriBox!.values.elementAt(i).surahName.toString() +
-            " / ${_favoriBox!.values.elementAt(i).ayahNo} "),
-      ),
-    );
-  }
-
-  Container arabicTextWidget(ThemeData theme, int i) {
-    return Container(
-      color: theme.focusColor,
-      alignment: Alignment.topRight,
-      child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Text(
-          _favoriBox!.values.elementAt(i).arabicText ?? "",
-          style: TextStyle(
-            fontSize: 22,
-          ),
-        ),
-      ),
-    );
-  }
-
-  Container latinceTextWidget(ThemeData theme, int i) {
-    return Container(
-      color: theme.focusColor,
-      child: Center(
-          child: Padding(
-        padding: const EdgeInsets.all(8.0),
-        child: Text(_favoriBox!.values.elementAt(i).latinText ?? ""),
-      )),
     );
   }
 }

@@ -5,6 +5,7 @@ import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/view/favoriayetlerim_view.dart';
 import 'package:kuran/test/view/meal_view.dart';
+import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
 import 'package:kuran/view/trarmp3/view/trar_mp3_view.dart';
@@ -27,6 +28,7 @@ void main() async {
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
     ChangeNotifierProvider(create: (_) => SurahVerseByVerseViewModel()),
+    ChangeNotifierProvider(create: (_) => FavoriAyetlerimViewModel()),
   ], child: const MyApp()));
 }
 
