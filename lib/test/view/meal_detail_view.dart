@@ -1,3 +1,4 @@
+import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -34,7 +35,9 @@ class _MealDetailViewState extends State<MealDetailView> {
     // TODO: implement initState
 
     initAsyc();
-   widget.gotoAyah!=null? _favoriAyetlerimViewModel.waitScrolWork(widget.gotoAyah!):null;
+    widget.gotoAyah != null
+        ? _favoriAyetlerimViewModel.waitScrolWork(widget.gotoAyah!)
+        : null;
     //itemController.jumpTo(index: newGotoAyah!);
     super.initState();
   }
@@ -73,7 +76,7 @@ class _MealDetailViewState extends State<MealDetailView> {
                           color: theme.focusColor,
                           ayah: ayahs[i].verse!,
                           textPosition: Alignment.centerRight,
-                          style: TextStyle(fontSize: 20),
+                          style: TextStyle(fontSize: 25),
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
@@ -119,8 +122,14 @@ class _MealDetailViewState extends State<MealDetailView> {
         children: [
           IconButonWidget(
               icon: Icons.play_circle,
-              voidCallback: () {
-                _surahVerseByVerseViewModel.getAyahAudio(surahNo: widget.id, ayahNo: index+1);
+              voidCallback: () async {
+                var ayahUrl = await _surahVerseByVerseViewModel.getAyahAudio(
+                    surahNo: widget.id, ayahNo: index + 1);
+                if (ayahUrl != "hata") {
+                  _surahVerseByVerseViewModel.playUrlSingleAyah(url: ayahUrl);
+                }
+
+                print(index);
               }),
           IconButonWidget(
               icon: Icons.share_rounded,
@@ -129,7 +138,7 @@ class _MealDetailViewState extends State<MealDetailView> {
                     "${ayahs[index].verse} \n \n ${ayahs[index].translation!.text}");
               }),
           IconButonWidget(
-              icon: Icons.bookmark_add,
+              icon: Icons.bookmark_add_outlined,
               voidCallback: () async {
                 await HiveDb().putBox(HiveDbConstant.KALDIGIMYER, index);
                 await HiveDb()
@@ -138,19 +147,33 @@ class _MealDetailViewState extends State<MealDetailView> {
                     .showToast("Kaldığınız Yer Kayıt Edildi.");
               }),
           IconButonWidget(
-              icon: Icons.star_outline /* star */,
-              voidCallback: () {
-                _favoriAyetlerimViewModel.addFovoriAyetim(
-                    arabicText: ayahs[index].verse.toString(),
-                    latinText: ayahs[index].transcription.toString(),
-                    turkishText: ayahs[index].translation!.text.toString(),
-                    surahNo: widget.id,
-                    ayahNo: index + 1,
-                    surahName: widget.surahName);
+              icon: _surahVerseByVerseViewModel.isFavoriControl(
+                      ayahNo: index + 1, surahNo: widget.id)
+                  ? Icons.star
+                  : Icons.star_outline /* star */,
+              voidCallback: () async {
+                bool isFavori = await _surahVerseByVerseViewModel.isFavori(
+                    surahNo: widget.id, ayahNo: index + 1);
+                if (!isFavori) {
+                  _favoriAyetlerimViewModel.addFovoriAyetim(
+                      arabicText: ayahs[index].verse.toString(),
+                      latinText: ayahs[index].transcription.toString(),
+                      turkishText: ayahs[index].translation!.text.toString(),
+                      surahNo: widget.id,
+                      ayahNo: index + 1,
+                      surahName: widget.surahName);
+                  /* _surahVerseByVerseViewModel.isFavoriControl(
+                      ayahNo: index + 1, surahNo: widget.id);*/
 
-                SnippetExtanstion(context).showToast(
-                    "Ayet Favorileri Ayetlerime Kayıt Edildi.",
-                    duration: 3);
+                  SnippetExtanstion(context).showToast(
+                      "Ayet Favorileri Ayetlerime Kayıt Edildi.",
+                      duration: 3);
+                } else {
+                  SnippetExtanstion(context)
+                      .showToast("Fovorim Kaldırıldı", duration: 3);
+                }
+
+                setState(() {});
               }),
         ],
       ),
