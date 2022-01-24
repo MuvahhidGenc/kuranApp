@@ -48,4 +48,7 @@ class FavoriAyetlerimViewModel extends ChangeNotifier {
           })
         : null;
   }
+
+  
+
 }

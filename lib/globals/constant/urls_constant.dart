@@ -4,4 +4,5 @@ class UrlsConstant {
       "https://yayin.diyanet.gov.tr/File/Download?path=kurani_kerim_bilgisayar_hatli.pdf&id=428";
   static const KURAN_MP3_URL = "https://www.mp3quran.net/api/_turkey.json";
   static const KURAN_MP3_TRAR_URL = "http://www.zeygame.com/";
+   static const ALQURANCLOUDV1 = "https://api.alquran.cloud/v1/";
 }

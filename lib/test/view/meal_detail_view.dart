@@ -1,17 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_toastr/flutter_toastr.dart';
-import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
 import 'package:kuran/globals/widgets/iconbuton_widget.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/model/meal_model.dart';
-import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
-import 'package:provider/provider.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:share/share.dart';
 
@@ -39,7 +34,7 @@ class _MealDetailViewState extends State<MealDetailView> {
     // TODO: implement initState
 
     initAsyc();
-    _favoriAyetlerimViewModel.waitScrolWork(widget.gotoAyah!);
+   widget.gotoAyah!=null? _favoriAyetlerimViewModel.waitScrolWork(widget.gotoAyah!):null;
     //itemController.jumpTo(index: newGotoAyah!);
     super.initState();
   }
@@ -77,20 +72,20 @@ class _MealDetailViewState extends State<MealDetailView> {
                         AyahCardInTextWidget(
                           color: theme.focusColor,
                           ayah: ayahs[i].verse!,
-                          textPosition: Alignment.topRight,
+                          textPosition: Alignment.centerRight,
                           style: TextStyle(fontSize: 20),
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
                           ayah: ayahs[i].transcription!,
-                          textPosition: Alignment.topRight,
+                          textPosition: Alignment.centerLeft,
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
                           ayah: "${i + 1} - " + ayahs[i].translation!.text!,
-                          textPosition: Alignment.topRight,
+                          textPosition: Alignment.centerLeft,
                         ),
                         dividerWidget(),
                         bottomButonWidgets(theme, i, context),
@@ -125,7 +120,7 @@ class _MealDetailViewState extends State<MealDetailView> {
           IconButonWidget(
               icon: Icons.play_circle,
               voidCallback: () {
-                print("play");
+                _surahVerseByVerseViewModel.getAyahAudio(surahNo: widget.id, ayahNo: index+1);
               }),
           IconButonWidget(
               icon: Icons.share_rounded,
