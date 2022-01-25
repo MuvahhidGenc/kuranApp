@@ -6,4 +6,5 @@ class HiveDbConstant {
   static const FAVORIAYETLERIM = "favoriAyetlerim";
   static const TEXTLATINVISIBLE = "laticevisible";
   static const TEXTARABICVISIBLE = "laticevisible";
+  static const SELECTVERSEBYVERSEKARI = "selectversebyversekari";
 }

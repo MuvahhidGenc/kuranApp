@@ -25,8 +25,8 @@ void main() async {
   // await Hive.openBox<User>("users");
   await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.FAVORIAYETLERIM);
   await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.KALDIGIMYER);
- await Hive.openBox(HiveDbConstant.TEXTLATINVISIBLE);
- await Hive.openBox(HiveDbConstant.TEXTARABICVISIBLE);
+  await Hive.openBox(HiveDbConstant.TEXTLATINVISIBLE);
+  await Hive.openBox(HiveDbConstant.TEXTARABICVISIBLE);
   await Hive.openBox("kuranPage");
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
@@ -50,9 +50,11 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.brown,
         scaffoldBackgroundColor: Colors.brown[100],
         listTileTheme: ListTileThemeData(
-            tileColor: Colors.brown[300],
-            textColor: Colors.brown[50],
-            iconColor: Colors.brown[50]),
+          tileColor: Colors.brown[300],
+          textColor: Colors.brown[50],
+          iconColor: Colors.brown[50],
+        ),
+
         drawerTheme: DrawerThemeData(backgroundColor: Colors.brown[100]),
         iconTheme: IconThemeData(color: Colors.brown),
         //colorScheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness)
@@ -66,8 +68,12 @@ class MyApp extends StatelessWidget {
         'kuranMp3': (context) => KariKuranMp3View(),
         'trarMp3': (context) => TrArMp3View(),
         'meal': (context) => MealView(),
-        'favorilerim': (context) => FavoriAyetlerimView(nerden: "favori",),
-        'kaldigimyerler': (context) => FavoriAyetlerimView(nerden: "kaldigimyer",),
+        'favorilerim': (context) => FavoriAyetlerimView(
+              nerden: "favori",
+            ),
+        'kaldigimyerler': (context) => FavoriAyetlerimView(
+              nerden: "kaldigimyer",
+            ),
       },
     );
   }
