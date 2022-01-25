@@ -24,6 +24,7 @@ void main() async {
 
   // await Hive.openBox<User>("users");
   await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.FAVORIAYETLERIM);
+  await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.KALDIGIMYER);
   await Hive.openBox("kuranPage");
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
@@ -63,7 +64,8 @@ class MyApp extends StatelessWidget {
         'kuranMp3': (context) => KariKuranMp3View(),
         'trarMp3': (context) => TrArMp3View(),
         'meal': (context) => MealView(),
-        'favorilerim': (context) => FavoriAyetlerimView(),
+        'favorilerim': (context) => FavoriAyetlerimView(nerden: "favori",),
+        'kaldigimyerler': (context) => FavoriAyetlerimView(nerden: "kaldigimyer",),
       },
     );
   }

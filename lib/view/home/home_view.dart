@@ -72,6 +72,13 @@ class _HomeViewState extends State<HomeView> {
                 icon: Icon(Icons.book),
                 label: Text("Favorilerim"),
               ),
+               TextButton.icon(
+                onPressed: () {
+                  Navigator.of(context).pushNamed("kaldigimyerler");
+                },
+                icon: Icon(Icons.book),
+                label: Text("Kaldığım Yerler"),
+              ),
             ],
           ),
         ),

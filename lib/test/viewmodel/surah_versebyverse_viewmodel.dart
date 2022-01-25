@@ -61,38 +61,35 @@ class SurahVerseByVerseViewModel extends ChangeNotifier {
     _audioPlayer.stop();
   }
 
-  isFavoriControl({required int surahNo, required int ayahNo}) {
-    box = HiveBoxes.faroviAyetlerimBox();
+  isFavoriControl({required int surahNo, required int ayahNo,required Box box}) {
+   // box = HiveBoxes.faroviAyetlerimBox();
 
-    if (box != null) {
+    //if (box != null) {
       //  print(box!.keys);
-      for (var value in box!.values) {
+      for (var value in box.values) {
         if (surahNo == value.surahNo && ayahNo == value.ayahNo) {
           // print("$surahNo - ${value.surahNo} / $ayahNo - ${value.ayahNo}");
           return true;
         }
       }
-    }
+   // }
 
     return false;
 
     //return box!.containsKey(index);
   }
 
-  Future<bool> isFavori({required int surahNo, required int ayahNo}) async {
-    box = HiveBoxes.faroviAyetlerimBox();
-
-    if (box != null) {
-      for (var key in box!.keys) {
-        if (box!.containsKey(key)) {
-          var get = box!.get(key);
+  Future<bool> isFavori({required int surahNo, required int ayahNo,required Box box}) async {
+      for (var key in box.keys) {
+        if (box.containsKey(key)) {
+          var get = box.get(key);
           if (get?.ayahNo == ayahNo && get?.surahNo == surahNo) {
-            box!.delete(key);
+            box.delete(key);
             return true;
           }
         }
       }
-    }
+    
     return false;
 
     //return false;

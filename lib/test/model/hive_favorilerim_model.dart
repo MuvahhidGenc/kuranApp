@@ -1,8 +1,9 @@
 import 'package:hive/hive.dart';
+
 part 'hive_favorilerim_model.g.dart';
 
 @HiveType(typeId: 0)
-class HiveFavorilerimModel {
+class HiveFavorilerimModel{
   @HiveField(0)
   String? arabicText;
   @HiveField(1)

@@ -6,6 +6,7 @@ import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
 import 'package:kuran/globals/widgets/iconbuton_widget.dart';
 import 'package:kuran/test/model/meal_model.dart';
+import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
@@ -137,23 +138,14 @@ class _MealDetailViewState extends State<MealDetailView> {
                 Share.share(
                     "${ayahs[index].verse} \n \n ${ayahs[index].translation!.text}");
               }),
-          IconButonWidget(
-              icon: Icons.bookmark_add_outlined,
-              voidCallback: () async {
-                await HiveDb().putBox(HiveDbConstant.KALDIGIMYER, index);
-                await HiveDb()
-                    .putBox(HiveDbConstant.KALDIGIMYERSURAHID, widget.id);
-                SnippetExtanstion(context)
-                    .showToast("Kaldığınız Yer Kayıt Edildi.");
-              }),
-          IconButonWidget(
+         IconButonWidget(
               icon: _surahVerseByVerseViewModel.isFavoriControl(
-                      ayahNo: index + 1, surahNo: widget.id)
-                  ? Icons.star
-                  : Icons.star_outline /* star */,
+                      ayahNo: index + 1, surahNo: widget.id,box: HiveBoxes.kaldigimyerBox())
+                  ? Icons.bookmark
+                  : Icons.bookmark_add_outlined /* star */,
               voidCallback: () async {
                 bool isFavori = await _surahVerseByVerseViewModel.isFavori(
-                    surahNo: widget.id, ayahNo: index + 1);
+                    surahNo: widget.id, ayahNo: index + 1,box: HiveBoxes.kaldigimyerBox());
                 if (!isFavori) {
                   _favoriAyetlerimViewModel.addFovoriAyetim(
                       arabicText: ayahs[index].verse.toString(),
@@ -161,9 +153,34 @@ class _MealDetailViewState extends State<MealDetailView> {
                       turkishText: ayahs[index].translation!.text.toString(),
                       surahNo: widget.id,
                       ayahNo: index + 1,
-                      surahName: widget.surahName);
-                  /* _surahVerseByVerseViewModel.isFavoriControl(
-                      ayahNo: index + 1, surahNo: widget.id);*/
+                      surahName: widget.surahName,box: HiveBoxes.kaldigimyerBox());
+
+                  SnippetExtanstion(context).showToast(
+                      "Kaldığın Yer Kayıt Edildi.",
+                      duration: 3);
+                } else {
+                  SnippetExtanstion(context)
+                      .showToast("Kaldığın Yer Kaldırıldı", duration: 3);
+                }
+
+                setState(() {});
+              }),
+          IconButonWidget(
+              icon: _surahVerseByVerseViewModel.isFavoriControl(
+                      ayahNo: index + 1, surahNo: widget.id,box: HiveBoxes.faroviAyetlerimBox())
+                  ? Icons.star
+                  : Icons.star_outline /* star */,
+              voidCallback: () async {
+                bool isFavori = await _surahVerseByVerseViewModel.isFavori(
+                    surahNo: widget.id, ayahNo: index + 1,box: HiveBoxes.faroviAyetlerimBox());
+                if (!isFavori) {
+                  _favoriAyetlerimViewModel.addFovoriAyetim(
+                      arabicText: ayahs[index].verse.toString(),
+                      latinText: ayahs[index].transcription.toString(),
+                      turkishText: ayahs[index].translation!.text.toString(),
+                      surahNo: widget.id,
+                      ayahNo: index + 1,
+                      surahName: widget.surahName,box: HiveBoxes.faroviAyetlerimBox());
 
                   SnippetExtanstion(context).showToast(
                       "Ayet Favorileri Ayetlerime Kayıt Edildi.",

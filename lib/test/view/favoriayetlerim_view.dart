@@ -11,24 +11,42 @@ import 'package:kuran/test/view/meal_detail_view.dart';
 import 'package:share/share.dart';
 
 class FavoriAyetlerimView extends StatefulWidget {
-  FavoriAyetlerimView({Key? key}) : super(key: key);
+  String nerden;
+  FavoriAyetlerimView({required this.nerden,Key? key}) : super(key: key);
 
   @override
   State<FavoriAyetlerimView> createState() => _FavoriAyetlerimViewState();
 }
 
 class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
-  final Box<HiveFavorilerimModel>? _favoriBox = HiveBoxes.faroviAyetlerimBox();
+  String? title;
+   Box<HiveFavorilerimModel>? _box;
+  //var _box;
 
+@override
+  void initState() {
+    // TODO: implement initState
+    initAsyc();
+    super.initState();
+  }
+  initAsyc()async{
+     if(widget.nerden=="favori"){
+      _box= HiveBoxes.faroviAyetlerimBox();
+      title="Favori Ayetlerim";
+    }else{
+      _box=HiveBoxes.kaldigimyerBox();
+      title="Kaldığım Yerler";
+    }
+  }
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
     return Scaffold(
       appBar: AppBar(
-        title: Text("Favori Ayetlerim"),
+        title: Text(title??""),
       ),
-      body: ValueListenableBuilder<Box<HiveFavorilerimModel>>(
-          valueListenable: _favoriBox!.listenable(),
+      body:_box!=null? ValueListenableBuilder<Box<HiveFavorilerimModel>>(
+          valueListenable: _box!.listenable(),
           builder: (context, box, widget) {
             return ListView.builder(
               itemCount: box.length,
@@ -47,37 +65,37 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
                                   box.delete(box.keys.elementAt(i));
                                 });
                                 SnippetExtanstion(context).showToast(
-                                    "Favori Kaldırıldı",
+                                    "Silme İşlemi Başarılı",
                                     duration: 2);
                               }),
                         ),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
-                          ayah: _favoriBox!.values.elementAt(i).arabicText!,
+                          ayah: _box!.values.elementAt(i).arabicText!,
                           textPosition: Alignment.topRight,
                           style: TextStyle(fontSize: 22),
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
-                          ayah: _favoriBox!.values.elementAt(i).latinText!,
+                          ayah: _box!.values.elementAt(i).latinText!,
                           textPosition: Alignment.topLeft,
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
-                          ayah: "${_favoriBox!.values.elementAt(i).ayahNo} - " +
-                              _favoriBox!.values.elementAt(i).turkishText!,
+                          ayah: "${_box!.values.elementAt(i).ayahNo} - " +
+                              _box!.values.elementAt(i).turkishText!,
                           textPosition: Alignment.topLeft,
                         ),
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: Colors.transparent,
-                          ayah: _favoriBox!.values
+                          ayah: _box!.values
                                   .elementAt(i)
                                   .surahName
                                   .toString() +
-                              " / ${_favoriBox!.values.elementAt(i).ayahNo} ",
+                              " / ${_box!.values.elementAt(i).ayahNo} ",
                           textPosition: Alignment.center,
                         ),
                         bottomButonWidgets(theme, i),
@@ -87,7 +105,7 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
                 );
               },
             );
-          }),
+          }):CircularProgressIndicator(),
     );
   }
 
@@ -108,22 +126,22 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
               icon: Icons.share_rounded,
               voidCallback: () {
                 Share.share(
-                    "${_favoriBox!.values.elementAt(index).arabicText} \n \n ${_favoriBox!.values.elementAt(index).turkishText} \n \n ${_favoriBox!.values.elementAt(index).surahName}");
+                    "${_box!.values.elementAt(index).arabicText} \n \n ${_box!.values.elementAt(index).turkishText} \n \n ${_box!.values.elementAt(index).surahName}");
               }),
           IconButonWidget(
               icon: Icons.arrow_right_alt /* star */,
               voidCallback: () {
                 Navigator.of(context).push(MaterialPageRoute(
                     builder: (context) => MealDetailView(
-                          id: _favoriBox!.values
+                          id: _box!.values
                               .elementAt(index)
                               .surahNo!
                               .toInt(),
-                          surahName: _favoriBox!.values
+                          surahName: _box!.values
                               .elementAt(index)
                               .surahName
                               .toString(),
-                          gotoAyah: _favoriBox!.values
+                          gotoAyah: _box!.values
                               .elementAt(index)
                               .ayahNo!
                               .toInt(),

@@ -5,4 +5,7 @@ import 'package:kuran/test/model/hive_favorilerim_model.dart';
 class HiveBoxes {
   static Box<HiveFavorilerimModel> faroviAyetlerimBox() =>
       Hive.box(HiveDbConstant.FAVORIAYETLERIM);
+      static Box<HiveFavorilerimModel> kaldigimyerBox() =>
+      Hive.box(HiveDbConstant.KALDIGIMYER);
+      
 }
