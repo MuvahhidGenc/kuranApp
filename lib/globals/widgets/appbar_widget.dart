@@ -9,14 +9,14 @@ AppBar appBarWidget({
   return AppBar(
     title: Text(
       titleTxt ?? "",
-      style: TextStyle(color: !nightMode! ? Colors.black : Colors.white),
+      style:nightMode!=null? TextStyle(color: !nightMode ? Colors.black : Colors.white):null,
     ),
-    iconTheme: IconThemeData(color: !nightMode ? Colors.black : Colors.white),
+   iconTheme:nightMode!=null? IconThemeData(color: !nightMode ? Colors.black : Colors.white):null,
     backgroundColor: backColor ?? Colors.transparent,
     elevation: 0.0,
     leading: IconButton(
       icon: Icon(Icons.arrow_back,
-          color: !nightMode ? Colors.black : Colors.white),
+          color:nightMode!=null? !nightMode ? Colors.black : Colors.white:null,),
       onPressed: () => Navigator.of(context!).pop(),
     ),
   );

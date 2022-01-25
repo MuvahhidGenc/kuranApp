@@ -28,23 +28,33 @@ class _MealDetailViewState extends State<MealDetailView> {
   SurahVerseByVerseViewModel _surahVerseByVerseViewModel =
       SurahVerseByVerseViewModel();
   List<Verse> ayahs = List.empty();
-
+  bool latinTextVisible=true;
+   bool arabicTextVisible=true;
   var _favoriAyetlerimViewModel = FavoriAyetlerimViewModel();
+  
 
   @override
   void initState() {
     // TODO: implement initState
 
+    ayahsList();
     initAsyc();
     widget.gotoAyah != null
         ? _favoriAyetlerimViewModel.waitScrolWork(widget.gotoAyah!)
         : null;
+        
     //itemController.jumpTo(index: newGotoAyah!);
     super.initState();
   }
 
-  initAsyc() async {
+  initAsyc()async{
+     latinTextVisible=await HiveDb().getBox(HiveDbConstant.TEXTLATINVISIBLE)??true;
+     arabicTextVisible=await HiveDb().getBox(HiveDbConstant.TEXTARABICVISIBLE)??true;
+  }
+
+  ayahsList() async {
     ayahs = await _surahVerseByVerseViewModel.getMealDetail(surahId: widget.id);
+   
     return ayahs;
   }
 
@@ -52,11 +62,63 @@ class _MealDetailViewState extends State<MealDetailView> {
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
     return Scaffold(
+       
       appBar: AppBar(
         title: Text(widget.surahName + " Süresi"),
+         leading: IconButton(
+      icon: Icon(Icons.arrow_back,
+      ),
+      onPressed: () => Navigator.of(context).pop(),
+    ),
+      ),
+      endDrawer: Drawer(
+         elevation: 0.0,
+        child: Container(
+          color: Colors.transparent,
+          child: Padding(
+            padding: const EdgeInsets.only(top:5.0),
+            child: ListView(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.only(top:5.0),
+                  child: ListTile(
+                    title:   SwitchListTile(
+                          value: arabicTextVisible,
+                          title: const Text("Arapça Metin"),
+                          secondary: Icon(Icons.book_online_outlined),
+                          onChanged: (bool? val) async{
+                            arabicTextVisible=!arabicTextVisible;
+                            await HiveDb().putBox(HiveDbConstant.TEXTARABICVISIBLE,arabicTextVisible);
+                            print("${HiveDb().getBox(HiveDbConstant.TEXTARABICVISIBLE)} - $arabicTextVisible - "+latinTextVisible.toString());
+                            setState(() {
+                             
+                            });
+                          }),
+                  ),
+                ),
+                 Padding(
+                   padding: const EdgeInsets.only(top:8.0),
+                   child: ListTile(
+                    title:   SwitchListTile(
+                          value: latinTextVisible,
+                          title: const Text("Türkçe Okunuş Metin"),
+                          secondary: Icon(Icons.book_online_outlined),
+                          onChanged: (bool? val) {
+                            latinTextVisible=val!;
+                            HiveDb().putBox(HiveDbConstant.TEXTLATINVISIBLE,val);
+                            setState(() {
+                             
+                            });
+                          }),
+                ),
+                 ),
+              ],
+            ),
+          ),
+        ),
       ),
       body: FutureBuilder(
-        future: initAsyc(),
+        future: ayahsList(),
         builder: (context, a) {
           if (a.hasData) {
             return ScrollablePositionedList.builder(
@@ -73,18 +135,20 @@ class _MealDetailViewState extends State<MealDetailView> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         // arabicTextWidget(theme, i),
-                        AyahCardInTextWidget(
+                       arabicTextVisible? AyahCardInTextWidget(
                           color: theme.focusColor,
                           ayah: ayahs[i].verse!,
                           textPosition: Alignment.centerRight,
                           style: TextStyle(fontSize: 25),
-                        ),
-                        dividerWidget(),
-                        AyahCardInTextWidget(
+                        ):SizedBox(),
+
+                        latinTextVisible? dividerWidget():SizedBox(),
+                     latinTextVisible? AyahCardInTextWidget(
                           color: theme.focusColor,
                           ayah: ayahs[i].transcription!,
                           textPosition: Alignment.centerLeft,
-                        ),
+                        ):SizedBox(),
+                       
                         dividerWidget(),
                         AyahCardInTextWidget(
                           color: theme.focusColor,
@@ -106,6 +170,7 @@ class _MealDetailViewState extends State<MealDetailView> {
       ),
     );
   }
+
 
   Divider dividerWidget() {
     return Divider(

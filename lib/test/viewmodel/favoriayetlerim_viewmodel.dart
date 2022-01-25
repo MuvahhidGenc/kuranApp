@@ -7,7 +7,7 @@ class FavoriAyetlerimViewModel extends ChangeNotifier {
   Box<HiveFavorilerimModel>? box;
   ItemPositionsListener itemPositionListener = ItemPositionsListener.create();
   ItemScrollController itemController = ItemScrollController();
-
+bool latinTextVisible=true;
   addFovoriAyetim(
       {required String arabicText,
       required String latinText,
@@ -47,6 +47,8 @@ class FavoriAyetlerimViewModel extends ChangeNotifier {
           })
         : null;
   }
+
+ 
 
   
 

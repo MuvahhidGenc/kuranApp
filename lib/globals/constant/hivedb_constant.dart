@@ -4,4 +4,6 @@ class HiveDbConstant {
   static const NIGHTMODE = "nightMode";
   static const KALDIGIMYER = "kaldigimYerler";
   static const FAVORIAYETLERIM = "favoriAyetlerim";
+  static const TEXTLATINVISIBLE = "laticevisible";
+  static const TEXTARABICVISIBLE = "laticevisible";
 }

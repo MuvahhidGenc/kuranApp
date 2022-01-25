@@ -50,6 +50,7 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
           builder: (context, box, widget) {
             return ListView.builder(
               itemCount: box.length,
+              reverse: true,
               itemBuilder: (context, i) {
                 return Card(
                   child: ListTile(
@@ -58,9 +59,8 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
                         Container(
                           alignment: Alignment.topRight,
                           child: IconButonWidget(
-                              icon: Icons.close /* star */,
+                              icon: Icons.close ,
                               voidCallback: () {
-                                print(box.keys.elementAt(i));
                                 setState(() {
                                   box.delete(box.keys.elementAt(i));
                                 });

@@ -25,6 +25,8 @@ void main() async {
   // await Hive.openBox<User>("users");
   await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.FAVORIAYETLERIM);
   await Hive.openBox<HiveFavorilerimModel>(HiveDbConstant.KALDIGIMYER);
+ await Hive.openBox(HiveDbConstant.TEXTLATINVISIBLE);
+ await Hive.openBox(HiveDbConstant.TEXTARABICVISIBLE);
   await Hive.openBox("kuranPage");
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
