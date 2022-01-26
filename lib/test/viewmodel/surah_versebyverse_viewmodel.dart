@@ -21,12 +21,19 @@ class SurahVerseByVerseViewModel extends ChangeNotifier {
   String translationFileName = "tanslation";
   final AudioPlayer _audioPlayer = AudioPlayer();
   Box<HiveFavorilerimModel>? box;
+  bool network=false;
   @override
   // ignore: must_call_super
 
   getSureName() async {
     sureNameModel = await _trArViewModel.getSureNameModel();
     notifyListeners();
+  }
+  
+ Future networkControl()async{
+   network=await NetworkManager().connectionControl();
+  notifyListeners();
+      
   }
 
   getMealDetail({required int surahId}) async {

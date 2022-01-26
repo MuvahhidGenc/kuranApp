@@ -3,6 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
+import 'package:kuran/globals/manager/network_manager.dart';
+import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
 import 'package:kuran/globals/widgets/iconbuton_widget.dart';
 import 'package:kuran/test/model/meal_model.dart';
@@ -10,6 +12,8 @@ import 'package:kuran/test/model/versebyverse_kari_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
+import 'package:provider/provider.dart';
+import 'package:rflutter_alert/rflutter_alert.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:share/share.dart';
 
@@ -73,6 +77,7 @@ class _MealDetailViewState extends State<MealDetailView> {
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
+    var provider=Provider.of<SurahVerseByVerseViewModel>(context);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.surahName + " Süresi"),
@@ -245,7 +250,7 @@ class _MealDetailViewState extends State<MealDetailView> {
       child: Wrap(
         spacing: 12,
         children: [
-          audioPlayButtonWidget(index),
+          audioPlayButtonWidget(index,context),
           shareButtonWidget(index),
           kaldigimYerButtonWidget(index, context),
           favoriButton(index, context),
@@ -254,11 +259,13 @@ class _MealDetailViewState extends State<MealDetailView> {
     );
   }
 
-  IconButonWidget audioPlayButtonWidget(int index) {
-    return IconButonWidget(
+  Widget audioPlayButtonWidget(int index,BuildContext context) {
+   
+      return IconButonWidget(
         icon: Icons.play_circle,
         voidCallback: () async {
-          var ayahUrl = await _surahVerseByVerseViewModel.getAyahAudio(
+          if(await NetworkManager().connectionControl()){
+             var ayahUrl = await _surahVerseByVerseViewModel.getAyahAudio(
             surahNo: widget.id,
             ayahNo: index + 1,
             kariId: selectKariId!,
@@ -268,7 +275,29 @@ class _MealDetailViewState extends State<MealDetailView> {
           }
 
           print(index);
+          }else{
+            print("Bağlantı Yok");
+           
+             getDialog(
+        context: context,
+        title: "İnternet Bağlantısı Yok",
+        content: Icon(Icons.wifi_off),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+            },
+            child: Text("Tamam"),
+          ),
+        ],
+      );
+           
+          }
+         
         });
+      
+    
+    
   }
 
   IconButonWidget shareButtonWidget(int index) {

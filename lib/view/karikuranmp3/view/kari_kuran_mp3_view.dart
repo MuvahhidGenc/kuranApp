@@ -6,6 +6,7 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
+import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/view/karikuranmp3/model/kari_kuran_mp3_model.dart';
 import 'package:kuran/view/karikuranmp3/modelview/karikuranmp3_modelview.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
@@ -479,6 +480,9 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
 
   Future<void> downloadAndAudioPlaySettings(
       String surahToString, String webServisUrl, int index) async {
+         var path = await NetworkManager()
+        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
+    if(path!=ExcationManagerEnum.notConnection && path!=ExcationManagerEnum.downloadEroor){
     var getSurahIndex = _kariKuranMp3ModelView.getKariSurahListIndex(kari);
     playerControl.forEach((key, value) {
       playerControl[key] = false;
@@ -493,10 +497,8 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     kari["url"] = await HiveDb().getBox(hiveKey["kariUrl"]);
     kari["url"] = kari["url"]! + "/" + webServisUrl;
 
-    var path = await NetworkManager()
-        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
-
-    //Kari Keep Veriable
+  
+         //Kari Keep Veriable
     kari["name"] = await HiveDb().getBox(hiveKey["kariName"]);
     kari["path"] = path;
     kari["surah"] = index + 1;
@@ -517,5 +519,21 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
       audioPathState;
       playerControl;
     });
+    }else{
+       getDialog(
+        context: context,
+        title: "İnternet Bağlantısı Yok",
+        content: Icon(Icons.wifi_off),
+        actions: [
+          TextButton(
+            onPressed: () {
+              Navigator.pop(context);
+            },
+            child: Text("Tamam"),
+          ),
+        ],
+      );
+    }
+   
   }
 }
