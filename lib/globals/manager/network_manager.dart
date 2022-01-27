@@ -80,13 +80,13 @@ class NetworkManager extends ChangeNotifier {
     return 1;
   }*/
 
-  Future downloadMediaFile({String? url, String? folderandpath}) async {
+  Future downloadMediaFile({required String url,required String folderandpath}) async {
     final dir = await getApplicationDocumentsDirectory();
     final file = File('${dir.path}/$folderandpath');
 
     if (!file.existsSync()) {
       if (await connectionControl()) {
-        final bytes = await readBytes(Uri.parse(url!));
+        final bytes = await readBytes(Uri.parse(url));
         await file.writeAsBytes(bytes);
       } else {
         return ExcationManagerEnum.notConnection;

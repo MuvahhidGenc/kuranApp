@@ -30,6 +30,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   String fileName = "hafizlar.json";
   String sureListName = "surelist.json";
   var _sureNameModel = SureNameModel();
+  bool networkControl = true;
 
   Map<String, Widget> pathStateWidget =
       Map<String, Widget>(); //List Tile Path State Control And
@@ -64,11 +65,20 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   void initState() {
     // TODO: implement initState
     super.initState();
+     print("initState");
+ 
+
     initAsyc();
+    
   }
 
   Future initAsyc() async {
-    dynamic v = KuranModelView().dbKeyControl(hiveKey["kariUrl"]);
+    networkControl=true;
+    Future.delayed(Duration(microseconds: 60),()async{
+      networkControl = await NetworkManager().connectionControl();
+    });
+    
+    dynamic v = await KuranModelView().dbKeyControl(hiveKey["kariUrl"]);
     if (v == null) {
       HiveDb().putBox(hiveKey["kariUrl"], "https://server7.mp3quran.net/basit");
       HiveDb().putBox(hiveKey["kariName"], "Abdulbasit Abdulsamad");
@@ -89,6 +99,13 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     // _kariKuranMp3ModelView.downloadHafizlar(kari);
     downloadHafizlar();
     audioPlayerStream();
+     WidgetsBinding.instance!.addPostFrameCallback((_)async {
+       if(!networkControl){
+        await getDialog(context: context, title: "title", actions: [TextButton(onPressed: (){
+          Navigator.pop(context);
+        }, child: Text("child"))]);
+       }
+  });
   }
 
   audioPlayerStream() {
@@ -135,9 +152,9 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   Future downloadHafizlar() async {
     // Get Kari
     String? path = DirectoryNameEnum(DirectoryName.kiraat).getjsonPath;
+
     dynamic getHafizlar = await NetworkManager().saveStorage(
         url: UrlsConstant.KURAN_MP3_URL, folder: path, fileName: fileName);
-    hafizlar = KariKuranMp3Model.fromJson(jsonDecode(jsonDecode(getHafizlar)));
 
 //Get List Surah Names
     var getSureName = await NetworkManager().saveStorage(
@@ -145,16 +162,25 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
         folder: DirectoryNameEnum(DirectoryName.surenamelist).getjsonPath,
         fileName: sureListName);
 
-    _sureNameModel = SureNameModel.fromJson(jsonDecode(getSureName));
+    if (path != ExcationManagerEnum.notConnection &&
+        getSureName != ExcationManagerEnum.notConnection) {
+      networkControl = true;
+      hafizlar =
+          KariKuranMp3Model.fromJson(jsonDecode(jsonDecode(getHafizlar)));
+
+      _sureNameModel = SureNameModel.fromJson(jsonDecode(getSureName));
+      _sureNameModel.data!.map((e) async {
+        playerControl[say] = false;
+        say++;
+      }).toList();
+    } else {
+      networkControl = false;
+    }
+
     //_sureNameModel=Sure
     if (kari["name"] != null) {
       await kariUpdate();
     }
-
-    _sureNameModel.data!.map((e) async {
-      playerControl[say] = false;
-      say++;
-    }).toList();
 
     setState(() {
       pathStateWidget;
@@ -166,18 +192,43 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
 
   @override
   Widget build(BuildContext context) {
+    var theme = SnippetExtanstion(context).theme;
     return Scaffold(
       appBar: AppBar(
-        title: Center(child: Text(kari["name"] ?? "")),
+        title: Center(child: Text(kari["name"] ?? "Kari Seçimi Yapın ->")),
       ),
       endDrawer: drawer(),
       body: Column(
         children: [
           Expanded(
             flex: 7,
-            child: _sureNameModel.data != null && kariSurahlist != null
-                ? sureListViewBuilder()
-                : Center(child: Text("Yükleniyor")),
+            child: surahNameNullControl(theme),
+
+            /*AlertDialog(
+                    title: Text("İnternet Bağlantınız Yok"),
+                    content: Icon(Icons.wifi_off),
+                    actions: [
+                      TextButton(
+                        onPressed: () {
+                          Navigator.pop(context);
+                        },
+                        child: Text("Vazgeç"),
+                      ),
+                      Spacer(
+                        flex: 1,
+                      ),
+                      TextButton(
+                        onPressed: () {
+                          Navigator.pushReplacement(
+                              context,
+                              MaterialPageRoute(
+                                  builder: (BuildContext context) =>
+                                      super.widget));
+                        },
+                        child: Text("Yenile"),
+                      ),
+                    ],
+                  ),*/
           ),
           Expanded(flex: 3, child: SizedBox())
         ],
@@ -201,6 +252,47 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
               )
             : null,
       ),*/
+    );
+  }
+
+  Widget surahNameNullControl(ThemeData theme) {
+    if (_sureNameModel.data != null && kariSurahlist != null) {
+      return sureListViewBuilder();
+    } else {
+      if(networkControl){
+         return ListView.builder(
+          itemCount: 10,
+          itemBuilder: (context, i) {
+            return Card(
+              child: ListTile(
+                tileColor: theme.scaffoldBackgroundColor,
+              ),
+            );
+          });
+      }
+      else{
+        return networkControlWidget();
+      }
+     
+    }
+  }
+
+  Widget networkControlWidget() {
+  
+    return Center(
+      child: Column(
+        children: [
+          Text("İnternet Bağlantısı Olmadığı İçin Süre İsimleri İndirilmedi.!"),
+          TextButton(
+              onPressed: () {
+                Navigator.pushReplacement(
+                    context,
+                    MaterialPageRoute(
+                        builder: (BuildContext context) => super.widget));
+              },
+              child: Text("Yeniden Dene"))
+        ],
+      ),
     );
   }
 
@@ -480,47 +572,47 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
 
   Future<void> downloadAndAudioPlaySettings(
       String surahToString, String webServisUrl, int index) async {
-         var path = await NetworkManager()
-        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
-    if(path!=ExcationManagerEnum.notConnection && path!=ExcationManagerEnum.downloadEroor){
-    var getSurahIndex = _kariKuranMp3ModelView.getKariSurahListIndex(kari);
-    playerControl.forEach((key, value) {
-      playerControl[key] = false;
-    });
-    if (audioPathState[surahToString] == false) {
-      setState(() {
-        pathStateWidget[surahToString] = CircularProgressIndicator();
-      });
-    }
-    audioPlayer.stop();
-    //Kari Keep Veriable
     kari["url"] = await HiveDb().getBox(hiveKey["kariUrl"]);
     kari["url"] = kari["url"]! + "/" + webServisUrl;
+    var path = await NetworkManager()
+        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
+    if (path != ExcationManagerEnum.notConnection &&
+        path != ExcationManagerEnum.downloadEroor) {
+      var getSurahIndex = _kariKuranMp3ModelView.getKariSurahListIndex(kari);
+      playerControl.forEach((key, value) {
+        playerControl[key] = false;
+      });
+      if (audioPathState[surahToString] == false) {
+        setState(() {
+          pathStateWidget[surahToString] = CircularProgressIndicator();
+        });
+      }
+      audioPlayer.stop();
+      //Kari Keep Veriable
 
-  
-         //Kari Keep Veriable
-    kari["name"] = await HiveDb().getBox(hiveKey["kariName"]);
-    kari["path"] = path;
-    kari["surah"] = index + 1;
-    kari["surahName"] = _sureNameModel.data![index].name;
+      //Kari Keep Veriable
+      kari["name"] = await HiveDb().getBox(hiveKey["kariName"]);
+      kari["path"] = path;
+      kari["surah"] = index + 1;
+      kari["surahName"] = _sureNameModel.data![index].name;
 
-    pathStateWidget[surahToString] = Icon(Icons.download);
-    audioPathState[surahToString] = true;
+      pathStateWidget[surahToString] = Icon(Icons.download);
+      audioPathState[surahToString] = true;
 
-    if (playerControl[index] == true) {
-      buttomSheetPlayIcon = Icons.play_circle_fill;
-      audioPlayer.pause();
+      if (playerControl[index] == true) {
+        buttomSheetPlayIcon = Icons.play_circle_fill;
+        audioPlayer.pause();
+      } else {
+        playerControl[index] = true;
+        audioPlayer.play(path);
+        buttomSheetPlayIcon = Icons.pause_circle_filled;
+      }
+      setState(() {
+        audioPathState;
+        playerControl;
+      });
     } else {
-      playerControl[index] = true;
-      audioPlayer.play(path);
-      buttomSheetPlayIcon = Icons.pause_circle_filled;
-    }
-    setState(() {
-      audioPathState;
-      playerControl;
-    });
-    }else{
-       getDialog(
+      getDialog(
         context: context,
         title: "İnternet Bağlantısı Yok",
         content: Icon(Icons.wifi_off),
@@ -534,6 +626,5 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
         ],
       );
     }
-   
   }
 }
