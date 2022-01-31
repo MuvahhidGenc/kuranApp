@@ -11,8 +11,10 @@ class TrArBottomSheetWidget extends StatefulWidget {
 }
 
 class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
+  // TrArMp3ViewModel trArViewModelProvider = TrArMp3ViewModel();
   @override
   Widget build(BuildContext context) {
+    print("data");
     var trArViewModelProvider = Provider.of<TrArMp3ViewModel>(context);
     var mediaQuery = SnippetExtanstion(context).media;
     return Container(
@@ -51,11 +53,11 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
     return Expanded(
       //Next Buttom
       child: IconButton(
-          onPressed: () async =>
-              await trArViewModelProvider.bottomSheetNextAndBack(work: "next"),
+          onPressed: () async => await Provider.of<TrArMp3ViewModel>(context)
+              .bottomSheetNextAndBack(work: "next"),
           icon: Icon(
             Icons.skip_next,
-            size: 35.0,
+            size: SnippetExtanstion(context).media.size.height * 0.06,
           )),
     );
   }
@@ -68,7 +70,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
               await trArViewModelProvider.bottomSheetPlayButtonClick(),
           icon: Icon(
             trArViewModelProvider.buttomSheetPlayIcon ?? Icons.play_circle,
-            size: 50.0,
+            size: SnippetExtanstion(context).media.size.height * 0.06,
           )),
     );
   }
@@ -81,12 +83,13 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
               .bottomSheetNextAndBack(work: "previouse"),
           icon: Icon(
             Icons.skip_previous,
-            size: 35.0,
+            size: SnippetExtanstion(context).media.size.height * 0.06,
           )),
     );
   }
 
-  Padding sliderAndLefRightTextWidgets(TrArMp3ViewModel trArViewModelProvider) {
+  /* Padding sliderAndLefRightTextWidgets(TrArMp3ViewModel trArViewModelProvider) {
+    
     return Padding(
       // Audio Slider Bar Left Right Text
       padding: EdgeInsets.symmetric(
@@ -109,6 +112,72 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
         ],
       ),
     );
+  }*/
+  Padding sliderAndLefRightTextWidgets(TrArMp3ViewModel trArViewModelProvider) {
+    return Padding(
+      // Audio Slider Bar Left Right Text
+      padding: EdgeInsets.symmetric(
+        horizontal: 12.0,
+        vertical: 0.0,
+      ),
+      child: Column(
+        // Audio Sl
+        crossAxisAlignment: CrossAxisAlignment.center,
+        children: [
+          Row(
+            children: [
+              //Text("data"),
+              Selector<TrArMp3ViewModel, Duration>(
+                builder: (context, data, child) {
+                  print("object");
+                  return Text(
+                      '${data.inMinutes}:${data.inSeconds.remainder(60)}');
+                },
+                selector: (buildContext, duration) => duration.position,
+              ),
+              /*Text(
+                  "${trArViewModelProvider.position.inMinutes}:${trArViewModelProvider.position.inSeconds.remainder(60)}"),*/
+              // Expanded(child: sliderAdaptiveWidget(trArViewModelProvider)),
+              Expanded(
+                child: Selector<TrArMp3ViewModel, Duration>(
+                  builder: (context, data, child) {
+                    print("object");
+                    return Slider.adaptive(
+                        value: data.inSeconds.toDouble(),
+                        max:
+                            trArViewModelProvider.duration.inSeconds.toDouble(),
+                        onChanged: (val) {
+                          final durations = trArViewModelProvider.duration;
+                          if (durations == null) {
+                            return;
+                          }
+                          final positions = val;
+                          if (positions <
+                              trArViewModelProvider.duration.inSeconds
+                                  .toDouble())
+                            trArViewModelProvider.audioPlayer
+                                .seek(Duration(seconds: positions.round()));
+                        });
+                  },
+                  selector: (buildContext, duration) => duration.position,
+                ),
+              ),
+
+              Selector<TrArMp3ViewModel, Duration>(
+                builder: (context, data, child) {
+                  print("object");
+                  return Text(
+                      '${data.inMinutes}:${data.inSeconds.remainder(60)}');
+                },
+                selector: (buildContext, duration) => duration.duration,
+              ),
+              /*Text(
+                  "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),*/
+            ],
+          ),
+        ],
+      ),
+    );
   }
 
   BoxDecoration containerBoxDecoration(BuildContext context) {
@@ -123,6 +192,21 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
         ]);
   }
 
+  /*Slider sliderAdaptiveWidget(TrArMp3ViewModel trArViewModelProvider) {
+    return Slider.adaptive(
+        value: trArViewModelProvider.position.inSeconds.toDouble(),
+        max: trArViewModelProvider.duration.inSeconds.toDouble(),
+        onChanged: (val) {
+          final durations = trArViewModelProvider.duration;
+          if (durations == null) {
+            return;
+          }
+          final positions = val;
+          if (positions < trArViewModelProvider.duration.inSeconds.toDouble())
+            trArViewModelProvider.audioPlayer
+                .seek(Duration(seconds: positions.round()));
+        });
+  } */
   Slider sliderAdaptiveWidget(TrArMp3ViewModel trArViewModelProvider) {
     return Slider.adaptive(
         value: trArViewModelProvider.position.inSeconds.toDouble(),

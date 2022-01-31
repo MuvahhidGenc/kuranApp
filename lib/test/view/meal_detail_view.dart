@@ -13,7 +13,6 @@ import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:provider/provider.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:share/share.dart';
 
@@ -77,7 +76,7 @@ class _MealDetailViewState extends State<MealDetailView> {
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
-    var provider=Provider.of<SurahVerseByVerseViewModel>(context);
+    var provider = Provider.of<SurahVerseByVerseViewModel>(context);
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.surahName + " Süresi"),
@@ -250,7 +249,7 @@ class _MealDetailViewState extends State<MealDetailView> {
       child: Wrap(
         spacing: 12,
         children: [
-          audioPlayButtonWidget(index,context),
+          audioPlayButtonWidget(index, context),
           shareButtonWidget(index),
           kaldigimYerButtonWidget(index, context),
           favoriButton(index, context),
@@ -259,45 +258,39 @@ class _MealDetailViewState extends State<MealDetailView> {
     );
   }
 
-  Widget audioPlayButtonWidget(int index,BuildContext context) {
-   
-      return IconButonWidget(
+  Widget audioPlayButtonWidget(int index, BuildContext context) {
+    return IconButonWidget(
         icon: Icons.play_circle,
         voidCallback: () async {
-          if(await NetworkManager().connectionControl()){
-             var ayahUrl = await _surahVerseByVerseViewModel.getAyahAudio(
-            surahNo: widget.id,
-            ayahNo: index + 1,
-            kariId: selectKariId!,
-          );
-          if (ayahUrl != "hata") {
-            _surahVerseByVerseViewModel.playUrlSingleAyah(url: ayahUrl);
-          }
+          if (await NetworkManager().connectionControl()) {
+            var ayahUrl = await _surahVerseByVerseViewModel.getAyahAudio(
+              surahNo: widget.id,
+              ayahNo: index + 1,
+              kariId: selectKariId!,
+            );
+            if (ayahUrl != "hata") {
+              _surahVerseByVerseViewModel.playUrlSingleAyah(url: ayahUrl);
+            }
 
-          print(index);
-          }else{
+            print(index);
+          } else {
             print("Bağlantı Yok");
-           
-             getDialog(
-        context: context,
-        title: "İnternet Bağlantısı Yok",
-        content: Icon(Icons.wifi_off),
-        actions: [
-          TextButton(
-            onPressed: () {
-              Navigator.pop(context);
-            },
-            child: Text("Tamam"),
-          ),
-        ],
-      );
-           
+
+            getDialog(
+              context: context,
+              title: "İnternet Bağlantısı Yok",
+              content: Icon(Icons.wifi_off),
+              actions: [
+                TextButton(
+                  onPressed: () {
+                    Navigator.pop(context);
+                  },
+                  child: Text("Tamam"),
+                ),
+              ],
+            );
           }
-         
         });
-      
-    
-    
   }
 
   IconButonWidget shareButtonWidget(int index) {

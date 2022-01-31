@@ -23,8 +23,10 @@ class TrArMp3ViewModel extends ChangeNotifier {
 
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState? audioPlayerState;
+
   Duration duration = Duration();
   Duration position = Duration();
+
   double progress = 0;
   int? activeSurah;
   IconData? buttomSheetPlayIcon;
@@ -121,7 +123,9 @@ class TrArMp3ViewModel extends ChangeNotifier {
       await dio.download(url, path, onReceiveProgress: (rec, total) {
         progress = ((rec / total));
         notifyListeners();
-      }).then((value) => value.statusCode!=200?print("indirme Başarısız"):print("indirme başarılı"));
+      }).then((value) => value.statusCode != 200
+          ? print("indirme Başarısız")
+          : print("indirme başarılı"));
     }
 
     return path;

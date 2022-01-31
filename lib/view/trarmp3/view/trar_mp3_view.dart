@@ -38,6 +38,7 @@ class _TrArMp3ViewState extends State<TrArMp3View> {
 
   @override
   Widget build(BuildContext context) {
+    print("test");
     return Scaffold(
       appBar: AppBar(
         title: Text("Türkçe Arapça Kuran"),

@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_toastr/flutter_toastr.dart';
-import 'package:rflutter_alert/rflutter_alert.dart';
 
 extension SnippetExtanstion on BuildContext {
   ThemeData get theme => Theme.of(this);
@@ -9,26 +8,23 @@ extension SnippetExtanstion on BuildContext {
   showToast(String msg, {int? duration, int? position}) {
     FlutterToastr.show(msg, this, duration: duration, position: 0);
   }
-
-  
 }
 
-enum ExcationManagerEnum{
+enum ExcationManagerEnum {
   notConnection,
   downloadEroor,
 }
 
-extension NetworkConnectExtension on ExcationManagerEnum{
-  String? get connectionValue{
+extension NetworkConnectExtension on ExcationManagerEnum {
+  String? get connectionValue {
     switch (this) {
-      case ExcationManagerEnum.notConnection :
+      case ExcationManagerEnum.notConnection:
         return "İnternet Bağlantı Hatası";
       case ExcationManagerEnum.downloadEroor:
         return "İndirme Başarısız Oldu";
     }
   }
 }
-
 
 enum DirectoryName {
   surahs,
