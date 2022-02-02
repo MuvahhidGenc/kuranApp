@@ -30,41 +30,13 @@ class _HomeViewState extends State<HomeView> {
                   style: context.theme.textTheme.headline5,
                 ),
               ),
-              SizedBox(
-                height: 10,
-              ),
+              namedRouting(context: context, link: "kuran", name: "Kuran"),
+                namedRouting(context: context, link: "kuranMp3", name: "Kuran Mp3"),
+                namedRouting(context: context, link: "trarMp3", name: "Türkçe Arapça Kuran Mp3"),
+             namedRouting(context: context, link: "meal", name: "Meal"),
+             
               
-              TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed("kuran");
-                },
-                icon: Icon(Icons.book),
-                label: Text("Kuran"),
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed("kuranMp3");
-                },
-                icon: Icon(Icons.book),
-                label: Text("Kuran Mp3"),
-              ),
-              TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed("trarMp3");
-                },
-                icon: Icon(Icons.book),
-                label: Text("Türkçe Arapça Kuran Mp3"),
-              ),
-              TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed("meal");
-                },
-                icon: Icon(Icons.book),
-                label: Text("Meal"),
-              ),
+              
               TextButton.icon(
                 onPressed: () {
                   Navigator.of(context).pushNamed("favorilerim");
@@ -85,4 +57,22 @@ class _HomeViewState extends State<HomeView> {
       ),
     );
   }
+}
+
+
+Column namedRouting({required BuildContext context,required String link,required String name}){
+  return   Column(
+                children: [
+                  SizedBox(
+                    height: 10,
+                  ),
+                   TextButton.icon(
+                onPressed: () {
+                  Navigator.of(context).pushNamed(link);
+                },
+                icon: Icon(Icons.book),
+                label: Text(name),
+              ),
+                ],
+              );
 }

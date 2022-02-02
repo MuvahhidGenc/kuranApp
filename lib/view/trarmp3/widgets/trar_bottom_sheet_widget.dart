@@ -11,24 +11,28 @@ class TrArBottomSheetWidget extends StatefulWidget {
 }
 
 class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
-  // TrArMp3ViewModel trArViewModelProvider = TrArMp3ViewModel();
+ // TrArMp3ViewModel trArViewModelProvider = TrArMp3ViewModel();
   @override
   Widget build(BuildContext context) {
-    print("data");
-    var trArViewModelProvider = Provider.of<TrArMp3ViewModel>(context);
+   print("bottom Sheet Rebuild Edildi");
+    //var trArViewModelProvider = Provider.of<TrArMp3ViewModel>(context);
     var mediaQuery = SnippetExtanstion(context).media;
-    return Container(
+    return Consumer<TrArMp3ViewModel>(builder: (context,trArViewModel,child){
+      print("object");
+      return  Container(
       //color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
       width: mediaQuery.size.width,
       height: mediaQuery.size.height * 0.17,
       decoration: containerBoxDecoration(context),
       child: Column(
         children: [
-          sliderAndLefRightTextWidgets(trArViewModelProvider),
-          bottomButtonWidgets(trArViewModelProvider),
+          sliderAndLefRightTextWidgets(trArViewModel),
+          bottomButtonWidgets(trArViewModel),
         ],
       ),
-    );
+    );;
+    });
+   
   }
 
   Center bottomButtonWidgets(TrArMp3ViewModel trArViewModelProvider) {
@@ -40,7 +44,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
             SizedBox(
               height: 0,
             ),
-            previouseIconButon(trArViewModelProvider),
+             previouseIconButon(trArViewModelProvider),
             playIconButonWidget(trArViewModelProvider),
             nextIconButonWidget(trArViewModelProvider)
           ],
@@ -53,7 +57,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
     return Expanded(
       //Next Buttom
       child: IconButton(
-          onPressed: () async => await Provider.of<TrArMp3ViewModel>(context)
+          onPressed: () async => trArViewModelProvider
               .bottomSheetNextAndBack(work: "next"),
           icon: Icon(
             Icons.skip_next,
@@ -113,7 +117,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
       ),
     );
   }*/
-  Padding sliderAndLefRightTextWidgets(TrArMp3ViewModel trArViewModelProvider) {
+  Padding sliderAndLefRightTextWidgets(TrArMp3ViewModel trArMp3ViewModel) {
     return Padding(
       // Audio Slider Bar Left Right Text
       padding: EdgeInsets.symmetric(
@@ -128,10 +132,10 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
             children: [
               //Text("data"),
               Selector<TrArMp3ViewModel, Duration>(
-                builder: (context, data, child) {
-                  print("object");
+                builder: (context, position, child) {
+                
                   return Text(
-                      '${data.inMinutes}:${data.inSeconds.remainder(60)}');
+                      '${position.inMinutes}:${position.inSeconds.remainder(60)}');
                 },
                 selector: (buildContext, duration) => duration.position,
               ),
@@ -139,37 +143,36 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
                   "${trArViewModelProvider.position.inMinutes}:${trArViewModelProvider.position.inSeconds.remainder(60)}"),*/
               // Expanded(child: sliderAdaptiveWidget(trArViewModelProvider)),
               Expanded(
-                child: Selector<TrArMp3ViewModel, Duration>(
+                child: Selector<TrArMp3ViewModel, List<Duration>>(
+                 
                   builder: (context, data, child) {
-                    print("object");
+                  
                     return Slider.adaptive(
-                        value: data.inSeconds.toDouble(),
-                        max:
-                            trArViewModelProvider.duration.inSeconds.toDouble(),
+                        value: data[1].inSeconds.toDouble(),
+                        max: data[0].inSeconds.toDouble(),
                         onChanged: (val) {
-                          final durations = trArViewModelProvider.duration;
+                          final durations = data[0];
                           if (durations == null) {
                             return;
                           }
                           final positions = val;
-                          if (positions <
-                              trArViewModelProvider.duration.inSeconds
-                                  .toDouble())
-                            trArViewModelProvider.audioPlayer
+                          if (positions < data[0].inSeconds.toDouble()) {
+                           trArMp3ViewModel.audioPlayer
                                 .seek(Duration(seconds: positions.round()));
+                          }
                         });
-                  },
-                  selector: (buildContext, duration) => duration.position,
+                  }, selector: (buildContext, duration) => duration.audioDuraiton,
                 ),
               ),
 
               Selector<TrArMp3ViewModel, Duration>(
+                selector: (buildContext, duration) => duration.duration,
                 builder: (context, data, child) {
-                  print("object");
+                
                   return Text(
                       '${data.inMinutes}:${data.inSeconds.remainder(60)}');
                 },
-                selector: (buildContext, duration) => duration.duration,
+                
               ),
               /*Text(
                   "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),*/

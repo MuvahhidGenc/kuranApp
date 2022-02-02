@@ -27,6 +27,8 @@ class TrArMp3ViewModel extends ChangeNotifier {
   Duration duration = Duration();
   Duration position = Duration();
 
+ List<Duration> audioDuraiton=[Duration(microseconds: 0),Duration(microseconds: 0)];
+
   double progress = 0;
   int? activeSurah;
   IconData? buttomSheetPlayIcon;
@@ -34,10 +36,12 @@ class TrArMp3ViewModel extends ChangeNotifier {
   audioPlayerStream() {
     audioPlayer.onDurationChanged.listen((Duration d) {
       duration = d;
+      audioDuraiton[0]=d;
       notifyListeners();
     });
     audioPlayer.onAudioPositionChanged.listen((Duration p) {
-      position = p;
+     position = p;
+     audioDuraiton[1]=p;
       notifyListeners();
     });
     audioPlayer.onPlayerStateChanged.listen((state) {

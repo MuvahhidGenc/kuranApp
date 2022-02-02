@@ -65,7 +65,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   void initState() {
     // TODO: implement initState
     super.initState();
-     print("initState");
+    // print("initState");
  
 
     initAsyc();
@@ -99,13 +99,13 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     // _kariKuranMp3ModelView.downloadHafizlar(kari);
     downloadHafizlar();
     audioPlayerStream();
-     WidgetsBinding.instance!.addPostFrameCallback((_)async {
+     /*WidgetsBinding.instance!.addPostFrameCallback((_)async {
        if(!networkControl){
         await getDialog(context: context, title: "title", actions: [TextButton(onPressed: (){
           Navigator.pop(context);
         }, child: Text("child"))]);
        }
-  });
+  });*/
   }
 
   audioPlayerStream() {

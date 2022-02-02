@@ -24,7 +24,7 @@ class KuranModelView {
       return result;
     } else {
       getrespone =
-          await GetPageAPI().getHttp(UrlsConstant.ACIK_KURAN_URL + "/surahs");
+          await GetPageAPI().getHttp(UrlsConstant.ACIK_KURAN_URL + "surahs");
       // var res=json.decode(getrespone);
       //  String veri=res[0] as String;
       result = await SureNameModel.fromJson(getrespone);
