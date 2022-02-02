@@ -23,18 +23,17 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
 
   @override
   Widget build(BuildContext context) {
-    print("List Buil Edildi");
-  //  var provider = Provider.of<TrArMp3ViewModel>(context);
+    //  var provider = Provider.of<TrArMp3ViewModel>(context);
 
     dynamic snipperTheme = SnippetExtanstion(context).theme;
-    return Consumer<TrArMp3ViewModel>(builder: (context,state,child){
-      return  ListView.builder(
+    return ListView.builder(
       shrinkWrap: true,
       physics: const BouncingScrollPhysics(),
       itemCount: widget.sureNameModel.data?.length,
       itemBuilder: (context, int index) {
         return Card(
-          child: ListTile(
+            child: Consumer<TrArMp3ViewModel>(builder: (context, state, child) {
+          return ListTile(
               key: UniqueKey(),
               tileColor: state.playController[index] == true
                   ? snipperTheme.primaryColor
@@ -45,11 +44,9 @@ class _TrArListBuilderWidgetState extends State<TrArListBuilderWidget> {
                 spacing: 12,
                 children: [state.iconController(index)],
               ),
-              onTap: () async => await state.onClickListTile(index)),
-        );
+              onTap: () async => await state.onClickListTile(index));
+        }));
       },
     );
-    },);
-    
   }
 }

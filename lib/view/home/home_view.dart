@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/apptitles_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -19,7 +21,7 @@ class _HomeViewState extends State<HomeView> {
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(8.0),
-          child: Column(
+          child: ListView(
             children: [
               Container(
                 height: 150,
@@ -31,12 +33,39 @@ class _HomeViewState extends State<HomeView> {
                 ),
               ),
               namedRouting(context: context, link: "kuran", name: "Kuran"),
-                namedRouting(context: context, link: "kuranMp3", name: "Kuran Mp3"),
-                namedRouting(context: context, link: "trarMp3", name: "Türkçe Arapça Kuran Mp3"),
-             namedRouting(context: context, link: "meal", name: "Meal"),
-             
-              
-              
+              namedRouting(
+                  context: context, link: "kuranMp3", name: "Kuran Mp3"),
+              namedRouting(
+                  context: context,
+                  link: "trarMp3",
+                  name: "Türkçe Arapça Kuran Mp3"),
+              namedRouting(context: context, link: "meal", name: "Meal"),
+              Container(
+                width: 100,
+                height: 100,
+                decoration: BoxDecoration(
+                    gradient: LinearGradient(
+                        begin: Alignment.bottomCenter,
+                        end: Alignment.topCenter,
+                        colors: [
+                      Colors.brown,
+                      Colors.brown[50]!,
+                      Colors.brown[100]!
+                    ])),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(
+                      Icons.book,
+                      size: 50,
+                    ),
+                    Text(
+                      "data",
+                      style: TextStyle(fontSize: 29, color: Colors.white),
+                    ),
+                  ],
+                ),
+              ),
               TextButton.icon(
                 onPressed: () {
                   Navigator.of(context).pushNamed("favorilerim");
@@ -44,7 +73,7 @@ class _HomeViewState extends State<HomeView> {
                 icon: Icon(Icons.book),
                 label: Text("Favorilerim"),
               ),
-               TextButton.icon(
+              TextButton.icon(
                 onPressed: () {
                   Navigator.of(context).pushNamed("kaldigimyerler");
                 },
@@ -59,20 +88,22 @@ class _HomeViewState extends State<HomeView> {
   }
 }
 
-
-Column namedRouting({required BuildContext context,required String link,required String name}){
-  return   Column(
-                children: [
-                  SizedBox(
-                    height: 10,
-                  ),
-                   TextButton.icon(
-                onPressed: () {
-                  Navigator.of(context).pushNamed(link);
-                },
-                icon: Icon(Icons.book),
-                label: Text(name),
-              ),
-                ],
-              );
+Column namedRouting(
+    {required BuildContext context,
+    required String link,
+    required String name}) {
+  return Column(
+    children: [
+      SizedBox(
+        height: 10,
+      ),
+      TextButton.icon(
+        onPressed: () {
+          Navigator.of(context).pushNamed(link);
+        },
+        icon: Icon(Icons.book),
+        label: Text(name),
+      ),
+    ],
+  );
 }

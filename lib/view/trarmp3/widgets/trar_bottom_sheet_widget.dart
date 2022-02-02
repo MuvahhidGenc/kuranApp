@@ -11,28 +11,26 @@ class TrArBottomSheetWidget extends StatefulWidget {
 }
 
 class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
- // TrArMp3ViewModel trArViewModelProvider = TrArMp3ViewModel();
+  // TrArMp3ViewModel trArViewModelProvider = TrArMp3ViewModel();
   @override
   Widget build(BuildContext context) {
-   print("bottom Sheet Rebuild Edildi");
     //var trArViewModelProvider = Provider.of<TrArMp3ViewModel>(context);
     var mediaQuery = SnippetExtanstion(context).media;
-    return Consumer<TrArMp3ViewModel>(builder: (context,trArViewModel,child){
-      print("object");
-      return  Container(
-      //color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
-      width: mediaQuery.size.width,
-      height: mediaQuery.size.height * 0.17,
-      decoration: containerBoxDecoration(context),
-      child: Column(
-        children: [
-          sliderAndLefRightTextWidgets(trArViewModel),
-          bottomButtonWidgets(trArViewModel),
-        ],
-      ),
-    );;
+    return Consumer<TrArMp3ViewModel>(builder: (context, trArViewModel, child) {
+      return Container(
+        //color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
+        width: mediaQuery.size.width,
+        height: mediaQuery.size.height * 0.17,
+        decoration: containerBoxDecoration(context),
+        child: Column(
+          children: [
+            sliderAndLefRightTextWidgets(trArViewModel),
+            bottomButtonWidgets(trArViewModel),
+          ],
+        ),
+      );
+      ;
     });
-   
   }
 
   Center bottomButtonWidgets(TrArMp3ViewModel trArViewModelProvider) {
@@ -44,7 +42,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
             SizedBox(
               height: 0,
             ),
-             previouseIconButon(trArViewModelProvider),
+            previouseIconButon(trArViewModelProvider),
             playIconButonWidget(trArViewModelProvider),
             nextIconButonWidget(trArViewModelProvider)
           ],
@@ -57,8 +55,8 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
     return Expanded(
       //Next Buttom
       child: IconButton(
-          onPressed: () async => trArViewModelProvider
-              .bottomSheetNextAndBack(work: "next"),
+          onPressed: () async =>
+              trArViewModelProvider.bottomSheetNextAndBack(work: "next"),
           icon: Icon(
             Icons.skip_next,
             size: SnippetExtanstion(context).media.size.height * 0.06,
@@ -133,7 +131,6 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
               //Text("data"),
               Selector<TrArMp3ViewModel, Duration>(
                 builder: (context, position, child) {
-                
                   return Text(
                       '${position.inMinutes}:${position.inSeconds.remainder(60)}');
                 },
@@ -144,9 +141,7 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
               // Expanded(child: sliderAdaptiveWidget(trArViewModelProvider)),
               Expanded(
                 child: Selector<TrArMp3ViewModel, List<Duration>>(
-                 
                   builder: (context, data, child) {
-                  
                     return Slider.adaptive(
                         value: data[1].inSeconds.toDouble(),
                         max: data[0].inSeconds.toDouble(),
@@ -157,22 +152,21 @@ class _TrArBottomSheetWidgetState extends State<TrArBottomSheetWidget> {
                           }
                           final positions = val;
                           if (positions < data[0].inSeconds.toDouble()) {
-                           trArMp3ViewModel.audioPlayer
+                            trArMp3ViewModel.audioPlayer
                                 .seek(Duration(seconds: positions.round()));
                           }
                         });
-                  }, selector: (buildContext, duration) => duration.audioDuraiton,
+                  },
+                  selector: (buildContext, duration) => duration.audioDuraiton,
                 ),
               ),
 
               Selector<TrArMp3ViewModel, Duration>(
                 selector: (buildContext, duration) => duration.duration,
                 builder: (context, data, child) {
-                
                   return Text(
                       '${data.inMinutes}:${data.inSeconds.remainder(60)}');
                 },
-                
               ),
               /*Text(
                   "${trArViewModelProvider.duration.inMinutes}:${trArViewModelProvider.duration.inSeconds.remainder(60)}"),*/
