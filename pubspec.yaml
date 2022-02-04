@@ -61,6 +61,8 @@ dependencies:
   scrollable_positioned_list: ^0.2.3
   flutter_toastr: ^1.0.3
   rflutter_alert: ^2.0.4
+  carousel_slider: ^4.0.0
+  carousel_images: ^1.1.2
   
   
 

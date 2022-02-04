@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
+import 'package:kuran/globals/widgets/carouselslider_widget.dart';
 import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/view/favoriayetlerim_view.dart';
 import 'package:kuran/test/view/meal_view.dart';
+import 'package:kuran/test/view/mushafs_view.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
@@ -64,6 +66,7 @@ class MyApp extends StatelessWidget {
       initialRoute: '/',
       routes: {
         '/': (contex) => const HomeView(),
+        'mushafs': (context) => const Mushafs(),
         'kuran': (context) => const Kuran(),
         'kuranMp3': (context) => KariKuranMp3View(),
         'trarMp3': (context) => TrArMp3View(),

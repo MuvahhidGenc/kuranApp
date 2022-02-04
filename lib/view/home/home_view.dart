@@ -108,7 +108,7 @@ class _HomeViewState extends State<HomeView> {
                       children: [
                         _mainButton(
                             buttonName: "Mushaf",
-                            link: "kuran",
+                            link: "mushafs",
                             icon: Icons.menu_book),
                         _mainButton(
                             buttonName: "Meal",
