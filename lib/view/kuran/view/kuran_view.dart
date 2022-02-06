@@ -3,15 +3,20 @@ import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
+import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/extantions/hivedb.dart';
 import 'package:kuran/globals/widgets/appbar_widget.dart';
+import 'package:kuran/test/snippet/hive_boxes.dart';
 import '../../../globals/constant/urls_constant.dart';
 import '../model/kuran_model.dart';
 import '../model/sure_name_model.dart';
 import '../modelview/kuran_model_view.dart';
 
 class Kuran extends StatefulWidget {
-  const Kuran({Key? key}) : super(key: key);
+  final String url;
+  final String name;
+  const Kuran({required this.url, required this.name, Key? key})
+      : super(key: key);
 
   @override
   _KuranState createState() => _KuranState();
@@ -64,13 +69,25 @@ class _KuranState extends State<Kuran> {
 
   @override
   Widget build(BuildContext context) {
+    var theme = SnippetExtanstion(context).theme;
     return Scaffold(
         extendBodyBehindAppBar: true,
         appBar: appBarWidget(context: context, nightMode: nightMode),
         body: pageNum != null
-            ? cachedPdfReader.cachedFromUrl(UrlsConstant.PDF_KURAN_URL)
+            ? cachedPdfReader.cachedFromUrl(
+                widget.url,
+                placeholder: (double progress) => Center(
+                  child: Center(
+                    child: Text(
+                      "İndiriliyor \n % " + progress.toString(),
+                      style: TextStyle(
+                          fontSize: theme.textTheme.headline5!.fontSize),
+                    ),
+                  ),
+                ),
+              )
             : const Center(
-                child: Text("Yükleniyor"),
+                child: CircularProgressIndicator(),
               ),
         floatingActionButton: Text("$pageNum / $pageTotalNum"),
         endDrawer: drawerList(context));

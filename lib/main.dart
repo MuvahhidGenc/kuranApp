@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/': (contex) => const HomeView(),
         'mushafs': (context) => const Mushafs(),
-        'kuran': (context) => const Kuran(),
+        //'kuran': (context) => const Kuran(),
         'kuranMp3': (context) => KariKuranMp3View(),
         'trarMp3': (context) => TrArMp3View(),
         'meal': (context) => MealView(),
