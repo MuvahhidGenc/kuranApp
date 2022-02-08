@@ -1,3 +1,4 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -47,6 +48,7 @@ class _FavoriAyetlerimViewState extends State<FavoriAyetlerimView> {
           valueListenable: _box!.listenable(),
           builder: (context, box, widget) {
             return ListView.builder(
+              dragStartBehavior: DragStartBehavior.start,
               itemCount: box.length,
               reverse: true,
               itemBuilder: (context, i) {

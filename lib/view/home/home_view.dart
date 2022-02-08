@@ -31,29 +31,7 @@ class _HomeViewState extends State<HomeView> {
           ],
         ),
 
-        /* namedRouting(context: context, link: "kuran", name: "Kuran"),
-                namedRouting(
-                    context: context, link: "kuranMp3", name: "Kuran Mp3"),
-                namedRouting(
-                    context: context,
-                    link: "trarMp3",
-                    name: "Türkçe Arapça Kuran Mp3"),
-                namedRouting(context: context, link: "meal", name: "Meal"),
-              
-                TextButton.icon(
-                  onPressed: () {
-                    Navigator.of(context).pushNamed("favorilerim");
-                  },
-                  icon: Icon(Icons.book),
-                  label: Text("Favorilerim"),
-                ),
-                TextButton.icon(
-                  onPressed: () {
-                    Navigator.of(context).pushNamed("kaldigimyerler");
-                  },
-                  icon: Icon(Icons.book),
-                  label: Text("Kaldığım Yerler"),
-                ),*/
+      
       ),
     );
   }
@@ -135,22 +113,7 @@ class _HomeViewState extends State<HomeView> {
                       buttonName: "Öneri / Şikayet",
                       link: "link",
                       icon: Icons.connect_without_contact),
-                  /* _mainButton(
-                            buttonName: "Hakkımızda",
-                            link: "link",
-                            icon: Icons.group),
-                               _mainButton(
-                            buttonName: "İletişim",
-                            link: "link",
-                            icon: Icons.contact_mail),
-                              _mainButton(
-                            buttonName: "Öneri / Şikayet",
-                            link: "link",
-                            icon: Icons.connect_without_contact),
-                                  _mainButton(
-                            buttonName: "Sıkça Sorulan Sorular",
-                            link: "link",
-                            icon: Icons.contact_support),*/
+                  
                 ],
               ),
             ),

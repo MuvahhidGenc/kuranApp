@@ -1,6 +1,7 @@
 import 'package:carousel_images/carousel_images.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
+import 'package:kuran/globals/constant/constant.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/view/kuran/view/kuran_view.dart';
@@ -20,13 +21,12 @@ class CarouselSliderWidget extends StatefulWidget {
 
 class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
   int _current = 0;
-  var url = "";
   final CarouselController _controller = CarouselController();
-  final Map<String, String> imgList = {
+ /* final Map<String, String> imgList = {
     'assets/images/mushaf.png': "Mushaf",
     'assets/images/mushaf-tejweed.png': "Tecvidli Mushaf",
     'assets/images/mushaf-2.png': "Mushaf - 2",
-  };
+  };*/
   @override
   void initState() {
     // TODO: implement initState
@@ -40,9 +40,10 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
     return Scaffold(
       body: Center(
         child: CarouselSlider(
-          items: imgList.entries.map((item) {
+          items: Constant.MUSHAFIMAGELIST.entries.map((item) {
             return GestureDetector(
               onTap: () {
+                 var url = "";
                 if (item.value == "Mushaf") {
                   url = UrlsConstant.PDF_MUSHAF_URL;
                 } else if (item.value == "Tecvidli Mushaf") {
@@ -79,14 +80,6 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
                             decoration: BoxDecoration(
                               color: theme.textTheme.bodyText1!.color!
                                   .withOpacity(0.5),
-                              /*gradient: LinearGradient(
-                                      colors: [
-                                        Color.fromARGB(200, 0, 0, 0),
-                                        Color.fromARGB(0, 0, 0, 0)
-                                      ],
-                                      begin: Alignment.bottomCenter,
-                                      end: Alignment.topCenter,
-                                    ),*/
                             ),
                             padding: EdgeInsets.symmetric(
                                 vertical: 10.0, horizontal: 20.0),
@@ -98,14 +91,6 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
-                                    /*  Icon(
-                                      Icons.downloading,
-                                      color: theme.listTileTheme.iconColor,
-                                      size: theme.textTheme.headline1!.fontSize,
-                                    ),
-                                    SizedBox(
-                                      height: 10,
-                                    ),*/
                                     Container(
                                       color: theme.listTileTheme.iconColor!
                                           .withOpacity(0.6),
@@ -149,73 +134,7 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
               }),
         ),
       ),
-      /*body: Center(
-        child: Container(
-          height: media.size.height * 0.9,
-          child: CarouselSlider.builder(
-            itemCount: 3,
-            itemBuilder:
-                (BuildContext context, int itemIndex, int pageViewIndex) =>
-                    GestureDetector(
-              onTap: () {
-                print("$itemIndex");
-              },
-              child: Container(
-                height: media.size.height,
-                color: Colors.black.withOpacity(0.9),
-                child: Image.network(
-                  imgList[itemIndex],
-                  fit: BoxFit.cover,
-                ),
-              ),
-            ),
-            options: CarouselOptions(
-                height: media.size.height * 0.9,
-                viewportFraction: 0.8,
-                enlargeCenterPage: true,
-                autoPlay: false,
-                aspectRatio: 0.1,
-                disableCenter: true,
-                onPageChanged: (index, reason) {
-                  setState(() {
-                    _current = index;
-                  });
-                }),
-          ),
-        ),
-      ),*/
-      //appBar: AppBar(title: Text('MUSHAFLAR')),
-      /*  body: Stack(
-      children: [
-        Center(
-          child: CarouselImages(
-            scaleFactor: 0.5,
-            listImages: imgList,
-            height: SnippetExtanstion(context).media.size.height * 0.9,
-            borderRadius: 30.0,
-            cachedNetworkImage: true,
-            verticalAlignment: Alignment.topCenter,
-            onTap: (index) {
-              print('Tapped on page $index');
-            },
-          ),
-        ),
-        Positioned(
-          child: Center(
-              child: Container(
-            height: SnippetExtanstion(context).media.size.height * 0.9,
-            width: SnippetExtanstion(context).media.size.width * 0.88,
-            decoration: BoxDecoration(
-                color: Colors.black.withOpacity(0.5),
-                borderRadius: BorderRadius.circular(40.0)),
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [TextButton(onPressed: () {}, child: Text("data"))],
-            ),
-          )),
-        )
-      ],
-    )*/
+    
     );
   }
 }

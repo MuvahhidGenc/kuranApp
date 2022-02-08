@@ -60,13 +60,7 @@ class _KuranState extends State<Kuran> {
     });
   }
 
-  @override
-  void dispose() {
-    // TODO: implement dispose
-    super.dispose();
-    Hive.close();
-  }
-
+ 
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
