@@ -5,6 +5,7 @@ import 'package:kuran/globals/widgets/carouselslider_widget.dart';
 import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
 import 'package:kuran/test/view/favoriayetlerim_view.dart';
+import 'package:kuran/test/view/followquran_view.dart';
 import 'package:kuran/test/view/meal_view.dart';
 import 'package:kuran/test/view/mushafs_view.dart';
 import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
@@ -77,6 +78,7 @@ class MyApp extends StatelessWidget {
         'kaldigimyerler': (context) => FavoriAyetlerimView(
               nerden: "kaldigimyer",
             ),
+            "flowquran":(context)=>FollowQuranView(),
       },
     );
   }

@@ -4,6 +4,7 @@ import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
+import 'package:kuran/globals/extantions/urlpath_extanstion.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/model/meal_model.dart';
@@ -61,7 +62,7 @@ class SurahVerseByVerseViewModel extends ChangeNotifier {
       required int ayahNo,
       required String kariId}) async {
     final response = await http.get(Uri.parse(
-        UrlsConstant.ALQURANCLOUDV1 + "ayah/$surahNo:$ayahNo/$kariId"));
+        UrlsConstant.ALQURANCLOUDV1 + UrlPathExtanstion(URLAlQuranPath.ayah).urlPath!+"$surahNo:$ayahNo/$kariId"));
     if (response.statusCode == 200) {
       Map<String, dynamic> decode = jsonDecode(response.body);
       var get = AyahModel.fromJson(decode);
