@@ -1,9 +1,7 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/apptitles_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/test/view/favoriayetlerim_view.dart';
+import 'package:kuran/view/favorikaldigimyer/view/favoriayetlerim_view.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:hive/hive.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
+import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class FavoriAyetlerimViewModel extends ChangeNotifier {

@@ -6,11 +6,11 @@ import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/urlpath_extanstion.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
-import 'package:kuran/test/model/meal_model.dart';
-import 'package:kuran/test/model/singleayah_model.dart';
-import 'package:kuran/test/model/versebyverse_kari_model.dart';
+import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
+import 'package:kuran/view/meal/model/meal_model.dart';
+import 'package:kuran/view/meal/model/singleayah_model.dart';
+import 'package:kuran/view/meal/model/versebyverse_kari_model.dart';
 import 'package:kuran/view/trarmp3/modelview/trar_mp3_viewmodel.dart';
 import 'package:http/http.dart' as http;
 

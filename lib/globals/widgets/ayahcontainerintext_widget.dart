@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
-import 'package:kuran/globals/extantions/extanstion.dart';
 
 class AyahCardInTextWidget extends StatelessWidget {
   final Color color;

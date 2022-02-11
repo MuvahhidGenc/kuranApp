@@ -1,4 +1,4 @@
-import 'package:audioplayers/audioplayers.dart';
+
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -7,11 +7,11 @@ import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
 import 'package:kuran/globals/widgets/iconbuton_widget.dart';
-import 'package:kuran/test/model/meal_model.dart';
-import 'package:kuran/test/model/versebyverse_kari_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
-import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
+import 'package:kuran/view/favorikaldigimyer/viewmodel/favoriayetlerim_viewmodel.dart';
+import 'package:kuran/view/meal/model/meal_model.dart';
+import 'package:kuran/view/meal/model/versebyverse_kari_model.dart';
+import 'package:kuran/view/meal/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:provider/provider.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 import 'package:share/share.dart';

@@ -1,23 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
-import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/globals/widgets/carouselslider_widget.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
-import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/test/view/favoriayetlerim_view.dart';
 import 'package:kuran/test/view/followquran_view.dart';
-import 'package:kuran/test/view/meal_view.dart';
-import 'package:kuran/test/view/mushafs_view.dart';
-import 'package:kuran/test/viewmodel/favoriayetlerim_viewmodel.dart';
-import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
+import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
+import 'package:kuran/view/favorikaldigimyer/view/favoriayetlerim_view.dart';
+import 'package:kuran/view/favorikaldigimyer/viewmodel/favoriayetlerim_viewmodel.dart';
 import 'package:kuran/view/karikuranmp3/view/kari_kuran_mp3_view.dart';
+import 'package:kuran/view/kuran/view/mushafs_view.dart';
+import 'package:kuran/view/meal/view/meal_view.dart';
+import 'package:kuran/view/meal/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:kuran/view/trarmp3/view/trar_mp3_view.dart';
 import 'package:kuran/view/trarmp3/viewmodel/trar_mp3_viewmodel.dart';
 import 'package:provider/provider.dart';
 import 'view/home/home_view.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/hive_flutter.dart';
-import 'view/kuran/view/kuran_view.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

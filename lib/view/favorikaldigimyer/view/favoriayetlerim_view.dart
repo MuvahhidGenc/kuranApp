@@ -4,9 +4,9 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/widgets/ayahcontainerintext_widget.dart';
 import 'package:kuran/globals/widgets/iconbuton_widget.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/test/view/meal_detail_view.dart';
+import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
+import 'package:kuran/view/meal/view/meal_detail_view.dart';
 import 'package:share/share.dart';
 
 class FavoriAyetlerimView extends StatefulWidget {

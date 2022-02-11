@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
-import 'package:kuran/test/model/hive_favorilerim_model.dart';
 import 'package:kuran/test/snippet/hive_boxes.dart';
-import 'package:kuran/test/view/meal_detail_view.dart';
-import 'package:kuran/test/viewmodel/surah_versebyverse_viewmodel.dart';
+import 'package:kuran/view/meal/view/meal_detail_view.dart';
+import 'package:kuran/view/meal/viewmodel/surah_versebyverse_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 class MealView extends StatefulWidget {
