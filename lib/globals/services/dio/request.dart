@@ -10,4 +10,12 @@ class GetPageAPI {
       return response.data;
     }
   }
+
+  Future<dynamic> getHttpConvertJson(String url) async {
+    var response = await Dio().get(url);
+    //print(response);
+    if (response.statusCode == 200) {
+      return response.data;
+    }
+  }
 }
