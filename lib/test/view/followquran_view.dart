@@ -1,6 +1,5 @@
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 
 class FollowQuranView extends StatefulWidget {
@@ -13,6 +12,7 @@ class FollowQuranView extends StatefulWidget {
 class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   String pagetext = "";
+  List? getText;
   @override
   void initState() {
     // TODO: implement initState
@@ -21,13 +21,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   }
 
   initAsyc() async {
-    List? getText =
+    getText =
         await _followQuranViewModel.getText(pageNo: 2, kariId: "ar.alafasy");
-    pagetext = "";
+    /*  pagetext = "";
+
     getText!.map((e) {
       print(e.text);
-      pagetext += e.text;
-    }).toList();
+      pagetext +=_followQuranViewModel.convertToArabicNumber(e.numberInSurah)+" "+ e.text;
+    }).toList();*/
     setState(() {});
   }
 
@@ -44,32 +45,39 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           return Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
+              width: MediaQuery.of(context).size.width*0.9,
               decoration: BoxDecoration(
                 border: Border.all(
                   color: Colors.black,
                 ),
               ),
-              child: ListView(
-                children: pagetext == ""
-                    ? [
-                        Center(
-                          child: CircularProgressIndicator(),
-                        )
-                      ]
-                    : [
-                        Row(
-                          children: [
-                            Flexible(
-                              child: Text(
-                                pagetext,
-                                style: TextStyle(
-                                  fontSize: 30,
-                                ),
-                              ),
-                            ),
-                          ],
-                        )
-                      ],
+              child: ListView.builder(
+                itemCount: getText?.length,
+                itemBuilder: (BuildContext context, int index) {
+                  return Row(
+                    mainAxisAlignment: MainAxisAlignment.end,
+                    crossAxisAlignment: CrossAxisAlignment.end,
+                    children: [
+                      CircleAvatar(
+                        maxRadius: 10,
+                        child: Text(
+                       _followQuranViewModel.convertToArabicNumber(
+                           getText?[index].numberInSurah)),
+                      ),
+                      Flexible(
+                        child: AutoSizeText(
+                          "  "+getText?[index].text.trim(),
+                          //overflow: TextOverflow.ellipsis,
+                        //  locale: Locale("UAE","971"),
+                          //softWrap: false,
+                         // style: TextStyle(fontSize: 20,fontFamily: 'arabic'),
+                          style: TextStyle(fontSize: 18),
+                        ),
+                      )
+                     
+                    ],
+                  );
+                },
               ),
             ),
           );
