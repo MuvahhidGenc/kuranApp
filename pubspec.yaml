@@ -66,6 +66,9 @@ dependencies:
   arabic_numbers: ^1.0.0
   auto_size_text: ^3.0.0
   
+
+  #UI
+  getwidget: ^2.0.4
   
 
 dev_dependencies:

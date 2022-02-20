@@ -1,6 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
+import 'package:getwidget/components/progress_bar/gf_progress_bar.dart';
+import 'package:getwidget/getwidget.dart';
 import 'package:hive/hive.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -60,7 +62,6 @@ class _KuranState extends State<Kuran> {
     });
   }
 
- 
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
@@ -72,10 +73,15 @@ class _KuranState extends State<Kuran> {
                 widget.url,
                 placeholder: (double progress) => Center(
                   child: Center(
-                    child: Text(
-                      "İndiriliyor \n % " + progress.toString(),
-                      style: TextStyle(
-                          fontSize: theme.textTheme.headline5!.fontSize),
+                    child: GFProgressBar(
+                      type: GFProgressType.circular,
+                      percentage: progress / 100,
+                      radius: 100,
+                      circleWidth: 15,
+                      progressBarColor: theme.primaryColor,
+                      child: Text(
+                        progress.toString(),
+                      ),
                     ),
                   ),
                 ),

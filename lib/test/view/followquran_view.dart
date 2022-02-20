@@ -23,12 +23,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   initAsyc() async {
     getText =
         await _followQuranViewModel.getText(pageNo: 2, kariId: "ar.alafasy");
-    /*  pagetext = "";
+    pagetext = "";
 
     getText!.map((e) {
       print(e.text);
-      pagetext +=_followQuranViewModel.convertToArabicNumber(e.numberInSurah)+" "+ e.text;
-    }).toList();*/
+      pagetext += _followQuranViewModel.convertToArabicNumber(e.numberInSurah) +
+          " " +
+          e.text;
+    }).toList();
     setState(() {});
   }
 
@@ -45,13 +47,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           return Padding(
             padding: const EdgeInsets.all(8.0),
             child: Container(
-              width: MediaQuery.of(context).size.width*0.9,
+              width: MediaQuery.of(context).size.width * 0.9,
               decoration: BoxDecoration(
                 border: Border.all(
                   color: Colors.black,
                 ),
               ),
               child: ListView.builder(
+                shrinkWrap: true,
                 itemCount: getText?.length,
                 itemBuilder: (BuildContext context, int index) {
                   return Row(
@@ -59,22 +62,20 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
                       CircleAvatar(
-                        maxRadius: 10,
-                        child: Text(
-                       _followQuranViewModel.convertToArabicNumber(
-                           getText?[index].numberInSurah)),
+                        maxRadius: 15,
+                        child: Text(_followQuranViewModel.convertToArabicNumber(
+                            getText?[index].numberInSurah)),
                       ),
                       Flexible(
-                        child: AutoSizeText(
-                          "  "+getText?[index].text.trim(),
+                        child: Text(
+                          "  " + getText?[index].text.trim(),
                           //overflow: TextOverflow.ellipsis,
-                        //  locale: Locale("UAE","971"),
+                          //  locale: Locale("UAE","971"),
                           //softWrap: false,
-                         // style: TextStyle(fontSize: 20,fontFamily: 'arabic'),
-                          style: TextStyle(fontSize: 18),
+                          // style: TextStyle(fontSize: 20,fontFamily: 'arabic'),
+                          style: TextStyle(fontSize: 25),
                         ),
                       )
-                     
                     ],
                   );
                 },

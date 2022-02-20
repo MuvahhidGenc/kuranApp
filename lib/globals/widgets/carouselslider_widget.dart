@@ -22,7 +22,7 @@ class CarouselSliderWidget extends StatefulWidget {
 class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
   int _current = 0;
   final CarouselController _controller = CarouselController();
- /* final Map<String, String> imgList = {
+  /* final Map<String, String> imgList = {
     'assets/images/mushaf.png': "Mushaf",
     'assets/images/mushaf-tejweed.png': "Tecvidli Mushaf",
     'assets/images/mushaf-2.png': "Mushaf - 2",
@@ -43,7 +43,7 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
           items: Constant.MUSHAFIMAGELIST.entries.map((item) {
             return GestureDetector(
               onTap: () {
-                 var url = "";
+                var url = "";
                 if (item.value == "Mushaf") {
                   url = UrlsConstant.PDF_MUSHAF_URL;
                 } else if (item.value == "Tecvidli Mushaf") {
@@ -92,8 +92,11 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
                                   crossAxisAlignment: CrossAxisAlignment.center,
                                   children: [
                                     Container(
-                                      color: theme.listTileTheme.iconColor!
-                                          .withOpacity(0.6),
+                                      color:
+                                          theme.listTileTheme.iconColor == null
+                                              ? Colors.black.withOpacity(0.6)
+                                              : theme.listTileTheme.iconColor!
+                                                  .withOpacity(0.6),
                                       width: media.size.width,
                                       height: media.size.height * 0.1,
                                       child: Center(
@@ -134,7 +137,6 @@ class _CarouselSliderWidgetState extends State<CarouselSliderWidget> {
               }),
         ),
       ),
-    
     );
   }
 }

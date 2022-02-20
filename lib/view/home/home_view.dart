@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/globals/base/theme/theme_base.dart';
 import 'package:kuran/globals/constant/apptitles_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/view/favorikaldigimyer/view/favoriayetlerim_view.dart';
+import 'package:provider/provider.dart';
 
 class HomeView extends StatefulWidget {
   const HomeView({Key? key}) : super(key: key);
@@ -17,9 +19,18 @@ class _HomeViewState extends State<HomeView> {
     return DefaultTabController(
       length: 3,
       child: Scaffold(
-        /*appBar: AppBar(
+        appBar: AppBar(
           title: const Text(AppTitlesConstant.MAIN_VIEW_TITLE),
-        ),*/
+          actions: [
+            IconButton(
+              onPressed: () {
+                Provider.of<AppThemeBase>(context, listen: false)
+                    .changeStateTheme();
+              },
+              icon: Icon(Icons.brightness_4),
+            )
+          ],
+        ),
         bottomNavigationBar: bottomTabbarWidget(theme),
         body: TabBarView(
           children: [
@@ -28,8 +39,6 @@ class _HomeViewState extends State<HomeView> {
             FavoriAyetlerimView(nerden: "kaldigimyer"),
           ],
         ),
-
-      
       ),
     );
   }
@@ -105,13 +114,12 @@ class _HomeViewState extends State<HomeView> {
                       icon: Icons.headphones),
                   _mainButton(
                       buttonName: "İhtiyaç Sahipleri",
-                      link: "link",
+                      link: "infak",
                       icon: Icons.volunteer_activism),
-                  _mainButton(
+                  /*_mainButton(
                       buttonName: "Takipli Kuran",
                       link: "flowquran",
-                      icon: Icons.play_lesson),
-                  
+                      icon: Icons.play_lesson),*/
                 ],
               ),
             ),
@@ -177,7 +185,11 @@ class _HomeViewState extends State<HomeView> {
             Expanded(
               child: Text(
                 buttonName,
-                style: TextStyle(color: Colors.black),
+                style: TextStyle(
+                    color: SnippetExtanstion(context)
+                        .theme
+                        .listTileTheme
+                        .textColor),
                 textAlign: TextAlign.center,
               ),
             )

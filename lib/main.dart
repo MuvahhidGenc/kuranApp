@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:kuran/globals/base/theme/theme_base.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
+import 'package:kuran/globals/extantions/theme_extanstion.dart';
 import 'package:kuran/test/view/followquran_view.dart';
+import 'package:kuran/view/infak/view/infak_view.dart';
 import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
 import 'package:kuran/view/favorikaldigimyer/view/favoriayetlerim_view.dart';
 import 'package:kuran/view/favorikaldigimyer/viewmodel/favoriayetlerim_viewmodel.dart';
@@ -30,6 +33,7 @@ void main() async {
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
     ChangeNotifierProvider(create: (_) => SurahVerseByVerseViewModel()),
     ChangeNotifierProvider(create: (_) => FavoriAyetlerimViewModel()),
+    ChangeNotifierProvider(create: (_) => AppThemeBase(darkMode: true)),
   ], child: const MyApp()));
 }
 
@@ -39,41 +43,27 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'kuran',
-      theme: ThemeData(
-        brightness: Brightness.light,
-        primarySwatch: Colors.brown,
-        primaryColor: Colors.brown,
-        scaffoldBackgroundColor: Colors.brown[100],
-        listTileTheme: ListTileThemeData(
-          tileColor: Colors.brown[300],
-          textColor: Colors.brown[50],
-          iconColor: Colors.brown[50],
-        ),
-
-        drawerTheme: DrawerThemeData(backgroundColor: Colors.brown[100]),
-        iconTheme: IconThemeData(color: Colors.brown),
-        //colorScheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness)
-        //accentIconTheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness),
-      ),
-      //ThemeData.dark(),
-      initialRoute: '/',
-      routes: {
-        '/': (contex) => const HomeView(),
-        'mushafs': (context) => const Mushafs(),
-        //'kuran': (context) => const Kuran(),
-        'kuranMp3': (context) => KariKuranMp3View(),
-        'trarMp3': (context) => TrArMp3View(),
-        'meal': (context) => MealView(),
-        'favorilerim': (context) => FavoriAyetlerimView(
-              nerden: "favori",
-            ),
-        'kaldigimyerler': (context) => FavoriAyetlerimView(
-              nerden: "kaldigimyer",
-            ),
-            "flowquran":(context)=>FollowQuranView(),
+    return Consumer<AppThemeBase>(
+      builder: (BuildContext context, themeProvider, Widget? child) {
+        return MaterialApp(
+          debugShowCheckedModeBanner: false,
+          title: 'kuran',
+          theme: themeProvider.getTheme,
+          //ThemeData.dark(),
+          initialRoute: '/',
+          routes: {
+            '/': (contex) => const HomeView(),
+            'mushafs': (context) => const Mushafs(),
+            'kuranMp3': (context) => KariKuranMp3View(),
+            'trarMp3': (context) => TrArMp3View(),
+            'meal': (context) => MealView(),
+            'favorilerim': (context) => FavoriAyetlerimView(nerden: "favori"),
+            'kaldigimyerler': (context) =>
+                FavoriAyetlerimView(nerden: "kaldigimyer"),
+            "flowquran": (context) => FollowQuranView(),
+            "infak": (context) => InfakView(),
+          },
+        );
       },
     );
   }

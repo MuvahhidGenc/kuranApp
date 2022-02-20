@@ -66,18 +66,16 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     // TODO: implement initState
     super.initState();
     // print("initState");
- 
 
     initAsyc();
-    
   }
 
   Future initAsyc() async {
-    networkControl=true;
-    Future.delayed(Duration(microseconds: 60),()async{
+    networkControl = true;
+    Future.delayed(Duration(microseconds: 60), () async {
       networkControl = await NetworkManager().connectionControl();
     });
-    
+
     dynamic v = await KuranModelView().dbKeyControl(hiveKey["kariUrl"]);
     if (v == null) {
       HiveDb().putBox(hiveKey["kariUrl"], "https://server7.mp3quran.net/basit");
@@ -99,7 +97,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     // _kariKuranMp3ModelView.downloadHafizlar(kari);
     downloadHafizlar();
     audioPlayerStream();
-     /*WidgetsBinding.instance!.addPostFrameCallback((_)async {
+    /*WidgetsBinding.instance!.addPostFrameCallback((_)async {
        if(!networkControl){
         await getDialog(context: context, title: "title", actions: [TextButton(onPressed: (){
           Navigator.pop(context);
@@ -259,26 +257,23 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     if (_sureNameModel.data != null && kariSurahlist != null) {
       return sureListViewBuilder();
     } else {
-      if(networkControl){
-         return ListView.builder(
-          itemCount: 10,
-          itemBuilder: (context, i) {
-            return Card(
-              child: ListTile(
-                tileColor: theme.scaffoldBackgroundColor,
-              ),
-            );
-          });
-      }
-      else{
+      if (networkControl) {
+        return ListView.builder(
+            itemCount: 10,
+            itemBuilder: (context, i) {
+              return Card(
+                child: ListTile(
+                  tileColor: theme.scaffoldBackgroundColor,
+                ),
+              );
+            });
+      } else {
         return networkControlWidget();
       }
-     
     }
   }
 
   Widget networkControlWidget() {
-  
     return Center(
       child: Column(
         children: [
@@ -558,8 +553,36 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                     ],
                   ),
                   onTap: () async {
-                    await downloadAndAudioPlaySettings(
-                        surahToString, webServisUrl, index);
+                    bool path = await FilePathManager()
+                        .getFilePathControl(surahToString);
+                    if (!path) {
+                      getDialog(
+                        context: context,
+                        title: "İNDİRME İZNİ",
+                        content: Text("İndirme İşlemi Başatılsın Mı?"),
+                        actions: [
+                          TextButton.icon(
+                            onPressed: () async {
+                              Navigator.pop(context);
+                            },
+                            icon: Icon(Icons.close),
+                            label: Text("VAZGEÇ"),
+                          ),
+                          TextButton.icon(
+                            onPressed: () async {
+                              Navigator.pop(context);
+                              await downloadAndAudioPlaySettings(
+                                  surahToString, webServisUrl, index);
+                            },
+                            icon: Icon(Icons.downloading),
+                            label: Text("İNDİR"),
+                          ),
+                        ],
+                      );
+                    } else {
+                      await downloadAndAudioPlaySettings(
+                          surahToString, webServisUrl, index);
+                    }
                   },
                 ),
               );
