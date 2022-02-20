@@ -1,5 +1,7 @@
 import 'dart:convert';
+import 'dart:io';
 import 'package:audioplayers/audioplayers.dart';
+import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -11,6 +13,8 @@ import 'package:kuran/view/karikuranmp3/model/kari_kuran_mp3_model.dart';
 import 'package:kuran/view/karikuranmp3/modelview/karikuranmp3_modelview.dart';
 import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:kuran/view/kuran/modelview/kuran_model_view.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:provider/provider.dart';
 
 class KariKuranMp3View extends StatefulWidget {
   const KariKuranMp3View({Key? key}) : super(key: key);
@@ -26,14 +30,15 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
   PlayerState _audioPlayerState = PlayerState.STOPPED;
   Map<String, bool> audioPathState = Map<String, bool>();
 
+  Map<int, bool> downloading = Map<int, bool>();
+  double progress = 0;
+  // bool downloading = false;
+
   KariKuranMp3Model? hafizlar;
   String fileName = "hafizlar.json";
   String sureListName = "surelist.json";
   var _sureNameModel = SureNameModel();
   bool networkControl = true;
-
-  Map<String, Widget> pathStateWidget =
-      Map<String, Widget>(); //List Tile Path State Control And
 
   Map<String, dynamic> kari = Map<String, dynamic>(); //Selected Kari Data
   //Kari Hive Keys
@@ -140,9 +145,6 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
           _kariKuranMp3ModelView.toStringMp3(i: i, url: false, kari: kari);
       bool pathState = await FilePathManager().getFilePathControl(surestring);
 
-      if (pathState != true) {
-        pathStateWidget[surestring] = Icon(Icons.download);
-      }
       audioPathState[surestring] = pathState;
     }
   }
@@ -181,7 +183,6 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     }
 
     setState(() {
-      pathStateWidget;
       audioPathState;
       hafizlar;
       _sureNameModel;
@@ -445,7 +446,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
         kari["surahName"] = _sureNameModel.data![kari["surah"] - 1].name;
       } else {
         await downloadAndAudioPlaySettings(
-            sureToString, webServisUrl, getIndex);
+            context, sureToString, webServisUrl, getIndex);
       }
     }
   }
@@ -489,7 +490,6 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                       kari["name"].toString().toLowerCase().trim();
                       kari["surahs"];
                       audioPathState;
-                      pathStateWidget;
                     });
                     // print(e.suras);
 
@@ -546,10 +546,16 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                               ? Icon(Icons.play_arrow)
                               : Icon(Icons.pause)
                           : Text(""),
-
-                      audioPathState[surahToString] == false
-                          ? pathStateWidget[surahToString] as Widget
-                          : Text(""), // icon-2
+                      if (audioPathState[surahToString] == false)
+                        Icon(Icons.download),
+                      if (audioPathState[surahToString] == false &&
+                          downloading[index] == true)
+                        CircularProgressIndicator(
+                          value: progress,
+                        )
+                      /*audioPathState[surahToString] == false 
+                          ? downloading==false? pathStateWidget[surahToString] as Widget
+                          : Text(""),*/ // icon-2
                     ],
                   ),
                   onTap: () async {
@@ -572,7 +578,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                             onPressed: () async {
                               Navigator.pop(context);
                               await downloadAndAudioPlaySettings(
-                                  surahToString, webServisUrl, index);
+                                  context, surahToString, webServisUrl, index);
                             },
                             icon: Icon(Icons.downloading),
                             label: Text("İNDİR"),
@@ -581,7 +587,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                       );
                     } else {
                       await downloadAndAudioPlaySettings(
-                          surahToString, webServisUrl, index);
+                          context, surahToString, webServisUrl, index);
                     }
                   },
                 ),
@@ -593,23 +599,46 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
     );
   }
 
-  Future<void> downloadAndAudioPlaySettings(
+  Future downloadFile(BuildContext context,
+      {required String url,
+      required String fileName,
+      required int downloadingIndex}) async {
+    Dio dio = Dio();
+    var dir = await getApplicationDocumentsDirectory();
+    var path = "${dir.path}/$fileName";
+    var pathState = File(path);
+    if (!pathState.existsSync()) {
+      await dio.download(url, path, onReceiveProgress: (rec, total) {
+        downloading[downloadingIndex] = true;
+        progress = ((rec / total));
+        print(progress);
+        setState(() {});
+      }).then((value) => value.statusCode != 200
+          ? print("indirme Başarısız")
+          : downloading[downloadingIndex] = false);
+    }
+
+    return path;
+  }
+
+  Future<void> downloadAndAudioPlaySettings(BuildContext context,
       String surahToString, String webServisUrl, int index) async {
+    progress = 0;
+    //var networkProgressProvider = Provider.of<NetworkManager>(context);
+
+    setState(() {});
     kari["url"] = await HiveDb().getBox(hiveKey["kariUrl"]);
     kari["url"] = kari["url"]! + "/" + webServisUrl;
-    var path = await NetworkManager()
-        .downloadMediaFile(url: kari["url"], folderandpath: surahToString);
+    var path = await downloadFile(context,
+        url: kari["url"], fileName: surahToString, downloadingIndex: index);
+
     if (path != ExcationManagerEnum.notConnection &&
         path != ExcationManagerEnum.downloadEroor) {
       var getSurahIndex = _kariKuranMp3ModelView.getKariSurahListIndex(kari);
       playerControl.forEach((key, value) {
         playerControl[key] = false;
       });
-      if (audioPathState[surahToString] == false) {
-        setState(() {
-          pathStateWidget[surahToString] = CircularProgressIndicator();
-        });
-      }
+
       audioPlayer.stop();
       //Kari Keep Veriable
 
@@ -619,7 +648,6 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
       kari["surah"] = index + 1;
       kari["surahName"] = _sureNameModel.data![index].name;
 
-      pathStateWidget[surahToString] = Icon(Icons.download);
       audioPathState[surahToString] = true;
 
       if (playerControl[index] == true) {

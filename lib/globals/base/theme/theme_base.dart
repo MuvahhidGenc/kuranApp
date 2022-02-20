@@ -11,6 +11,7 @@ class AppThemeBase extends ChangeNotifier {
 
   ThemeData get light {
     return ThemeData(
+      primaryColorLight: Colors.black,
       brightness: Brightness.light,
       primarySwatch: Colors.brown,
       primaryColor: Colors.brown,
@@ -20,7 +21,6 @@ class AppThemeBase extends ChangeNotifier {
         textColor: Colors.brown[50],
         iconColor: Colors.brown[50],
       ),
-
       drawerTheme: DrawerThemeData(backgroundColor: Colors.brown[100]),
       iconTheme: IconThemeData(color: Colors.brown),
       //colorScheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness)
@@ -29,7 +29,9 @@ class AppThemeBase extends ChangeNotifier {
   }
 
   ThemeData get dark {
-    return ThemeData.dark().copyWith();
+    return ThemeData.dark().copyWith(
+      primaryColorLight: Colors.white,
+    );
   }
 
   changeStateTheme() {

@@ -45,7 +45,7 @@ class _HomeViewState extends State<HomeView> {
 
   Padding homeWidget(BuildContext context, ThemeData theme) {
     return Padding(
-      padding: const EdgeInsets.only(top: 25.0, left: 5.0, right: 5.0),
+      padding: const EdgeInsets.only(top: 5.0, left: 5.0, right: 5.0),
       child: Column(
         children: [
           SizedBox(
@@ -152,6 +152,7 @@ class _HomeViewState extends State<HomeView> {
       {required String buttonName,
       required String link,
       required IconData icon}) {
+    var themeProvider = Provider.of<AppThemeBase>(context);
     return GestureDetector(
       onTap: () {
         Navigator.of(context).pushNamed(link);
@@ -186,10 +187,8 @@ class _HomeViewState extends State<HomeView> {
               child: Text(
                 buttonName,
                 style: TextStyle(
-                    color: SnippetExtanstion(context)
-                        .theme
-                        .listTileTheme
-                        .textColor),
+                  color: SnippetExtanstion(context).theme.primaryColorLight,
+                ),
                 textAlign: TextAlign.center,
               ),
             )
