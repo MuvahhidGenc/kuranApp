@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
           title: 'kuran',
-          theme: themeProvider.getTheme,
+          theme: themeProvider.getTheme ?? themeProvider.light,
           //ThemeData.dark(),
           initialRoute: '/',
           routes: {

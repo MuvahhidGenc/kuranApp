@@ -27,7 +27,10 @@ class TrArMp3ViewModel extends ChangeNotifier {
   Duration duration = Duration();
   Duration position = Duration();
 
- List<Duration> audioDuraiton=[Duration(microseconds: 0),Duration(microseconds: 0)];
+  List<Duration> audioDuraiton = [
+    Duration(microseconds: 0),
+    Duration(microseconds: 0)
+  ];
 
   double progress = 0;
   int? activeSurah;
@@ -36,12 +39,12 @@ class TrArMp3ViewModel extends ChangeNotifier {
   audioPlayerStream() {
     audioPlayer.onDurationChanged.listen((Duration d) {
       duration = d;
-      audioDuraiton[0]=d;
+      audioDuraiton[0] = d;
       notifyListeners();
     });
     audioPlayer.onAudioPositionChanged.listen((Duration p) {
-     position = p;
-     audioDuraiton[1]=p;
+      position = p;
+      audioDuraiton[1] = p;
       notifyListeners();
     });
     audioPlayer.onPlayerStateChanged.listen((state) {
@@ -49,9 +52,9 @@ class TrArMp3ViewModel extends ChangeNotifier {
       audioPlayerState == PlayerState.PLAYING
           ? buttomSheetPlayIcon = Icons.pause_circle
           : buttomSheetPlayIcon = Icons.play_circle;
-      audioPlayerState == PlayerState.COMPLETED
+      /* audioPlayerState == PlayerState.COMPLETED
           ? bottomSheetNextAndBack(work: "next")
-          : null;
+          : null;*/
       notifyListeners();
     });
   }

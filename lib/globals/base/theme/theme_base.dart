@@ -9,8 +9,7 @@ class AppThemeBase extends ChangeNotifier {
   ThemeData? _selectedTheme;
 
   AppThemeBase({required bool darkMode}) {
-   constructorKontrol(darkMode);
-   
+    constructorKontrol(darkMode);
   }
 
   ThemeData get light {
@@ -38,27 +37,27 @@ class AppThemeBase extends ChangeNotifier {
     );
   }
 
-
-  constructorKontrol(bool darkMode)async{
-     if(await HiveDb().getBox(HiveDbConstant.NIGHTMODE)==null){
-       _selectedTheme = darkMode == true ? dark : light;
-    }else if(await HiveDb().getBox(HiveDbConstant.NIGHTMODE)==true){
-      _selectedTheme=dark;
+  constructorKontrol(bool darkMode) async {
+    var themeDb = await HiveDb().getBox(HiveDbConstant.NIGHTMODE);
+    if (themeDb == null) {
+      _selectedTheme = darkMode == true ? dark : light;
+    } else if (themeDb == true) {
+      _selectedTheme = dark;
+    } else if (themeDb == false) {
+      _selectedTheme = light;
     }
-    else if(await HiveDb().getBox(HiveDbConstant.NIGHTMODE)==false){
-      _selectedTheme=light;
-    }
+    notifyListeners();
   }
 
   changeStateTheme() {
-    if(_selectedTheme==dark){
-      _selectedTheme =light;
+    if (_selectedTheme == dark) {
+      _selectedTheme = light;
       HiveDb().putBox(HiveDbConstant.NIGHTMODE, false);
-    }else{
-      _selectedTheme=dark;
-       HiveDb().putBox(HiveDbConstant.NIGHTMODE, true);
+    } else {
+      _selectedTheme = dark;
+      HiveDb().putBox(HiveDbConstant.NIGHTMODE, true);
     }
-   
+
     notifyListeners();
   }
 
