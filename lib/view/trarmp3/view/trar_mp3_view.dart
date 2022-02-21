@@ -41,7 +41,7 @@ class _TrArMp3ViewState extends State<TrArMp3View> {
     print("test");
     return Scaffold(
       appBar: AppBar(
-        title: Text("Türkçe Arapça Kuran"),
+        title: Text("Arapça Türkçe Sesli Meal"),
       ),
       body: Column(
         children: [

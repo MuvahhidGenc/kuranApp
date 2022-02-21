@@ -33,7 +33,7 @@ void main() async {
     ChangeNotifierProvider(create: (_) => TrArMp3ViewModel()),
     ChangeNotifierProvider(create: (_) => SurahVerseByVerseViewModel()),
     ChangeNotifierProvider(create: (_) => FavoriAyetlerimViewModel()),
-    ChangeNotifierProvider(create: (_) => AppThemeBase(darkMode: true)),
+    ChangeNotifierProvider(create: (_) => AppThemeBase(darkMode: false)),
   ], child: const MyApp()));
 }
 

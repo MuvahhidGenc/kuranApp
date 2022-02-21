@@ -80,8 +80,8 @@ class _KuranState extends State<Kuran> {
                       circleWidth: 15,
                       progressBarColor: theme.primaryColor,
                       child: Text(
-                        progress.toString(),
-                      ),
+                        progress.toInt().toString()+" %",
+                      style: TextStyle(fontWeight: FontWeight.bold),),
                     ),
                   ),
                 ),
