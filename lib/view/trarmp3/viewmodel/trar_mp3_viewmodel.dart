@@ -131,7 +131,7 @@ class TrArMp3ViewModel extends ChangeNotifier {
         progress = ((rec / total));
         notifyListeners();
       }).then((value) => value.statusCode != 200
-          ? print("indirme Başarısız")
+          ? pathState.delete()
           : print("indirme başarılı"));
     }
 

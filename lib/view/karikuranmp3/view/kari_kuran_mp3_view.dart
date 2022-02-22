@@ -123,7 +123,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
           " Duration : ${duration.inMinutes}: ${duration.inSeconds}");
       if (p.inSeconds == duration.inSeconds - 1 ||
           p.inSeconds == duration.inSeconds) {
-        audioNextAndPrevious(progress: "next");
+        //audioNextAndPrevious(progress: "next");
       }
       setState(() {
         position = p;
@@ -369,7 +369,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                         },
                         icon: Icon(
                           Icons.skip_previous,
-                          size: 35.0,
+                          size: 30.0,
                         )),
                   ),
                   Expanded(
@@ -395,7 +395,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                         },
                         icon: Icon(
                           buttomSheetPlayIcon ?? Icons.play_circle_fill,
-                          size: 50.0,
+                          size: 35.0,
                         )),
                   ),
                   Expanded(
@@ -406,7 +406,7 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
                         },
                         icon: Icon(
                           Icons.skip_next,
-                          size: 35.0,
+                          size: 30.0,
                         )),
                   )
                 ],
@@ -612,9 +612,10 @@ class _KariKuranMp3ViewState extends State<KariKuranMp3View> {
         downloading[downloadingIndex] = true;
         progress = ((rec / total));
         print(progress);
+       
         setState(() {});
       }).then((value) => value.statusCode != 200
-          ? print("indirme Başarısız")
+          ? pathState.delete()
           : downloading[downloadingIndex] = false);
     }
 
