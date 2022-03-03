@@ -116,10 +116,10 @@ class _HomeViewState extends State<HomeView> {
                       buttonName: "İhtiyaç Sahipleri",
                       link: "infak",
                       icon: Icons.volunteer_activism),
-                  /*_mainButton(
+                  _mainButton(
                       buttonName: "Takipli Kuran",
                       link: "flowquran",
-                      icon: Icons.play_lesson),*/
+                      icon: Icons.play_lesson),
                 ],
               ),
             ),

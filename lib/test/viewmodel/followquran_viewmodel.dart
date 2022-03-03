@@ -29,6 +29,6 @@ class FollowQuranViewModel extends ChangeNotifier {
   getAudio() async {}
 
   convertToArabicNumber(int number){
-   return _arabicNumber.convert(number);
+   return _arabicNumber.convert(number).toString();
   }
 }
