@@ -1,5 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/scheduler.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 
@@ -14,15 +15,17 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   String pagetext = "";
   List? getText;
+  int aktifAyah = 0;
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
+    aktifAyah = 1;
     //initAsyc();
   }
-  
+
   initAsyc(int page) async {
-    getText=null;
+    // getText=[];
     getText =
         await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
     pagetext = "";
@@ -51,6 +54,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         itemCount: 604,
         itemBuilder: (context, index) {
           initAsyc(index + 1);
+          if (getText!.isEmpty || getText == null) {
+            return CircularProgressIndicator();
+          }
           // ignore: avoid_unnecessary_containers
           return SafeArea(
             /*  width: MediaQuery.of(context).size.width * 0.9,*/
@@ -60,7 +66,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
               ),
             ),*/
             child: Padding(
-              padding: const EdgeInsets.all(5.0),
+              padding: const EdgeInsets.all(15.0),
               child: Container(
                 /*decoration: BoxDecoration(
                   color: theme.textTheme.bodyText1!.color
@@ -68,25 +74,40 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 child: ListView(
                   children: [
                     RichText(
-                      overflow: TextOverflow.clip,
-                      textScaleFactor: 1.1,
-                      textAlign: TextAlign.right,
-                      textDirection: TextDirection.rtl,
+                        overflow: TextOverflow.clip,
+                        textScaleFactor: 1.1,
+                        textAlign: TextAlign.right,
+                        textDirection: TextDirection.rtl,
                         text: TextSpan(
-                       style: TextStyle(fontSize: 18,/*color: theme.backgroundColor*//*backgroundColor: Colors.white*/),
-                      children: getText?.map((e) {
-                        return TextSpan(text: e.text.trim(), children: [
-                          TextSpan(
-                            text: " ﴿" +
-                                _followQuranViewModel
-                                    .convertToArabicNumber(e.numberInSurah) +
-                                "﴾ ",
-                            style: TextStyle(
-                                fontSize: 18,color:Colors.brown ),
+                          style: TextStyle(
+                            fontSize: 16, /*color: theme.backgroundColor*/
                           ),
-                        ]);
-                      }).toList(),
-                    )),
+                          children: getText?.map((e) {
+                            return TextSpan(
+                              style: e.numberInSurah == aktifAyah
+                                  ? TextStyle(
+                                      backgroundColor: Colors.white,
+                                      color: Colors.black)
+                                  : null,
+                              text: " "+e.text.trim()+" ",
+                              children: [
+                                WidgetSpan(child: CircleAvatar(radius: 10,child: Text( _followQuranViewModel
+                                          .convertToArabicNumber(
+                                              e.numberInSurah) ),)),
+                               /* TextSpan(
+                                  text: " ﴿" +
+                                      _followQuranViewModel
+                                          .convertToArabicNumber(
+                                              e.numberInSurah) +
+                                      "﴾ ",
+                                  style: TextStyle(
+                                      fontSize: 18,
+                                      color: Colors.deepOrangeAccent),
+                                ),*/
+                              ],
+                            );
+                          }).toList(),
+                        )),
                   ],
                 ),
                 //Text(pagetext)
