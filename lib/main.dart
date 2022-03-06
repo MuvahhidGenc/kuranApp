@@ -3,6 +3,7 @@ import 'package:kuran/globals/base/theme/theme_base.dart';
 import 'package:kuran/globals/constant/hivedb_constant.dart';
 import 'package:kuran/globals/extantions/theme_extanstion.dart';
 import 'package:kuran/test/view/followquran_view.dart';
+import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:kuran/view/infak/view/infak_view.dart';
 import 'package:kuran/view/favorikaldigimyer/model/hive_favorilerim_model.dart';
 import 'package:kuran/view/favorikaldigimyer/view/favoriayetlerim_view.dart';
@@ -34,6 +35,7 @@ void main() async {
     ChangeNotifierProvider(create: (_) => SurahVerseByVerseViewModel()),
     ChangeNotifierProvider(create: (_) => FavoriAyetlerimViewModel()),
     ChangeNotifierProvider(create: (_) => AppThemeBase(darkMode: false)),
+    ChangeNotifierProvider(create: (_) => FollowQuranViewModel()),
   ], child: const MyApp()));
 }
 
