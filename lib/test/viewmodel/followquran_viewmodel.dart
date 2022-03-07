@@ -15,12 +15,20 @@ class FollowQuranViewModel extends ChangeNotifier {
   Duration duration = Duration();
   Duration position = Duration();
   int aktifsurah = 1;
+  List<Ayah>? getAyahList;
   audioPlayerStream() {
     audioPlayer.onPlayerStateChanged.listen((state) {
-      print("test");
+      // print("test");
       audioPlayerState = state;
-      audioPlayerState == PlayerState.COMPLETED ? aktifsurah++ : null;
-      print(aktifsurah);
+      var totalAyah = getAyahList!.length + aktifsurah;
+      if (totalAyah < aktifsurah) {
+        aktifsurah = 0;
+      }
+      if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
+        aktifsurah++;
+        playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
+      }
+      // print(aktifsurah);
       notifyListeners();
     });
   }

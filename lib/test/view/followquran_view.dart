@@ -2,6 +2,7 @@ import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
 
@@ -14,7 +15,7 @@ class FollowQuranView extends StatefulWidget {
 
 class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
-  List? getText;
+  List<Ayah>? getText;
 
   Future quranGetText(int page) async {
     getText =
@@ -45,9 +46,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       body: PageView.builder(
         itemCount: 604,
         onPageChanged: (int page) {
-          print(page);
-          provider.aktifsurah = 1;
-          setState(() {});
+          provider.aktifsurah = getText![0].number!;
         },
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers
@@ -75,7 +74,8 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           size: 40,
         ),
         onPressed: () {
-          var path = getText![0].audioSecondary[1];
+          provider.getAyahList = getText;
+          var path = getText![0].audioSecondary![1];
           provider.playAudio(path: path);
         },
       ),
@@ -96,18 +96,18 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children: getText?.map((e) {
               return TextSpan(
-                style: e.numberInSurah == _fqvmProvider.aktifsurah
+                style: e.number == _fqvmProvider.aktifsurah
                     ? TextStyle(
                         backgroundColor: Colors.grey[400],
                       )
                     : null,
-                text: " " + e.text.trim() + " ",
+                text: " " + e.text!.trim() + " ",
                 children: [
                   WidgetSpan(
                       child: CircleAvatar(
                     radius: 15,
                     child: Text(_followQuranViewModel
-                        .convertToArabicNumber(e.numberInSurah)),
+                        .convertToArabicNumber(e.numberInSurah!)),
                   )),
                   /* TextSpan(
                                   text: " ﴿" +
