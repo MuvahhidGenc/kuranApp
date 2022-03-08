@@ -5,6 +5,7 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
+import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class FollowQuranView extends StatefulWidget {
   const FollowQuranView({Key? key}) : super(key: key);
@@ -16,19 +17,23 @@ class FollowQuranView extends StatefulWidget {
 class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   List<Ayah>? getText;
+  var itemKey=GlobalKey();
+
 
   Future quranGetText(int page) async {
     getText =
         await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
+     
     return getText;
   }
-
+  
   @override
   void initState() {
     // TODO: implement initState
     super.initState();
     Provider.of<FollowQuranViewModel>(context, listen: false)
         .audioPlayerStream();
+        
   }
 
   @override
@@ -46,7 +51,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       body: PageView.builder(
         itemCount: 604,
         onPageChanged: (int page) {
-          provider.aktifsurah = getText![0].number!;
+          provider.aktifsurah = 0;
         },
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers
@@ -70,11 +75,12 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       ),
       floatingActionButton: FloatingActionButton(
         child: Icon(
-          Icons.play_circle,
+          provider.floattingActionButtonIcon??Icons.play_circle_fill,
           size: 40,
         ),
         onPressed: () {
           provider.getAyahList = getText;
+          provider.aktifsurah=1;
           var path = getText![0].audioSecondary![1];
           provider.playAudio(path: path);
         },
@@ -84,6 +90,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
 
   ListView quranPageListText(FollowQuranViewModel _fqvmProvider) {
     return ListView(
+      shrinkWrap: true,
       children: [
         RichText(
           overflow: TextOverflow.clip,
@@ -94,9 +101,10 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             style: TextStyle(
                 fontSize: 25,
                 color: SnippetExtanstion(context).theme.primaryColorLight),
-            children: getText?.map((e) {
+            children:getText?.map((e) {
+              var listNumber=getText!.indexOf(e);
               return TextSpan(
-                style: e.number == _fqvmProvider.aktifsurah
+                style: listNumber == _fqvmProvider.aktifsurah-1
                     ? TextStyle(
                         backgroundColor: Colors.grey[400],
                       )
@@ -122,6 +130,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 ],
               );
             }).toList(),
+            
           ),
         ),
       ],
