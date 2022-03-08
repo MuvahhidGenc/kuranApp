@@ -18,15 +18,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   List<Ayah>? getText;
   var itemKey=GlobalKey();
-
-
+  
   Future quranGetText(int page) async {
     getText =
         await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
      
     return getText;
   }
-  
+
   @override
   void initState() {
     // TODO: implement initState
@@ -49,9 +48,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         ),
       ),
       body: PageView.builder(
+        controller:provider.pageController,
         itemCount: 604,
         onPageChanged: (int page) {
-          provider.aktifsurah = 0;
+          
+           provider.getAyahList = getText;
+          provider.aktifsurah=1;
+          var path = getText![0].audioSecondary![1];
+          provider.playAudio(path: path);
         },
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers

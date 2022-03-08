@@ -12,12 +12,11 @@ class FollowQuranViewModel extends ChangeNotifier {
   var _arabicNumber = ArabicNumbers();
   var _arabicNumberConvert;
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
-  PlayerState? audioPlayerState;
-  Duration duration = Duration();
-  Duration position = Duration();
+    PlayerState? audioPlayerState;                                                                  
   int aktifsurah = 1;
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
+  PageController pageController = PageController();
   audioPlayerStream() {
     audioPlayer.onPlayerStateChanged.listen((state) {
       // print("test");
@@ -28,9 +27,12 @@ class FollowQuranViewModel extends ChangeNotifier {
         aktifsurah++;
         playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
         floattingActionButtonIcon=Icons.play_circle_fill;
-         if (totalAyah < aktifsurah) {
-        aktifsurah = 0;
-      }
+       
+      }else if(audioPlayerState==PlayerState.COMPLETED && aktifsurah==totalAyah){
+         aktifsurah = -1;
+          floattingActionButtonIcon=Icons.play_circle_fill;
+          nextPage(pageController);
+          aktifsurah=1;
       }if(audioPlayerState==PlayerState.PLAYING){
         floattingActionButtonIcon=Icons.pause_circle_filled;
       }else if(audioPlayerState==PlayerState.STOPPED || audioPlayerState==PlayerState.PAUSED || floattingActionButtonIcon==null){
@@ -48,6 +50,12 @@ class FollowQuranViewModel extends ChangeNotifier {
       audioPlayer.play(path);
     }
     notifyListeners();
+  }
+  void nextPage(PageController pageController){
+    pageController.animateToPage(pageController.page!.toInt() + 1,
+      duration: Duration(milliseconds: 400),
+      curve: Curves.easeIn
+    );
   }
 
 /*Future quranGetText(int page) async {
