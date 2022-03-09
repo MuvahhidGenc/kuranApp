@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 423,
+        "ayahs": [
+            {
+                "number": 3569,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3569.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3569.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3569.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3569.mp3"
+                ],
+                "text": "وَمَا كَانَ لِمُؤْمِنٍۢ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَٰلًۭا مُّبِينًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 36,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 365,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3570,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3570.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3570.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3570.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3570.mp3"
+                ],
+                "text": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌۭ مِّنْهَا وَطَرًۭا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌۭ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًۭا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 37,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 365,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3571,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3571.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3571.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3571.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3571.mp3"
+                ],
+                "text": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍۢ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًۭا مَّقْدُورًا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 38,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 365,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3572,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3572.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3572.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3572.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3572.mp3"
+                ],
+                "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 39,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 365,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3573,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3573.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3573.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3573.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3573.mp3"
+                ],
+                "text": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍۢ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 40,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 365,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3574,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3574.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3574.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3574.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3574.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًۭا كَثِيرًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 41,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 366,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3575,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3575.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3575.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3575.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3575.mp3"
+                ],
+                "text": "وَسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 42,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 366,
+                "hizbQuarter": 169,
+                "sajda": false
+            },
+            {
+                "number": 3576,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3576.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3576.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3576.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3576.mp3"
+                ],
+                "text": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًۭا",
+                "surah": {
+                    "number": 33,
+                    "name": "سُورَةُ الأَحۡزَابِ",
+                    "englishName": "Al-Ahzaab",
+                    "englishNameTranslation": "The Clans",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 73
+                },
+                "numberInSurah": 43,
+                "juz": 22,
+                "manzil": 5,
+                "page": 423,
+                "ruku": 366,
+                "hizbQuarter": 169,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "33": {
+                "number": 33,
+                "name": "سُورَةُ الأَحۡزَابِ",
+                "englishName": "Al-Ahzaab",
+                "englishNameTranslation": "The Clans",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 73
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

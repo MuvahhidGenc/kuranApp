@@ -1,0 +1,528 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 498,
+        "ayahs": [
+            {
+                "number": 4454,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4454.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4454.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4454.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4454.mp3"
+                ],
+                "text": "إِنَّ يَوْمَ ٱلْفَصْلِ مِيقَٰتُهُمْ أَجْمَعِينَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 40,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 432,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4455,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4455.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4455.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4455.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4455.mp3"
+                ],
+                "text": "يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًۭى شَيْـًۭٔا وَلَا هُمْ يُنصَرُونَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 41,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 432,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4456,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4456.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4456.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4456.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4456.mp3"
+                ],
+                "text": "إِلَّا مَن رَّحِمَ ٱللَّهُ ۚ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 42,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 432,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4457,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4457.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4457.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4457.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4457.mp3"
+                ],
+                "text": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 43,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4458,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4458.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4458.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4458.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4458.mp3"
+                ],
+                "text": "طَعَامُ ٱلْأَثِيمِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 44,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4459,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4459.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4459.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4459.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4459.mp3"
+                ],
+                "text": "كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 45,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4460,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4460.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4460.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4460.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4460.mp3"
+                ],
+                "text": "كَغَلْىِ ٱلْحَمِيمِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 46,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4461,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4461.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4461.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4461.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4461.mp3"
+                ],
+                "text": "خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 47,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4462,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4462.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4462.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4462.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4462.mp3"
+                ],
+                "text": "ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 48,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4463,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4463.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4463.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4463.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4463.mp3"
+                ],
+                "text": "ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 49,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4464,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4464.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4464.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4464.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4464.mp3"
+                ],
+                "text": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمْتَرُونَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 50,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4465,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4465.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4465.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4465.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4465.mp3"
+                ],
+                "text": "إِنَّ ٱلْمُتَّقِينَ فِى مَقَامٍ أَمِينٍۢ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 51,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4466,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4466.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4466.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4466.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4466.mp3"
+                ],
+                "text": "فِى جَنَّٰتٍۢ وَعُيُونٍۢ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 52,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4467,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4467.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4467.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4467.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4467.mp3"
+                ],
+                "text": "يَلْبَسُونَ مِن سُندُسٍۢ وَإِسْتَبْرَقٍۢ مُّتَقَٰبِلِينَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 53,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4468,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4468.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4468.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4468.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4468.mp3"
+                ],
+                "text": "كَذَٰلِكَ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍۢ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 54,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4469,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4469.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4469.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4469.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4469.mp3"
+                ],
+                "text": "يَدْعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 55,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4470,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4470.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4470.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4470.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4470.mp3"
+                ],
+                "text": "لَا يَذُوقُونَ فِيهَا ٱلْمَوْتَ إِلَّا ٱلْمَوْتَةَ ٱلْأُولَىٰ ۖ وَوَقَىٰهُمْ عَذَابَ ٱلْجَحِيمِ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 56,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4471,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4471.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4471.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4471.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4471.mp3"
+                ],
+                "text": "فَضْلًۭا مِّن رَّبِّكَ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 57,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4472,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4472.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4472.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4472.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4472.mp3"
+                ],
+                "text": "فَإِنَّمَا يَسَّرْنَٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 58,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4473,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4473.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4473.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4473.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4473.mp3"
+                ],
+                "text": "فَٱرْتَقِبْ إِنَّهُم مُّرْتَقِبُونَ",
+                "surah": {
+                    "number": 44,
+                    "name": "سُورَةُ الدُّخَانِ",
+                    "englishName": "Ad-Dukhaan",
+                    "englishNameTranslation": "The Smoke",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 59
+                },
+                "numberInSurah": 59,
+                "juz": 25,
+                "manzil": 6,
+                "page": 498,
+                "ruku": 433,
+                "hizbQuarter": 199,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "44": {
+                "number": 44,
+                "name": "سُورَةُ الدُّخَانِ",
+                "englishName": "Ad-Dukhaan",
+                "englishNameTranslation": "The Smoke",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 59
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

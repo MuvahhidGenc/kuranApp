@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 76,
+        "ayahs": [
+            {
+                "number": 488,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/488.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/488.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/488.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/488.mp3"
+                ],
+                "text": "فَٱسْتَجَابَ لَهُمْ رَبُّهُمْ أَنِّى لَآ أُضِيعُ عَمَلَ عَٰمِلٍۢ مِّنكُم مِّن ذَكَرٍ أَوْ أُنثَىٰ ۖ بَعْضُكُم مِّنۢ بَعْضٍۢ ۖ فَٱلَّذِينَ هَاجَرُوا۟ وَأُخْرِجُوا۟ مِن دِيَٰرِهِمْ وَأُوذُوا۟ فِى سَبِيلِى وَقَٰتَلُوا۟ وَقُتِلُوا۟ لَأُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَأُدْخِلَنَّهُمْ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ ثَوَابًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلثَّوَابِ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 195,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            },
+            {
+                "number": 489,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/489.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/489.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/489.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/489.mp3"
+                ],
+                "text": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَٰدِ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 196,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            },
+            {
+                "number": 490,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/490.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/490.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/490.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/490.mp3"
+                ],
+                "text": "مَتَٰعٌۭ قَلِيلٌۭ ثُمَّ مَأْوَىٰهُمْ جَهَنَّمُ ۚ وَبِئْسَ ٱلْمِهَادُ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 197,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            },
+            {
+                "number": 491,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/491.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/491.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/491.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/491.mp3"
+                ],
+                "text": "لَٰكِنِ ٱلَّذِينَ ٱتَّقَوْا۟ رَبَّهُمْ لَهُمْ جَنَّٰتٌۭ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا نُزُلًۭا مِّنْ عِندِ ٱللَّهِ ۗ وَمَا عِندَ ٱللَّهِ خَيْرٌۭ لِّلْأَبْرَارِ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 198,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            },
+            {
+                "number": 492,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/492.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/492.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/492.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/492.mp3"
+                ],
+                "text": "وَإِنَّ مِنْ أَهْلِ ٱلْكِتَٰبِ لَمَن يُؤْمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْكُمْ وَمَآ أُنزِلَ إِلَيْهِمْ خَٰشِعِينَ لِلَّهِ لَا يَشْتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنًۭا قَلِيلًا ۗ أُو۟لَٰٓئِكَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ ۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 199,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            },
+            {
+                "number": 493,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/493.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/493.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/493.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/493.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱصْبِرُوا۟ وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 200,
+                "juz": 4,
+                "manzil": 1,
+                "page": 76,
+                "ruku": 61,
+                "hizbQuarter": 30,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "3": {
+                "number": 3,
+                "name": "سُورَةُ آلِ عِمۡرَانَ",
+                "englishName": "Aal-i-Imraan",
+                "englishNameTranslation": "The Family of Imraan",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 200
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

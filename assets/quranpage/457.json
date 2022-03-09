@@ -1,0 +1,578 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 457,
+        "ayahs": [
+            {
+                "number": 4032,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4032.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4032.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4032.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4032.mp3"
+                ],
+                "text": "وَقَالُوا۟ مَا لَنَا لَا نَرَىٰ رِجَالًۭا كُنَّا نَعُدُّهُم مِّنَ ٱلْأَشْرَارِ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 62,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 394,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4033,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4033.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4033.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4033.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4033.mp3"
+                ],
+                "text": "أَتَّخَذْنَٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَٰرُ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 63,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 394,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4034,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4034.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4034.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4034.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4034.mp3"
+                ],
+                "text": "إِنَّ ذَٰلِكَ لَحَقٌّۭ تَخَاصُمُ أَهْلِ ٱلنَّارِ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 64,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 394,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4035,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4035.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4035.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4035.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4035.mp3"
+                ],
+                "text": "قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌۭ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 65,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4036,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4036.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4036.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4036.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4036.mp3"
+                ],
+                "text": "رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلْعَزِيزُ ٱلْغَفَّٰرُ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 66,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4037,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4037.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4037.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4037.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4037.mp3"
+                ],
+                "text": "قُلْ هُوَ نَبَؤٌا۟ عَظِيمٌ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 67,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4038,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4038.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4038.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4038.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4038.mp3"
+                ],
+                "text": "أَنتُمْ عَنْهُ مُعْرِضُونَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 68,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4039,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4039.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4039.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4039.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4039.mp3"
+                ],
+                "text": "مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 69,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4040,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4040.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4040.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4040.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4040.mp3"
+                ],
+                "text": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌۭ مُّبِينٌ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 70,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4041,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4041.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4041.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4041.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4041.mp3"
+                ],
+                "text": "إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًۭا مِّن طِينٍۢ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 71,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4042,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4042.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4042.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4042.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4042.mp3"
+                ],
+                "text": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 72,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4043,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4043.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4043.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4043.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4043.mp3"
+                ],
+                "text": "فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 73,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4044,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4044.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4044.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4044.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4044.mp3"
+                ],
+                "text": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 74,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4045,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4045.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4045.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4045.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4045.mp3"
+                ],
+                "text": "قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ ۖ أَسْتَكْبَرْتَ أَمْ كُنتَ مِنَ ٱلْعَالِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 75,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4046,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4046.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4046.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4046.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4046.mp3"
+                ],
+                "text": "قَالَ أَنَا۠ خَيْرٌۭ مِّنْهُ ۖ خَلَقْتَنِى مِن نَّارٍۢ وَخَلَقْتَهُۥ مِن طِينٍۢ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 76,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4047,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4047.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4047.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4047.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4047.mp3"
+                ],
+                "text": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 77,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4048,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4048.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4048.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4048.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4048.mp3"
+                ],
+                "text": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 78,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4049,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4049.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4049.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4049.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4049.mp3"
+                ],
+                "text": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 79,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4050,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4050.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4050.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4050.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4050.mp3"
+                ],
+                "text": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 80,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4051,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4051.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4051.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4051.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4051.mp3"
+                ],
+                "text": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 81,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4052,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4052.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4052.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4052.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4052.mp3"
+                ],
+                "text": "قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 82,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            },
+            {
+                "number": 4053,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4053.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4053.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4053.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4053.mp3"
+                ],
+                "text": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+                "surah": {
+                    "number": 38,
+                    "name": "سُورَةُ صٓ",
+                    "englishName": "Saad",
+                    "englishNameTranslation": "The letter Saad",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 83,
+                "juz": 23,
+                "manzil": 6,
+                "page": 457,
+                "ruku": 395,
+                "hizbQuarter": 183,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "38": {
+                "number": 38,
+                "name": "سُورَةُ صٓ",
+                "englishName": "Saad",
+                "englishNameTranslation": "The letter Saad",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 88
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

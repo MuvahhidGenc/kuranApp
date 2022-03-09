@@ -1,0 +1,278 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 230,
+        "ayahs": [
+            {
+                "number": 1545,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1545.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1545.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1545.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1545.mp3"
+                ],
+                "text": "قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌۭ وَهَٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَٰذَا لَشَىْءٌ عَجِيبٌۭ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 72,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1546,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1546.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1546.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1546.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1546.mp3"
+                ],
+                "text": "قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ ۖ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ ۚ إِنَّهُۥ حَمِيدٌۭ مَّجِيدٌۭ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 73,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1547,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1547.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1547.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1547.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1547.mp3"
+                ],
+                "text": "فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 74,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1548,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1548.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1548.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1548.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1548.mp3"
+                ],
+                "text": "إِنَّ إِبْرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٌۭ مُّنِيبٌۭ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 75,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1549,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1549.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1549.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1549.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1549.mp3"
+                ],
+                "text": "يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ ۖ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ ۖ وَإِنَّهُمْ ءَاتِيهِمْ عَذَابٌ غَيْرُ مَرْدُودٍۢ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 76,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1550,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1550.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1550.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1550.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1550.mp3"
+                ],
+                "text": "وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًۭا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًۭا وَقَالَ هَٰذَا يَوْمٌ عَصِيبٌۭ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 77,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1551,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1551.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1551.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1551.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1551.mp3"
+                ],
+                "text": "وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ ۚ قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ ۖ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ ۖ أَلَيْسَ مِنكُمْ رَجُلٌۭ رَّشِيدٌۭ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 78,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1552,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1552.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1552.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1552.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1552.mp3"
+                ],
+                "text": "قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّۢ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 79,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1553,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1553.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1553.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1553.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1553.mp3"
+                ],
+                "text": "قَالَ لَوْ أَنَّ لِى بِكُمْ قُوَّةً أَوْ ءَاوِىٓ إِلَىٰ رُكْنٍۢ شَدِيدٍۢ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 80,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            },
+            {
+                "number": 1554,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1554.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1554.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1554.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1554.mp3"
+                ],
+                "text": "قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ ۖ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍۢ مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ ۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ ۚ إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ ۚ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍۢ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 81,
+                "juz": 12,
+                "manzil": 3,
+                "page": 230,
+                "ruku": 189,
+                "hizbQuarter": 92,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "11": {
+                "number": 11,
+                "name": "سُورَةُ هُودٍ",
+                "englishName": "Hud",
+                "englishNameTranslation": "Hud",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 123
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

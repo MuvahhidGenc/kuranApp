@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 8,
+        "ayahs": [
+            {
+                "number": 56,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/56.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/56.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/56.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/56.mp3"
+                ],
+                "text": "وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ ۚ وَفِى ذَٰلِكُم بَلَآءٌۭ مِّن رَّبِّكُمْ عَظِيمٌۭ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 49,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 57,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/57.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/57.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/57.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/57.mp3"
+                ],
+                "text": "وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 50,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 58,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/58.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/58.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/58.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/58.mp3"
+                ],
+                "text": "وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةًۭ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ ظَٰلِمُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 51,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 59,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/59.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/59.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/59.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/59.mp3"
+                ],
+                "text": "ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 52,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 60,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/60.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/60.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/60.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/60.mp3"
+                ],
+                "text": "وَإِذْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَٱلْفُرْقَانَ لَعَلَّكُمْ تَهْتَدُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 53,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 61,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/61.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/61.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/61.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/61.mp3"
+                ],
+                "text": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ عِندَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 54,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 62,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/62.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/62.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/62.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/62.mp3"
+                ],
+                "text": "وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةًۭ فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 55,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 63,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/63.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/63.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/63.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/63.mp3"
+                ],
+                "text": "ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 56,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            },
+            {
+                "number": 64,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/64.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/64.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/64.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/64.mp3"
+                ],
+                "text": "وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ ۖ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 57,
+                "juz": 1,
+                "manzil": 1,
+                "page": 8,
+                "ruku": 7,
+                "hizbQuarter": 3,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "2": {
+                "number": 2,
+                "name": "سُورَةُ البَقَرَةِ",
+                "englishName": "Al-Baqara",
+                "englishNameTranslation": "The Cow",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 286
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

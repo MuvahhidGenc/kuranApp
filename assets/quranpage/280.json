@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 280,
+        "ayahs": [
+            {
+                "number": 2012,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2012.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2012.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2012.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2012.mp3"
+                ],
+                "text": "۞ يَوْمَ تَأْتِى كُلُّ نَفْسٍۢ تُجَٰدِلُ عَن نَّفْسِهَا وَتُوَفَّىٰ كُلُّ نَفْسٍۢ مَّا عَمِلَتْ وَهُمْ لَا يُظْلَمُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 111,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2013,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2013.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2013.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2013.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2013.mp3"
+                ],
+                "text": "وَضَرَبَ ٱللَّهُ مَثَلًۭا قَرْيَةًۭ كَانَتْ ءَامِنَةًۭ مُّطْمَئِنَّةًۭ يَأْتِيهَا رِزْقُهَا رَغَدًۭا مِّن كُلِّ مَكَانٍۢ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 112,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2014,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2014.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2014.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2014.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2014.mp3"
+                ],
+                "text": "وَلَقَدْ جَآءَهُمْ رَسُولٌۭ مِّنْهُمْ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلْعَذَابُ وَهُمْ ظَٰلِمُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 113,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2015,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2015.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2015.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2015.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2015.mp3"
+                ],
+                "text": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلًۭا طَيِّبًۭا وَٱشْكُرُوا۟ نِعْمَتَ ٱللَّهِ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 114,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2016,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2016.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2016.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2016.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2016.mp3"
+                ],
+                "text": "إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ ۖ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍۢ وَلَا عَادٍۢ فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 115,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2017,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2017.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2017.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2017.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2017.mp3"
+                ],
+                "text": "وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌۭ وَهَٰذَا حَرَامٌۭ لِّتَفْتَرُوا۟ عَلَى ٱللَّهِ ٱلْكَذِبَ ۚ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 116,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2018,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2018.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2018.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2018.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2018.mp3"
+                ],
+                "text": "مَتَٰعٌۭ قَلِيلٌۭ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 117,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            },
+            {
+                "number": 2019,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2019.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2019.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2019.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2019.mp3"
+                ],
+                "text": "وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ ۖ وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 118,
+                "juz": 14,
+                "manzil": 3,
+                "page": 280,
+                "ruku": 238,
+                "hizbQuarter": 112,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "16": {
+                "number": 16,
+                "name": "سُورَةُ النَّحۡلِ",
+                "englishName": "An-Nahl",
+                "englishNameTranslation": "The Bee",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 128
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

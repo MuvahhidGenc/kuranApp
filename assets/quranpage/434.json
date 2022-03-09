@@ -1,0 +1,261 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 434,
+        "ayahs": [
+            {
+                "number": 3655,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3655.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3655.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3655.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3655.mp3"
+                ],
+                "text": "قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَٰطِلُ وَمَا يُعِيدُ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 49,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3656,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3656.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3656.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3656.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3656.mp3"
+                ],
+                "text": "قُلْ إِن ضَلَلْتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفْسِى ۖ وَإِنِ ٱهْتَدَيْتُ فَبِمَا يُوحِىٓ إِلَىَّ رَبِّىٓ ۚ إِنَّهُۥ سَمِيعٌۭ قَرِيبٌۭ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 50,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3657,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3657.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3657.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3657.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3657.mp3"
+                ],
+                "text": "وَلَوْ تَرَىٰٓ إِذْ فَزِعُوا۟ فَلَا فَوْتَ وَأُخِذُوا۟ مِن مَّكَانٍۢ قَرِيبٍۢ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 51,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3658,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3658.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3658.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3658.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3658.mp3"
+                ],
+                "text": "وَقَالُوٓا۟ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانٍۭ بَعِيدٍۢ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 52,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3659,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3659.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3659.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3659.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3659.mp3"
+                ],
+                "text": "وَقَدْ كَفَرُوا۟ بِهِۦ مِن قَبْلُ ۖ وَيَقْذِفُونَ بِٱلْغَيْبِ مِن مَّكَانٍۭ بَعِيدٍۢ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 53,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3660,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3660.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3660.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3660.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3660.mp3"
+                ],
+                "text": "وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ ۚ إِنَّهُمْ كَانُوا۟ فِى شَكٍّۢ مُّرِيبٍۭ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 54,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 375,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3661,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3661.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3661.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3661.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3661.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍۢ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۚ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ ۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 1,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3662,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3662.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3662.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3662.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3662.mp3"
+                ],
+                "text": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍۢ فَلَا مُمْسِكَ لَهَا ۖ وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 2,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            },
+            {
+                "number": 3663,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3663.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3663.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3663.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3663.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ ۚ هَلْ مِنْ خَٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ ۚ لَآ إِلَٰهَ إِلَّا هُوَ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 3,
+                "juz": 22,
+                "manzil": 5,
+                "page": 434,
+                "ruku": 376,
+                "hizbQuarter": 174,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "34": {
+                "number": 34,
+                "name": "سُورَةُ سَبَإٍ",
+                "englishName": "Saba",
+                "englishNameTranslation": "Sheba",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 54
+            },
+            "35": {
+                "number": 35,
+                "name": "سُورَةُ فَاطِرٍ",
+                "englishName": "Faatir",
+                "englishNameTranslation": "The Originator",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 45
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

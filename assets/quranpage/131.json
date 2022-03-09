@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 131,
+        "ayahs": [
+            {
+                "number": 817,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/817.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/817.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/817.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/817.mp3"
+                ],
+                "text": "بَلْ بَدَا لَهُم مَّا كَانُوا۟ يُخْفُونَ مِن قَبْلُ ۖ وَلَوْ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنْهُ وَإِنَّهُمْ لَكَٰذِبُونَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 28,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 104,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 818,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/818.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/818.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/818.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/818.mp3"
+                ],
+                "text": "وَقَالُوٓا۟ إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 29,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 104,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 819,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/819.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/819.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/819.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/819.mp3"
+                ],
+                "text": "وَلَوْ تَرَىٰٓ إِذْ وُقِفُوا۟ عَلَىٰ رَبِّهِمْ ۚ قَالَ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۚ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 30,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 104,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 820,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/820.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/820.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/820.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/820.mp3"
+                ],
+                "text": "قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ ۖ حَتَّىٰٓ إِذَا جَآءَتْهُمُ ٱلسَّاعَةُ بَغْتَةًۭ قَالُوا۟ يَٰحَسْرَتَنَا عَلَىٰ مَا فَرَّطْنَا فِيهَا وَهُمْ يَحْمِلُونَ أَوْزَارَهُمْ عَلَىٰ ظُهُورِهِمْ ۚ أَلَا سَآءَ مَا يَزِرُونَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 31,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 105,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 821,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/821.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/821.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/821.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/821.mp3"
+                ],
+                "text": "وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَعِبٌۭ وَلَهْوٌۭ ۖ وَلَلدَّارُ ٱلْءَاخِرَةُ خَيْرٌۭ لِّلَّذِينَ يَتَّقُونَ ۗ أَفَلَا تَعْقِلُونَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 32,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 105,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 822,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/822.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/822.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/822.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/822.mp3"
+                ],
+                "text": "قَدْ نَعْلَمُ إِنَّهُۥ لَيَحْزُنُكَ ٱلَّذِى يَقُولُونَ ۖ فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجْحَدُونَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 33,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 105,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 823,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/823.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/823.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/823.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/823.mp3"
+                ],
+                "text": "وَلَقَدْ كُذِّبَتْ رُسُلٌۭ مِّن قَبْلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰٓ أَتَىٰهُمْ نَصْرُنَا ۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِ ۚ وَلَقَدْ جَآءَكَ مِن نَّبَإِى۟ ٱلْمُرْسَلِينَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 34,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 105,
+                "hizbQuarter": 52,
+                "sajda": false
+            },
+            {
+                "number": 824,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/824.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/824.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/824.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/824.mp3"
+                ],
+                "text": "وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًۭا فِى ٱلْأَرْضِ أَوْ سُلَّمًۭا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍۢ ۚ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ ۚ فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ",
+                "surah": {
+                    "number": 6,
+                    "name": "سُورَةُ الأَنۡعَامِ",
+                    "englishName": "Al-An'aam",
+                    "englishNameTranslation": "The Cattle",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 165
+                },
+                "numberInSurah": 35,
+                "juz": 7,
+                "manzil": 2,
+                "page": 131,
+                "ruku": 105,
+                "hizbQuarter": 52,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "6": {
+                "number": 6,
+                "name": "سُورَةُ الأَنۡعَامِ",
+                "englishName": "Al-An'aam",
+                "englishNameTranslation": "The Cattle",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 165
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

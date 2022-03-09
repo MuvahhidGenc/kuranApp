@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 573,
+        "ayahs": [
+            {
+                "number": 5461,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5461.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5461.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5461.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5461.mp3"
+                ],
+                "text": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ ۖ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 14,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5462,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5462.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5462.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5462.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5462.mp3"
+                ],
+                "text": "وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 15,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5463,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5463.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5463.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5463.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5463.mp3"
+                ],
+                "text": "وَأَلَّوِ ٱسْتَقَٰمُوا۟ عَلَى ٱلطَّرِيقَةِ لَأَسْقَيْنَٰهُم مَّآءً غَدَقًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 16,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5464,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5464.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5464.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5464.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5464.mp3"
+                ],
+                "text": "لِّنَفْتِنَهُمْ فِيهِ ۚ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًۭا صَعَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 17,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5465,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5465.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5465.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5465.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5465.mp3"
+                ],
+                "text": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 18,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5466,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5466.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5466.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5466.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5466.mp3"
+                ],
+                "text": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 19,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 506,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5467,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5467.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5467.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5467.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5467.mp3"
+                ],
+                "text": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 20,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5468,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5468.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5468.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5468.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5468.mp3"
+                ],
+                "text": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّۭا وَلَا رَشَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 21,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5469,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5469.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5469.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5469.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5469.mp3"
+                ],
+                "text": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌۭ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 22,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5470,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5470.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5470.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5470.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5470.mp3"
+                ],
+                "text": "إِلَّا بَلَٰغًۭا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ ۚ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 23,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5471,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5471.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5471.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5471.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5471.mp3"
+                ],
+                "text": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًۭا وَأَقَلُّ عَدَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 24,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5472,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5472.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5472.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5472.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5472.mp3"
+                ],
+                "text": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌۭ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 25,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5473,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5473.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5473.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5473.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5473.mp3"
+                ],
+                "text": "عَٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 26,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5474,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5474.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5474.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5474.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5474.mp3"
+                ],
+                "text": "إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍۢ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًۭا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 27,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5475,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5475.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5475.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5475.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5475.mp3"
+                ],
+                "text": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا",
+                "surah": {
+                    "number": 72,
+                    "name": "سُورَةُ الجِنِّ",
+                    "englishName": "Al-Jinn",
+                    "englishNameTranslation": "The Jinn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 28
+                },
+                "numberInSurah": 28,
+                "juz": 29,
+                "manzil": 7,
+                "page": 573,
+                "ruku": 507,
+                "hizbQuarter": 229,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "72": {
+                "number": 72,
+                "name": "سُورَةُ الجِنِّ",
+                "englishName": "Al-Jinn",
+                "englishNameTranslation": "The Jinn",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 28
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

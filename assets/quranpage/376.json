@@ -1,0 +1,553 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 376,
+        "ayahs": [
+            {
+                "number": 3139,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3139.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3139.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3139.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3139.mp3"
+                ],
+                "text": "مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 207,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3140,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3140.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3140.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3140.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3140.mp3"
+                ],
+                "text": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 208,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3141,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3141.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3141.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3141.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3141.mp3"
+                ],
+                "text": "ذِكْرَىٰ وَمَا كُنَّا ظَٰلِمِينَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 209,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3142,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3142.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3142.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3142.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3142.mp3"
+                ],
+                "text": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَٰطِينُ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 210,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3143,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3143.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3143.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3143.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3143.mp3"
+                ],
+                "text": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 211,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3144,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3144.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3144.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3144.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3144.mp3"
+                ],
+                "text": "إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 212,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3145,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3145.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3145.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3145.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3145.mp3"
+                ],
+                "text": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 213,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3146,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3146.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3146.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3146.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3146.mp3"
+                ],
+                "text": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 214,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3147,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3147.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3147.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3147.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3147.mp3"
+                ],
+                "text": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 215,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3148,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3148.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3148.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3148.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3148.mp3"
+                ],
+                "text": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌۭ مِّمَّا تَعْمَلُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 216,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3149,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3149.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3149.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3149.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3149.mp3"
+                ],
+                "text": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 217,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3150,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3150.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3150.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3150.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3150.mp3"
+                ],
+                "text": "ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 218,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3151,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3151.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3151.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3151.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3151.mp3"
+                ],
+                "text": "وَتَقَلُّبَكَ فِى ٱلسَّٰجِدِينَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 219,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3152,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3152.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3152.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3152.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3152.mp3"
+                ],
+                "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 220,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3153,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3153.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3153.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3153.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3153.mp3"
+                ],
+                "text": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 221,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3154,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3154.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3154.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3154.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3154.mp3"
+                ],
+                "text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍۢ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 222,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3155,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3155.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3155.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3155.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3155.mp3"
+                ],
+                "text": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَٰذِبُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 223,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3156,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3156.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3156.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3156.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3156.mp3"
+                ],
+                "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 224,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3157,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3157.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3157.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3157.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3157.mp3"
+                ],
+                "text": "أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍۢ يَهِيمُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 225,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3158,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3158.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3158.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3158.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3158.mp3"
+                ],
+                "text": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 226,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            },
+            {
+                "number": 3159,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3159.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3159.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3159.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3159.mp3"
+                ],
+                "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًۭا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍۢ يَنقَلِبُونَ",
+                "surah": {
+                    "number": 26,
+                    "name": "سُورَةُ الشُّعَرَاءِ",
+                    "englishName": "Ash-Shu'araa",
+                    "englishNameTranslation": "The Poets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 227
+                },
+                "numberInSurah": 227,
+                "juz": 19,
+                "manzil": 5,
+                "page": 376,
+                "ruku": 326,
+                "hizbQuarter": 150,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "26": {
+                "number": 26,
+                "name": "سُورَةُ الشُّعَرَاءِ",
+                "englishName": "Ash-Shu'araa",
+                "englishNameTranslation": "The Poets",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 227
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,728 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 588,
+        "ayahs": [
+            {
+                "number": 5855,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5855.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5855.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5855.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5855.mp3"
+                ],
+                "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍۢ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5856,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5856.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5856.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5856.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5856.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌۭ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5857,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5857.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5857.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5857.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5857.mp3"
+                ],
+                "text": "كِتَٰبٌۭ مَّرْقُومٌۭ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5858,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5858.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5858.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5858.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5858.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5859,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5859.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5859.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5859.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5859.mp3"
+                ],
+                "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5860,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5860.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5860.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5860.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5860.mp3"
+                ],
+                "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5861,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5861.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5861.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5861.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5861.mp3"
+                ],
+                "text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5862,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5862.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5862.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5862.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5862.mp3"
+                ],
+                "text": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5863,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5863.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5863.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5863.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5863.mp3"
+                ],
+                "text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍۢ لَّمَحْجُوبُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5864,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5864.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5864.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5864.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5864.mp3"
+                ],
+                "text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5865,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5865.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5865.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5865.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5865.mp3"
+                ],
+                "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5866,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5866.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5866.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5866.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5866.mp3"
+                ],
+                "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5867,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5867.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5867.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5867.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5867.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5868,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5868.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5868.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5868.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5868.mp3"
+                ],
+                "text": "كِتَٰبٌۭ مَّرْقُومٌۭ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 20,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5869,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5869.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5869.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5869.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5869.mp3"
+                ],
+                "text": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 21,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5870,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5870.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5870.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5870.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5870.mp3"
+                ],
+                "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 22,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5871,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5871.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5871.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5871.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5871.mp3"
+                ],
+                "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 23,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5872,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5872.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5872.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5872.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5872.mp3"
+                ],
+                "text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 24,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5873,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5873.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5873.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5873.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5873.mp3"
+                ],
+                "text": "يُسْقَوْنَ مِن رَّحِيقٍۢ مَّخْتُومٍ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 25,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5874,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5874.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5874.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5874.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5874.mp3"
+                ],
+                "text": "خِتَٰمُهُۥ مِسْكٌۭ ۚ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَٰفِسُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 26,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5875,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5875.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5875.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5875.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5875.mp3"
+                ],
+                "text": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 27,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5876,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5876.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5876.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5876.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5876.mp3"
+                ],
+                "text": "عَيْنًۭا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 28,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5877,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5877.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5877.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5877.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5877.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 29,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5878,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5878.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5878.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5878.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5878.mp3"
+                ],
+                "text": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 30,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5879,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5879.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5879.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5879.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5879.mp3"
+                ],
+                "text": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 31,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5880,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5880.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5880.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5880.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5880.mp3"
+                ],
+                "text": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 32,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5881,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5881.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5881.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5881.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5881.mp3"
+                ],
+                "text": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَٰفِظِينَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 33,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            },
+            {
+                "number": 5882,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5882.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5882.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5882.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5882.mp3"
+                ],
+                "text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+                "surah": {
+                    "number": 83,
+                    "name": "سُورَةُ المُطَفِّفِينَ",
+                    "englishName": "Al-Mutaffifin",
+                    "englishNameTranslation": "Defrauding",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 36
+                },
+                "numberInSurah": 34,
+                "juz": 30,
+                "manzil": 7,
+                "page": 588,
+                "ruku": 525,
+                "hizbQuarter": 235,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "83": {
+                "number": 83,
+                "name": "سُورَةُ المُطَفِّفِينَ",
+                "englishName": "Al-Mutaffifin",
+                "englishNameTranslation": "Defrauding",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 36
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

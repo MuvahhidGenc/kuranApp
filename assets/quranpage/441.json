@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 441,
+        "ayahs": [
+            {
+                "number": 3718,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3718.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3718.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3718.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3718.mp3"
+                ],
+                "text": "وَٱضْرِبْ لَهُم مَّثَلًا أَصْحَٰبَ ٱلْقَرْيَةِ إِذْ جَآءَهَا ٱلْمُرْسَلُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 13,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3719,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3719.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3719.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3719.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3719.mp3"
+                ],
+                "text": "إِذْ أَرْسَلْنَآ إِلَيْهِمُ ٱثْنَيْنِ فَكَذَّبُوهُمَا فَعَزَّزْنَا بِثَالِثٍۢ فَقَالُوٓا۟ إِنَّآ إِلَيْكُم مُّرْسَلُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 14,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3720,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3720.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3720.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3720.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3720.mp3"
+                ],
+                "text": "قَالُوا۟ مَآ أَنتُمْ إِلَّا بَشَرٌۭ مِّثْلُنَا وَمَآ أَنزَلَ ٱلرَّحْمَٰنُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا تَكْذِبُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 15,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3721,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3721.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3721.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3721.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3721.mp3"
+                ],
+                "text": "قَالُوا۟ رَبُّنَا يَعْلَمُ إِنَّآ إِلَيْكُمْ لَمُرْسَلُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 16,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3722,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3722.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3722.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3722.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3722.mp3"
+                ],
+                "text": "وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَٰغُ ٱلْمُبِينُ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 17,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3723,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3723.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3723.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3723.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3723.mp3"
+                ],
+                "text": "قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ ۖ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم مِّنَّا عَذَابٌ أَلِيمٌۭ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 18,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3724,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3724.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3724.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3724.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3724.mp3"
+                ],
+                "text": "قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ ۚ أَئِن ذُكِّرْتُم ۚ بَلْ أَنتُمْ قَوْمٌۭ مُّسْرِفُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 19,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3725,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3725.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3725.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3725.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3725.mp3"
+                ],
+                "text": "وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌۭ يَسْعَىٰ قَالَ يَٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 20,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3726,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3726.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3726.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3726.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3726.mp3"
+                ],
+                "text": "ٱتَّبِعُوا۟ مَن لَّا يَسْـَٔلُكُمْ أَجْرًۭا وَهُم مُّهْتَدُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 21,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3727,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3727.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3727.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3727.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3727.mp3"
+                ],
+                "text": "وَمَا لِىَ لَآ أَعْبُدُ ٱلَّذِى فَطَرَنِى وَإِلَيْهِ تُرْجَعُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 22,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3728,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3728.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3728.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3728.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3728.mp3"
+                ],
+                "text": "ءَأَتَّخِذُ مِن دُونِهِۦٓ ءَالِهَةً إِن يُرِدْنِ ٱلرَّحْمَٰنُ بِضُرٍّۢ لَّا تُغْنِ عَنِّى شَفَٰعَتُهُمْ شَيْـًۭٔا وَلَا يُنقِذُونِ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 23,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3729,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3729.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3729.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3729.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3729.mp3"
+                ],
+                "text": "إِنِّىٓ إِذًۭا لَّفِى ضَلَٰلٍۢ مُّبِينٍ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 24,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3730,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3730.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3730.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3730.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3730.mp3"
+                ],
+                "text": "إِنِّىٓ ءَامَنتُ بِرَبِّكُمْ فَٱسْمَعُونِ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 25,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3731,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3731.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3731.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3731.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3731.mp3"
+                ],
+                "text": "قِيلَ ٱدْخُلِ ٱلْجَنَّةَ ۖ قَالَ يَٰلَيْتَ قَوْمِى يَعْلَمُونَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 26,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3732,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3732.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3732.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3732.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3732.mp3"
+                ],
+                "text": "بِمَا غَفَرَ لِى رَبِّى وَجَعَلَنِى مِنَ ٱلْمُكْرَمِينَ",
+                "surah": {
+                    "number": 36,
+                    "name": "سُورَةُ يسٓ",
+                    "englishName": "Yaseen",
+                    "englishNameTranslation": "Yaseen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 83
+                },
+                "numberInSurah": 27,
+                "juz": 22,
+                "manzil": 5,
+                "page": 441,
+                "ruku": 382,
+                "hizbQuarter": 176,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "36": {
+                "number": 36,
+                "name": "سُورَةُ يسٓ",
+                "englishName": "Yaseen",
+                "englishNameTranslation": "Yaseen",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 83
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

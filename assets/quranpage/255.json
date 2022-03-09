@@ -1,0 +1,186 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 255,
+        "ayahs": [
+            {
+                "number": 1750,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1750.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1750.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1750.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1750.mp3"
+                ],
+                "text": "وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًۭا ۚ قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 43,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 210,
+                "hizbQuarter": 102,
+                "sajda": false
+            },
+            {
+                "number": 1751,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1751.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1751.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1751.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1751.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر ۚ كِتَٰبٌ أَنزَلْنَٰهُ إِلَيْكَ لِتُخْرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذْنِ رَبِّهِمْ إِلَىٰ صِرَٰطِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 1,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 211,
+                "hizbQuarter": 102,
+                "sajda": false
+            },
+            {
+                "number": 1752,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1752.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1752.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1752.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1752.mp3"
+                ],
+                "text": "ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ وَوَيْلٌۭ لِّلْكَٰفِرِينَ مِنْ عَذَابٍۢ شَدِيدٍ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 2,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 211,
+                "hizbQuarter": 102,
+                "sajda": false
+            },
+            {
+                "number": 1753,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1753.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1753.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1753.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1753.mp3"
+                ],
+                "text": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍۭ بَعِيدٍۢ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 3,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 211,
+                "hizbQuarter": 102,
+                "sajda": false
+            },
+            {
+                "number": 1754,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1754.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1754.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1754.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1754.mp3"
+                ],
+                "text": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ ۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 4,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 211,
+                "hizbQuarter": 102,
+                "sajda": false
+            },
+            {
+                "number": 1755,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1755.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1755.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1755.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1755.mp3"
+                ],
+                "text": "وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّكُلِّ صَبَّارٍۢ شَكُورٍۢ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 5,
+                "juz": 13,
+                "manzil": 3,
+                "page": 255,
+                "ruku": 211,
+                "hizbQuarter": 102,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "13": {
+                "number": 13,
+                "name": "سُورَةُ الرَّعۡدِ",
+                "englishName": "Ar-Ra'd",
+                "englishNameTranslation": "The Thunder",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 43
+            },
+            "14": {
+                "number": 14,
+                "name": "سُورَةُ إِبۡرَاهِيمَ",
+                "englishName": "Ibrahim",
+                "englishNameTranslation": "Abraham",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 52
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

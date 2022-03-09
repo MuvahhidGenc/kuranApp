@@ -1,0 +1,578 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 530,
+        "ayahs": [
+            {
+                "number": 4874,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4874.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4874.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4874.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4874.mp3"
+                ],
+                "text": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ ۖ كُلُّ شِرْبٍۢ مُّحْتَضَرٌۭ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 28,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4875,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4875.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4875.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4875.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4875.mp3"
+                ],
+                "text": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 29,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4876,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4876.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4876.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4876.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4876.mp3"
+                ],
+                "text": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 30,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4877,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4877.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4877.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4877.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4877.mp3"
+                ],
+                "text": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةًۭ وَٰحِدَةًۭ فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 31,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4878,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4878.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4878.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4878.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4878.mp3"
+                ],
+                "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 32,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4879,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4879.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4879.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4879.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4879.mp3"
+                ],
+                "text": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 33,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4880,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4880.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4880.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4880.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4880.mp3"
+                ],
+                "text": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍۢ ۖ نَّجَّيْنَٰهُم بِسَحَرٍۢ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 34,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4881,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4881.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4881.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4881.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4881.mp3"
+                ],
+                "text": "نِّعْمَةًۭ مِّنْ عِندِنَا ۚ كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 35,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4882,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4882.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4882.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4882.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4882.mp3"
+                ],
+                "text": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 36,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4883,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4883.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4883.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4883.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4883.mp3"
+                ],
+                "text": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 37,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4884,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4884.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4884.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4884.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4884.mp3"
+                ],
+                "text": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌۭ مُّسْتَقِرٌّۭ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 38,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4885,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4885.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4885.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4885.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4885.mp3"
+                ],
+                "text": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 39,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4886,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4886.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4886.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4886.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4886.mp3"
+                ],
+                "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍۢ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 40,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 464,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4887,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4887.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4887.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4887.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4887.mp3"
+                ],
+                "text": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 41,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4888,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4888.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4888.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4888.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4888.mp3"
+                ],
+                "text": "كَذَّبُوا۟ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍۢ مُّقْتَدِرٍ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 42,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4889,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4889.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4889.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4889.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4889.mp3"
+                ],
+                "text": "أَكُفَّارُكُمْ خَيْرٌۭ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌۭ فِى ٱلزُّبُرِ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 43,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4890,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4890.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4890.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4890.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4890.mp3"
+                ],
+                "text": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌۭ مُّنتَصِرٌۭ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 44,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4891,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4891.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4891.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4891.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4891.mp3"
+                ],
+                "text": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 45,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4892,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4892.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4892.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4892.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4892.mp3"
+                ],
+                "text": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 46,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4893,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4893.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4893.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4893.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4893.mp3"
+                ],
+                "text": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍۢ وَسُعُرٍۢ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 47,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4894,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4894.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4894.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4894.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4894.mp3"
+                ],
+                "text": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 48,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            },
+            {
+                "number": 4895,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4895.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4895.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4895.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4895.mp3"
+                ],
+                "text": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍۢ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 49,
+                "juz": 27,
+                "manzil": 7,
+                "page": 530,
+                "ruku": 465,
+                "hizbQuarter": 212,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "54": {
+                "number": 54,
+                "name": "سُورَةُ القَمَرِ",
+                "englishName": "Al-Qamar",
+                "englishNameTranslation": "The Moon",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 55
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

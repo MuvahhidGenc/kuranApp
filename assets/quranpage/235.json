@@ -1,0 +1,286 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 235,
+        "ayahs": [
+            {
+                "number": 1591,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1591.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1591.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1591.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1591.mp3"
+                ],
+                "text": "وَلَوْ شَآءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةًۭ وَٰحِدَةًۭ ۖ وَلَا يَزَالُونَ مُخْتَلِفِينَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 118,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1592,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1592.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1592.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1592.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1592.mp3"
+                ],
+                "text": "إِلَّا مَن رَّحِمَ رَبُّكَ ۚ وَلِذَٰلِكَ خَلَقَهُمْ ۗ وَتَمَّتْ كَلِمَةُ رَبِّكَ لَأَمْلَأَنَّ جَهَنَّمَ مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ أَجْمَعِينَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 119,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1593,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1593.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1593.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1593.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1593.mp3"
+                ],
+                "text": "وَكُلًّۭا نَّقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَ ۚ وَجَآءَكَ فِى هَٰذِهِ ٱلْحَقُّ وَمَوْعِظَةٌۭ وَذِكْرَىٰ لِلْمُؤْمِنِينَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 120,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1594,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1594.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1594.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1594.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1594.mp3"
+                ],
+                "text": "وَقُل لِّلَّذِينَ لَا يُؤْمِنُونَ ٱعْمَلُوا۟ عَلَىٰ مَكَانَتِكُمْ إِنَّا عَٰمِلُونَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 121,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1595,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1595.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1595.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1595.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1595.mp3"
+                ],
+                "text": "وَٱنتَظِرُوٓا۟ إِنَّا مُنتَظِرُونَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 122,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1596,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1596.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1596.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1596.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1596.mp3"
+                ],
+                "text": "وَلِلَّهِ غَيْبُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِلَيْهِ يُرْجَعُ ٱلْأَمْرُ كُلُّهُۥ فَٱعْبُدْهُ وَتَوَكَّلْ عَلَيْهِ ۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ",
+                "surah": {
+                    "number": 11,
+                    "name": "سُورَةُ هُودٍ",
+                    "englishName": "Hud",
+                    "englishNameTranslation": "Hud",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 123
+                },
+                "numberInSurah": 123,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 192,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1597,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1597.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1597.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1597.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1597.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 1,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 193,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1598,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1598.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1598.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1598.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1598.mp3"
+                ],
+                "text": "إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّۭا لَّعَلَّكُمْ تَعْقِلُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 2,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 193,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1599,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1599.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1599.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1599.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1599.mp3"
+                ],
+                "text": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 3,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 193,
+                "hizbQuarter": 94,
+                "sajda": false
+            },
+            {
+                "number": 1600,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1600.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1600.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1600.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1600.mp3"
+                ],
+                "text": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًۭا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 4,
+                "juz": 12,
+                "manzil": 3,
+                "page": 235,
+                "ruku": 193,
+                "hizbQuarter": 94,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "11": {
+                "number": 11,
+                "name": "سُورَةُ هُودٍ",
+                "englishName": "Hud",
+                "englishNameTranslation": "Hud",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 123
+            },
+            "12": {
+                "number": 12,
+                "name": "سُورَةُ يُوسُفَ",
+                "englishName": "Yusuf",
+                "englishNameTranslation": "Joseph",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 111
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

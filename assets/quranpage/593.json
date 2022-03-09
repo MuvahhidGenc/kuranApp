@@ -1,0 +1,603 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 593,
+        "ayahs": [
+            {
+                "number": 5994,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5994.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5994.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5994.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5994.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5995,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5995.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5995.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5995.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5995.mp3"
+                ],
+                "text": "وَلَيَالٍ عَشْرٍۢ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5996,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5996.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5996.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5996.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5996.mp3"
+                ],
+                "text": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5997,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5997.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5997.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5997.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5997.mp3"
+                ],
+                "text": "وَٱلَّيْلِ إِذَا يَسْرِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5998,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5998.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5998.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5998.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5998.mp3"
+                ],
+                "text": "هَلْ فِى ذَٰلِكَ قَسَمٌۭ لِّذِى حِجْرٍ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5999,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5999.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5999.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5999.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5999.mp3"
+                ],
+                "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6000,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6000.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6000.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6000.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6000.mp3"
+                ],
+                "text": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6001,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6001.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6001.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6001.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6001.mp3"
+                ],
+                "text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6002,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6002.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6002.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6002.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6002.mp3"
+                ],
+                "text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6003,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6003.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6003.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6003.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6003.mp3"
+                ],
+                "text": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6004,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6004.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6004.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6004.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6004.mp3"
+                ],
+                "text": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6005,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6005.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6005.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6005.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6005.mp3"
+                ],
+                "text": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6006,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6006.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6006.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6006.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6006.mp3"
+                ],
+                "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6007,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6007.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6007.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6007.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6007.mp3"
+                ],
+                "text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6008,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6008.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6008.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6008.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6008.mp3"
+                ],
+                "text": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6009,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6009.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6009.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6009.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6009.mp3"
+                ],
+                "text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6010,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6010.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6010.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6010.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6010.mp3"
+                ],
+                "text": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6011,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6011.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6011.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6011.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6011.mp3"
+                ],
+                "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6012,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6012.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6012.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6012.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6012.mp3"
+                ],
+                "text": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًۭا لَّمًّۭا",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6013,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6013.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6013.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6013.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6013.mp3"
+                ],
+                "text": "وَتُحِبُّونَ ٱلْمَالَ حُبًّۭا جَمًّۭا",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 20,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6014,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6014.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6014.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6014.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6014.mp3"
+                ],
+                "text": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّۭا دَكًّۭا",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 21,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6015,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6015.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6015.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6015.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6015.mp3"
+                ],
+                "text": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّۭا صَفًّۭا",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 22,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6016,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6016.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6016.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6016.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6016.mp3"
+                ],
+                "text": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍۢ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 23,
+                "juz": 30,
+                "manzil": 7,
+                "page": 593,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "89": {
+                "number": 89,
+                "name": "سُورَةُ الفَجۡرِ",
+                "englishName": "Al-Fajr",
+                "englishNameTranslation": "The Dawn",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 30
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

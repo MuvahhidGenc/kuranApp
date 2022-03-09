@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 248,
+        "ayahs": [
+            {
+                "number": 1700,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1700.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1700.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1700.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1700.mp3"
+                ],
+                "text": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ ۚ إِنْ هُوَ إِلَّا ذِكْرٌۭ لِّلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 104,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 203,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1701,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1701.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1701.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1701.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1701.mp3"
+                ],
+                "text": "وَكَأَيِّن مِّنْ ءَايَةٍۢ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 105,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1702,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1702.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1702.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1702.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1702.mp3"
+                ],
+                "text": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 106,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1703,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1703.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1703.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1703.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1703.mp3"
+                ],
+                "text": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌۭ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةًۭ وَهُمْ لَا يَشْعُرُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 107,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1704,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1704.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1704.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1704.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1704.mp3"
+                ],
+                "text": "قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى ۖ وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 108,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1705,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1705.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1705.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1705.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1705.mp3"
+                ],
+                "text": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًۭا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ ۗ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۗ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌۭ لِّلَّذِينَ ٱتَّقَوْا۟ ۗ أَفَلَا تَعْقِلُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 109,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1706,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1706.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1706.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1706.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1706.mp3"
+                ],
+                "text": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ ۖ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 110,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            },
+            {
+                "number": 1707,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1707.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1707.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1707.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1707.mp3"
+                ],
+                "text": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌۭ لِّأُو۟لِى ٱلْأَلْبَٰبِ ۗ مَا كَانَ حَدِيثًۭا يُفْتَرَىٰ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍۢ وَهُدًۭى وَرَحْمَةًۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 111,
+                "juz": 13,
+                "manzil": 3,
+                "page": 248,
+                "ruku": 204,
+                "hizbQuarter": 99,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "12": {
+                "number": 12,
+                "name": "سُورَةُ يُوسُفَ",
+                "englishName": "Yusuf",
+                "englishNameTranslation": "Joseph",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 111
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

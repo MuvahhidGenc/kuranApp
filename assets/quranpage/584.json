@@ -1,0 +1,803 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 584,
+        "ayahs": [
+            {
+                "number": 5728,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5728.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5728.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5728.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5728.mp3"
+                ],
+                "text": "إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5729,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5729.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5729.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5729.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5729.mp3"
+                ],
+                "text": "ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5730,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5730.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5730.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5730.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5730.mp3"
+                ],
+                "text": "فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5731,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5731.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5731.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5731.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5731.mp3"
+                ],
+                "text": "وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5732,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5732.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5732.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5732.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5732.mp3"
+                ],
+                "text": "فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 20,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5733,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5733.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5733.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5733.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5733.mp3"
+                ],
+                "text": "فَكَذَّبَ وَعَصَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 21,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5734,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5734.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5734.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5734.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5734.mp3"
+                ],
+                "text": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 22,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5735,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5735.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5735.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5735.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5735.mp3"
+                ],
+                "text": "فَحَشَرَ فَنَادَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 23,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5736,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5736.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5736.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5736.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5736.mp3"
+                ],
+                "text": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 24,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5737,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5737.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5737.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5737.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5737.mp3"
+                ],
+                "text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 25,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5738,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5738.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5738.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5738.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5738.mp3"
+                ],
+                "text": "إِنَّ فِى ذَٰلِكَ لَعِبْرَةًۭ لِّمَن يَخْشَىٰٓ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 26,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 520,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5739,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5739.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5739.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5739.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5739.mp3"
+                ],
+                "text": "ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ ۚ بَنَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 27,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5740,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5740.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5740.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5740.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5740.mp3"
+                ],
+                "text": "رَفَعَ سَمْكَهَا فَسَوَّىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 28,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5741,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5741.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5741.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5741.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5741.mp3"
+                ],
+                "text": "وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 29,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5742,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5742.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5742.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5742.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5742.mp3"
+                ],
+                "text": "وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 30,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5743,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5743.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5743.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5743.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5743.mp3"
+                ],
+                "text": "أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 31,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5744,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5744.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5744.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5744.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5744.mp3"
+                ],
+                "text": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 32,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5745,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5745.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5745.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5745.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5745.mp3"
+                ],
+                "text": "مَتَٰعًۭا لَّكُمْ وَلِأَنْعَٰمِكُمْ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 33,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5746,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5746.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5746.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5746.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5746.mp3"
+                ],
+                "text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 34,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5747,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5747.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5747.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5747.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5747.mp3"
+                ],
+                "text": "يَوْمَ يَتَذَكَّرُ ٱلْإِنسَٰنُ مَا سَعَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 35,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5748,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5748.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5748.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5748.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5748.mp3"
+                ],
+                "text": "وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 36,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5749,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5749.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5749.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5749.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5749.mp3"
+                ],
+                "text": "فَأَمَّا مَن طَغَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 37,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5750,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5750.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5750.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5750.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5750.mp3"
+                ],
+                "text": "وَءَاثَرَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 38,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5751,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5751.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5751.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5751.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5751.mp3"
+                ],
+                "text": "فَإِنَّ ٱلْجَحِيمَ هِىَ ٱلْمَأْوَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 39,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5752,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5752.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5752.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5752.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5752.mp3"
+                ],
+                "text": "وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفْسَ عَنِ ٱلْهَوَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 40,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5753,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5753.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5753.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5753.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5753.mp3"
+                ],
+                "text": "فَإِنَّ ٱلْجَنَّةَ هِىَ ٱلْمَأْوَىٰ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 41,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5754,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5754.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5754.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5754.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5754.mp3"
+                ],
+                "text": "يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 42,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5755,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5755.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5755.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5755.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5755.mp3"
+                ],
+                "text": "فِيمَ أَنتَ مِن ذِكْرَىٰهَآ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 43,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5756,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5756.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5756.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5756.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5756.mp3"
+                ],
+                "text": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 44,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5757,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5757.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5757.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5757.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5757.mp3"
+                ],
+                "text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخْشَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 45,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            },
+            {
+                "number": 5758,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5758.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5758.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5758.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5758.mp3"
+                ],
+                "text": "كَأَنَّهُمْ يَوْمَ يَرَوْنَهَا لَمْ يَلْبَثُوٓا۟ إِلَّا عَشِيَّةً أَوْ ضُحَىٰهَا",
+                "surah": {
+                    "number": 79,
+                    "name": "سُورَةُ النَّازِعَاتِ",
+                    "englishName": "An-Naazi'aat",
+                    "englishNameTranslation": "Those who drag forth",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 46
+                },
+                "numberInSurah": 46,
+                "juz": 30,
+                "manzil": 7,
+                "page": 584,
+                "ruku": 521,
+                "hizbQuarter": 233,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "79": {
+                "number": 79,
+                "name": "سُورَةُ النَّازِعَاتِ",
+                "englishName": "An-Naazi'aat",
+                "englishNameTranslation": "Those who drag forth",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 46
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

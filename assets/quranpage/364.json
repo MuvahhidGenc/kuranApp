@@ -1,0 +1,328 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 364,
+        "ayahs": [
+            {
+                "number": 2899,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2899.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2899.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2899.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2899.mp3"
+                ],
+                "text": "أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ ۚ إِنْ هُمْ إِلَّا كَٱلْأَنْعَٰمِ ۖ بَلْ هُمْ أَضَلُّ سَبِيلًا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 44,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 313,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2900,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2900.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2900.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2900.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2900.mp3"
+                ],
+                "text": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًۭا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 45,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2901,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2901.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2901.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2901.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2901.mp3"
+                ],
+                "text": "ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًۭا يَسِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 46,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2902,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2902.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2902.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2902.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2902.mp3"
+                ],
+                "text": "وَهُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِبَاسًۭا وَٱلنَّوْمَ سُبَاتًۭا وَجَعَلَ ٱلنَّهَارَ نُشُورًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 47,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2903,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2903.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2903.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2903.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2903.mp3"
+                ],
+                "text": "وَهُوَ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ طَهُورًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 48,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2904,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2904.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2904.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2904.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2904.mp3"
+                ],
+                "text": "لِّنُحْۦِىَ بِهِۦ بَلْدَةًۭ مَّيْتًۭا وَنُسْقِيَهُۥ مِمَّا خَلَقْنَآ أَنْعَٰمًۭا وَأَنَاسِىَّ كَثِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 49,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2905,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2905.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2905.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2905.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2905.mp3"
+                ],
+                "text": "وَلَقَدْ صَرَّفْنَٰهُ بَيْنَهُمْ لِيَذَّكَّرُوا۟ فَأَبَىٰٓ أَكْثَرُ ٱلنَّاسِ إِلَّا كُفُورًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 50,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2906,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2906.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2906.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2906.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2906.mp3"
+                ],
+                "text": "وَلَوْ شِئْنَا لَبَعَثْنَا فِى كُلِّ قَرْيَةٍۢ نَّذِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 51,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2907,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2907.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2907.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2907.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2907.mp3"
+                ],
+                "text": "فَلَا تُطِعِ ٱلْكَٰفِرِينَ وَجَٰهِدْهُم بِهِۦ جِهَادًۭا كَبِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 52,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 145,
+                "sajda": false
+            },
+            {
+                "number": 2908,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2908.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2908.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2908.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2908.mp3"
+                ],
+                "text": "۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌۭ فُرَاتٌۭ وَهَٰذَا مِلْحٌ أُجَاجٌۭ وَجَعَلَ بَيْنَهُمَا بَرْزَخًۭا وَحِجْرًۭا مَّحْجُورًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 53,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 146,
+                "sajda": false
+            },
+            {
+                "number": 2909,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2909.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2909.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2909.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2909.mp3"
+                ],
+                "text": "وَهُوَ ٱلَّذِى خَلَقَ مِنَ ٱلْمَآءِ بَشَرًۭا فَجَعَلَهُۥ نَسَبًۭا وَصِهْرًۭا ۗ وَكَانَ رَبُّكَ قَدِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 54,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 146,
+                "sajda": false
+            },
+            {
+                "number": 2910,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2910.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2910.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2910.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2910.mp3"
+                ],
+                "text": "وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمْ وَلَا يَضُرُّهُمْ ۗ وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرًۭا",
+                "surah": {
+                    "number": 25,
+                    "name": "سُورَةُ الفُرۡقَانِ",
+                    "englishName": "Al-Furqaan",
+                    "englishNameTranslation": "The Criterion",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 77
+                },
+                "numberInSurah": 55,
+                "juz": 19,
+                "manzil": 4,
+                "page": 364,
+                "ruku": 314,
+                "hizbQuarter": 146,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "25": {
+                "number": 25,
+                "name": "سُورَةُ الفُرۡقَانِ",
+                "englishName": "Al-Furqaan",
+                "englishNameTranslation": "The Criterion",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 77
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

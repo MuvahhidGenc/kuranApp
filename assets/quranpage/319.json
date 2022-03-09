@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 319,
+        "ayahs": [
+            {
+                "number": 2447,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2447.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2447.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2447.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2447.mp3"
+                ],
+                "text": "كَذَٰلِكَ نَقُصُّ عَلَيْكَ مِنْ أَنۢبَآءِ مَا قَدْ سَبَقَ ۚ وَقَدْ ءَاتَيْنَٰكَ مِن لَّدُنَّا ذِكْرًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 99,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2448,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2448.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2448.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2448.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2448.mp3"
+                ],
+                "text": "مَّنْ أَعْرَضَ عَنْهُ فَإِنَّهُۥ يَحْمِلُ يَوْمَ ٱلْقِيَٰمَةِ وِزْرًا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 100,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2449,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2449.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2449.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2449.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2449.mp3"
+                ],
+                "text": "خَٰلِدِينَ فِيهِ ۖ وَسَآءَ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ حِمْلًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 101,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2450,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2450.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2450.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2450.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2450.mp3"
+                ],
+                "text": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ ۚ وَنَحْشُرُ ٱلْمُجْرِمِينَ يَوْمَئِذٍۢ زُرْقًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 102,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2451,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2451.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2451.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2451.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2451.mp3"
+                ],
+                "text": "يَتَخَٰفَتُونَ بَيْنَهُمْ إِن لَّبِثْتُمْ إِلَّا عَشْرًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 103,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2452,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2452.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2452.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2452.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2452.mp3"
+                ],
+                "text": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ إِذْ يَقُولُ أَمْثَلُهُمْ طَرِيقَةً إِن لَّبِثْتُمْ إِلَّا يَوْمًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 104,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 274,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2453,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2453.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2453.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2453.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2453.mp3"
+                ],
+                "text": "وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 105,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2454,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2454.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2454.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2454.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2454.mp3"
+                ],
+                "text": "فَيَذَرُهَا قَاعًۭا صَفْصَفًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 106,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2455,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2455.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2455.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2455.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2455.mp3"
+                ],
+                "text": "لَّا تَرَىٰ فِيهَا عِوَجًۭا وَلَآ أَمْتًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 107,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2456,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2456.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2456.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2456.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2456.mp3"
+                ],
+                "text": "يَوْمَئِذٍۢ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ ۖ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا تَسْمَعُ إِلَّا هَمْسًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 108,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2457,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2457.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2457.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2457.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2457.mp3"
+                ],
+                "text": "يَوْمَئِذٍۢ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَرَضِىَ لَهُۥ قَوْلًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 109,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2458,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2458.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2458.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2458.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2458.mp3"
+                ],
+                "text": "يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِهِۦ عِلْمًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 110,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 127,
+                "sajda": false
+            },
+            {
+                "number": 2459,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2459.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2459.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2459.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2459.mp3"
+                ],
+                "text": "۞ وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ ۖ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 111,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 128,
+                "sajda": false
+            },
+            {
+                "number": 2460,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2460.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2460.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2460.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2460.mp3"
+                ],
+                "text": "وَمَن يَعْمَلْ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤْمِنٌۭ فَلَا يَخَافُ ظُلْمًۭا وَلَا هَضْمًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 112,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 128,
+                "sajda": false
+            },
+            {
+                "number": 2461,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2461.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2461.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2461.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2461.mp3"
+                ],
+                "text": "وَكَذَٰلِكَ أَنزَلْنَٰهُ قُرْءَانًا عَرَبِيًّۭا وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ لَعَلَّهُمْ يَتَّقُونَ أَوْ يُحْدِثُ لَهُمْ ذِكْرًۭا",
+                "surah": {
+                    "number": 20,
+                    "name": "سُورَةُ طه",
+                    "englishName": "Taa-Haa",
+                    "englishNameTranslation": "Taa-Haa",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 135
+                },
+                "numberInSurah": 113,
+                "juz": 16,
+                "manzil": 4,
+                "page": 319,
+                "ruku": 275,
+                "hizbQuarter": 128,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "20": {
+                "number": 20,
+                "name": "سُورَةُ طه",
+                "englishName": "Taa-Haa",
+                "englishNameTranslation": "Taa-Haa",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 135
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

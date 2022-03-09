@@ -1,0 +1,328 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 384,
+        "ayahs": [
+            {
+                "number": 3236,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3236.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3236.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3236.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3236.mp3"
+                ],
+                "text": "وَإِنَّهُۥ لَهُدًۭى وَرَحْمَةٌۭ لِّلْمُؤْمِنِينَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 77,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 153,
+                "sajda": false
+            },
+            {
+                "number": 3237,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3237.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3237.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3237.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3237.mp3"
+                ],
+                "text": "إِنَّ رَبَّكَ يَقْضِى بَيْنَهُم بِحُكْمِهِۦ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 78,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 153,
+                "sajda": false
+            },
+            {
+                "number": 3238,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3238.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3238.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3238.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3238.mp3"
+                ],
+                "text": "فَتَوَكَّلْ عَلَى ٱللَّهِ ۖ إِنَّكَ عَلَى ٱلْحَقِّ ٱلْمُبِينِ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 79,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 153,
+                "sajda": false
+            },
+            {
+                "number": 3239,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3239.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3239.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3239.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3239.mp3"
+                ],
+                "text": "إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 80,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 153,
+                "sajda": false
+            },
+            {
+                "number": 3240,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3240.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3240.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3240.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3240.mp3"
+                ],
+                "text": "وَمَآ أَنتَ بِهَٰدِى ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ ۖ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَٰتِنَا فَهُم مُّسْلِمُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 81,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 153,
+                "sajda": false
+            },
+            {
+                "number": 3241,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3241.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3241.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3241.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3241.mp3"
+                ],
+                "text": "۞ وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةًۭ مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَٰتِنَا لَا يُوقِنُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 82,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 332,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3242,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3242.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3242.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3242.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3242.mp3"
+                ],
+                "text": "وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍۢ فَوْجًۭا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمْ يُوزَعُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 83,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3243,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3243.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3243.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3243.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3243.mp3"
+                ],
+                "text": "حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا كُنتُمْ تَعْمَلُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 84,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3244,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3244.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3244.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3244.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3244.mp3"
+                ],
+                "text": "وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 85,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3245,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3245.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3245.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3245.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3245.mp3"
+                ],
+                "text": "أَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا ٱلَّيْلَ لِيَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 86,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3246,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3246.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3246.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3246.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3246.mp3"
+                ],
+                "text": "وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ ٱللَّهُ ۚ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 87,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            },
+            {
+                "number": 3247,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3247.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3247.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3247.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3247.mp3"
+                ],
+                "text": "وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةًۭ وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ ۚ صُنْعَ ٱللَّهِ ٱلَّذِىٓ أَتْقَنَ كُلَّ شَىْءٍ ۚ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ",
+                "surah": {
+                    "number": 27,
+                    "name": "سُورَةُ النَّمۡلِ",
+                    "englishName": "An-Naml",
+                    "englishNameTranslation": "The Ant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 93
+                },
+                "numberInSurah": 88,
+                "juz": 20,
+                "manzil": 5,
+                "page": 384,
+                "ruku": 333,
+                "hizbQuarter": 154,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "27": {
+                "number": 27,
+                "name": "سُورَةُ النَّمۡلِ",
+                "englishName": "An-Naml",
+                "englishNameTranslation": "The Ant",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 93
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

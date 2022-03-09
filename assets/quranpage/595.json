@@ -1,0 +1,761 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 595,
+        "ayahs": [
+            {
+                "number": 6044,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6044.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6044.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6044.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6044.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلشَّمْسِ وَضُحَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6045,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6045.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6045.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6045.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6045.mp3"
+                ],
+                "text": "وَٱلْقَمَرِ إِذَا تَلَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6046,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6046.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6046.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6046.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6046.mp3"
+                ],
+                "text": "وَٱلنَّهَارِ إِذَا جَلَّىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6047,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6047.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6047.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6047.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6047.mp3"
+                ],
+                "text": "وَٱلَّيْلِ إِذَا يَغْشَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6048,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6048.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6048.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6048.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6048.mp3"
+                ],
+                "text": "وَٱلسَّمَآءِ وَمَا بَنَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6049,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6049.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6049.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6049.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6049.mp3"
+                ],
+                "text": "وَٱلْأَرْضِ وَمَا طَحَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6050,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6050.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6050.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6050.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6050.mp3"
+                ],
+                "text": "وَنَفْسٍۢ وَمَا سَوَّىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6051,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6051.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6051.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6051.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6051.mp3"
+                ],
+                "text": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6052,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6052.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6052.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6052.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6052.mp3"
+                ],
+                "text": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6053,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6053.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6053.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6053.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6053.mp3"
+                ],
+                "text": "وَقَدْ خَابَ مَن دَسَّىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6054,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6054.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6054.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6054.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6054.mp3"
+                ],
+                "text": "كَذَّبَتْ ثَمُودُ بِطَغْوَىٰهَآ",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6055,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6055.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6055.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6055.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6055.mp3"
+                ],
+                "text": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6056,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6056.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6056.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6056.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6056.mp3"
+                ],
+                "text": "فَقَالَ لَهُمْ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6057,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6057.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6057.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6057.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6057.mp3"
+                ],
+                "text": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُم بِذَنۢبِهِمْ فَسَوَّىٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6058,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6058.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6058.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6058.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6058.mp3"
+                ],
+                "text": "وَلَا يَخَافُ عُقْبَٰهَا",
+                "surah": {
+                    "number": 91,
+                    "name": "سُورَةُ الشَّمۡسِ",
+                    "englishName": "Ash-Shams",
+                    "englishNameTranslation": "The Sun",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 15
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 533,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6059,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6059.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6059.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6059.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6059.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6060,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6060.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6060.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6060.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6060.mp3"
+                ],
+                "text": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6061,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6061.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6061.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6061.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6061.mp3"
+                ],
+                "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6062,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6062.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6062.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6062.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6062.mp3"
+                ],
+                "text": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6063,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6063.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6063.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6063.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6063.mp3"
+                ],
+                "text": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6064,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6064.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6064.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6064.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6064.mp3"
+                ],
+                "text": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6065,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6065.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6065.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6065.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6065.mp3"
+                ],
+                "text": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6066,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6066.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6066.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6066.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6066.mp3"
+                ],
+                "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6067,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6067.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6067.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6067.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6067.mp3"
+                ],
+                "text": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6068,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6068.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6068.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6068.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6068.mp3"
+                ],
+                "text": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6069,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6069.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6069.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6069.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6069.mp3"
+                ],
+                "text": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6070,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6070.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6070.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6070.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6070.mp3"
+                ],
+                "text": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6071,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6071.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6071.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6071.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6071.mp3"
+                ],
+                "text": "وَإِنَّ لَنَا لَلْءَاخِرَةَ وَٱلْأُولَىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6072,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6072.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6072.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6072.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6072.mp3"
+                ],
+                "text": "فَأَنذَرْتُكُمْ نَارًۭا تَلَظَّىٰ",
+                "surah": {
+                    "number": 92,
+                    "name": "سُورَةُ اللَّيۡلِ",
+                    "englishName": "Al-Lail",
+                    "englishNameTranslation": "The Night",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 21
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 595,
+                "ruku": 534,
+                "hizbQuarter": 238,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "91": {
+                "number": 91,
+                "name": "سُورَةُ الشَّمۡسِ",
+                "englishName": "Ash-Shams",
+                "englishNameTranslation": "The Sun",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 15
+            },
+            "92": {
+                "number": 92,
+                "name": "سُورَةُ اللَّيۡلِ",
+                "englishName": "Al-Lail",
+                "englishNameTranslation": "The Night",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 21
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

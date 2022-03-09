@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 348,
+        "ayahs": [
+            {
+                "number": 2763,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2763.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2763.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2763.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2763.mp3"
+                ],
+                "text": "بَلْ أَتَيْنَٰهُم بِٱلْحَقِّ وَإِنَّهُمْ لَكَٰذِبُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 90,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 299,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2764,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2764.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2764.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2764.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2764.mp3"
+                ],
+                "text": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍۢ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ ۚ إِذًۭا لَّذَهَبَ كُلُّ إِلَٰهٍۭ بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍۢ ۚ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 91,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 299,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2765,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2765.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2765.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2765.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2765.mp3"
+                ],
+                "text": "عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 92,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 299,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2766,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2766.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2766.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2766.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2766.mp3"
+                ],
+                "text": "قُل رَّبِّ إِمَّا تُرِيَنِّى مَا يُوعَدُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 93,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2767,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2767.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2767.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2767.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2767.mp3"
+                ],
+                "text": "رَبِّ فَلَا تَجْعَلْنِى فِى ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 94,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2768,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2768.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2768.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2768.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2768.mp3"
+                ],
+                "text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمْ لَقَٰدِرُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 95,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2769,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2769.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2769.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2769.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2769.mp3"
+                ],
+                "text": "ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ ۚ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 96,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2770,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2770.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2770.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2770.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2770.mp3"
+                ],
+                "text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 97,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2771,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2771.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2771.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2771.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2771.mp3"
+                ],
+                "text": "وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 98,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2772,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2772.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2772.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2772.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2772.mp3"
+                ],
+                "text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 99,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2773,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2773.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2773.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2773.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2773.mp3"
+                ],
+                "text": "لَعَلِّىٓ أَعْمَلُ صَٰلِحًۭا فِيمَا تَرَكْتُ ۚ كَلَّآ ۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا ۖ وَمِن وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 100,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2774,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2774.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2774.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2774.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2774.mp3"
+                ],
+                "text": "فَإِذَا نُفِخَ فِى ٱلصُّورِ فَلَآ أَنسَابَ بَيْنَهُمْ يَوْمَئِذٍۢ وَلَا يَتَسَآءَلُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 101,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2775,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2775.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2775.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2775.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2775.mp3"
+                ],
+                "text": "فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 102,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2776,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2776.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2776.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2776.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2776.mp3"
+                ],
+                "text": "وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَٰلِدُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 103,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            },
+            {
+                "number": 2777,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2777.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2777.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2777.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2777.mp3"
+                ],
+                "text": "تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمْ فِيهَا كَٰلِحُونَ",
+                "surah": {
+                    "number": 23,
+                    "name": "سُورَةُ المُؤۡمِنُونَ",
+                    "englishName": "Al-Muminoon",
+                    "englishNameTranslation": "The Believers",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 118
+                },
+                "numberInSurah": 104,
+                "juz": 18,
+                "manzil": 4,
+                "page": 348,
+                "ruku": 300,
+                "hizbQuarter": 139,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "23": {
+                "number": 23,
+                "name": "سُورَةُ المُؤۡمِنُونَ",
+                "englishName": "Al-Muminoon",
+                "englishNameTranslation": "The Believers",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 118
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

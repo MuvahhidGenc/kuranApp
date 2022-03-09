@@ -1,0 +1,753 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 452,
+        "ayahs": [
+            {
+                "number": 3942,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3942.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3942.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3942.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3942.mp3"
+                ],
+                "text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 154,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3943,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3943.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3943.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3943.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3943.mp3"
+                ],
+                "text": "أَفَلَا تَذَكَّرُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 155,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3944,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3944.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3944.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3944.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3944.mp3"
+                ],
+                "text": "أَمْ لَكُمْ سُلْطَٰنٌۭ مُّبِينٌۭ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 156,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3945,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3945.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3945.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3945.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3945.mp3"
+                ],
+                "text": "فَأْتُوا۟ بِكِتَٰبِكُمْ إِن كُنتُمْ صَٰدِقِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 157,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3946,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3946.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3946.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3946.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3946.mp3"
+                ],
+                "text": "وَجَعَلُوا۟ بَيْنَهُۥ وَبَيْنَ ٱلْجِنَّةِ نَسَبًۭا ۚ وَلَقَدْ عَلِمَتِ ٱلْجِنَّةُ إِنَّهُمْ لَمُحْضَرُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 158,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3947,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3947.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3947.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3947.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3947.mp3"
+                ],
+                "text": "سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 159,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3948,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3948.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3948.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3948.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3948.mp3"
+                ],
+                "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 160,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3949,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3949.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3949.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3949.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3949.mp3"
+                ],
+                "text": "فَإِنَّكُمْ وَمَا تَعْبُدُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 161,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3950,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3950.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3950.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3950.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3950.mp3"
+                ],
+                "text": "مَآ أَنتُمْ عَلَيْهِ بِفَٰتِنِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 162,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3951,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3951.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3951.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3951.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3951.mp3"
+                ],
+                "text": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 163,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3952,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3952.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3952.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3952.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3952.mp3"
+                ],
+                "text": "وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌۭ مَّعْلُومٌۭ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 164,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3953,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3953.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3953.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3953.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3953.mp3"
+                ],
+                "text": "وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 165,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3954,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3954.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3954.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3954.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3954.mp3"
+                ],
+                "text": "وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 166,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3955,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3955.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3955.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3955.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3955.mp3"
+                ],
+                "text": "وَإِن كَانُوا۟ لَيَقُولُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 167,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3956,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3956.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3956.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3956.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3956.mp3"
+                ],
+                "text": "لَوْ أَنَّ عِندَنَا ذِكْرًۭا مِّنَ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 168,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3957,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3957.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3957.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3957.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3957.mp3"
+                ],
+                "text": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 169,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3958,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3958.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3958.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3958.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3958.mp3"
+                ],
+                "text": "فَكَفَرُوا۟ بِهِۦ ۖ فَسَوْفَ يَعْلَمُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 170,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3959,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3959.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3959.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3959.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3959.mp3"
+                ],
+                "text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا ٱلْمُرْسَلِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 171,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3960,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3960.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3960.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3960.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3960.mp3"
+                ],
+                "text": "إِنَّهُمْ لَهُمُ ٱلْمَنصُورُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 172,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3961,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3961.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3961.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3961.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3961.mp3"
+                ],
+                "text": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَٰلِبُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 173,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3962,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3962.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3962.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3962.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3962.mp3"
+                ],
+                "text": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 174,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3963,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3963.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3963.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3963.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3963.mp3"
+                ],
+                "text": "وَأَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 175,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3964,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3964.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3964.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3964.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3964.mp3"
+                ],
+                "text": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 176,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3965,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3965.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3965.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3965.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3965.mp3"
+                ],
+                "text": "فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 177,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3966,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3966.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3966.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3966.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3966.mp3"
+                ],
+                "text": "وَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍۢ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 178,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3967,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3967.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3967.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3967.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3967.mp3"
+                ],
+                "text": "وَأَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 179,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3968,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3968.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3968.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3968.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3968.mp3"
+                ],
+                "text": "سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 180,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3969,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3969.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3969.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3969.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3969.mp3"
+                ],
+                "text": "وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 181,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            },
+            {
+                "number": 3970,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3970.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3970.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3970.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3970.mp3"
+                ],
+                "text": "وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 37,
+                    "name": "سُورَةُ الصَّافَّاتِ",
+                    "englishName": "As-Saaffaat",
+                    "englishNameTranslation": "Those drawn up in Ranks",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 182
+                },
+                "numberInSurah": 182,
+                "juz": 23,
+                "manzil": 6,
+                "page": 452,
+                "ruku": 390,
+                "hizbQuarter": 181,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "37": {
+                "number": 37,
+                "name": "سُورَةُ الصَّافَّاتِ",
+                "englishName": "As-Saaffaat",
+                "englishNameTranslation": "Those drawn up in Ranks",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 182
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

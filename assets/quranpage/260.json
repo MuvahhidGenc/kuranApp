@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 260,
+        "ayahs": [
+            {
+                "number": 1784,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1784.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1784.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1784.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1784.mp3"
+                ],
+                "text": "وَءَاتَىٰكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ ۚ وَإِن تَعُدُّوا۟ نِعْمَتَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱلْإِنسَٰنَ لَظَلُومٌۭ كَفَّارٌۭ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 34,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 215,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1785,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1785.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1785.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1785.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1785.mp3"
+                ],
+                "text": "وَإِذْ قَالَ إِبْرَٰهِيمُ رَبِّ ٱجْعَلْ هَٰذَا ٱلْبَلَدَ ءَامِنًۭا وَٱجْنُبْنِى وَبَنِىَّ أَن نَّعْبُدَ ٱلْأَصْنَامَ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 35,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1786,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1786.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1786.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1786.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1786.mp3"
+                ],
+                "text": "رَبِّ إِنَّهُنَّ أَضْلَلْنَ كَثِيرًۭا مِّنَ ٱلنَّاسِ ۖ فَمَن تَبِعَنِى فَإِنَّهُۥ مِنِّى ۖ وَمَنْ عَصَانِى فَإِنَّكَ غَفُورٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 36,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1787,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1787.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1787.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1787.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1787.mp3"
+                ],
+                "text": "رَّبَّنَآ إِنِّىٓ أَسْكَنتُ مِن ذُرِّيَّتِى بِوَادٍ غَيْرِ ذِى زَرْعٍ عِندَ بَيْتِكَ ٱلْمُحَرَّمِ رَبَّنَا لِيُقِيمُوا۟ ٱلصَّلَوٰةَ فَٱجْعَلْ أَفْـِٔدَةًۭ مِّنَ ٱلنَّاسِ تَهْوِىٓ إِلَيْهِمْ وَٱرْزُقْهُم مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمْ يَشْكُرُونَ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 37,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1788,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1788.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1788.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1788.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1788.mp3"
+                ],
+                "text": "رَبَّنَآ إِنَّكَ تَعْلَمُ مَا نُخْفِى وَمَا نُعْلِنُ ۗ وَمَا يَخْفَىٰ عَلَى ٱللَّهِ مِن شَىْءٍۢ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 38,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1789,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1789.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1789.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1789.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1789.mp3"
+                ],
+                "text": "ٱلْحَمْدُ لِلَّهِ ٱلَّذِى وَهَبَ لِى عَلَى ٱلْكِبَرِ إِسْمَٰعِيلَ وَإِسْحَٰقَ ۚ إِنَّ رَبِّى لَسَمِيعُ ٱلدُّعَآءِ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 39,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1790,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1790.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1790.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1790.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1790.mp3"
+                ],
+                "text": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 40,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1791,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1791.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1791.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1791.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1791.mp3"
+                ],
+                "text": "رَبَّنَا ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ ٱلْحِسَابُ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 41,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 216,
+                "hizbQuarter": 104,
+                "sajda": false
+            },
+            {
+                "number": 1792,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1792.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1792.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1792.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1792.mp3"
+                ],
+                "text": "وَلَا تَحْسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعْمَلُ ٱلظَّٰلِمُونَ ۚ إِنَّمَا يُؤَخِّرُهُمْ لِيَوْمٍۢ تَشْخَصُ فِيهِ ٱلْأَبْصَٰرُ",
+                "surah": {
+                    "number": 14,
+                    "name": "سُورَةُ إِبۡرَاهِيمَ",
+                    "englishName": "Ibrahim",
+                    "englishNameTranslation": "Abraham",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 42,
+                "juz": 13,
+                "manzil": 3,
+                "page": 260,
+                "ruku": 217,
+                "hizbQuarter": 104,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "14": {
+                "number": 14,
+                "name": "سُورَةُ إِبۡرَاهِيمَ",
+                "englishName": "Ibrahim",
+                "englishNameTranslation": "Abraham",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 52
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

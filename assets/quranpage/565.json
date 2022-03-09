@@ -1,0 +1,703 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 565,
+        "ayahs": [
+            {
+                "number": 5287,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5287.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5287.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5287.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5287.mp3"
+                ],
+                "text": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 16,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5288,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5288.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5288.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5288.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5288.mp3"
+                ],
+                "text": "إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 17,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5289,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5289.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5289.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5289.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5289.mp3"
+                ],
+                "text": "وَلَا يَسْتَثْنُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 18,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5290,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5290.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5290.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5290.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5290.mp3"
+                ],
+                "text": "فَطَافَ عَلَيْهَا طَآئِفٌۭ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 19,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5291,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5291.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5291.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5291.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5291.mp3"
+                ],
+                "text": "فَأَصْبَحَتْ كَٱلصَّرِيمِ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 20,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5292,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5292.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5292.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5292.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5292.mp3"
+                ],
+                "text": "فَتَنَادَوْا۟ مُصْبِحِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 21,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5293,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5293.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5293.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5293.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5293.mp3"
+                ],
+                "text": "أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 22,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5294,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5294.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5294.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5294.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5294.mp3"
+                ],
+                "text": "فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 23,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5295,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5295.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5295.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5295.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5295.mp3"
+                ],
+                "text": "أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌۭ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 24,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5296,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5296.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5296.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5296.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5296.mp3"
+                ],
+                "text": "وَغَدَوْا۟ عَلَىٰ حَرْدٍۢ قَٰدِرِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 25,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5297,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5297.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5297.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5297.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5297.mp3"
+                ],
+                "text": "فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 26,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5298,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5298.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5298.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5298.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5298.mp3"
+                ],
+                "text": "بَلْ نَحْنُ مَحْرُومُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 27,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5299,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5299.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5299.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5299.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5299.mp3"
+                ],
+                "text": "قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 28,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5300,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5300.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5300.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5300.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5300.mp3"
+                ],
+                "text": "قَالُوا۟ سُبْحَٰنَ رَبِّنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 29,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5301,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5301.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5301.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5301.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5301.mp3"
+                ],
+                "text": "فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍۢ يَتَلَٰوَمُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 30,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5302,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5302.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5302.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5302.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5302.mp3"
+                ],
+                "text": "قَالُوا۟ يَٰوَيْلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 31,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5303,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5303.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5303.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5303.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5303.mp3"
+                ],
+                "text": "عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًۭا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 32,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5304,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5304.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5304.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5304.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5304.mp3"
+                ],
+                "text": "كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 33,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 498,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5305,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5305.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5305.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5305.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5305.mp3"
+                ],
+                "text": "إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّٰتِ ٱلنَّعِيمِ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 34,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5306,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5306.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5306.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5306.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5306.mp3"
+                ],
+                "text": "أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 35,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5307,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5307.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5307.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5307.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5307.mp3"
+                ],
+                "text": "مَا لَكُمْ كَيْفَ تَحْكُمُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 36,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5308,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5308.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5308.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5308.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5308.mp3"
+                ],
+                "text": "أَمْ لَكُمْ كِتَٰبٌۭ فِيهِ تَدْرُسُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 37,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5309,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5309.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5309.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5309.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5309.mp3"
+                ],
+                "text": "إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 38,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5310,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5310.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5310.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5310.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5310.mp3"
+                ],
+                "text": "أَمْ لَكُمْ أَيْمَٰنٌ عَلَيْنَا بَٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 39,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5311,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5311.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5311.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5311.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5311.mp3"
+                ],
+                "text": "سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 40,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5312,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5312.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5312.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5312.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5312.mp3"
+                ],
+                "text": "أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَٰدِقِينَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 41,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            },
+            {
+                "number": 5313,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5313.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5313.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5313.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5313.mp3"
+                ],
+                "text": "يَوْمَ يُكْشَفُ عَن سَاقٍۢ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ",
+                "surah": {
+                    "number": 68,
+                    "name": "سُورَةُ القَلَمِ",
+                    "englishName": "Al-Qalam",
+                    "englishNameTranslation": "The Pen",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 42,
+                "juz": 29,
+                "manzil": 7,
+                "page": 565,
+                "ruku": 499,
+                "hizbQuarter": 226,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "68": {
+                "number": 68,
+                "name": "سُورَةُ القَلَمِ",
+                "englishName": "Al-Qalam",
+                "englishNameTranslation": "The Pen",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 52
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

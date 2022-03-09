@@ -1,0 +1,203 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 517,
+        "ayahs": [
+            {
+                "number": 4624,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4624.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4624.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4624.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4624.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًۭا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌۭ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًۭا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 12,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 206,
+                "sajda": false
+            },
+            {
+                "number": 4625,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4625.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4625.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4625.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4625.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍۢ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًۭا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌۭ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 13,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 206,
+                "sajda": false
+            },
+            {
+                "number": 4626,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4626.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4626.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4626.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4626.mp3"
+                ],
+                "text": "۞ قَالَتِ ٱلْأَعْرَابُ ءَامَنَّا ۖ قُل لَّمْ تُؤْمِنُوا۟ وَلَٰكِن قُولُوٓا۟ أَسْلَمْنَا وَلَمَّا يَدْخُلِ ٱلْإِيمَٰنُ فِى قُلُوبِكُمْ ۖ وَإِن تُطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتْكُم مِّنْ أَعْمَٰلِكُمْ شَيْـًٔا ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 14,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4627,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4627.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4627.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4627.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4627.mp3"
+                ],
+                "text": "إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمْ يَرْتَابُوا۟ وَجَٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 15,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4628,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4628.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4628.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4628.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4628.mp3"
+                ],
+                "text": "قُلْ أَتُعَلِّمُونَ ٱللَّهَ بِدِينِكُمْ وَٱللَّهُ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 16,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4629,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4629.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4629.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4629.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4629.mp3"
+                ],
+                "text": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا۟ ۖ قُل لَّا تَمُنُّوا۟ عَلَىَّ إِسْلَٰمَكُم ۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَىٰكُمْ لِلْإِيمَٰنِ إِن كُنتُمْ صَٰدِقِينَ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 17,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4630,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4630.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4630.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4630.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4630.mp3"
+                ],
+                "text": "إِنَّ ٱللَّهَ يَعْلَمُ غَيْبَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ بَصِيرٌۢ بِمَا تَعْمَلُونَ",
+                "surah": {
+                    "number": 49,
+                    "name": "سُورَةُ الحُجُرَاتِ",
+                    "englishName": "Al-Hujuraat",
+                    "englishNameTranslation": "The Inner Apartments",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 18
+                },
+                "numberInSurah": 18,
+                "juz": 26,
+                "manzil": 6,
+                "page": 517,
+                "ruku": 451,
+                "hizbQuarter": 207,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "49": {
+                "number": 49,
+                "name": "سُورَةُ الحُجُرَاتِ",
+                "englishName": "Al-Hujuraat",
+                "englishNameTranslation": "The Inner Apartments",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 18
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,503 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 574,
+        "ayahs": [
+            {
+                "number": 5476,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5476.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5476.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5476.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5476.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 1,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5477,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5477.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5477.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5477.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5477.mp3"
+                ],
+                "text": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 2,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5478,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5478.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5478.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5478.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5478.mp3"
+                ],
+                "text": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 3,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5479,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5479.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5479.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5479.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5479.mp3"
+                ],
+                "text": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 4,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5480,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5480.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5480.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5480.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5480.mp3"
+                ],
+                "text": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًۭا ثَقِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 5,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5481,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5481.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5481.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5481.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5481.mp3"
+                ],
+                "text": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًۭٔا وَأَقْوَمُ قِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 6,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5482,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5482.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5482.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5482.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5482.mp3"
+                ],
+                "text": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًۭا طَوِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 7,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5483,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5483.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5483.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5483.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5483.mp3"
+                ],
+                "text": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 8,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5484,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5484.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5484.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5484.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5484.mp3"
+                ],
+                "text": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 9,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5485,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5485.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5485.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5485.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5485.mp3"
+                ],
+                "text": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًۭا جَمِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 10,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5486,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5486.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5486.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5486.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5486.mp3"
+                ],
+                "text": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 11,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5487,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5487.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5487.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5487.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5487.mp3"
+                ],
+                "text": "إِنَّ لَدَيْنَآ أَنكَالًۭا وَجَحِيمًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 12,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5488,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5488.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5488.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5488.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5488.mp3"
+                ],
+                "text": "وَطَعَامًۭا ذَا غُصَّةٍۢ وَعَذَابًا أَلِيمًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 13,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5489,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5489.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5489.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5489.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5489.mp3"
+                ],
+                "text": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًۭا مَّهِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 14,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5490,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5490.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5490.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5490.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5490.mp3"
+                ],
+                "text": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًۭا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 15,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5491,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5491.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5491.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5491.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5491.mp3"
+                ],
+                "text": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًۭا وَبِيلًۭا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 16,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5492,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5492.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5492.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5492.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5492.mp3"
+                ],
+                "text": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًۭا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 17,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5493,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5493.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5493.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5493.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5493.mp3"
+                ],
+                "text": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 18,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            },
+            {
+                "number": 5494,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5494.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5494.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5494.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5494.mp3"
+                ],
+                "text": "إِنَّ هَٰذِهِۦ تَذْكِرَةٌۭ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+                "surah": {
+                    "number": 73,
+                    "name": "سُورَةُ المُزَّمِّلِ",
+                    "englishName": "Al-Muzzammil",
+                    "englishNameTranslation": "The Enshrouded One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 19,
+                "juz": 29,
+                "manzil": 7,
+                "page": 574,
+                "ruku": 508,
+                "hizbQuarter": 229,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "73": {
+                "number": 73,
+                "name": "سُورَةُ المُزَّمِّلِ",
+                "englishName": "Al-Muzzammil",
+                "englishNameTranslation": "The Enshrouded One",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 20
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

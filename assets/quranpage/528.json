@@ -1,0 +1,640 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 528,
+        "ayahs": [
+            {
+                "number": 4829,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4829.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4829.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4829.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4829.mp3"
+                ],
+                "text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 45,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4830,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4830.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4830.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4830.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4830.mp3"
+                ],
+                "text": "مِن نُّطْفَةٍ إِذَا تُمْنَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 46,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4831,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4831.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4831.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4831.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4831.mp3"
+                ],
+                "text": "وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 47,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4832,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4832.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4832.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4832.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4832.mp3"
+                ],
+                "text": "وَأَنَّهُۥ هُوَ أَغْنَىٰ وَأَقْنَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 48,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4833,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4833.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4833.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4833.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4833.mp3"
+                ],
+                "text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 49,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4834,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4834.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4834.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4834.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4834.mp3"
+                ],
+                "text": "وَأَنَّهُۥٓ أَهْلَكَ عَادًا ٱلْأُولَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 50,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4835,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4835.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4835.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4835.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4835.mp3"
+                ],
+                "text": "وَثَمُودَا۟ فَمَآ أَبْقَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 51,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4836,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4836.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4836.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4836.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4836.mp3"
+                ],
+                "text": "وَقَوْمَ نُوحٍۢ مِّن قَبْلُ ۖ إِنَّهُمْ كَانُوا۟ هُمْ أَظْلَمَ وَأَطْغَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 52,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4837,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4837.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4837.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4837.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4837.mp3"
+                ],
+                "text": "وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 53,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4838,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4838.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4838.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4838.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4838.mp3"
+                ],
+                "text": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 54,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4839,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4839.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4839.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4839.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4839.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 55,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4840,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4840.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4840.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4840.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4840.mp3"
+                ],
+                "text": "هَٰذَا نَذِيرٌۭ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 56,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4841,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4841.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4841.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4841.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4841.mp3"
+                ],
+                "text": "أَزِفَتِ ٱلْءَازِفَةُ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 57,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4842,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4842.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4842.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4842.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4842.mp3"
+                ],
+                "text": "لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 58,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4843,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4843.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4843.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4843.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4843.mp3"
+                ],
+                "text": "أَفَمِنْ هَٰذَا ٱلْحَدِيثِ تَعْجَبُونَ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 59,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4844,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4844.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4844.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4844.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4844.mp3"
+                ],
+                "text": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 60,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4845,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4845.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4845.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4845.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4845.mp3"
+                ],
+                "text": "وَأَنتُمْ سَٰمِدُونَ",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 61,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4846,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4846.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4846.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4846.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4846.mp3"
+                ],
+                "text": "فَٱسْجُدُوا۟ لِلَّهِ وَٱعْبُدُوا۟ ۩",
+                "surah": {
+                    "number": 53,
+                    "name": "سُورَةُ النَّجۡمِ",
+                    "englishName": "An-Najm",
+                    "englishNameTranslation": "The Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 62
+                },
+                "numberInSurah": 62,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 462,
+                "hizbQuarter": 211,
+                "sajda": {
+                    "id": 13,
+                    "recommended": false,
+                    "obligatory": true
+                }
+            },
+            {
+                "number": 4847,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4847.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4847.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4847.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4847.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 1,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4848,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4848.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4848.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4848.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4848.mp3"
+                ],
+                "text": "وَإِن يَرَوْا۟ ءَايَةًۭ يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌۭ مُّسْتَمِرٌّۭ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 2,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4849,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4849.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4849.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4849.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4849.mp3"
+                ],
+                "text": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍۢ مُّسْتَقِرٌّۭ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 3,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4850,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4850.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4850.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4850.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4850.mp3"
+                ],
+                "text": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 4,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4851,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4851.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4851.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4851.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4851.mp3"
+                ],
+                "text": "حِكْمَةٌۢ بَٰلِغَةٌۭ ۖ فَمَا تُغْنِ ٱلنُّذُرُ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 5,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            },
+            {
+                "number": 4852,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4852.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4852.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4852.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4852.mp3"
+                ],
+                "text": "فَتَوَلَّ عَنْهُمْ ۘ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍۢ نُّكُرٍ",
+                "surah": {
+                    "number": 54,
+                    "name": "سُورَةُ القَمَرِ",
+                    "englishName": "Al-Qamar",
+                    "englishNameTranslation": "The Moon",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 55
+                },
+                "numberInSurah": 6,
+                "juz": 27,
+                "manzil": 7,
+                "page": 528,
+                "ruku": 463,
+                "hizbQuarter": 211,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "53": {
+                "number": 53,
+                "name": "سُورَةُ النَّجۡمِ",
+                "englishName": "An-Najm",
+                "englishNameTranslation": "The Star",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 62
+            },
+            "54": {
+                "number": 54,
+                "name": "سُورَةُ القَمَرِ",
+                "englishName": "Al-Qamar",
+                "englishNameTranslation": "The Moon",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 55
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 25,
+        "ayahs": [
+            {
+                "number": 171,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/171.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/171.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/171.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/171.mp3"
+                ],
+                "text": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍۢ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَعْقِلُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 164,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 21,
+                "hizbQuarter": 10,
+                "sajda": false
+            },
+            {
+                "number": 172,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/172.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/172.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/172.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/172.mp3"
+                ],
+                "text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادًۭا يُحِبُّونَهُمْ كَحُبِّ ٱللَّهِ ۖ وَٱلَّذِينَ ءَامَنُوٓا۟ أَشَدُّ حُبًّۭا لِّلَّهِ ۗ وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوٓا۟ إِذْ يَرَوْنَ ٱلْعَذَابَ أَنَّ ٱلْقُوَّةَ لِلَّهِ جَمِيعًۭا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلْعَذَابِ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 165,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 21,
+                "hizbQuarter": 10,
+                "sajda": false
+            },
+            {
+                "number": 173,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/173.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/173.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/173.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/173.mp3"
+                ],
+                "text": "إِذْ تَبَرَّأَ ٱلَّذِينَ ٱتُّبِعُوا۟ مِنَ ٱلَّذِينَ ٱتَّبَعُوا۟ وَرَأَوُا۟ ٱلْعَذَابَ وَتَقَطَّعَتْ بِهِمُ ٱلْأَسْبَابُ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 166,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 21,
+                "hizbQuarter": 10,
+                "sajda": false
+            },
+            {
+                "number": 174,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/174.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/174.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/174.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/174.mp3"
+                ],
+                "text": "وَقَالَ ٱلَّذِينَ ٱتَّبَعُوا۟ لَوْ أَنَّ لَنَا كَرَّةًۭ فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا۟ مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَٰلَهُمْ حَسَرَٰتٍ عَلَيْهِمْ ۖ وَمَا هُم بِخَٰرِجِينَ مِنَ ٱلنَّارِ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 167,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 21,
+                "hizbQuarter": 10,
+                "sajda": false
+            },
+            {
+                "number": 175,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/175.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/175.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/175.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/175.mp3"
+                ],
+                "text": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُوا۟ مِمَّا فِى ٱلْأَرْضِ حَلَٰلًۭا طَيِّبًۭا وَلَا تَتَّبِعُوا۟ خُطُوَٰتِ ٱلشَّيْطَٰنِ ۚ إِنَّهُۥ لَكُمْ عَدُوٌّۭ مُّبِينٌ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 168,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 22,
+                "hizbQuarter": 10,
+                "sajda": false
+            },
+            {
+                "number": 176,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/176.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/176.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/176.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/176.mp3"
+                ],
+                "text": "إِنَّمَا يَأْمُرُكُم بِٱلسُّوٓءِ وَٱلْفَحْشَآءِ وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 169,
+                "juz": 2,
+                "manzil": 1,
+                "page": 25,
+                "ruku": 22,
+                "hizbQuarter": 10,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "2": {
+                "number": 2,
+                "name": "سُورَةُ البَقَرَةِ",
+                "englishName": "Al-Baqara",
+                "englishNameTranslation": "The Cow",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 286
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

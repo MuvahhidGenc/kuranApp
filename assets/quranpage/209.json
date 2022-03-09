@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 209,
+        "ayahs": [
+            {
+                "number": 1371,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1371.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1371.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1371.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1371.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا وَرَضُوا۟ بِٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱطْمَأَنُّوا۟ بِهَا وَٱلَّذِينَ هُمْ عَنْ ءَايَٰتِنَا غَٰفِلُونَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 7,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 172,
+                "hizbQuarter": 83,
+                "sajda": false
+            },
+            {
+                "number": 1372,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1372.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1372.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1372.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1372.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ مَأْوَىٰهُمُ ٱلنَّارُ بِمَا كَانُوا۟ يَكْسِبُونَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 8,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 172,
+                "hizbQuarter": 83,
+                "sajda": false
+            },
+            {
+                "number": 1373,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1373.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1373.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1373.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1373.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ يَهْدِيهِمْ رَبُّهُم بِإِيمَٰنِهِمْ ۖ تَجْرِى مِن تَحْتِهِمُ ٱلْأَنْهَٰرُ فِى جَنَّٰتِ ٱلنَّعِيمِ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 9,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 172,
+                "hizbQuarter": 83,
+                "sajda": false
+            },
+            {
+                "number": 1374,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1374.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1374.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1374.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1374.mp3"
+                ],
+                "text": "دَعْوَىٰهُمْ فِيهَا سُبْحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمْ فِيهَا سَلَٰمٌۭ ۚ وَءَاخِرُ دَعْوَىٰهُمْ أَنِ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 10,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 172,
+                "hizbQuarter": 83,
+                "sajda": false
+            },
+            {
+                "number": 1375,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1375.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1375.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1375.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1375.mp3"
+                ],
+                "text": "۞ وَلَوْ يُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ ٱسْتِعْجَالَهُم بِٱلْخَيْرِ لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ ۖ فَنَذَرُ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا فِى طُغْيَٰنِهِمْ يَعْمَهُونَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 11,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 173,
+                "hizbQuarter": 84,
+                "sajda": false
+            },
+            {
+                "number": 1376,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1376.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1376.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1376.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1376.mp3"
+                ],
+                "text": "وَإِذَا مَسَّ ٱلْإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوْ قَاعِدًا أَوْ قَآئِمًۭا فَلَمَّا كَشَفْنَا عَنْهُ ضُرَّهُۥ مَرَّ كَأَن لَّمْ يَدْعُنَآ إِلَىٰ ضُرٍّۢ مَّسَّهُۥ ۚ كَذَٰلِكَ زُيِّنَ لِلْمُسْرِفِينَ مَا كَانُوا۟ يَعْمَلُونَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 12,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 173,
+                "hizbQuarter": 84,
+                "sajda": false
+            },
+            {
+                "number": 1377,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1377.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1377.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1377.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1377.mp3"
+                ],
+                "text": "وَلَقَدْ أَهْلَكْنَا ٱلْقُرُونَ مِن قَبْلِكُمْ لَمَّا ظَلَمُوا۟ ۙ وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ وَمَا كَانُوا۟ لِيُؤْمِنُوا۟ ۚ كَذَٰلِكَ نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 13,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 173,
+                "hizbQuarter": 84,
+                "sajda": false
+            },
+            {
+                "number": 1378,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1378.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1378.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1378.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1378.mp3"
+                ],
+                "text": "ثُمَّ جَعَلْنَٰكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ مِنۢ بَعْدِهِمْ لِنَنظُرَ كَيْفَ تَعْمَلُونَ",
+                "surah": {
+                    "number": 10,
+                    "name": "سُورَةُ يُونُسَ",
+                    "englishName": "Yunus",
+                    "englishNameTranslation": "Jonas",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 109
+                },
+                "numberInSurah": 14,
+                "juz": 11,
+                "manzil": 3,
+                "page": 209,
+                "ruku": 173,
+                "hizbQuarter": 84,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "10": {
+                "number": 10,
+                "name": "سُورَةُ يُونُسَ",
+                "englishName": "Yunus",
+                "englishNameTranslation": "Jonas",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 109
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

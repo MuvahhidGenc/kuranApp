@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 439,
+        "ayahs": [
+            {
+                "number": 3699,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3699.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3699.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3699.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3699.mp3"
+                ],
+                "text": "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ ۚ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًۭا ۖ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًۭا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 39,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3700,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3700.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3700.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3700.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3700.mp3"
+                ],
+                "text": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًۭا فَهُمْ عَلَىٰ بَيِّنَتٍۢ مِّنْهُ ۚ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 40,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 175,
+                "sajda": false
+            },
+            {
+                "number": 3701,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3701.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3701.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3701.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3701.mp3"
+                ],
+                "text": "۞ إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا ۚ وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍۢ مِّنۢ بَعْدِهِۦٓ ۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًۭا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 41,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3702,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3702.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3702.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3702.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3702.mp3"
+                ],
+                "text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌۭ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ ۖ فَلَمَّا جَآءَهُمْ نَذِيرٌۭ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 42,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3703,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3703.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3703.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3703.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3703.mp3"
+                ],
+                "text": "ٱسْتِكْبَارًۭا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًۭا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 43,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            },
+            {
+                "number": 3704,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3704.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3704.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3704.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3704.mp3"
+                ],
+                "text": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ ۚ وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍۢ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ ۚ إِنَّهُۥ كَانَ عَلِيمًۭا قَدِيرًۭا",
+                "surah": {
+                    "number": 35,
+                    "name": "سُورَةُ فَاطِرٍ",
+                    "englishName": "Faatir",
+                    "englishNameTranslation": "The Originator",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 44,
+                "juz": 22,
+                "manzil": 5,
+                "page": 439,
+                "ruku": 380,
+                "hizbQuarter": 176,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "35": {
+                "number": 35,
+                "name": "سُورَةُ فَاطِرٍ",
+                "englishName": "Faatir",
+                "englishNameTranslation": "The Originator",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 45
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

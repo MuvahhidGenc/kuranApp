@@ -1,0 +1,803 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 581,
+        "ayahs": [
+            {
+                "number": 5642,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5642.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5642.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5642.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5642.mp3"
+                ],
+                "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍۢ مَّهِينٍۢ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 20,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5643,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5643.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5643.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5643.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5643.mp3"
+                ],
+                "text": "فَجَعَلْنَٰهُ فِى قَرَارٍۢ مَّكِينٍ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 21,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5644,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5644.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5644.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5644.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5644.mp3"
+                ],
+                "text": "إِلَىٰ قَدَرٍۢ مَّعْلُومٍۢ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 22,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5645,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5645.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5645.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5645.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5645.mp3"
+                ],
+                "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 23,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5646,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5646.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5646.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5646.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5646.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 24,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5647,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5647.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5647.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5647.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5647.mp3"
+                ],
+                "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 25,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5648,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5648.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5648.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5648.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5648.mp3"
+                ],
+                "text": "أَحْيَآءًۭ وَأَمْوَٰتًۭا",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 26,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5649,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5649.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5649.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5649.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5649.mp3"
+                ],
+                "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍۢ وَأَسْقَيْنَٰكُم مَّآءًۭ فُرَاتًۭا",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 27,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5650,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5650.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5650.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5650.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5650.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 28,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5651,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5651.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5651.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5651.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5651.mp3"
+                ],
+                "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 29,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5652,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5652.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5652.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5652.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5652.mp3"
+                ],
+                "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّۢ ذِى ثَلَٰثِ شُعَبٍۢ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 30,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5653,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5653.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5653.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5653.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5653.mp3"
+                ],
+                "text": "لَّا ظَلِيلٍۢ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 31,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5654,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5654.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5654.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5654.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5654.mp3"
+                ],
+                "text": "إِنَّهَا تَرْمِى بِشَرَرٍۢ كَٱلْقَصْرِ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 32,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5655,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5655.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5655.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5655.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5655.mp3"
+                ],
+                "text": "كَأَنَّهُۥ جِمَٰلَتٌۭ صُفْرٌۭ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 33,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5656,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5656.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5656.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5656.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5656.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 34,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5657,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5657.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5657.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5657.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5657.mp3"
+                ],
+                "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 35,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5658,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5658.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5658.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5658.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5658.mp3"
+                ],
+                "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 36,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5659,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5659.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5659.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5659.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5659.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 37,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5660,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5660.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5660.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5660.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5660.mp3"
+                ],
+                "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 38,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5661,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5661.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5661.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5661.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5661.mp3"
+                ],
+                "text": "فَإِن كَانَ لَكُمْ كَيْدٌۭ فَكِيدُونِ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 39,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5662,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5662.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5662.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5662.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5662.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 40,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 516,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5663,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5663.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5663.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5663.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5663.mp3"
+                ],
+                "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍۢ وَعُيُونٍۢ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 41,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5664,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5664.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5664.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5664.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5664.mp3"
+                ],
+                "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 42,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5665,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5665.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5665.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5665.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5665.mp3"
+                ],
+                "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 43,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5666,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5666.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5666.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5666.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5666.mp3"
+                ],
+                "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 44,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5667,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5667.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5667.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5667.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5667.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 45,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5668,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5668.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5668.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5668.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5668.mp3"
+                ],
+                "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 46,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5669,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5669.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5669.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5669.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5669.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 47,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5670,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5670.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5670.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5670.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5670.mp3"
+                ],
+                "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 48,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5671,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5671.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5671.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5671.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5671.mp3"
+                ],
+                "text": "وَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 49,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            },
+            {
+                "number": 5672,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5672.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5672.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5672.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5672.mp3"
+                ],
+                "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+                "surah": {
+                    "number": 77,
+                    "name": "سُورَةُ المُرۡسَلَاتِ",
+                    "englishName": "Al-Mursalaat",
+                    "englishNameTranslation": "The Emissaries",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 50
+                },
+                "numberInSurah": 50,
+                "juz": 29,
+                "manzil": 7,
+                "page": 581,
+                "ruku": 517,
+                "hizbQuarter": 232,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "77": {
+                "number": 77,
+                "name": "سُورَةُ المُرۡسَلَاتِ",
+                "englishName": "Al-Mursalaat",
+                "englishNameTranslation": "The Emissaries",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 50
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

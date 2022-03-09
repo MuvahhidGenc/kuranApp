@@ -1,0 +1,278 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 351,
+        "ayahs": [
+            {
+                "number": 2802,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2802.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2802.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2802.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2802.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ جَآءُو بِٱلْإِفْكِ عُصْبَةٌۭ مِّنكُمْ ۚ لَا تَحْسَبُوهُ شَرًّۭا لَّكُم ۖ بَلْ هُوَ خَيْرٌۭ لَّكُمْ ۚ لِكُلِّ ٱمْرِئٍۢ مِّنْهُم مَّا ٱكْتَسَبَ مِنَ ٱلْإِثْمِ ۚ وَٱلَّذِى تَوَلَّىٰ كِبْرَهُۥ مِنْهُمْ لَهُۥ عَذَابٌ عَظِيمٌۭ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 11,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2803,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2803.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2803.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2803.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2803.mp3"
+                ],
+                "text": "لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًۭا وَقَالُوا۟ هَٰذَآ إِفْكٌۭ مُّبِينٌۭ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 12,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2804,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2804.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2804.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2804.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2804.mp3"
+                ],
+                "text": "لَّوْلَا جَآءُو عَلَيْهِ بِأَرْبَعَةِ شُهَدَآءَ ۚ فَإِذْ لَمْ يَأْتُوا۟ بِٱلشُّهَدَآءِ فَأُو۟لَٰٓئِكَ عِندَ ٱللَّهِ هُمُ ٱلْكَٰذِبُونَ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 13,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2805,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2805.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2805.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2805.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2805.mp3"
+                ],
+                "text": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ لَمَسَّكُمْ فِى مَآ أَفَضْتُمْ فِيهِ عَذَابٌ عَظِيمٌ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 14,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2806,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2806.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2806.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2806.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2806.mp3"
+                ],
+                "text": "إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ وَتَحْسَبُونَهُۥ هَيِّنًۭا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌۭ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 15,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2807,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2807.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2807.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2807.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2807.mp3"
+                ],
+                "text": "وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ هَٰذَا بُهْتَٰنٌ عَظِيمٌۭ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 16,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2808,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2808.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2808.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2808.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2808.mp3"
+                ],
+                "text": "يَعِظُكُمُ ٱللَّهُ أَن تَعُودُوا۟ لِمِثْلِهِۦٓ أَبَدًا إِن كُنتُم مُّؤْمِنِينَ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 17,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2809,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2809.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2809.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2809.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2809.mp3"
+                ],
+                "text": "وَيُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 18,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2810,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2810.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2810.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2810.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2810.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌۭ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 19,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            },
+            {
+                "number": 2811,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2811.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2811.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2811.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2811.mp3"
+                ],
+                "text": "وَلَوْلَا فَضْلُ ٱللَّهِ عَلَيْكُمْ وَرَحْمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 24,
+                    "name": "سُورَةُ النُّورِ",
+                    "englishName": "An-Noor",
+                    "englishNameTranslation": "The Light",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 64
+                },
+                "numberInSurah": 20,
+                "juz": 18,
+                "manzil": 4,
+                "page": 351,
+                "ruku": 302,
+                "hizbQuarter": 140,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "24": {
+                "number": 24,
+                "name": "سُورَةُ النُّورِ",
+                "englishName": "An-Noor",
+                "englishNameTranslation": "The Light",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 64
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

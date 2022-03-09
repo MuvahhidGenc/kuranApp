@@ -1,0 +1,303 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 411,
+        "ayahs": [
+            {
+                "number": 3470,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3470.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3470.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3470.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3470.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 1,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3471,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3471.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3471.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3471.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3471.mp3"
+                ],
+                "text": "تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْحَكِيمِ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 2,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3472,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3472.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3472.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3472.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3472.mp3"
+                ],
+                "text": "هُدًۭى وَرَحْمَةًۭ لِّلْمُحْسِنِينَ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 3,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3473,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3473.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3473.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3473.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3473.mp3"
+                ],
+                "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 4,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3474,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3474.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3474.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3474.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3474.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 5,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3475,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3475.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3475.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3475.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3475.mp3"
+                ],
+                "text": "وَمِنَ ٱلنَّاسِ مَن يَشْتَرِى لَهْوَ ٱلْحَدِيثِ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِ بِغَيْرِ عِلْمٍۢ وَيَتَّخِذَهَا هُزُوًا ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 6,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3476,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3476.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3476.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3476.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3476.mp3"
+                ],
+                "text": "وَإِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا وَلَّىٰ مُسْتَكْبِرًۭا كَأَن لَّمْ يَسْمَعْهَا كَأَنَّ فِىٓ أُذُنَيْهِ وَقْرًۭا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 7,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3477,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3477.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3477.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3477.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3477.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ جَنَّٰتُ ٱلنَّعِيمِ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 8,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3478,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3478.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3478.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3478.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3478.mp3"
+                ],
+                "text": "خَٰلِدِينَ فِيهَا ۖ وَعْدَ ٱللَّهِ حَقًّۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 9,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3479,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3479.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3479.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3479.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3479.mp3"
+                ],
+                "text": "خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍۢ تَرَوْنَهَا ۖ وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍۢ ۚ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ فَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۢ كَرِيمٍ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 10,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            },
+            {
+                "number": 3480,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3480.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3480.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3480.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3480.mp3"
+                ],
+                "text": "هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ ۚ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+                "surah": {
+                    "number": 31,
+                    "name": "سُورَةُ لُقۡمَانَ",
+                    "englishName": "Luqman",
+                    "englishNameTranslation": "Luqman",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 34
+                },
+                "numberInSurah": 11,
+                "juz": 21,
+                "manzil": 5,
+                "page": 411,
+                "ruku": 355,
+                "hizbQuarter": 164,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "31": {
+                "number": 31,
+                "name": "سُورَةُ لُقۡمَانَ",
+                "englishName": "Luqman",
+                "englishNameTranslation": "Luqman",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 34
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

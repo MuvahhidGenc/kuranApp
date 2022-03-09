@@ -1,0 +1,278 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 483,
+        "ayahs": [
+            {
+                "number": 4273,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4273.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4273.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4273.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4273.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 1,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4274,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4274.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4274.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4274.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4274.mp3"
+                ],
+                "text": "عٓسٓقٓ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 2,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4275,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4275.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4275.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4275.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4275.mp3"
+                ],
+                "text": "كَذَٰلِكَ يُوحِىٓ إِلَيْكَ وَإِلَى ٱلَّذِينَ مِن قَبْلِكَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 3,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4276,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4276.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4276.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4276.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4276.mp3"
+                ],
+                "text": "لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 4,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4277,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4277.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4277.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4277.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4277.mp3"
+                ],
+                "text": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ ۚ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ ۗ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 5,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4278,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4278.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4278.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4278.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4278.mp3"
+                ],
+                "text": "وَٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ٱللَّهُ حَفِيظٌ عَلَيْهِمْ وَمَآ أَنتَ عَلَيْهِم بِوَكِيلٍۢ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 6,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4279,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4279.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4279.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4279.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4279.mp3"
+                ],
+                "text": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ قُرْءَانًا عَرَبِيًّۭا لِّتُنذِرَ أُمَّ ٱلْقُرَىٰ وَمَنْ حَوْلَهَا وَتُنذِرَ يَوْمَ ٱلْجَمْعِ لَا رَيْبَ فِيهِ ۚ فَرِيقٌۭ فِى ٱلْجَنَّةِ وَفَرِيقٌۭ فِى ٱلسَّعِيرِ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 7,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4280,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4280.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4280.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4280.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4280.mp3"
+                ],
+                "text": "وَلَوْ شَآءَ ٱللَّهُ لَجَعَلَهُمْ أُمَّةًۭ وَٰحِدَةًۭ وَلَٰكِن يُدْخِلُ مَن يَشَآءُ فِى رَحْمَتِهِۦ ۚ وَٱلظَّٰلِمُونَ مَا لَهُم مِّن وَلِىٍّۢ وَلَا نَصِيرٍ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 8,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4281,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4281.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4281.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4281.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4281.mp3"
+                ],
+                "text": "أَمِ ٱتَّخَذُوا۟ مِن دُونِهِۦٓ أَوْلِيَآءَ ۖ فَٱللَّهُ هُوَ ٱلْوَلِىُّ وَهُوَ يُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌۭ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 9,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 419,
+                "hizbQuarter": 193,
+                "sajda": false
+            },
+            {
+                "number": 4282,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4282.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4282.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4282.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4282.mp3"
+                ],
+                "text": "وَمَا ٱخْتَلَفْتُمْ فِيهِ مِن شَىْءٍۢ فَحُكْمُهُۥٓ إِلَى ٱللَّهِ ۚ ذَٰلِكُمُ ٱللَّهُ رَبِّى عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ أُنِيبُ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 10,
+                "juz": 25,
+                "manzil": 6,
+                "page": 483,
+                "ruku": 420,
+                "hizbQuarter": 193,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "42": {
+                "number": 42,
+                "name": "سُورَةُ الشُّورَىٰ",
+                "englishName": "Ash-Shura",
+                "englishNameTranslation": "Consultation",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 53
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

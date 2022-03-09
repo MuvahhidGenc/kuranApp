@@ -1,0 +1,311 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 404,
+        "ayahs": [
+            {
+                "number": 3404,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3404.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3404.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3404.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3404.mp3"
+                ],
+                "text": "وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌۭ وَلَعِبٌۭ ۚ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ لَهِىَ ٱلْحَيَوَانُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 64,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3405,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3405.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3405.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3405.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3405.mp3"
+                ],
+                "text": "فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 65,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3406,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3406.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3406.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3406.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3406.mp3"
+                ],
+                "text": "لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ وَلِيَتَمَتَّعُوا۟ ۖ فَسَوْفَ يَعْلَمُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 66,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3407,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3407.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3407.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3407.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3407.mp3"
+                ],
+                "text": "أَوَلَمْ يَرَوْا۟ أَنَّا جَعَلْنَا حَرَمًا ءَامِنًۭا وَيُتَخَطَّفُ ٱلنَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ ٱللَّهِ يَكْفُرُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 67,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3408,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3408.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3408.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3408.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3408.mp3"
+                ],
+                "text": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ كَذَّبَ بِٱلْحَقِّ لَمَّا جَآءَهُۥٓ ۚ أَلَيْسَ فِى جَهَنَّمَ مَثْوًۭى لِّلْكَٰفِرِينَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 68,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3409,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3409.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3409.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3409.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3409.mp3"
+                ],
+                "text": "وَٱلَّذِينَ جَٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 69,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 348,
+                "hizbQuarter": 161,
+                "sajda": false
+            },
+            {
+                "number": 3410,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3410.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3410.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3410.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3410.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 1,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3411,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3411.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3411.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3411.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3411.mp3"
+                ],
+                "text": "غُلِبَتِ ٱلرُّومُ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 2,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3412,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3412.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3412.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3412.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3412.mp3"
+                ],
+                "text": "فِىٓ أَدْنَى ٱلْأَرْضِ وَهُم مِّنۢ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 3,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3413,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3413.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3413.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3413.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3413.mp3"
+                ],
+                "text": "فِى بِضْعِ سِنِينَ ۗ لِلَّهِ ٱلْأَمْرُ مِن قَبْلُ وَمِنۢ بَعْدُ ۚ وَيَوْمَئِذٍۢ يَفْرَحُ ٱلْمُؤْمِنُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 4,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3414,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3414.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3414.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3414.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3414.mp3"
+                ],
+                "text": "بِنَصْرِ ٱللَّهِ ۚ يَنصُرُ مَن يَشَآءُ ۖ وَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 5,
+                "juz": 21,
+                "manzil": 5,
+                "page": 404,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "29": {
+                "number": 29,
+                "name": "سُورَةُ العَنكَبُوتِ",
+                "englishName": "Al-Ankaboot",
+                "englishNameTranslation": "The Spider",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 69
+            },
+            "30": {
+                "number": 30,
+                "name": "سُورَةُ الرُّومِ",
+                "englishName": "Ar-Room",
+                "englishNameTranslation": "The Romans",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 60
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

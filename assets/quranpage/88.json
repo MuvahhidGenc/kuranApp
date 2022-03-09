@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 88,
+        "ayahs": [
+            {
+                "number": 553,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/553.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/553.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/553.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/553.mp3"
+                ],
+                "text": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ يَزْعُمُونَ أَنَّهُمْ ءَامَنُوا۟ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓا۟ إِلَى ٱلطَّٰغُوتِ وَقَدْ أُمِرُوٓا۟ أَن يَكْفُرُوا۟ بِهِۦ وَيُرِيدُ ٱلشَّيْطَٰنُ أَن يُضِلَّهُمْ ضَلَٰلًۢا بَعِيدًۭا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 60,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            },
+            {
+                "number": 554,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/554.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/554.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/554.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/554.mp3"
+                ],
+                "text": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيْتَ ٱلْمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودًۭا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 61,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            },
+            {
+                "number": 555,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/555.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/555.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/555.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/555.mp3"
+                ],
+                "text": "فَكَيْفَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ ثُمَّ جَآءُوكَ يَحْلِفُونَ بِٱللَّهِ إِنْ أَرَدْنَآ إِلَّآ إِحْسَٰنًۭا وَتَوْفِيقًا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 62,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            },
+            {
+                "number": 556,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/556.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/556.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/556.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/556.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ ٱلَّذِينَ يَعْلَمُ ٱللَّهُ مَا فِى قُلُوبِهِمْ فَأَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُل لَّهُمْ فِىٓ أَنفُسِهِمْ قَوْلًۢا بَلِيغًۭا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 63,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            },
+            {
+                "number": 557,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/557.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/557.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/557.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/557.mp3"
+                ],
+                "text": "وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذْنِ ٱللَّهِ ۚ وَلَوْ أَنَّهُمْ إِذ ظَّلَمُوٓا۟ أَنفُسَهُمْ جَآءُوكَ فَٱسْتَغْفَرُوا۟ ٱللَّهَ وَٱسْتَغْفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُوا۟ ٱللَّهَ تَوَّابًۭا رَّحِيمًۭا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 64,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            },
+            {
+                "number": 558,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/558.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/558.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/558.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/558.mp3"
+                ],
+                "text": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيْنَهُمْ ثُمَّ لَا يَجِدُوا۟ فِىٓ أَنفُسِهِمْ حَرَجًۭا مِّمَّا قَضَيْتَ وَيُسَلِّمُوا۟ تَسْلِيمًۭا",
+                "surah": {
+                    "number": 4,
+                    "name": "سُورَةُ النِّسَاءِ",
+                    "englishName": "An-Nisaa",
+                    "englishNameTranslation": "The Women",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 176
+                },
+                "numberInSurah": 65,
+                "juz": 5,
+                "manzil": 1,
+                "page": 88,
+                "ruku": 70,
+                "hizbQuarter": 35,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "4": {
+                "number": 4,
+                "name": "سُورَةُ النِّسَاءِ",
+                "englishName": "An-Nisaa",
+                "englishNameTranslation": "The Women",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 176
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

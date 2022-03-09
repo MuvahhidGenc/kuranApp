@@ -1,0 +1,278 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 283,
+        "ayahs": [
+            {
+                "number": 2037,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2037.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2037.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2037.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2037.mp3"
+                ],
+                "text": "عَسَىٰ رَبُّكُمْ أَن يَرْحَمَكُمْ ۚ وَإِنْ عُدتُّمْ عُدْنَا ۘ وَجَعَلْنَا جَهَنَّمَ لِلْكَٰفِرِينَ حَصِيرًا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 8,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 240,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2038,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2038.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2038.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2038.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2038.mp3"
+                ],
+                "text": "إِنَّ هَٰذَا ٱلْقُرْءَانَ يَهْدِى لِلَّتِى هِىَ أَقْوَمُ وَيُبَشِّرُ ٱلْمُؤْمِنِينَ ٱلَّذِينَ يَعْمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ أَجْرًۭا كَبِيرًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 9,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 240,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2039,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2039.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2039.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2039.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2039.mp3"
+                ],
+                "text": "وَأَنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 10,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 240,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2040,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2040.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2040.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2040.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2040.mp3"
+                ],
+                "text": "وَيَدْعُ ٱلْإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلْخَيْرِ ۖ وَكَانَ ٱلْإِنسَٰنُ عَجُولًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 11,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2041,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2041.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2041.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2041.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2041.mp3"
+                ],
+                "text": "وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ ۖ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ ٱلنَّهَارِ مُبْصِرَةًۭ لِّتَبْتَغُوا۟ فَضْلًۭا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ وَكُلَّ شَىْءٍۢ فَصَّلْنَٰهُ تَفْصِيلًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 12,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2042,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2042.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2042.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2042.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2042.mp3"
+                ],
+                "text": "وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ ۖ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ كِتَٰبًۭا يَلْقَىٰهُ مَنشُورًا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 13,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2043,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2043.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2043.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2043.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2043.mp3"
+                ],
+                "text": "ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 14,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2044,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2044.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2044.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2044.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2044.mp3"
+                ],
+                "text": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 15,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2045,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2045.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2045.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2045.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2045.mp3"
+                ],
+                "text": "وَإِذَآ أَرَدْنَآ أَن نُّهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا فَفَسَقُوا۟ فِيهَا فَحَقَّ عَلَيْهَا ٱلْقَوْلُ فَدَمَّرْنَٰهَا تَدْمِيرًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 16,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            },
+            {
+                "number": 2046,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2046.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2046.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2046.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2046.mp3"
+                ],
+                "text": "وَكَمْ أَهْلَكْنَا مِنَ ٱلْقُرُونِ مِنۢ بَعْدِ نُوحٍۢ ۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرًۢا بَصِيرًۭا",
+                "surah": {
+                    "number": 17,
+                    "name": "سُورَةُ الإِسۡرَاءِ",
+                    "englishName": "Al-Israa",
+                    "englishNameTranslation": "The Night Journey",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 17,
+                "juz": 15,
+                "manzil": 4,
+                "page": 283,
+                "ruku": 241,
+                "hizbQuarter": 113,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "17": {
+                "number": 17,
+                "name": "سُورَةُ الإِسۡرَاءِ",
+                "englishName": "Al-Israa",
+                "englishNameTranslation": "The Night Journey",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 111
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

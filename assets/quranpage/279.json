@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 279,
+        "ayahs": [
+            {
+                "number": 2004,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2004.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2004.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2004.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2004.mp3"
+                ],
+                "text": "وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٌۭ ۗ لِّسَانُ ٱلَّذِى يُلْحِدُونَ إِلَيْهِ أَعْجَمِىٌّۭ وَهَٰذَا لِسَانٌ عَرَبِىٌّۭ مُّبِينٌ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 103,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2005,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2005.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2005.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2005.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2005.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهْدِيهِمُ ٱللَّهُ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 104,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2006,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2006.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2006.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2006.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2006.mp3"
+                ],
+                "text": "إِنَّمَا يَفْتَرِى ٱلْكَذِبَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِـَٔايَٰتِ ٱللَّهِ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰذِبُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 105,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2007,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2007.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2007.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2007.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2007.mp3"
+                ],
+                "text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًۭا فَعَلَيْهِمْ غَضَبٌۭ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌۭ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 106,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2008,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2008.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2008.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2008.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2008.mp3"
+                ],
+                "text": "ذَٰلِكَ بِأَنَّهُمُ ٱسْتَحَبُّوا۟ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْءَاخِرَةِ وَأَنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَٰفِرِينَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 107,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2009,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2009.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2009.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2009.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2009.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَٰرِهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 108,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2010,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2010.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2010.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2010.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2010.mp3"
+                ],
+                "text": "لَا جَرَمَ أَنَّهُمْ فِى ٱلْءَاخِرَةِ هُمُ ٱلْخَٰسِرُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 109,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            },
+            {
+                "number": 2011,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2011.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2011.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2011.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2011.mp3"
+                ],
+                "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُوا۟ مِنۢ بَعْدِ مَا فُتِنُوا۟ ثُمَّ جَٰهَدُوا۟ وَصَبَرُوٓا۟ إِنَّ رَبَّكَ مِنۢ بَعْدِهَا لَغَفُورٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 110,
+                "juz": 14,
+                "manzil": 3,
+                "page": 279,
+                "ruku": 237,
+                "hizbQuarter": 111,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "16": {
+                "number": 16,
+                "name": "سُورَةُ النَّحۡلِ",
+                "englishName": "An-Nahl",
+                "englishNameTranslation": "The Bee",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 128
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

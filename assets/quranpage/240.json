@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 240,
+        "ayahs": [
+            {
+                "number": 1634,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1634.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1634.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1634.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1634.mp3"
+                ],
+                "text": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ ۚ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍۢ ۚ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 38,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 197,
+                "hizbQuarter": 96,
+                "sajda": false
+            },
+            {
+                "number": 1635,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1635.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1635.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1635.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1635.mp3"
+                ],
+                "text": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌۭ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 39,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 197,
+                "hizbQuarter": 96,
+                "sajda": false
+            },
+            {
+                "number": 1636,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1636.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1636.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1636.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1636.mp3"
+                ],
+                "text": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءًۭ سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ ۚ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ ۚ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 40,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 197,
+                "hizbQuarter": 96,
+                "sajda": false
+            },
+            {
+                "number": 1637,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1637.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1637.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1637.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1637.mp3"
+                ],
+                "text": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًۭا ۖ وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ ۚ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 41,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 197,
+                "hizbQuarter": 96,
+                "sajda": false
+            },
+            {
+                "number": 1638,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1638.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1638.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1638.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1638.mp3"
+                ],
+                "text": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍۢ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 42,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 197,
+                "hizbQuarter": 96,
+                "sajda": false
+            },
+            {
+                "number": 1639,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1639.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1639.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1639.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1639.mp3"
+                ],
+                "text": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍۢ سِمَانٍۢ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌۭ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍۢ وَأُخَرَ يَابِسَٰتٍۢ ۖ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 43,
+                "juz": 12,
+                "manzil": 3,
+                "page": 240,
+                "ruku": 198,
+                "hizbQuarter": 96,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "12": {
+                "number": 12,
+                "name": "سُورَةُ يُوسُفَ",
+                "englishName": "Yusuf",
+                "englishNameTranslation": "Joseph",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 111
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 121,
+        "ayahs": [
+            {
+                "number": 746,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/746.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/746.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/746.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/746.mp3"
+                ],
+                "text": "قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ غَيْرَ ٱلْحَقِّ وَلَا تَتَّبِعُوٓا۟ أَهْوَآءَ قَوْمٍۢ قَدْ ضَلُّوا۟ مِن قَبْلُ وَأَضَلُّوا۟ كَثِيرًۭا وَضَلُّوا۟ عَن سَوَآءِ ٱلسَّبِيلِ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 77,
+                "juz": 6,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 95,
+                "hizbQuarter": 48,
+                "sajda": false
+            },
+            {
+                "number": 747,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/747.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/747.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/747.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/747.mp3"
+                ],
+                "text": "لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 78,
+                "juz": 6,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 96,
+                "hizbQuarter": 48,
+                "sajda": false
+            },
+            {
+                "number": 748,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/748.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/748.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/748.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/748.mp3"
+                ],
+                "text": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍۢ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 79,
+                "juz": 6,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 96,
+                "hizbQuarter": 48,
+                "sajda": false
+            },
+            {
+                "number": 749,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/749.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/749.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/749.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/749.mp3"
+                ],
+                "text": "تَرَىٰ كَثِيرًۭا مِّنْهُمْ يَتَوَلَّوْنَ ٱلَّذِينَ كَفَرُوا۟ ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنفُسُهُمْ أَن سَخِطَ ٱللَّهُ عَلَيْهِمْ وَفِى ٱلْعَذَابِ هُمْ خَٰلِدُونَ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 80,
+                "juz": 6,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 96,
+                "hizbQuarter": 48,
+                "sajda": false
+            },
+            {
+                "number": 750,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/750.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/750.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/750.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/750.mp3"
+                ],
+                "text": "وَلَوْ كَانُوا۟ يُؤْمِنُونَ بِٱللَّهِ وَٱلنَّبِىِّ وَمَآ أُنزِلَ إِلَيْهِ مَا ٱتَّخَذُوهُمْ أَوْلِيَآءَ وَلَٰكِنَّ كَثِيرًۭا مِّنْهُمْ فَٰسِقُونَ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 81,
+                "juz": 6,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 96,
+                "hizbQuarter": 48,
+                "sajda": false
+            },
+            {
+                "number": 751,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/751.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/751.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/751.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/751.mp3"
+                ],
+                "text": "۞ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَٰوَةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلْيَهُودَ وَٱلَّذِينَ أَشْرَكُوا۟ ۖ وَلَتَجِدَنَّ أَقْرَبَهُم مَّوَدَّةًۭ لِّلَّذِينَ ءَامَنُوا۟ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًۭا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+                "surah": {
+                    "number": 5,
+                    "name": "سُورَةُ المَائـِدَةِ",
+                    "englishName": "Al-Maaida",
+                    "englishNameTranslation": "The Table",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 120
+                },
+                "numberInSurah": 82,
+                "juz": 7,
+                "manzil": 2,
+                "page": 121,
+                "ruku": 96,
+                "hizbQuarter": 49,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "5": {
+                "number": 5,
+                "name": "سُورَةُ المَائـِدَةِ",
+                "englishName": "Al-Maaida",
+                "englishNameTranslation": "The Table",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 120
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

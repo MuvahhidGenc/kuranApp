@@ -1,0 +1,628 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 532,
+        "ayahs": [
+            {
+                "number": 4918,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4918.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4918.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4918.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4918.mp3"
+                ],
+                "text": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 17,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4919,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4919.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4919.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4919.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4919.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 18,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4920,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4920.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4920.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4920.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4920.mp3"
+                ],
+                "text": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 19,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4921,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4921.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4921.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4921.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4921.mp3"
+                ],
+                "text": "بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 20,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4922,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4922.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4922.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4922.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4922.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 21,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4923,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4923.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4923.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4923.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4923.mp3"
+                ],
+                "text": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 22,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4924,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4924.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4924.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4924.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4924.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 23,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4925,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4925.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4925.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4925.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4925.mp3"
+                ],
+                "text": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 24,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4926,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4926.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4926.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4926.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4926.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 25,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 466,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4927,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4927.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4927.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4927.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4927.mp3"
+                ],
+                "text": "كُلُّ مَنْ عَلَيْهَا فَانٍۢ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 26,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4928,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4928.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4928.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4928.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4928.mp3"
+                ],
+                "text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 27,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4929,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4929.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4929.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4929.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4929.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 28,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4930,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4930.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4930.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4930.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4930.mp3"
+                ],
+                "text": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍۢ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 29,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4931,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4931.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4931.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4931.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4931.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 30,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4932,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4932.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4932.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4932.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4932.mp3"
+                ],
+                "text": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 31,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4933,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4933.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4933.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4933.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4933.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 32,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4934,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4934.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4934.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4934.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4934.mp3"
+                ],
+                "text": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍۢ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 33,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4935,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4935.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4935.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4935.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4935.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 34,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4936,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4936.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4936.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4936.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4936.mp3"
+                ],
+                "text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌۭ مِّن نَّارٍۢ وَنُحَاسٌۭ فَلَا تَنتَصِرَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 35,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4937,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4937.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4937.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4937.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4937.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 36,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4938,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4938.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4938.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4938.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4938.mp3"
+                ],
+                "text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةًۭ كَٱلدِّهَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 37,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4939,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4939.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4939.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4939.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4939.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 38,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4940,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4940.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4940.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4940.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4940.mp3"
+                ],
+                "text": "فَيَوْمَئِذٍۢ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌۭ وَلَا جَآنٌّۭ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 39,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4941,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4941.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4941.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4941.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4941.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 40,
+                "juz": 27,
+                "manzil": 7,
+                "page": 532,
+                "ruku": 467,
+                "hizbQuarter": 213,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "55": {
+                "number": 55,
+                "name": "سُورَةُ الرَّحۡمَٰن",
+                "englishName": "Ar-Rahmaan",
+                "englishNameTranslation": "The Beneficent",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 78
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

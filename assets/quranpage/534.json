@@ -1,0 +1,711 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 534,
+        "ayahs": [
+            {
+                "number": 4969,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4969.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4969.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4969.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4969.mp3"
+                ],
+                "text": "فِيهِمَا فَٰكِهَةٌۭ وَنَخْلٌۭ وَرُمَّانٌۭ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 68,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4970,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4970.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4970.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4970.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4970.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 69,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4971,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4971.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4971.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4971.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4971.mp3"
+                ],
+                "text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌۭ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 70,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4972,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4972.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4972.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4972.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4972.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 71,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4973,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4973.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4973.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4973.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4973.mp3"
+                ],
+                "text": "حُورٌۭ مَّقْصُورَٰتٌۭ فِى ٱلْخِيَامِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 72,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4974,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4974.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4974.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4974.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4974.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 73,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4975,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4975.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4975.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4975.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4975.mp3"
+                ],
+                "text": "لَمْ يَطْمِثْهُنَّ إِنسٌۭ قَبْلَهُمْ وَلَا جَآنٌّۭ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 74,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4976,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4976.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4976.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4976.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4976.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 75,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4977,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4977.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4977.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4977.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4977.mp3"
+                ],
+                "text": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍۢ وَعَبْقَرِىٍّ حِسَانٍۢ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 76,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4978,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4978.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4978.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4978.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4978.mp3"
+                ],
+                "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 77,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4979,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4979.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4979.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4979.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4979.mp3"
+                ],
+                "text": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+                "surah": {
+                    "number": 55,
+                    "name": "سُورَةُ الرَّحۡمَٰن",
+                    "englishName": "Ar-Rahmaan",
+                    "englishNameTranslation": "The Beneficent",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 78,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 468,
+                "hizbQuarter": 213,
+                "sajda": false
+            },
+            {
+                "number": 4980,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4980.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4980.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4980.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4980.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 1,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4981,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4981.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4981.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4981.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4981.mp3"
+                ],
+                "text": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 2,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4982,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4982.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4982.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4982.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4982.mp3"
+                ],
+                "text": "خَافِضَةٌۭ رَّافِعَةٌ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 3,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4983,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4983.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4983.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4983.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4983.mp3"
+                ],
+                "text": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّۭا",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 4,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4984,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4984.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4984.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4984.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4984.mp3"
+                ],
+                "text": "وَبُسَّتِ ٱلْجِبَالُ بَسًّۭا",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 5,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4985,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4985.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4985.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4985.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4985.mp3"
+                ],
+                "text": "فَكَانَتْ هَبَآءًۭ مُّنۢبَثًّۭا",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 6,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4986,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4986.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4986.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4986.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4986.mp3"
+                ],
+                "text": "وَكُنتُمْ أَزْوَٰجًۭا ثَلَٰثَةًۭ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 7,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4987,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4987.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4987.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4987.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4987.mp3"
+                ],
+                "text": "فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 8,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4988,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4988.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4988.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4988.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4988.mp3"
+                ],
+                "text": "وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 9,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4989,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4989.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4989.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4989.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4989.mp3"
+                ],
+                "text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 10,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4990,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4990.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4990.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4990.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4990.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ ٱلْمُقَرَّبُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 11,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4991,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4991.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4991.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4991.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4991.mp3"
+                ],
+                "text": "فِى جَنَّٰتِ ٱلنَّعِيمِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 12,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4992,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4992.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4992.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4992.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4992.mp3"
+                ],
+                "text": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 13,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4993,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4993.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4993.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4993.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4993.mp3"
+                ],
+                "text": "وَقَلِيلٌۭ مِّنَ ٱلْءَاخِرِينَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 14,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4994,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4994.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4994.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4994.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4994.mp3"
+                ],
+                "text": "عَلَىٰ سُرُرٍۢ مَّوْضُونَةٍۢ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 15,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 4995,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4995.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4995.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4995.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4995.mp3"
+                ],
+                "text": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 16,
+                "juz": 27,
+                "manzil": 7,
+                "page": 534,
+                "ruku": 469,
+                "hizbQuarter": 214,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "55": {
+                "number": 55,
+                "name": "سُورَةُ الرَّحۡمَٰن",
+                "englishName": "Ar-Rahmaan",
+                "englishNameTranslation": "The Beneficent",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 78
+            },
+            "56": {
+                "number": 56,
+                "name": "سُورَةُ الوَاقِعَةِ",
+                "englishName": "Al-Waaqia",
+                "englishNameTranslation": "The Inevitable",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 96
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

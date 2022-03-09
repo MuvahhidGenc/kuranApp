@@ -1,0 +1,753 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 569,
+        "ayahs": [
+            {
+                "number": 5386,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5386.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5386.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5386.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5386.mp3"
+                ],
+                "text": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 11,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5387,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5387.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5387.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5387.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5387.mp3"
+                ],
+                "text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 12,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5388,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5388.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5388.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5388.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5388.mp3"
+                ],
+                "text": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 13,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5389,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5389.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5389.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5389.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5389.mp3"
+                ],
+                "text": "وَمَن فِى ٱلْأَرْضِ جَمِيعًۭا ثُمَّ يُنجِيهِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 14,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5390,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5390.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5390.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5390.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5390.mp3"
+                ],
+                "text": "كَلَّآ ۖ إِنَّهَا لَظَىٰ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 15,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5391,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5391.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5391.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5391.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5391.mp3"
+                ],
+                "text": "نَزَّاعَةًۭ لِّلشَّوَىٰ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 16,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5392,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5392.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5392.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5392.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5392.mp3"
+                ],
+                "text": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 17,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5393,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5393.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5393.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5393.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5393.mp3"
+                ],
+                "text": "وَجَمَعَ فَأَوْعَىٰٓ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 18,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5394,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5394.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5394.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5394.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5394.mp3"
+                ],
+                "text": "۞ إِنَّ ٱلْإِنسَٰنَ خُلِقَ هَلُوعًا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 19,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5395,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5395.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5395.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5395.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5395.mp3"
+                ],
+                "text": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًۭا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 20,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5396,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5396.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5396.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5396.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5396.mp3"
+                ],
+                "text": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 21,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5397,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5397.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5397.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5397.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5397.mp3"
+                ],
+                "text": "إِلَّا ٱلْمُصَلِّينَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 22,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5398,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5398.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5398.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5398.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5398.mp3"
+                ],
+                "text": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 23,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5399,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5399.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5399.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5399.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5399.mp3"
+                ],
+                "text": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّۭ مَّعْلُومٌۭ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 24,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5400,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5400.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5400.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5400.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5400.mp3"
+                ],
+                "text": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 25,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5401,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5401.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5401.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5401.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5401.mp3"
+                ],
+                "text": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 26,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5402,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5402.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5402.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5402.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5402.mp3"
+                ],
+                "text": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 27,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5403,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5403.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5403.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5403.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5403.mp3"
+                ],
+                "text": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍۢ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 28,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5404,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5404.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5404.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5404.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5404.mp3"
+                ],
+                "text": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 29,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5405,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5405.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5405.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5405.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5405.mp3"
+                ],
+                "text": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 30,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5406,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5406.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5406.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5406.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5406.mp3"
+                ],
+                "text": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 31,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5407,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5407.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5407.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5407.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5407.mp3"
+                ],
+                "text": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 32,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5408,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5408.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5408.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5408.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5408.mp3"
+                ],
+                "text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمْ قَآئِمُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 33,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5409,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5409.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5409.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5409.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5409.mp3"
+                ],
+                "text": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 34,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5410,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5410.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5410.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5410.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5410.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ فِى جَنَّٰتٍۢ مُّكْرَمُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 35,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 502,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5411,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5411.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5411.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5411.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5411.mp3"
+                ],
+                "text": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 36,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 503,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5412,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5412.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5412.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5412.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5412.mp3"
+                ],
+                "text": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 37,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 503,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5413,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5413.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5413.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5413.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5413.mp3"
+                ],
+                "text": "أَيَطْمَعُ كُلُّ ٱمْرِئٍۢ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍۢ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 38,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 503,
+                "hizbQuarter": 228,
+                "sajda": false
+            },
+            {
+                "number": 5414,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5414.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5414.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5414.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5414.mp3"
+                ],
+                "text": "كَلَّآ ۖ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 39,
+                "juz": 29,
+                "manzil": 7,
+                "page": 569,
+                "ruku": 503,
+                "hizbQuarter": 228,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "70": {
+                "number": 70,
+                "name": "سُورَةُ المَعَارِجِ",
+                "englishName": "Al-Ma'aarij",
+                "englishNameTranslation": "The Ascending Stairways",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 44
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

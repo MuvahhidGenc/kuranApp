@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 468,
+        "ayahs": [
+            {
+                "number": 4141,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4141.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4141.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4141.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4141.mp3"
+                ],
+                "text": "رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ ۚ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 8,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 404,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4142,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4142.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4142.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4142.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4142.mp3"
+                ],
+                "text": "وَقِهِمُ ٱلسَّيِّـَٔاتِ ۚ وَمَن تَقِ ٱلسَّيِّـَٔاتِ يَوْمَئِذٍۢ فَقَدْ رَحِمْتَهُۥ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 9,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 404,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4143,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4143.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4143.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4143.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4143.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُمْ إِذْ تُدْعَوْنَ إِلَى ٱلْإِيمَٰنِ فَتَكْفُرُونَ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 10,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4144,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4144.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4144.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4144.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4144.mp3"
+                ],
+                "text": "قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍۢ مِّن سَبِيلٍۢ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 11,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4145,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4145.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4145.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4145.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4145.mp3"
+                ],
+                "text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِىَ ٱللَّهُ وَحْدَهُۥ كَفَرْتُمْ ۖ وَإِن يُشْرَكْ بِهِۦ تُؤْمِنُوا۟ ۚ فَٱلْحُكْمُ لِلَّهِ ٱلْعَلِىِّ ٱلْكَبِيرِ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 12,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4146,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4146.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4146.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4146.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4146.mp3"
+                ],
+                "text": "هُوَ ٱلَّذِى يُرِيكُمْ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزْقًۭا ۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 13,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4147,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4147.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4147.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4147.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4147.mp3"
+                ],
+                "text": "فَٱدْعُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ وَلَوْ كَرِهَ ٱلْكَٰفِرُونَ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 14,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4148,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4148.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4148.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4148.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4148.mp3"
+                ],
+                "text": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلْعَرْشِ يُلْقِى ٱلرُّوحَ مِنْ أَمْرِهِۦ عَلَىٰ مَن يَشَآءُ مِنْ عِبَادِهِۦ لِيُنذِرَ يَوْمَ ٱلتَّلَاقِ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 15,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            },
+            {
+                "number": 4149,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4149.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4149.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4149.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4149.mp3"
+                ],
+                "text": "يَوْمَ هُم بَٰرِزُونَ ۖ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌۭ ۚ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ ۖ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ",
+                "surah": {
+                    "number": 40,
+                    "name": "سُورَةُ غَافِرٍ",
+                    "englishName": "Ghafir",
+                    "englishNameTranslation": "The Forgiver",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 85
+                },
+                "numberInSurah": 16,
+                "juz": 24,
+                "manzil": 6,
+                "page": 468,
+                "ruku": 405,
+                "hizbQuarter": 187,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "40": {
+                "number": 40,
+                "name": "سُورَةُ غَافِرٍ",
+                "englishName": "Ghafir",
+                "englishNameTranslation": "The Forgiver",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 85
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

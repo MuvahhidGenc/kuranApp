@@ -1,0 +1,611 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 523,
+        "ayahs": [
+            {
+                "number": 4727,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4727.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4727.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4727.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4727.mp3"
+                ],
+                "text": "كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 52,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4728,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4728.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4728.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4728.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4728.mp3"
+                ],
+                "text": "أَتَوَاصَوْا۟ بِهِۦ ۚ بَلْ هُمْ قَوْمٌۭ طَاغُونَ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 53,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4729,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4729.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4729.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4729.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4729.mp3"
+                ],
+                "text": "فَتَوَلَّ عَنْهُمْ فَمَآ أَنتَ بِمَلُومٍۢ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 54,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4730,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4730.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4730.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4730.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4730.mp3"
+                ],
+                "text": "وَذَكِّرْ فَإِنَّ ٱلذِّكْرَىٰ تَنفَعُ ٱلْمُؤْمِنِينَ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 55,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4731,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4731.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4731.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4731.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4731.mp3"
+                ],
+                "text": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 56,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4732,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4732.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4732.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4732.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4732.mp3"
+                ],
+                "text": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍۢ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 57,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4733,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4733.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4733.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4733.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4733.mp3"
+                ],
+                "text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلْقُوَّةِ ٱلْمَتِينُ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 58,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4734,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4734.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4734.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4734.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4734.mp3"
+                ],
+                "text": "فَإِنَّ لِلَّذِينَ ظَلَمُوا۟ ذَنُوبًۭا مِّثْلَ ذَنُوبِ أَصْحَٰبِهِمْ فَلَا يَسْتَعْجِلُونِ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 59,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4735,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4735.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4735.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4735.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4735.mp3"
+                ],
+                "text": "فَوَيْلٌۭ لِّلَّذِينَ كَفَرُوا۟ مِن يَوْمِهِمُ ٱلَّذِى يُوعَدُونَ",
+                "surah": {
+                    "number": 51,
+                    "name": "سُورَةُ الذَّارِيَاتِ",
+                    "englishName": "Adh-Dhaariyat",
+                    "englishNameTranslation": "The Winnowing Winds",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 60,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 457,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4736,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4736.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4736.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4736.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4736.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلطُّورِ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 1,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4737,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4737.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4737.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4737.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4737.mp3"
+                ],
+                "text": "وَكِتَٰبٍۢ مَّسْطُورٍۢ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 2,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4738,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4738.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4738.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4738.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4738.mp3"
+                ],
+                "text": "فِى رَقٍّۢ مَّنشُورٍۢ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 3,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4739,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4739.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4739.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4739.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4739.mp3"
+                ],
+                "text": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 4,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4740,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4740.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4740.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4740.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4740.mp3"
+                ],
+                "text": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 5,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4741,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4741.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4741.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4741.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4741.mp3"
+                ],
+                "text": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 6,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4742,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4742.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4742.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4742.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4742.mp3"
+                ],
+                "text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌۭ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 7,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4743,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4743.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4743.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4743.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4743.mp3"
+                ],
+                "text": "مَّا لَهُۥ مِن دَافِعٍۢ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 8,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4744,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4744.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4744.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4744.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4744.mp3"
+                ],
+                "text": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًۭا",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 9,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4745,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4745.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4745.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4745.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4745.mp3"
+                ],
+                "text": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًۭا",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 10,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4746,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4746.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4746.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4746.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4746.mp3"
+                ],
+                "text": "فَوَيْلٌۭ يَوْمَئِذٍۢ لِّلْمُكَذِّبِينَ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 11,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4747,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4747.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4747.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4747.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4747.mp3"
+                ],
+                "text": "ٱلَّذِينَ هُمْ فِى خَوْضٍۢ يَلْعَبُونَ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 12,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4748,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4748.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4748.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4748.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4748.mp3"
+                ],
+                "text": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 13,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            },
+            {
+                "number": 4749,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4749.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4749.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4749.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4749.mp3"
+                ],
+                "text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+                "surah": {
+                    "number": 52,
+                    "name": "سُورَةُ الطُّورِ",
+                    "englishName": "At-Tur",
+                    "englishNameTranslation": "The Mount",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 49
+                },
+                "numberInSurah": 14,
+                "juz": 27,
+                "manzil": 7,
+                "page": 523,
+                "ruku": 458,
+                "hizbQuarter": 209,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "51": {
+                "number": 51,
+                "name": "سُورَةُ الذَّارِيَاتِ",
+                "englishName": "Adh-Dhaariyat",
+                "englishNameTranslation": "The Winnowing Winds",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 60
+            },
+            "52": {
+                "number": 52,
+                "name": "سُورَةُ الطُّورِ",
+                "englishName": "At-Tur",
+                "englishNameTranslation": "The Mount",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 49
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 246,
+        "ayahs": [
+            {
+                "number": 1683,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1683.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1683.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1683.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1683.mp3"
+                ],
+                "text": "يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 87,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1684,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1684.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1684.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1684.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1684.mp3"
+                ],
+                "text": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍۢ مُّزْجَىٰةٍۢ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ ۖ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 88,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1685,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1685.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1685.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1685.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1685.mp3"
+                ],
+                "text": "قَالَ هَلْ عَلِمْتُم مَّا فَعَلْتُم بِيُوسُفَ وَأَخِيهِ إِذْ أَنتُمْ جَٰهِلُونَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 89,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1686,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1686.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1686.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1686.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1686.mp3"
+                ],
+                "text": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ ۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى ۖ قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ ۖ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 90,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1687,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1687.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1687.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1687.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1687.mp3"
+                ],
+                "text": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 91,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1688,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1688.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1688.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1688.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1688.mp3"
+                ],
+                "text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ ۖ يَغْفِرُ ٱللَّهُ لَكُمْ ۖ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 92,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1689,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1689.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1689.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1689.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1689.mp3"
+                ],
+                "text": "ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًۭا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 93,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 202,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1690,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1690.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1690.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1690.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1690.mp3"
+                ],
+                "text": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ ۖ لَوْلَآ أَن تُفَنِّدُونِ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 94,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 203,
+                "hizbQuarter": 98,
+                "sajda": false
+            },
+            {
+                "number": 1691,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1691.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1691.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1691.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1691.mp3"
+                ],
+                "text": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ",
+                "surah": {
+                    "number": 12,
+                    "name": "سُورَةُ يُوسُفَ",
+                    "englishName": "Yusuf",
+                    "englishNameTranslation": "Joseph",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 111
+                },
+                "numberInSurah": 95,
+                "juz": 13,
+                "manzil": 3,
+                "page": 246,
+                "ruku": 203,
+                "hizbQuarter": 98,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "12": {
+                "number": 12,
+                "name": "سُورَةُ يُوسُفَ",
+                "englishName": "Yusuf",
+                "englishNameTranslation": "Joseph",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 111
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

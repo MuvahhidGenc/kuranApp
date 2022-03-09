@@ -1,0 +1,286 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 396,
+        "ayahs": [
+            {
+                "number": 3337,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3337.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3337.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3337.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3337.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِى فَرَضَ عَلَيْكَ ٱلْقُرْءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٍۢ ۚ قُل رَّبِّىٓ أَعْلَمُ مَن جَآءَ بِٱلْهُدَىٰ وَمَنْ هُوَ فِى ضَلَٰلٍۢ مُّبِينٍۢ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 85,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            },
+            {
+                "number": 3338,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3338.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3338.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3338.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3338.mp3"
+                ],
+                "text": "وَمَا كُنتَ تَرْجُوٓا۟ أَن يُلْقَىٰٓ إِلَيْكَ ٱلْكِتَٰبُ إِلَّا رَحْمَةًۭ مِّن رَّبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًۭا لِّلْكَٰفِرِينَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 86,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            },
+            {
+                "number": 3339,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3339.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3339.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3339.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3339.mp3"
+                ],
+                "text": "وَلَا يَصُدُّنَّكَ عَنْ ءَايَٰتِ ٱللَّهِ بَعْدَ إِذْ أُنزِلَتْ إِلَيْكَ ۖ وَٱدْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 87,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            },
+            {
+                "number": 3340,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3340.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3340.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3340.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3340.mp3"
+                ],
+                "text": "وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ ۘ لَآ إِلَٰهَ إِلَّا هُوَ ۚ كُلُّ شَىْءٍ هَالِكٌ إِلَّا وَجْهَهُۥ ۚ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 88,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            },
+            {
+                "number": 3341,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3341.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3341.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3341.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3341.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 1,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            },
+            {
+                "number": 3342,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3342.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3342.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3342.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3342.mp3"
+                ],
+                "text": "أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 2,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            },
+            {
+                "number": 3343,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3343.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3343.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3343.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3343.mp3"
+                ],
+                "text": "وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟ وَلَيَعْلَمَنَّ ٱلْكَٰذِبِينَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 3,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            },
+            {
+                "number": 3344,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3344.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3344.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3344.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3344.mp3"
+                ],
+                "text": "أَمْ حَسِبَ ٱلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسْبِقُونَا ۚ سَآءَ مَا يَحْكُمُونَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 4,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            },
+            {
+                "number": 3345,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3345.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3345.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3345.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3345.mp3"
+                ],
+                "text": "مَن كَانَ يَرْجُوا۟ لِقَآءَ ٱللَّهِ فَإِنَّ أَجَلَ ٱللَّهِ لَءَاتٍۢ ۚ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 5,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            },
+            {
+                "number": 3346,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3346.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3346.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3346.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3346.mp3"
+                ],
+                "text": "وَمَن جَٰهَدَ فَإِنَّمَا يُجَٰهِدُ لِنَفْسِهِۦٓ ۚ إِنَّ ٱللَّهَ لَغَنِىٌّ عَنِ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 29,
+                    "name": "سُورَةُ العَنكَبُوتِ",
+                    "englishName": "Al-Ankaboot",
+                    "englishNameTranslation": "The Spider",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 69
+                },
+                "numberInSurah": 6,
+                "juz": 20,
+                "manzil": 5,
+                "page": 396,
+                "ruku": 342,
+                "hizbQuarter": 159,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "28": {
+                "number": 28,
+                "name": "سُورَةُ القَصَصِ",
+                "englishName": "Al-Qasas",
+                "englishNameTranslation": "The Stories",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 88
+            },
+            "29": {
+                "number": 29,
+                "name": "سُورَةُ العَنكَبُوتِ",
+                "englishName": "Al-Ankaboot",
+                "englishNameTranslation": "The Spider",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 69
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

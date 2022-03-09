@@ -1,0 +1,503 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 311,
+        "ayahs": [
+            {
+                "number": 2327,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2327.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2327.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2327.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2327.mp3"
+                ],
+                "text": "أَفَرَءَيْتَ ٱلَّذِى كَفَرَ بِـَٔايَٰتِنَا وَقَالَ لَأُوتَيَنَّ مَالًۭا وَوَلَدًا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 77,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2328,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2328.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2328.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2328.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2328.mp3"
+                ],
+                "text": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 78,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2329,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2329.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2329.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2329.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2329.mp3"
+                ],
+                "text": "كَلَّا ۚ سَنَكْتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلْعَذَابِ مَدًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 79,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2330,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2330.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2330.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2330.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2330.mp3"
+                ],
+                "text": "وَنَرِثُهُۥ مَا يَقُولُ وَيَأْتِينَا فَرْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 80,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2331,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2331.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2331.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2331.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2331.mp3"
+                ],
+                "text": "وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةًۭ لِّيَكُونُوا۟ لَهُمْ عِزًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 81,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2332,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2332.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2332.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2332.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2332.mp3"
+                ],
+                "text": "كَلَّا ۚ سَيَكْفُرُونَ بِعِبَادَتِهِمْ وَيَكُونُونَ عَلَيْهِمْ ضِدًّا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 82,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 268,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2333,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2333.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2333.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2333.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2333.mp3"
+                ],
+                "text": "أَلَمْ تَرَ أَنَّآ أَرْسَلْنَا ٱلشَّيَٰطِينَ عَلَى ٱلْكَٰفِرِينَ تَؤُزُّهُمْ أَزًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 83,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2334,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2334.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2334.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2334.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2334.mp3"
+                ],
+                "text": "فَلَا تَعْجَلْ عَلَيْهِمْ ۖ إِنَّمَا نَعُدُّ لَهُمْ عَدًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 84,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2335,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2335.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2335.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2335.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2335.mp3"
+                ],
+                "text": "يَوْمَ نَحْشُرُ ٱلْمُتَّقِينَ إِلَى ٱلرَّحْمَٰنِ وَفْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 85,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2336,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2336.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2336.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2336.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2336.mp3"
+                ],
+                "text": "وَنَسُوقُ ٱلْمُجْرِمِينَ إِلَىٰ جَهَنَّمَ وِرْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 86,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2337,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2337.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2337.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2337.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2337.mp3"
+                ],
+                "text": "لَّا يَمْلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحْمَٰنِ عَهْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 87,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2338,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2338.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2338.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2338.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2338.mp3"
+                ],
+                "text": "وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 88,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2339,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2339.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2339.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2339.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2339.mp3"
+                ],
+                "text": "لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 89,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2340,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2340.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2340.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2340.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2340.mp3"
+                ],
+                "text": "تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِنْهُ وَتَنشَقُّ ٱلْأَرْضُ وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 90,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2341,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2341.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2341.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2341.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2341.mp3"
+                ],
+                "text": "أَن دَعَوْا۟ لِلرَّحْمَٰنِ وَلَدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 91,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2342,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2342.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2342.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2342.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2342.mp3"
+                ],
+                "text": "وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 92,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2343,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2343.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2343.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2343.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2343.mp3"
+                ],
+                "text": "إِن كُلُّ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ إِلَّآ ءَاتِى ٱلرَّحْمَٰنِ عَبْدًۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 93,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2344,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2344.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2344.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2344.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2344.mp3"
+                ],
+                "text": "لَّقَدْ أَحْصَىٰهُمْ وَعَدَّهُمْ عَدًّۭا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 94,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            },
+            {
+                "number": 2345,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2345.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2345.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2345.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2345.mp3"
+                ],
+                "text": "وَكُلُّهُمْ ءَاتِيهِ يَوْمَ ٱلْقِيَٰمَةِ فَرْدًا",
+                "surah": {
+                    "number": 19,
+                    "name": "سُورَةُ مَرۡيَمَ",
+                    "englishName": "Maryam",
+                    "englishNameTranslation": "Mary",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 98
+                },
+                "numberInSurah": 95,
+                "juz": 16,
+                "manzil": 4,
+                "page": 311,
+                "ruku": 269,
+                "hizbQuarter": 124,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "19": {
+                "number": 19,
+                "name": "سُورَةُ مَرۡيَمَ",
+                "englishName": "Maryam",
+                "englishNameTranslation": "Mary",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 98
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

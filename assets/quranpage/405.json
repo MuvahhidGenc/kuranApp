@@ -1,0 +1,278 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 405,
+        "ayahs": [
+            {
+                "number": 3415,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3415.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3415.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3415.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3415.mp3"
+                ],
+                "text": "وَعْدَ ٱللَّهِ ۖ لَا يُخْلِفُ ٱللَّهُ وَعْدَهُۥ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 6,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3416,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3416.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3416.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3416.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3416.mp3"
+                ],
+                "text": "يَعْلَمُونَ ظَٰهِرًۭا مِّنَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَهُمْ عَنِ ٱلْءَاخِرَةِ هُمْ غَٰفِلُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 7,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3417,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3417.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3417.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3417.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3417.mp3"
+                ],
+                "text": "أَوَلَمْ يَتَفَكَّرُوا۟ فِىٓ أَنفُسِهِم ۗ مَّا خَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۗ وَإِنَّ كَثِيرًۭا مِّنَ ٱلنَّاسِ بِلِقَآئِ رَبِّهِمْ لَكَٰفِرُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 8,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3418,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3418.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3418.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3418.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3418.mp3"
+                ],
+                "text": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ ۚ كَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةًۭ وَأَثَارُوا۟ ٱلْأَرْضَ وَعَمَرُوهَآ أَكْثَرَ مِمَّا عَمَرُوهَا وَجَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 9,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3419,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3419.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3419.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3419.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3419.mp3"
+                ],
+                "text": "ثُمَّ كَانَ عَٰقِبَةَ ٱلَّذِينَ أَسَٰٓـُٔوا۟ ٱلسُّوٓأَىٰٓ أَن كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَكَانُوا۟ بِهَا يَسْتَهْزِءُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 10,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 349,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3420,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3420.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3420.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3420.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3420.mp3"
+                ],
+                "text": "ٱللَّهُ يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 11,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 350,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3421,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3421.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3421.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3421.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3421.mp3"
+                ],
+                "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 12,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 350,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3422,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3422.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3422.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3422.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3422.mp3"
+                ],
+                "text": "وَلَمْ يَكُن لَّهُم مِّن شُرَكَآئِهِمْ شُفَعَٰٓؤُا۟ وَكَانُوا۟ بِشُرَكَآئِهِمْ كَٰفِرِينَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 13,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 350,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3423,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3423.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3423.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3423.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3423.mp3"
+                ],
+                "text": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍۢ يَتَفَرَّقُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 14,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 350,
+                "hizbQuarter": 162,
+                "sajda": false
+            },
+            {
+                "number": 3424,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3424.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3424.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3424.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3424.mp3"
+                ],
+                "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَهُمْ فِى رَوْضَةٍۢ يُحْبَرُونَ",
+                "surah": {
+                    "number": 30,
+                    "name": "سُورَةُ الرُّومِ",
+                    "englishName": "Ar-Room",
+                    "englishNameTranslation": "The Romans",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 60
+                },
+                "numberInSurah": 15,
+                "juz": 21,
+                "manzil": 5,
+                "page": 405,
+                "ruku": 350,
+                "hizbQuarter": 162,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "30": {
+                "number": 30,
+                "name": "سُورَةُ الرُّومِ",
+                "englishName": "Ar-Room",
+                "englishNameTranslation": "The Romans",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 60
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

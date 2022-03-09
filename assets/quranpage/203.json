@@ -1,0 +1,203 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 203,
+        "ayahs": [
+            {
+                "number": 1335,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1335.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1335.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1335.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1335.mp3"
+                ],
+                "text": "وَٱلسَّٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَٰنٍۢ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّٰتٍۢ تَجْرِى تَحْتَهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 100,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1336,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1336.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1336.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1336.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1336.mp3"
+                ],
+                "text": "وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍۢ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 101,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1337,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1337.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1337.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1337.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1337.mp3"
+                ],
+                "text": "وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًۭا صَٰلِحًۭا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 102,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1338,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1338.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1338.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1338.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1338.mp3"
+                ],
+                "text": "خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةًۭ تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌۭ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 103,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1339,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1339.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1339.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1339.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1339.mp3"
+                ],
+                "text": "أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 104,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1340,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1340.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1340.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1340.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1340.mp3"
+                ],
+                "text": "وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 105,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            },
+            {
+                "number": 1341,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1341.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1341.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1341.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1341.mp3"
+                ],
+                "text": "وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+                "surah": {
+                    "number": 9,
+                    "name": "سُورَةُ التَّوۡبَةِ",
+                    "englishName": "At-Tawba",
+                    "englishNameTranslation": "The Repentance",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 129
+                },
+                "numberInSurah": 106,
+                "juz": 11,
+                "manzil": 2,
+                "page": 203,
+                "ruku": 168,
+                "hizbQuarter": 81,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "9": {
+                "number": 9,
+                "name": "سُورَةُ التَّوۡبَةِ",
+                "englishName": "At-Tawba",
+                "englishNameTranslation": "The Repentance",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 129
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

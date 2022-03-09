@@ -1,0 +1,778 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 576,
+        "ayahs": [
+            {
+                "number": 5513,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5513.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5513.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5513.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5513.mp3"
+                ],
+                "text": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 18,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5514,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5514.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5514.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5514.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5514.mp3"
+                ],
+                "text": "فَقُتِلَ كَيْفَ قَدَّرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 19,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5515,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5515.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5515.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5515.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5515.mp3"
+                ],
+                "text": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 20,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5516,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5516.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5516.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5516.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5516.mp3"
+                ],
+                "text": "ثُمَّ نَظَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 21,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5517,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5517.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5517.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5517.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5517.mp3"
+                ],
+                "text": "ثُمَّ عَبَسَ وَبَسَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 22,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5518,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5518.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5518.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5518.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5518.mp3"
+                ],
+                "text": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 23,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5519,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5519.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5519.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5519.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5519.mp3"
+                ],
+                "text": "فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌۭ يُؤْثَرُ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 24,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5520,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5520.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5520.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5520.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5520.mp3"
+                ],
+                "text": "إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 25,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5521,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5521.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5521.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5521.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5521.mp3"
+                ],
+                "text": "سَأُصْلِيهِ سَقَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 26,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5522,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5522.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5522.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5522.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5522.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 27,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5523,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5523.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5523.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5523.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5523.mp3"
+                ],
+                "text": "لَا تُبْقِى وَلَا تَذَرُ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 28,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5524,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5524.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5524.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5524.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5524.mp3"
+                ],
+                "text": "لَوَّاحَةٌۭ لِّلْبَشَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 29,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5525,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5525.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5525.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5525.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5525.mp3"
+                ],
+                "text": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 30,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5526,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5526.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5526.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5526.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5526.mp3"
+                ],
+                "text": "وَمَا جَعَلْنَآ أَصْحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةًۭ ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَٰنًۭا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلًۭا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 31,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 510,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5527,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5527.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5527.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5527.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5527.mp3"
+                ],
+                "text": "كَلَّا وَٱلْقَمَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 32,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5528,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5528.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5528.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5528.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5528.mp3"
+                ],
+                "text": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 33,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5529,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5529.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5529.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5529.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5529.mp3"
+                ],
+                "text": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 34,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5530,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5530.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5530.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5530.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5530.mp3"
+                ],
+                "text": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 35,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5531,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5531.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5531.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5531.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5531.mp3"
+                ],
+                "text": "نَذِيرًۭا لِّلْبَشَرِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 36,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5532,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5532.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5532.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5532.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5532.mp3"
+                ],
+                "text": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 37,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5533,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5533.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5533.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5533.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5533.mp3"
+                ],
+                "text": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 38,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5534,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5534.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5534.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5534.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5534.mp3"
+                ],
+                "text": "إِلَّآ أَصْحَٰبَ ٱلْيَمِينِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 39,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5535,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5535.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5535.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5535.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5535.mp3"
+                ],
+                "text": "فِى جَنَّٰتٍۢ يَتَسَآءَلُونَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 40,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5536,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5536.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5536.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5536.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5536.mp3"
+                ],
+                "text": "عَنِ ٱلْمُجْرِمِينَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 41,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5537,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5537.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5537.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5537.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5537.mp3"
+                ],
+                "text": "مَا سَلَكَكُمْ فِى سَقَرَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 42,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5538,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5538.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5538.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5538.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5538.mp3"
+                ],
+                "text": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 43,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5539,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5539.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5539.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5539.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5539.mp3"
+                ],
+                "text": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 44,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5540,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5540.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5540.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5540.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5540.mp3"
+                ],
+                "text": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 45,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5541,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5541.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5541.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5541.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5541.mp3"
+                ],
+                "text": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 46,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            },
+            {
+                "number": 5542,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5542.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5542.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5542.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5542.mp3"
+                ],
+                "text": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+                "surah": {
+                    "number": 74,
+                    "name": "سُورَةُ المُدَّثِّرِ",
+                    "englishName": "Al-Muddaththir",
+                    "englishNameTranslation": "The Cloaked One",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 56
+                },
+                "numberInSurah": 47,
+                "juz": 29,
+                "manzil": 7,
+                "page": 576,
+                "ruku": 511,
+                "hizbQuarter": 230,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "74": {
+                "number": 74,
+                "name": "سُورَةُ المُدَّثِّرِ",
+                "englishName": "Al-Muddaththir",
+                "englishNameTranslation": "The Cloaked One",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 56
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

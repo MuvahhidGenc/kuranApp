@@ -1,0 +1,203 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 394,
+        "ayahs": [
+            {
+                "number": 3323,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3323.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3323.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3323.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3323.mp3"
+                ],
+                "text": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ ۖ أَفَلَا تَسْمَعُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 71,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 340,
+                "hizbQuarter": 157,
+                "sajda": false
+            },
+            {
+                "number": 3324,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3324.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3324.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3324.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3324.mp3"
+                ],
+                "text": "قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍۢ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 72,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 340,
+                "hizbQuarter": 157,
+                "sajda": false
+            },
+            {
+                "number": 3325,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3325.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3325.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3325.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3325.mp3"
+                ],
+                "text": "وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 73,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 340,
+                "hizbQuarter": 157,
+                "sajda": false
+            },
+            {
+                "number": 3326,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3326.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3326.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3326.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3326.mp3"
+                ],
+                "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 74,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 340,
+                "hizbQuarter": 157,
+                "sajda": false
+            },
+            {
+                "number": 3327,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3327.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3327.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3327.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3327.mp3"
+                ],
+                "text": "وَنَزَعْنَا مِن كُلِّ أُمَّةٍۢ شَهِيدًۭا فَقُلْنَا هَاتُوا۟ بُرْهَٰنَكُمْ فَعَلِمُوٓا۟ أَنَّ ٱلْحَقَّ لِلَّهِ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 75,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 340,
+                "hizbQuarter": 157,
+                "sajda": false
+            },
+            {
+                "number": 3328,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3328.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3328.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3328.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3328.mp3"
+                ],
+                "text": "۞ إِنَّ قَٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 76,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            },
+            {
+                "number": 3329,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3329.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3329.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3329.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3329.mp3"
+                ],
+                "text": "وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ ۖ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا ۖ وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُفْسِدِينَ",
+                "surah": {
+                    "number": 28,
+                    "name": "سُورَةُ القَصَصِ",
+                    "englishName": "Al-Qasas",
+                    "englishNameTranslation": "The Stories",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 88
+                },
+                "numberInSurah": 77,
+                "juz": 20,
+                "manzil": 5,
+                "page": 394,
+                "ruku": 341,
+                "hizbQuarter": 158,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "28": {
+                "number": 28,
+                "name": "سُورَةُ القَصَصِ",
+                "englishName": "Al-Qasas",
+                "englishNameTranslation": "The Stories",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 88
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 511,
+        "ayahs": [
+            {
+                "number": 4584,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4584.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4584.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4584.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4584.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّا فَتَحْنَا لَكَ فَتْحًۭا مُّبِينًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 1,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4585,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4585.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4585.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4585.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4585.mp3"
+                ],
+                "text": "لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنۢبِكَ وَمَا تَأَخَّرَ وَيُتِمَّ نِعْمَتَهُۥ عَلَيْكَ وَيَهْدِيَكَ صِرَٰطًۭا مُّسْتَقِيمًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 2,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4586,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4586.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4586.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4586.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4586.mp3"
+                ],
+                "text": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 3,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4587,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4587.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4587.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4587.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4587.mp3"
+                ],
+                "text": "هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًۭا مَّعَ إِيمَٰنِهِمْ ۗ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 4,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4588,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4588.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4588.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4588.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4588.mp3"
+                ],
+                "text": "لِّيُدْخِلَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ جَنَّٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَيُكَفِّرَ عَنْهُمْ سَيِّـَٔاتِهِمْ ۚ وَكَانَ ذَٰلِكَ عِندَ ٱللَّهِ فَوْزًا عَظِيمًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 5,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4589,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4589.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4589.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4589.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4589.mp3"
+                ],
+                "text": "وَيُعَذِّبَ ٱلْمُنَٰفِقِينَ وَٱلْمُنَٰفِقَٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوْءِ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۖ وَغَضِبَ ٱللَّهُ عَلَيْهِمْ وَلَعَنَهُمْ وَأَعَدَّ لَهُمْ جَهَنَّمَ ۖ وَسَآءَتْ مَصِيرًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 6,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4590,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4590.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4590.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4590.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4590.mp3"
+                ],
+                "text": "وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 7,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4591,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4591.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4591.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4591.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4591.mp3"
+                ],
+                "text": "إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًۭا وَمُبَشِّرًۭا وَنَذِيرًۭا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 8,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            },
+            {
+                "number": 4592,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4592.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4592.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4592.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4592.mp3"
+                ],
+                "text": "لِّتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتُعَزِّرُوهُ وَتُوَقِّرُوهُ وَتُسَبِّحُوهُ بُكْرَةًۭ وَأَصِيلًا",
+                "surah": {
+                    "number": 48,
+                    "name": "سُورَةُ الفَتۡحِ",
+                    "englishName": "Al-Fath",
+                    "englishNameTranslation": "The Victory",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 29
+                },
+                "numberInSurah": 9,
+                "juz": 26,
+                "manzil": 6,
+                "page": 511,
+                "ruku": 446,
+                "hizbQuarter": 204,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "48": {
+                "number": 48,
+                "name": "سُورَةُ الفَتۡحِ",
+                "englishName": "Al-Fath",
+                "englishNameTranslation": "The Victory",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 29
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

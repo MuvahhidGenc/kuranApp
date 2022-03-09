@@ -1,0 +1,786 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 592,
+        "ayahs": [
+            {
+                "number": 5964,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5964.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5964.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5964.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5964.mp3"
+                ],
+                "text": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5965,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5965.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5965.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5965.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5965.mp3"
+                ],
+                "text": "وَٱلْءَاخِرَةُ خَيْرٌۭ وَأَبْقَىٰٓ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5966,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5966.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5966.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5966.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5966.mp3"
+                ],
+                "text": "إِنَّ هَٰذَا لَفِى ٱلصُّحُفِ ٱلْأُولَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5967,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5967.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5967.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5967.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5967.mp3"
+                ],
+                "text": "صُحُفِ إِبْرَٰهِيمَ وَمُوسَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5968,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5968.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5968.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5968.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5968.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5969,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5969.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5969.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5969.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5969.mp3"
+                ],
+                "text": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5970,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5970.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5970.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5970.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5970.mp3"
+                ],
+                "text": "عَامِلَةٌۭ نَّاصِبَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5971,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5971.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5971.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5971.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5971.mp3"
+                ],
+                "text": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5972,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5972.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5972.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5972.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5972.mp3"
+                ],
+                "text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5973,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5973.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5973.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5973.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5973.mp3"
+                ],
+                "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5974,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5974.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5974.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5974.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5974.mp3"
+                ],
+                "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5975,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5975.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5975.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5975.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5975.mp3"
+                ],
+                "text": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5976,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5976.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5976.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5976.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5976.mp3"
+                ],
+                "text": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5977,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5977.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5977.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5977.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5977.mp3"
+                ],
+                "text": "فِى جَنَّةٍ عَالِيَةٍۢ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5978,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5978.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5978.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5978.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5978.mp3"
+                ],
+                "text": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5979,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5979.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5979.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5979.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5979.mp3"
+                ],
+                "text": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5980,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5980.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5980.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5980.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5980.mp3"
+                ],
+                "text": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5981,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5981.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5981.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5981.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5981.mp3"
+                ],
+                "text": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5982,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5982.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5982.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5982.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5982.mp3"
+                ],
+                "text": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5983,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5983.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5983.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5983.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5983.mp3"
+                ],
+                "text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5984,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5984.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5984.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5984.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5984.mp3"
+                ],
+                "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5985,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5985.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5985.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5985.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5985.mp3"
+                ],
+                "text": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5986,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5986.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5986.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5986.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5986.mp3"
+                ],
+                "text": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5987,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5987.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5987.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5987.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5987.mp3"
+                ],
+                "text": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 20,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5988,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5988.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5988.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5988.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5988.mp3"
+                ],
+                "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 21,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5989,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5989.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5989.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5989.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5989.mp3"
+                ],
+                "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 22,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5990,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5990.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5990.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5990.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5990.mp3"
+                ],
+                "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 23,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5991,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5991.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5991.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5991.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5991.mp3"
+                ],
+                "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 24,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5992,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5992.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5992.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5992.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5992.mp3"
+                ],
+                "text": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 25,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5993,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5993.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5993.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5993.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5993.mp3"
+                ],
+                "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+                "surah": {
+                    "number": 88,
+                    "name": "سُورَةُ الغَاشِيَةِ",
+                    "englishName": "Al-Ghaashiya",
+                    "englishNameTranslation": "The Overwhelming",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 26
+                },
+                "numberInSurah": 26,
+                "juz": 30,
+                "manzil": 7,
+                "page": 592,
+                "ruku": 530,
+                "hizbQuarter": 237,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "87": {
+                "number": 87,
+                "name": "سُورَةُ الأَعۡلَىٰ",
+                "englishName": "Al-A'laa",
+                "englishNameTranslation": "The Most High",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 19
+            },
+            "88": {
+                "number": 88,
+                "name": "سُورَةُ الغَاشِيَةِ",
+                "englishName": "Al-Ghaashiya",
+                "englishNameTranslation": "The Overwhelming",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 26
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

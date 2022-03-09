@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 518,
+        "ayahs": [
+            {
+                "number": 4631,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4631.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4631.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4631.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4631.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قٓ ۚ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 1,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4632,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4632.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4632.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4632.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4632.mp3"
+                ],
+                "text": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌۭ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 2,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4633,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4633.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4633.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4633.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4633.mp3"
+                ],
+                "text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًۭا ۖ ذَٰلِكَ رَجْعٌۢ بَعِيدٌۭ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 3,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4634,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4634.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4634.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4634.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4634.mp3"
+                ],
+                "text": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ ۖ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 4,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4635,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4635.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4635.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4635.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4635.mp3"
+                ],
+                "text": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍۢ مَّرِيجٍ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 5,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4636,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4636.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4636.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4636.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4636.mp3"
+                ],
+                "text": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 6,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4637,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4637.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4637.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4637.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4637.mp3"
+                ],
+                "text": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 7,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4638,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4638.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4638.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4638.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4638.mp3"
+                ],
+                "text": "تَبْصِرَةًۭ وَذِكْرَىٰ لِكُلِّ عَبْدٍۢ مُّنِيبٍۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 8,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4639,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4639.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4639.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4639.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4639.mp3"
+                ],
+                "text": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءًۭ مُّبَٰرَكًۭا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍۢ وَحَبَّ ٱلْحَصِيدِ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 9,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4640,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4640.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4640.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4640.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4640.mp3"
+                ],
+                "text": "وَٱلنَّخْلَ بَاسِقَٰتٍۢ لَّهَا طَلْعٌۭ نَّضِيدٌۭ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 10,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4641,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4641.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4641.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4641.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4641.mp3"
+                ],
+                "text": "رِّزْقًۭا لِّلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِۦ بَلْدَةًۭ مَّيْتًۭا ۚ كَذَٰلِكَ ٱلْخُرُوجُ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 11,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4642,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4642.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4642.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4642.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4642.mp3"
+                ],
+                "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍۢ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 12,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4643,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4643.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4643.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4643.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4643.mp3"
+                ],
+                "text": "وَعَادٌۭ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 13,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4644,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4644.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4644.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4644.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4644.mp3"
+                ],
+                "text": "وَأَصْحَٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍۢ ۚ كُلٌّۭ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 14,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            },
+            {
+                "number": 4645,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4645.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4645.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4645.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4645.mp3"
+                ],
+                "text": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ ۚ بَلْ هُمْ فِى لَبْسٍۢ مِّنْ خَلْقٍۢ جَدِيدٍۢ",
+                "surah": {
+                    "number": 50,
+                    "name": "سُورَةُ قٓ",
+                    "englishName": "Qaaf",
+                    "englishNameTranslation": "The letter Qaaf",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 45
+                },
+                "numberInSurah": 15,
+                "juz": 26,
+                "manzil": 7,
+                "page": 518,
+                "ruku": 452,
+                "hizbQuarter": 207,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "50": {
+                "number": 50,
+                "name": "سُورَةُ قٓ",
+                "englishName": "Qaaf",
+                "englishNameTranslation": "The letter Qaaf",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 45
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

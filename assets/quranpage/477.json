@@ -1,0 +1,303 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 477,
+        "ayahs": [
+            {
+                "number": 4219,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4219.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4219.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4219.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4219.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 1,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4220,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4220.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4220.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4220.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4220.mp3"
+                ],
+                "text": "تَنزِيلٌۭ مِّنَ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 2,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4221,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4221.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4221.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4221.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4221.mp3"
+                ],
+                "text": "كِتَٰبٌۭ فُصِّلَتْ ءَايَٰتُهُۥ قُرْءَانًا عَرَبِيًّۭا لِّقَوْمٍۢ يَعْلَمُونَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 3,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4222,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4222.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4222.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4222.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4222.mp3"
+                ],
+                "text": "بَشِيرًۭا وَنَذِيرًۭا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 4,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4223,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4223.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4223.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4223.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4223.mp3"
+                ],
+                "text": "وَقَالُوا۟ قُلُوبُنَا فِىٓ أَكِنَّةٍۢ مِّمَّا تَدْعُونَآ إِلَيْهِ وَفِىٓ ءَاذَانِنَا وَقْرٌۭ وَمِنۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌۭ فَٱعْمَلْ إِنَّنَا عَٰمِلُونَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 5,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4224,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4224.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4224.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4224.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4224.mp3"
+                ],
+                "text": "قُلْ إِنَّمَآ أَنَا۠ بَشَرٌۭ مِّثْلُكُمْ يُوحَىٰٓ إِلَىَّ أَنَّمَآ إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ فَٱسْتَقِيمُوٓا۟ إِلَيْهِ وَٱسْتَغْفِرُوهُ ۗ وَوَيْلٌۭ لِّلْمُشْرِكِينَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 6,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4225,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4225.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4225.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4225.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4225.mp3"
+                ],
+                "text": "ٱلَّذِينَ لَا يُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 7,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4226,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4226.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4226.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4226.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4226.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍۢ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 8,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 413,
+                "hizbQuarter": 190,
+                "sajda": false
+            },
+            {
+                "number": 4227,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4227.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4227.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4227.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4227.mp3"
+                ],
+                "text": "۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ أَندَادًۭا ۚ ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 9,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 414,
+                "hizbQuarter": 191,
+                "sajda": false
+            },
+            {
+                "number": 4228,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4228.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4228.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4228.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4228.mp3"
+                ],
+                "text": "وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ أَيَّامٍۢ سَوَآءًۭ لِّلسَّآئِلِينَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 10,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 414,
+                "hizbQuarter": 191,
+                "sajda": false
+            },
+            {
+                "number": 4229,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4229.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4229.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4229.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4229.mp3"
+                ],
+                "text": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌۭ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًۭا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+                "surah": {
+                    "number": 41,
+                    "name": "سُورَةُ فُصِّلَتۡ",
+                    "englishName": "Fussilat",
+                    "englishNameTranslation": "Explained in detail",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 11,
+                "juz": 24,
+                "manzil": 6,
+                "page": 477,
+                "ruku": 414,
+                "hizbQuarter": 191,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "41": {
+                "number": 41,
+                "name": "سُورَةُ فُصِّلَتۡ",
+                "englishName": "Fussilat",
+                "englishNameTranslation": "Explained in detail",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 54
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,736 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 568,
+        "ayahs": [
+            {
+                "number": 5358,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5358.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5358.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5358.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5358.mp3"
+                ],
+                "text": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَٰهُنَا حَمِيمٌۭ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 35,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 500,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5359,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5359.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5359.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5359.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5359.mp3"
+                ],
+                "text": "وَلَا طَعَامٌ إِلَّا مِنْ غِسْلِينٍۢ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 36,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 500,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5360,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5360.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5360.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5360.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5360.mp3"
+                ],
+                "text": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَٰطِـُٔونَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 37,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 500,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5361,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5361.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5361.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5361.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5361.mp3"
+                ],
+                "text": "فَلَآ أُقْسِمُ بِمَا تُبْصِرُونَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 38,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5362,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5362.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5362.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5362.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5362.mp3"
+                ],
+                "text": "وَمَا لَا تُبْصِرُونَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 39,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5363,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5363.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5363.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5363.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5363.mp3"
+                ],
+                "text": "إِنَّهُۥ لَقَوْلُ رَسُولٍۢ كَرِيمٍۢ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 40,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5364,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5364.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5364.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5364.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5364.mp3"
+                ],
+                "text": "وَمَا هُوَ بِقَوْلِ شَاعِرٍۢ ۚ قَلِيلًۭا مَّا تُؤْمِنُونَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 41,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5365,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5365.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5365.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5365.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5365.mp3"
+                ],
+                "text": "وَلَا بِقَوْلِ كَاهِنٍۢ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 42,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5366,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5366.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5366.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5366.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5366.mp3"
+                ],
+                "text": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 43,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5367,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5367.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5367.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5367.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5367.mp3"
+                ],
+                "text": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ ٱلْأَقَاوِيلِ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 44,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5368,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5368.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5368.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5368.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5368.mp3"
+                ],
+                "text": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 45,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5369,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5369.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5369.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5369.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5369.mp3"
+                ],
+                "text": "ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 46,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5370,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5370.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5370.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5370.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5370.mp3"
+                ],
+                "text": "فَمَا مِنكُم مِّنْ أَحَدٍ عَنْهُ حَٰجِزِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 47,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5371,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5371.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5371.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5371.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5371.mp3"
+                ],
+                "text": "وَإِنَّهُۥ لَتَذْكِرَةٌۭ لِّلْمُتَّقِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 48,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5372,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5372.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5372.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5372.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5372.mp3"
+                ],
+                "text": "وَإِنَّا لَنَعْلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 49,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5373,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5373.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5373.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5373.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5373.mp3"
+                ],
+                "text": "وَإِنَّهُۥ لَحَسْرَةٌ عَلَى ٱلْكَٰفِرِينَ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 50,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5374,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5374.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5374.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5374.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5374.mp3"
+                ],
+                "text": "وَإِنَّهُۥ لَحَقُّ ٱلْيَقِينِ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 51,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5375,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5375.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5375.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5375.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5375.mp3"
+                ],
+                "text": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+                "surah": {
+                    "number": 69,
+                    "name": "سُورَةُ الحَاقَّةِ",
+                    "englishName": "Al-Haaqqa",
+                    "englishNameTranslation": "The Reality",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 52
+                },
+                "numberInSurah": 52,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 501,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5376,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5376.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5376.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5376.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5376.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَأَلَ سَآئِلٌۢ بِعَذَابٍۢ وَاقِعٍۢ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 1,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5377,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5377.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5377.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5377.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5377.mp3"
+                ],
+                "text": "لِّلْكَٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌۭ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 2,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5378,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5378.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5378.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5378.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5378.mp3"
+                ],
+                "text": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 3,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5379,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5379.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5379.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5379.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5379.mp3"
+                ],
+                "text": "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍۢ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍۢ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 4,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5380,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5380.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5380.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5380.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5380.mp3"
+                ],
+                "text": "فَٱصْبِرْ صَبْرًۭا جَمِيلًا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 5,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5381,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5381.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5381.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5381.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5381.mp3"
+                ],
+                "text": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًۭا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 6,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5382,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5382.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5382.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5382.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5382.mp3"
+                ],
+                "text": "وَنَرَىٰهُ قَرِيبًۭا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 7,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5383,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5383.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5383.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5383.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5383.mp3"
+                ],
+                "text": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 8,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5384,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5384.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5384.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5384.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5384.mp3"
+                ],
+                "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 9,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            },
+            {
+                "number": 5385,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5385.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5385.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5385.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5385.mp3"
+                ],
+                "text": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًۭا",
+                "surah": {
+                    "number": 70,
+                    "name": "سُورَةُ المَعَارِجِ",
+                    "englishName": "Al-Ma'aarij",
+                    "englishNameTranslation": "The Ascending Stairways",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 44
+                },
+                "numberInSurah": 10,
+                "juz": 29,
+                "manzil": 7,
+                "page": 568,
+                "ruku": 502,
+                "hizbQuarter": 227,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "69": {
+                "number": 69,
+                "name": "سُورَةُ الحَاقَّةِ",
+                "englishName": "Al-Haaqqa",
+                "englishNameTranslation": "The Reality",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 52
+            },
+            "70": {
+                "number": 70,
+                "name": "سُورَةُ المَعَارِجِ",
+                "englishName": "Al-Ma'aarij",
+                "englishNameTranslation": "The Ascending Stairways",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 44
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

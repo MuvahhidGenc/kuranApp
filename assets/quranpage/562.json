@@ -1,0 +1,328 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 562,
+        "ayahs": [
+            {
+                "number": 5242,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5242.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5242.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5242.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5242.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍۢ قَدِيرٌ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 1,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5243,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5243.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5243.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5243.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5243.mp3"
+                ],
+                "text": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًۭا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 2,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5244,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5244.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5244.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5244.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5244.mp3"
+                ],
+                "text": "ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍۢ طِبَاقًۭا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَٰنِ مِن تَفَٰوُتٍۢ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍۢ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 3,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5245,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5245.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5245.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5245.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5245.mp3"
+                ],
+                "text": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًۭا وَهُوَ حَسِيرٌۭ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 4,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5246,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5246.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5246.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5246.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5246.mp3"
+                ],
+                "text": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًۭا لِّلشَّيَٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 5,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5247,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5247.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5247.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5247.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5247.mp3"
+                ],
+                "text": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 6,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5248,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5248.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5248.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5248.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5248.mp3"
+                ],
+                "text": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًۭا وَهِىَ تَفُورُ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 7,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5249,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5249.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5249.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5249.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5249.mp3"
+                ],
+                "text": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌۭ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌۭ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 8,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5250,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5250.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5250.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5250.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5250.mp3"
+                ],
+                "text": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌۭ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَٰلٍۢ كَبِيرٍۢ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 9,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5251,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5251.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5251.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5251.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5251.mp3"
+                ],
+                "text": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَٰبِ ٱلسَّعِيرِ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 10,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5252,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5252.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5252.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5252.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5252.mp3"
+                ],
+                "text": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًۭا لِّأَصْحَٰبِ ٱلسَّعِيرِ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 11,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            },
+            {
+                "number": 5253,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5253.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5253.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5253.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5253.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌۭ وَأَجْرٌۭ كَبِيرٌۭ",
+                "surah": {
+                    "number": 67,
+                    "name": "سُورَةُ المُلۡكِ",
+                    "englishName": "Al-Mulk",
+                    "englishNameTranslation": "The Sovereignty",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 12,
+                "juz": 29,
+                "manzil": 7,
+                "page": 562,
+                "ruku": 496,
+                "hizbQuarter": 225,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "67": {
+                "number": 67,
+                "name": "سُورَةُ المُلۡكِ",
+                "englishName": "Al-Mulk",
+                "englishNameTranslation": "The Sovereignty",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 30
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

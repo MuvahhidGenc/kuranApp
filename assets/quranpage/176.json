@@ -1,0 +1,307 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 176,
+        "ayahs": [
+            {
+                "number": 1150,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1150.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1150.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1150.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1150.mp3"
+                ],
+                "text": "إِنَّ وَلِۦِّىَ ٱللَّهُ ٱلَّذِى نَزَّلَ ٱلْكِتَٰبَ ۖ وَهُوَ يَتَوَلَّى ٱلصَّٰلِحِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 196,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1151,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1151.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1151.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1151.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1151.mp3"
+                ],
+                "text": "وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 197,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1152,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1152.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1152.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1152.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1152.mp3"
+                ],
+                "text": "وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ ۖ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 198,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1153,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1153.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1153.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1153.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1153.mp3"
+                ],
+                "text": "خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَٰهِلِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 199,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1154,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1154.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1154.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1154.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1154.mp3"
+                ],
+                "text": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌۭ فَٱسْتَعِذْ بِٱللَّهِ ۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 200,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1155,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1155.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1155.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1155.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1155.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ ٱتَّقَوْا۟ إِذَا مَسَّهُمْ طَٰٓئِفٌۭ مِّنَ ٱلشَّيْطَٰنِ تَذَكَّرُوا۟ فَإِذَا هُم مُّبْصِرُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 201,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1156,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1156.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1156.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1156.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1156.mp3"
+                ],
+                "text": "وَإِخْوَٰنُهُمْ يَمُدُّونَهُمْ فِى ٱلْغَىِّ ثُمَّ لَا يُقْصِرُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 202,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1157,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1157.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1157.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1157.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1157.mp3"
+                ],
+                "text": "وَإِذَا لَمْ تَأْتِهِم بِـَٔايَةٍۢ قَالُوا۟ لَوْلَا ٱجْتَبَيْتَهَا ۚ قُلْ إِنَّمَآ أَتَّبِعُ مَا يُوحَىٰٓ إِلَىَّ مِن رَّبِّى ۚ هَٰذَا بَصَآئِرُ مِن رَّبِّكُمْ وَهُدًۭى وَرَحْمَةٌۭ لِّقَوْمٍۢ يُؤْمِنُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 203,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1158,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1158.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1158.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1158.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1158.mp3"
+                ],
+                "text": "وَإِذَا قُرِئَ ٱلْقُرْءَانُ فَٱسْتَمِعُوا۟ لَهُۥ وَأَنصِتُوا۟ لَعَلَّكُمْ تُرْحَمُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 204,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1159,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1159.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1159.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1159.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1159.mp3"
+                ],
+                "text": "وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًۭا وَخِيفَةًۭ وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 205,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": false
+            },
+            {
+                "number": 1160,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1160.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1160.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1160.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1160.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسْجُدُونَ ۩",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 206,
+                "juz": 9,
+                "manzil": 2,
+                "page": 176,
+                "ruku": 145,
+                "hizbQuarter": 70,
+                "sajda": {
+                    "id": 1,
+                    "recommended": true,
+                    "obligatory": false
+                }
+            }
+        ],
+        "surahs": {
+            "7": {
+                "number": 7,
+                "name": "سُورَةُ الأَعۡرَافِ",
+                "englishName": "Al-A'raaf",
+                "englishNameTranslation": "The Heights",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 206
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

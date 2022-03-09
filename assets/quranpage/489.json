@@ -1,0 +1,336 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 489,
+        "ayahs": [
+            {
+                "number": 4324,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4324.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4324.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4324.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4324.mp3"
+                ],
+                "text": "وَكَذَٰلِكَ أَوْحَيْنَآ إِلَيْكَ رُوحًۭا مِّنْ أَمْرِنَا ۚ مَا كُنتَ تَدْرِى مَا ٱلْكِتَٰبُ وَلَا ٱلْإِيمَٰنُ وَلَٰكِن جَعَلْنَٰهُ نُورًۭا نَّهْدِى بِهِۦ مَن نَّشَآءُ مِنْ عِبَادِنَا ۚ وَإِنَّكَ لَتَهْدِىٓ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 52,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 423,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4325,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4325.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4325.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4325.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4325.mp3"
+                ],
+                "text": "صِرَٰطِ ٱللَّهِ ٱلَّذِى لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلْأُمُورُ",
+                "surah": {
+                    "number": 42,
+                    "name": "سُورَةُ الشُّورَىٰ",
+                    "englishName": "Ash-Shura",
+                    "englishNameTranslation": "Consultation",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 53
+                },
+                "numberInSurah": 53,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 423,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4326,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4326.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4326.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4326.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4326.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 1,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4327,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4327.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4327.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4327.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4327.mp3"
+                ],
+                "text": "وَٱلْكِتَٰبِ ٱلْمُبِينِ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 2,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4328,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4328.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4328.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4328.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4328.mp3"
+                ],
+                "text": "إِنَّا جَعَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّۭا لَّعَلَّكُمْ تَعْقِلُونَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 3,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4329,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4329.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4329.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4329.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4329.mp3"
+                ],
+                "text": "وَإِنَّهُۥ فِىٓ أُمِّ ٱلْكِتَٰبِ لَدَيْنَا لَعَلِىٌّ حَكِيمٌ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 4,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4330,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4330.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4330.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4330.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4330.mp3"
+                ],
+                "text": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحًا أَن كُنتُمْ قَوْمًۭا مُّسْرِفِينَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 5,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4331,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4331.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4331.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4331.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4331.mp3"
+                ],
+                "text": "وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّۢ فِى ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 6,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4332,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4332.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4332.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4332.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4332.mp3"
+                ],
+                "text": "وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 7,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4333,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4333.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4333.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4333.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4333.mp3"
+                ],
+                "text": "فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًۭا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 8,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4334,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4334.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4334.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4334.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4334.mp3"
+                ],
+                "text": "وَلَئِن سَأَلْتَهُم مَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلْعَزِيزُ ٱلْعَلِيمُ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 9,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            },
+            {
+                "number": 4335,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4335.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4335.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4335.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4335.mp3"
+                ],
+                "text": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ مَهْدًۭا وَجَعَلَ لَكُمْ فِيهَا سُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ",
+                "surah": {
+                    "number": 43,
+                    "name": "سُورَةُ الزُّخۡرُفِ",
+                    "englishName": "Az-Zukhruf",
+                    "englishNameTranslation": "Ornaments of gold",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 89
+                },
+                "numberInSurah": 10,
+                "juz": 25,
+                "manzil": 6,
+                "page": 489,
+                "ruku": 424,
+                "hizbQuarter": 196,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "42": {
+                "number": 42,
+                "name": "سُورَةُ الشُّورَىٰ",
+                "englishName": "Ash-Shura",
+                "englishNameTranslation": "Consultation",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 53
+            },
+            "43": {
+                "number": 43,
+                "name": "سُورَةُ الزُّخۡرُفِ",
+                "englishName": "Az-Zukhruf",
+                "englishNameTranslation": "Ornaments of gold",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 89
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

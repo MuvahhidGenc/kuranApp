@@ -1,0 +1,353 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 301,
+        "ayahs": [
+            {
+                "number": 2202,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2202.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2202.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2202.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2202.mp3"
+                ],
+                "text": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 62,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2203,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2203.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2203.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2203.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2203.mp3"
+                ],
+                "text": "قَالَ أَرَءَيْتَ إِذْ أَوَيْنَآ إِلَى ٱلصَّخْرَةِ فَإِنِّى نَسِيتُ ٱلْحُوتَ وَمَآ أَنسَىٰنِيهُ إِلَّا ٱلشَّيْطَٰنُ أَنْ أَذْكُرَهُۥ ۚ وَٱتَّخَذَ سَبِيلَهُۥ فِى ٱلْبَحْرِ عَجَبًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 63,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2204,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2204.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2204.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2204.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2204.mp3"
+                ],
+                "text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ ۚ فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 64,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2205,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2205.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2205.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2205.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2205.mp3"
+                ],
+                "text": "فَوَجَدَا عَبْدًۭا مِّنْ عِبَادِنَآ ءَاتَيْنَٰهُ رَحْمَةًۭ مِّنْ عِندِنَا وَعَلَّمْنَٰهُ مِن لَّدُنَّا عِلْمًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 65,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2206,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2206.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2206.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2206.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2206.mp3"
+                ],
+                "text": "قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 66,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2207,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2207.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2207.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2207.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2207.mp3"
+                ],
+                "text": "قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 67,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2208,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2208.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2208.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2208.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2208.mp3"
+                ],
+                "text": "وَكَيْفَ تَصْبِرُ عَلَىٰ مَا لَمْ تُحِطْ بِهِۦ خُبْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 68,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2209,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2209.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2209.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2209.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2209.mp3"
+                ],
+                "text": "قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًۭا وَلَآ أَعْصِى لَكَ أَمْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 69,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2210,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2210.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2210.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2210.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2210.mp3"
+                ],
+                "text": "قَالَ فَإِنِ ٱتَّبَعْتَنِى فَلَا تَسْـَٔلْنِى عَن شَىْءٍ حَتَّىٰٓ أُحْدِثَ لَكَ مِنْهُ ذِكْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 70,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 260,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2211,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2211.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2211.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2211.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2211.mp3"
+                ],
+                "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِى ٱلسَّفِينَةِ خَرَقَهَا ۖ قَالَ أَخَرَقْتَهَا لِتُغْرِقَ أَهْلَهَا لَقَدْ جِئْتَ شَيْـًٔا إِمْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 71,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 261,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2212,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2212.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2212.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2212.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2212.mp3"
+                ],
+                "text": "قَالَ أَلَمْ أَقُلْ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 72,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 261,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2213,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2213.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2213.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2213.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2213.mp3"
+                ],
+                "text": "قَالَ لَا تُؤَاخِذْنِى بِمَا نَسِيتُ وَلَا تُرْهِقْنِى مِنْ أَمْرِى عُسْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 73,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 261,
+                "hizbQuarter": 120,
+                "sajda": false
+            },
+            {
+                "number": 2214,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2214.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2214.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2214.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2214.mp3"
+                ],
+                "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا لَقِيَا غُلَٰمًۭا فَقَتَلَهُۥ قَالَ أَقَتَلْتَ نَفْسًۭا زَكِيَّةًۢ بِغَيْرِ نَفْسٍۢ لَّقَدْ جِئْتَ شَيْـًۭٔا نُّكْرًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 74,
+                "juz": 15,
+                "manzil": 4,
+                "page": 301,
+                "ruku": 261,
+                "hizbQuarter": 120,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "18": {
+                "number": 18,
+                "name": "سُورَةُ الكَهۡفِ",
+                "englishName": "Al-Kahf",
+                "englishNameTranslation": "The Cave",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 110
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

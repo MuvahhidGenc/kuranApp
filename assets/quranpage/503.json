@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 503,
+        "ayahs": [
+            {
+                "number": 4516,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4516.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4516.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4516.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4516.mp3"
+                ],
+                "text": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءًۭ وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 6,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4517,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4517.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4517.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4517.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4517.mp3"
+                ],
+                "text": "وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا بَيِّنَٰتٍۢ قَالَ ٱلَّذِينَ كَفَرُوا۟ لِلْحَقِّ لَمَّا جَآءَهُمْ هَٰذَا سِحْرٌۭ مُّبِينٌ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 7,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4518,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4518.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4518.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4518.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4518.mp3"
+                ],
+                "text": "أَمْ يَقُولُونَ ٱفْتَرَىٰهُ ۖ قُلْ إِنِ ٱفْتَرَيْتُهُۥ فَلَا تَمْلِكُونَ لِى مِنَ ٱللَّهِ شَيْـًٔا ۖ هُوَ أَعْلَمُ بِمَا تُفِيضُونَ فِيهِ ۖ كَفَىٰ بِهِۦ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ ۖ وَهُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 8,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4519,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4519.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4519.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4519.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4519.mp3"
+                ],
+                "text": "قُلْ مَا كُنتُ بِدْعًۭا مِّنَ ٱلرُّسُلِ وَمَآ أَدْرِى مَا يُفْعَلُ بِى وَلَا بِكُمْ ۖ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٌۭ مُّبِينٌۭ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 9,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4520,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4520.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4520.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4520.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4520.mp3"
+                ],
+                "text": "قُلْ أَرَءَيْتُمْ إِن كَانَ مِنْ عِندِ ٱللَّهِ وَكَفَرْتُم بِهِۦ وَشَهِدَ شَاهِدٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ مِثْلِهِۦ فَـَٔامَنَ وَٱسْتَكْبَرْتُمْ ۖ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 10,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4521,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4521.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4521.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4521.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4521.mp3"
+                ],
+                "text": "وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ لَوْ كَانَ خَيْرًۭا مَّا سَبَقُونَآ إِلَيْهِ ۚ وَإِذْ لَمْ يَهْتَدُوا۟ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفْكٌۭ قَدِيمٌۭ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 11,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 439,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4522,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4522.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4522.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4522.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4522.mp3"
+                ],
+                "text": "وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًۭا وَرَحْمَةًۭ ۚ وَهَٰذَا كِتَٰبٌۭ مُّصَدِّقٌۭ لِّسَانًا عَرَبِيًّۭا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 12,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 439,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4523,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4523.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4523.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4523.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4523.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ قَالُوا۟ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَٰمُوا۟ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 13,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 439,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4524,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4524.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4524.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4524.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4524.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 14,
+                "juz": 26,
+                "manzil": 6,
+                "page": 503,
+                "ruku": 439,
+                "hizbQuarter": 201,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "46": {
+                "number": 46,
+                "name": "سُورَةُ الأَحۡقَافِ",
+                "englishName": "Al-Ahqaf",
+                "englishNameTranslation": "The Dunes",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 35
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 2,
+        "ayahs": [
+            {
+                "number": 8,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/8.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/8.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/8.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/8.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ الٓمٓ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 1,
+                "juz": 1,
+                "manzil": 1,
+                "page": 2,
+                "ruku": 2,
+                "hizbQuarter": 1,
+                "sajda": false
+            },
+            {
+                "number": 9,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/9.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/9.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/9.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/9.mp3"
+                ],
+                "text": "ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 2,
+                "juz": 1,
+                "manzil": 1,
+                "page": 2,
+                "ruku": 2,
+                "hizbQuarter": 1,
+                "sajda": false
+            },
+            {
+                "number": 10,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/10.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/10.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/10.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/10.mp3"
+                ],
+                "text": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 3,
+                "juz": 1,
+                "manzil": 1,
+                "page": 2,
+                "ruku": 2,
+                "hizbQuarter": 1,
+                "sajda": false
+            },
+            {
+                "number": 11,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/11.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/11.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/11.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/11.mp3"
+                ],
+                "text": "وَٱلَّذِينَ يُؤْمِنُونَ بِمَآ أُنزِلَ إِلَيْكَ وَمَآ أُنزِلَ مِن قَبْلِكَ وَبِٱلْءَاخِرَةِ هُمْ يُوقِنُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 4,
+                "juz": 1,
+                "manzil": 1,
+                "page": 2,
+                "ruku": 2,
+                "hizbQuarter": 1,
+                "sajda": false
+            },
+            {
+                "number": 12,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/12.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/12.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/12.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/12.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ عَلَىٰ هُدًۭى مِّن رَّبِّهِمْ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+                "surah": {
+                    "number": 2,
+                    "name": "سُورَةُ البَقَرَةِ",
+                    "englishName": "Al-Baqara",
+                    "englishNameTranslation": "The Cow",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 286
+                },
+                "numberInSurah": 5,
+                "juz": 1,
+                "manzil": 1,
+                "page": 2,
+                "ruku": 2,
+                "hizbQuarter": 1,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "2": {
+                "number": 2,
+                "name": "سُورَةُ البَقَرَةِ",
+                "englishName": "Al-Baqara",
+                "englishNameTranslation": "The Cow",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 286
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

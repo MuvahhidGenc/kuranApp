@@ -1,0 +1,711 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 594,
+        "ayahs": [
+            {
+                "number": 6017,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6017.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6017.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6017.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6017.mp3"
+                ],
+                "text": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 24,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6018,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6018.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6018.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6018.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6018.mp3"
+                ],
+                "text": "فَيَوْمَئِذٍۢ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌۭ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 25,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6019,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6019.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6019.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6019.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6019.mp3"
+                ],
+                "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌۭ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 26,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6020,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6020.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6020.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6020.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6020.mp3"
+                ],
+                "text": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 27,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6021,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6021.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6021.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6021.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6021.mp3"
+                ],
+                "text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةًۭ مَّرْضِيَّةًۭ",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 28,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6022,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6022.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6022.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6022.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6022.mp3"
+                ],
+                "text": "فَٱدْخُلِى فِى عِبَٰدِى",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 29,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6023,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6023.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6023.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6023.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6023.mp3"
+                ],
+                "text": "وَٱدْخُلِى جَنَّتِى",
+                "surah": {
+                    "number": 89,
+                    "name": "سُورَةُ الفَجۡرِ",
+                    "englishName": "Al-Fajr",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 30
+                },
+                "numberInSurah": 30,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 531,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 6024,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6024.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6024.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6024.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6024.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6025,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6025.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6025.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6025.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6025.mp3"
+                ],
+                "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6026,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6026.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6026.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6026.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6026.mp3"
+                ],
+                "text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6027,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6027.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6027.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6027.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6027.mp3"
+                ],
+                "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6028,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6028.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6028.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6028.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6028.mp3"
+                ],
+                "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6029,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6029.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6029.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6029.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6029.mp3"
+                ],
+                "text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6030,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6030.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6030.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6030.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6030.mp3"
+                ],
+                "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6031,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6031.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6031.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6031.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6031.mp3"
+                ],
+                "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6032,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6032.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6032.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6032.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6032.mp3"
+                ],
+                "text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6033,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6033.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6033.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6033.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6033.mp3"
+                ],
+                "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6034,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6034.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6034.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6034.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6034.mp3"
+                ],
+                "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6035,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6035.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6035.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6035.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6035.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6036,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6036.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6036.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6036.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6036.mp3"
+                ],
+                "text": "فَكُّ رَقَبَةٍ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6037,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6037.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6037.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6037.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6037.mp3"
+                ],
+                "text": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6038,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6038.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6038.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6038.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6038.mp3"
+                ],
+                "text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6039,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6039.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6039.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6039.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6039.mp3"
+                ],
+                "text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6040,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6040.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6040.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6040.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6040.mp3"
+                ],
+                "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6041,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6041.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6041.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6041.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6041.mp3"
+                ],
+                "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 18,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6042,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6042.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6042.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6042.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6042.mp3"
+                ],
+                "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 19,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            },
+            {
+                "number": 6043,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6043.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6043.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6043.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6043.mp3"
+                ],
+                "text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+                "surah": {
+                    "number": 90,
+                    "name": "سُورَةُ البَلَدِ",
+                    "englishName": "Al-Balad",
+                    "englishNameTranslation": "The City",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 20
+                },
+                "numberInSurah": 20,
+                "juz": 30,
+                "manzil": 7,
+                "page": 594,
+                "ruku": 532,
+                "hizbQuarter": 238,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "89": {
+                "number": 89,
+                "name": "سُورَةُ الفَجۡرِ",
+                "englishName": "Al-Fajr",
+                "englishNameTranslation": "The Dawn",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 30
+            },
+            "90": {
+                "number": 90,
+                "name": "سُورَةُ البَلَدِ",
+                "englishName": "Al-Balad",
+                "englishNameTranslation": "The City",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 20
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

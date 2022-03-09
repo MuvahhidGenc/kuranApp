@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 168,
+        "ayahs": [
+            {
+                "number": 1098,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1098.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1098.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1098.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1098.mp3"
+                ],
+                "text": "قَالَ يَٰمُوسَىٰٓ إِنِّى ٱصْطَفَيْتُكَ عَلَى ٱلنَّاسِ بِرِسَٰلَٰتِى وَبِكَلَٰمِى فَخُذْ مَآ ءَاتَيْتُكَ وَكُن مِّنَ ٱلشَّٰكِرِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 144,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 138,
+                "hizbQuarter": 67,
+                "sajda": false
+            },
+            {
+                "number": 1099,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1099.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1099.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1099.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1099.mp3"
+                ],
+                "text": "وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍۢ مَّوْعِظَةًۭ وَتَفْصِيلًۭا لِّكُلِّ شَىْءٍۢ فَخُذْهَا بِقُوَّةٍۢ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا ۚ سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 145,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 138,
+                "hizbQuarter": 67,
+                "sajda": false
+            },
+            {
+                "number": 1100,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1100.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1100.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1100.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1100.mp3"
+                ],
+                "text": "سَأَصْرِفُ عَنْ ءَايَٰتِىَ ٱلَّذِينَ يَتَكَبَّرُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَإِن يَرَوْا۟ كُلَّ ءَايَةٍۢ لَّا يُؤْمِنُوا۟ بِهَا وَإِن يَرَوْا۟ سَبِيلَ ٱلرُّشْدِ لَا يَتَّخِذُوهُ سَبِيلًۭا وَإِن يَرَوْا۟ سَبِيلَ ٱلْغَىِّ يَتَّخِذُوهُ سَبِيلًۭا ۚ ذَٰلِكَ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟ عَنْهَا غَٰفِلِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 146,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 138,
+                "hizbQuarter": 67,
+                "sajda": false
+            },
+            {
+                "number": 1101,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1101.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1101.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1101.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1101.mp3"
+                ],
+                "text": "وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلْءَاخِرَةِ حَبِطَتْ أَعْمَٰلُهُمْ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 147,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 138,
+                "hizbQuarter": 67,
+                "sajda": false
+            },
+            {
+                "number": 1102,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1102.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1102.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1102.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1102.mp3"
+                ],
+                "text": "وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًۭا جَسَدًۭا لَّهُۥ خُوَارٌ ۚ أَلَمْ يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ۘ ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 148,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 139,
+                "hizbQuarter": 67,
+                "sajda": false
+            },
+            {
+                "number": 1103,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1103.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1103.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1103.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1103.mp3"
+                ],
+                "text": "وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ قَالُوا۟ لَئِن لَّمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ",
+                "surah": {
+                    "number": 7,
+                    "name": "سُورَةُ الأَعۡرَافِ",
+                    "englishName": "Al-A'raaf",
+                    "englishNameTranslation": "The Heights",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 206
+                },
+                "numberInSurah": 149,
+                "juz": 9,
+                "manzil": 2,
+                "page": 168,
+                "ruku": 139,
+                "hizbQuarter": 67,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "7": {
+                "number": 7,
+                "name": "سُورَةُ الأَعۡرَافِ",
+                "englishName": "Al-A'raaf",
+                "englishNameTranslation": "The Heights",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 206
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

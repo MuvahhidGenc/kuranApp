@@ -1,0 +1,836 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 591,
+        "ayahs": [
+            {
+                "number": 5932,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5932.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5932.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5932.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5932.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5933,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5933.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5933.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5933.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5933.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5934,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5934.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5934.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5934.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5934.mp3"
+                ],
+                "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5935,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5935.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5935.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5935.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5935.mp3"
+                ],
+                "text": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5936,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5936.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5936.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5936.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5936.mp3"
+                ],
+                "text": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5937,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5937.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5937.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5937.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5937.mp3"
+                ],
+                "text": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5938,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5938.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5938.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5938.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5938.mp3"
+                ],
+                "text": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5939,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5939.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5939.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5939.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5939.mp3"
+                ],
+                "text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5940,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5940.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5940.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5940.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5940.mp3"
+                ],
+                "text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5941,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5941.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5941.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5941.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5941.mp3"
+                ],
+                "text": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5942,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5942.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5942.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5942.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5942.mp3"
+                ],
+                "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5943,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5943.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5943.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5943.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5943.mp3"
+                ],
+                "text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5944,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5944.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5944.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5944.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5944.mp3"
+                ],
+                "text": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5945,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5945.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5945.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5945.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5945.mp3"
+                ],
+                "text": "وَمَا هُوَ بِٱلْهَزْلِ",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5946,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5946.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5946.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5946.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5946.mp3"
+                ],
+                "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5947,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5947.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5947.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5947.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5947.mp3"
+                ],
+                "text": "وَأَكِيدُ كَيْدًۭا",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 16,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5948,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5948.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5948.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5948.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5948.mp3"
+                ],
+                "text": "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+                "surah": {
+                    "number": 86,
+                    "name": "سُورَةُ الطَّارِقِ",
+                    "englishName": "At-Taariq",
+                    "englishNameTranslation": "The Morning Star",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 17
+                },
+                "numberInSurah": 17,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 528,
+                "hizbQuarter": 236,
+                "sajda": false
+            },
+            {
+                "number": 5949,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5949.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5949.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5949.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5949.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5950,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5950.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5950.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5950.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5950.mp3"
+                ],
+                "text": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5951,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5951.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5951.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5951.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5951.mp3"
+                ],
+                "text": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5952,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5952.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5952.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5952.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5952.mp3"
+                ],
+                "text": "وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5953,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5953.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5953.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5953.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5953.mp3"
+                ],
+                "text": "فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5954,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5954.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5954.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5954.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5954.mp3"
+                ],
+                "text": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5955,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5955.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5955.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5955.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5955.mp3"
+                ],
+                "text": "إِلَّا مَا شَآءَ ٱللَّهُ ۚ إِنَّهُۥ يَعْلَمُ ٱلْجَهْرَ وَمَا يَخْفَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5956,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5956.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5956.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5956.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5956.mp3"
+                ],
+                "text": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5957,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5957.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5957.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5957.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5957.mp3"
+                ],
+                "text": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5958,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5958.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5958.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5958.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5958.mp3"
+                ],
+                "text": "سَيَذَّكَّرُ مَن يَخْشَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 10,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5959,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5959.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5959.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5959.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5959.mp3"
+                ],
+                "text": "وَيَتَجَنَّبُهَا ٱلْأَشْقَى",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 11,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5960,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5960.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5960.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5960.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5960.mp3"
+                ],
+                "text": "ٱلَّذِى يَصْلَى ٱلنَّارَ ٱلْكُبْرَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 12,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5961,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5961.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5961.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5961.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5961.mp3"
+                ],
+                "text": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 13,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5962,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5962.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5962.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5962.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5962.mp3"
+                ],
+                "text": "قَدْ أَفْلَحَ مَن تَزَكَّىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 14,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            },
+            {
+                "number": 5963,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5963.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5963.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5963.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5963.mp3"
+                ],
+                "text": "وَذَكَرَ ٱسْمَ رَبِّهِۦ فَصَلَّىٰ",
+                "surah": {
+                    "number": 87,
+                    "name": "سُورَةُ الأَعۡلَىٰ",
+                    "englishName": "Al-A'laa",
+                    "englishNameTranslation": "The Most High",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 19
+                },
+                "numberInSurah": 15,
+                "juz": 30,
+                "manzil": 7,
+                "page": 591,
+                "ruku": 529,
+                "hizbQuarter": 237,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "86": {
+                "number": 86,
+                "name": "سُورَةُ الطَّارِقِ",
+                "englishName": "At-Taariq",
+                "englishNameTranslation": "The Morning Star",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 17
+            },
+            "87": {
+                "number": 87,
+                "name": "سُورَةُ الأَعۡلَىٰ",
+                "englishName": "Al-A'laa",
+                "englishNameTranslation": "The Most High",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 19
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

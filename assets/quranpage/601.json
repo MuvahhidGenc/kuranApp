@@ -1,0 +1,469 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 601,
+        "ayahs": [
+            {
+                "number": 6177,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6177.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6177.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6177.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6177.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+                "surah": {
+                    "number": 103,
+                    "name": "سُورَةُ العَصۡرِ",
+                    "englishName": "Al-Asr",
+                    "englishNameTranslation": "The Declining Day, Epoch",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 3
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 545,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6178,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6178.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6178.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6178.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6178.mp3"
+                ],
+                "text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+                "surah": {
+                    "number": 103,
+                    "name": "سُورَةُ العَصۡرِ",
+                    "englishName": "Al-Asr",
+                    "englishNameTranslation": "The Declining Day, Epoch",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 3
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 545,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6179,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6179.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6179.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6179.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6179.mp3"
+                ],
+                "text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+                "surah": {
+                    "number": 103,
+                    "name": "سُورَةُ العَصۡرِ",
+                    "englishName": "Al-Asr",
+                    "englishNameTranslation": "The Declining Day, Epoch",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 3
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 545,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6180,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6180.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6180.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6180.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6180.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌۭ لِّكُلِّ هُمَزَةٍۢ لُّمَزَةٍ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6181,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6181.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6181.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6181.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6181.mp3"
+                ],
+                "text": "ٱلَّذِى جَمَعَ مَالًۭا وَعَدَّدَهُۥ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6182,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6182.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6182.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6182.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6182.mp3"
+                ],
+                "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6183,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6183.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6183.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6183.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6183.mp3"
+                ],
+                "text": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6184,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6184.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6184.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6184.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6184.mp3"
+                ],
+                "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6185,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6185.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6185.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6185.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6185.mp3"
+                ],
+                "text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6186,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6186.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6186.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6186.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6186.mp3"
+                ],
+                "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 7,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6187,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6187.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6187.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6187.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6187.mp3"
+                ],
+                "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌۭ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 8,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6188,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6188.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6188.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6188.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6188.mp3"
+                ],
+                "text": "فِى عَمَدٍۢ مُّمَدَّدَةٍۭ",
+                "surah": {
+                    "number": 104,
+                    "name": "سُورَةُ الهُمَزَةِ",
+                    "englishName": "Al-Humaza",
+                    "englishNameTranslation": "The Traducer",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 9
+                },
+                "numberInSurah": 9,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 546,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6189,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6189.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6189.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6189.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6189.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+                "surah": {
+                    "number": 105,
+                    "name": "سُورَةُ الفِيلِ",
+                    "englishName": "Al-Fil",
+                    "englishNameTranslation": "The Elephant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 547,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6190,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6190.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6190.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6190.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6190.mp3"
+                ],
+                "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+                "surah": {
+                    "number": 105,
+                    "name": "سُورَةُ الفِيلِ",
+                    "englishName": "Al-Fil",
+                    "englishNameTranslation": "The Elephant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 547,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6191,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6191.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6191.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6191.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6191.mp3"
+                ],
+                "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+                "surah": {
+                    "number": 105,
+                    "name": "سُورَةُ الفِيلِ",
+                    "englishName": "Al-Fil",
+                    "englishNameTranslation": "The Elephant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 547,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6192,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6192.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6192.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6192.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6192.mp3"
+                ],
+                "text": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+                "surah": {
+                    "number": 105,
+                    "name": "سُورَةُ الفِيلِ",
+                    "englishName": "Al-Fil",
+                    "englishNameTranslation": "The Elephant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 547,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6193,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6193.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6193.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6193.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6193.mp3"
+                ],
+                "text": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+                "surah": {
+                    "number": 105,
+                    "name": "سُورَةُ الفِيلِ",
+                    "englishName": "Al-Fil",
+                    "englishNameTranslation": "The Elephant",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 601,
+                "ruku": 547,
+                "hizbQuarter": 240,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "103": {
+                "number": 103,
+                "name": "سُورَةُ العَصۡرِ",
+                "englishName": "Al-Asr",
+                "englishNameTranslation": "The Declining Day, Epoch",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 3
+            },
+            "104": {
+                "number": 104,
+                "name": "سُورَةُ الهُمَزَةِ",
+                "englishName": "Al-Humaza",
+                "englishNameTranslation": "The Traducer",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 9
+            },
+            "105": {
+                "number": 105,
+                "name": "سُورَةُ الفِيلِ",
+                "englishName": "Al-Fil",
+                "englishNameTranslation": "The Elephant",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 5
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

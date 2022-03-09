@@ -1,0 +1,528 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 264,
+        "ayahs": [
+            {
+                "number": 1834,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1834.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1834.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1834.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1834.mp3"
+                ],
+                "text": "قَالَ يَٰٓإِبْلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 32,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1835,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1835.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1835.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1835.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1835.mp3"
+                ],
+                "text": "قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍۢ مِّنْ حَمَإٍۢ مَّسْنُونٍۢ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 33,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1836,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1836.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1836.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1836.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1836.mp3"
+                ],
+                "text": "قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌۭ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 34,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1837,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1837.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1837.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1837.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1837.mp3"
+                ],
+                "text": "وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 35,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1838,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1838.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1838.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1838.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1838.mp3"
+                ],
+                "text": "قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 36,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1839,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1839.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1839.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1839.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1839.mp3"
+                ],
+                "text": "قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 37,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1840,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1840.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1840.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1840.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1840.mp3"
+                ],
+                "text": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 38,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1841,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1841.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1841.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1841.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1841.mp3"
+                ],
+                "text": "قَالَ رَبِّ بِمَآ أَغْوَيْتَنِى لَأُزَيِّنَنَّ لَهُمْ فِى ٱلْأَرْضِ وَلَأُغْوِيَنَّهُمْ أَجْمَعِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 39,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1842,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1842.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1842.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1842.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1842.mp3"
+                ],
+                "text": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 40,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1843,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1843.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1843.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1843.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1843.mp3"
+                ],
+                "text": "قَالَ هَٰذَا صِرَٰطٌ عَلَىَّ مُسْتَقِيمٌ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 41,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1844,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1844.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1844.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1844.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1844.mp3"
+                ],
+                "text": "إِنَّ عِبَادِى لَيْسَ لَكَ عَلَيْهِمْ سُلْطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلْغَاوِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 42,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1845,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1845.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1845.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1845.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1845.mp3"
+                ],
+                "text": "وَإِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ أَجْمَعِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 43,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1846,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1846.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1846.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1846.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1846.mp3"
+                ],
+                "text": "لَهَا سَبْعَةُ أَبْوَٰبٍۢ لِّكُلِّ بَابٍۢ مِّنْهُمْ جُزْءٌۭ مَّقْسُومٌ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 44,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 220,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1847,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1847.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1847.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1847.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1847.mp3"
+                ],
+                "text": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍۢ وَعُيُونٍ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 45,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1848,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1848.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1848.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1848.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1848.mp3"
+                ],
+                "text": "ٱدْخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 46,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1849,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1849.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1849.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1849.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1849.mp3"
+                ],
+                "text": "وَنَزَعْنَا مَا فِى صُدُورِهِم مِّنْ غِلٍّ إِخْوَٰنًا عَلَىٰ سُرُرٍۢ مُّتَقَٰبِلِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 47,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1850,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1850.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1850.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1850.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1850.mp3"
+                ],
+                "text": "لَا يَمَسُّهُمْ فِيهَا نَصَبٌۭ وَمَا هُم مِّنْهَا بِمُخْرَجِينَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 48,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1851,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1851.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1851.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1851.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1851.mp3"
+                ],
+                "text": "۞ نَبِّئْ عِبَادِىٓ أَنِّىٓ أَنَا ٱلْغَفُورُ ٱلرَّحِيمُ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 49,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 105,
+                "sajda": false
+            },
+            {
+                "number": 1852,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1852.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1852.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1852.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1852.mp3"
+                ],
+                "text": "وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 50,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 106,
+                "sajda": false
+            },
+            {
+                "number": 1853,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1853.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1853.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1853.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1853.mp3"
+                ],
+                "text": "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ",
+                "surah": {
+                    "number": 15,
+                    "name": "سُورَةُ الحِجۡرِ",
+                    "englishName": "Al-Hijr",
+                    "englishNameTranslation": "The Rock",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 99
+                },
+                "numberInSurah": 51,
+                "juz": 14,
+                "manzil": 3,
+                "page": 264,
+                "ruku": 221,
+                "hizbQuarter": 106,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "15": {
+                "number": 15,
+                "name": "سُورَةُ الحِجۡرِ",
+                "englishName": "Al-Hijr",
+                "englishNameTranslation": "The Rock",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 99
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

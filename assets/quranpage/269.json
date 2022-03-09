@@ -1,0 +1,328 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 269,
+        "ayahs": [
+            {
+                "number": 1916,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1916.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1916.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1916.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1916.mp3"
+                ],
+                "text": "وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَٰرًۭا وَسُبُلًۭا لَّعَلَّكُمْ تَهْتَدُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 15,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1917,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1917.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1917.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1917.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1917.mp3"
+                ],
+                "text": "وَعَلَٰمَٰتٍۢ ۚ وَبِٱلنَّجْمِ هُمْ يَهْتَدُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 16,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1918,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1918.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1918.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1918.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1918.mp3"
+                ],
+                "text": "أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ ۗ أَفَلَا تَذَكَّرُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 17,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1919,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1919.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1919.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1919.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1919.mp3"
+                ],
+                "text": "وَإِن تَعُدُّوا۟ نِعْمَةَ ٱللَّهِ لَا تُحْصُوهَآ ۗ إِنَّ ٱللَّهَ لَغَفُورٌۭ رَّحِيمٌۭ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 18,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1920,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1920.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1920.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1920.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1920.mp3"
+                ],
+                "text": "وَٱللَّهُ يَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 19,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1921,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1921.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1921.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1921.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1921.mp3"
+                ],
+                "text": "وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًۭٔا وَهُمْ يُخْلَقُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 20,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1922,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1922.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1922.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1922.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1922.mp3"
+                ],
+                "text": "أَمْوَٰتٌ غَيْرُ أَحْيَآءٍۢ ۖ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 21,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 225,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1923,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1923.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1923.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1923.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1923.mp3"
+                ],
+                "text": "إِلَٰهُكُمْ إِلَٰهٌۭ وَٰحِدٌۭ ۚ فَٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ قُلُوبُهُم مُّنكِرَةٌۭ وَهُم مُّسْتَكْبِرُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 22,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 226,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1924,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1924.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1924.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1924.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1924.mp3"
+                ],
+                "text": "لَا جَرَمَ أَنَّ ٱللَّهَ يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْتَكْبِرِينَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 23,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 226,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1925,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1925.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1925.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1925.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1925.mp3"
+                ],
+                "text": "وَإِذَا قِيلَ لَهُم مَّاذَآ أَنزَلَ رَبُّكُمْ ۙ قَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 24,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 226,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1926,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1926.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1926.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1926.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1926.mp3"
+                ],
+                "text": "لِيَحْمِلُوٓا۟ أَوْزَارَهُمْ كَامِلَةًۭ يَوْمَ ٱلْقِيَٰمَةِ ۙ وَمِنْ أَوْزَارِ ٱلَّذِينَ يُضِلُّونَهُم بِغَيْرِ عِلْمٍ ۗ أَلَا سَآءَ مَا يَزِرُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 25,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 226,
+                "hizbQuarter": 107,
+                "sajda": false
+            },
+            {
+                "number": 1927,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1927.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1927.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1927.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1927.mp3"
+                ],
+                "text": "قَدْ مَكَرَ ٱلَّذِينَ مِن قَبْلِهِمْ فَأَتَى ٱللَّهُ بُنْيَٰنَهُم مِّنَ ٱلْقَوَاعِدِ فَخَرَّ عَلَيْهِمُ ٱلسَّقْفُ مِن فَوْقِهِمْ وَأَتَىٰهُمُ ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ",
+                "surah": {
+                    "number": 16,
+                    "name": "سُورَةُ النَّحۡلِ",
+                    "englishName": "An-Nahl",
+                    "englishNameTranslation": "The Bee",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 128
+                },
+                "numberInSurah": 26,
+                "juz": 14,
+                "manzil": 3,
+                "page": 269,
+                "ruku": 227,
+                "hizbQuarter": 107,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "16": {
+                "number": 16,
+                "name": "سُورَةُ النَّحۡلِ",
+                "englishName": "An-Nahl",
+                "englishNameTranslation": "The Bee",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 128
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

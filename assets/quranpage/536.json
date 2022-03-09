@@ -1,0 +1,678 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 536,
+        "ayahs": [
+            {
+                "number": 5030,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5030.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5030.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5030.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5030.mp3"
+                ],
+                "text": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 51,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5031,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5031.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5031.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5031.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5031.mp3"
+                ],
+                "text": "لَءَاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 52,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5032,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5032.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5032.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5032.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5032.mp3"
+                ],
+                "text": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 53,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5033,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5033.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5033.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5033.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5033.mp3"
+                ],
+                "text": "فَشَٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 54,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5034,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5034.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5034.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5034.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5034.mp3"
+                ],
+                "text": "فَشَٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 55,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5035,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5035.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5035.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5035.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5035.mp3"
+                ],
+                "text": "هَٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 56,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5036,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5036.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5036.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5036.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5036.mp3"
+                ],
+                "text": "نَحْنُ خَلَقْنَٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 57,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5037,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5037.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5037.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5037.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5037.mp3"
+                ],
+                "text": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 58,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5038,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5038.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5038.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5038.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5038.mp3"
+                ],
+                "text": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 59,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5039,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5039.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5039.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5039.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5039.mp3"
+                ],
+                "text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 60,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5040,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5040.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5040.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5040.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5040.mp3"
+                ],
+                "text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 61,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5041,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5041.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5041.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5041.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5041.mp3"
+                ],
+                "text": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 62,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5042,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5042.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5042.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5042.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5042.mp3"
+                ],
+                "text": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 63,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5043,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5043.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5043.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5043.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5043.mp3"
+                ],
+                "text": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 64,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5044,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5044.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5044.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5044.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5044.mp3"
+                ],
+                "text": "لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 65,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5045,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5045.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5045.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5045.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5045.mp3"
+                ],
+                "text": "إِنَّا لَمُغْرَمُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 66,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5046,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5046.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5046.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5046.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5046.mp3"
+                ],
+                "text": "بَلْ نَحْنُ مَحْرُومُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 67,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5047,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5047.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5047.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5047.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5047.mp3"
+                ],
+                "text": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 68,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5048,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5048.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5048.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5048.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5048.mp3"
+                ],
+                "text": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 69,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5049,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5049.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5049.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5049.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5049.mp3"
+                ],
+                "text": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 70,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5050,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5050.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5050.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5050.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5050.mp3"
+                ],
+                "text": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 71,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5051,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5051.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5051.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5051.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5051.mp3"
+                ],
+                "text": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 72,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5052,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5052.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5052.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5052.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5052.mp3"
+                ],
+                "text": "نَحْنُ جَعَلْنَٰهَا تَذْكِرَةًۭ وَمَتَٰعًۭا لِّلْمُقْوِينَ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 73,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5053,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5053.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5053.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5053.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5053.mp3"
+                ],
+                "text": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 74,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 470,
+                "hizbQuarter": 214,
+                "sajda": false
+            },
+            {
+                "number": 5054,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5054.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5054.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5054.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5054.mp3"
+                ],
+                "text": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 75,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 471,
+                "hizbQuarter": 215,
+                "sajda": false
+            },
+            {
+                "number": 5055,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5055.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/5055.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/5055.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/5055.mp3"
+                ],
+                "text": "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+                "surah": {
+                    "number": 56,
+                    "name": "سُورَةُ الوَاقِعَةِ",
+                    "englishName": "Al-Waaqia",
+                    "englishNameTranslation": "The Inevitable",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 96
+                },
+                "numberInSurah": 76,
+                "juz": 27,
+                "manzil": 7,
+                "page": 536,
+                "ruku": 471,
+                "hizbQuarter": 215,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "56": {
+                "number": 56,
+                "name": "سُورَةُ الوَاقِعَةِ",
+                "englishName": "Al-Waaqia",
+                "englishNameTranslation": "The Inevitable",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 96
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

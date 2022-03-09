@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 338,
+        "ayahs": [
+            {
+                "number": 2642,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2642.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2642.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2642.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2642.mp3"
+                ],
+                "text": "وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن يُخْلِفَ ٱللَّهُ وَعْدَهُۥ ۚ وَإِنَّ يَوْمًا عِندَ رَبِّكَ كَأَلْفِ سَنَةٍۢ مِّمَّا تَعُدُّونَ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 47,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 290,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2643,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2643.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2643.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2643.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2643.mp3"
+                ],
+                "text": "وَكَأَيِّن مِّن قَرْيَةٍ أَمْلَيْتُ لَهَا وَهِىَ ظَالِمَةٌۭ ثُمَّ أَخَذْتُهَا وَإِلَىَّ ٱلْمَصِيرُ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 48,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 290,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2644,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2644.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2644.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2644.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2644.mp3"
+                ],
+                "text": "قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمْ نَذِيرٌۭ مُّبِينٌۭ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 49,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2645,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2645.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2645.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2645.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2645.mp3"
+                ],
+                "text": "فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌۭ وَرِزْقٌۭ كَرِيمٌۭ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 50,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2646,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2646.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2646.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2646.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2646.mp3"
+                ],
+                "text": "وَٱلَّذِينَ سَعَوْا۟ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَحِيمِ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 51,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2647,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2647.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2647.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2647.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2647.mp3"
+                ],
+                "text": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍۢ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَٰتِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 52,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2648,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2648.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2648.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2648.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2648.mp3"
+                ],
+                "text": "لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَٰنُ فِتْنَةًۭ لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌۭ وَٱلْقَاسِيَةِ قُلُوبُهُمْ ۗ وَإِنَّ ٱلظَّٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍۢ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 53,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2649,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2649.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2649.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2649.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2649.mp3"
+                ],
+                "text": "وَلِيَعْلَمَ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّكَ فَيُؤْمِنُوا۟ بِهِۦ فَتُخْبِتَ لَهُۥ قُلُوبُهُمْ ۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓا۟ إِلَىٰ صِرَٰطٍۢ مُّسْتَقِيمٍۢ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 54,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            },
+            {
+                "number": 2650,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2650.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2650.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2650.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2650.mp3"
+                ],
+                "text": "وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍۢ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ",
+                "surah": {
+                    "number": 22,
+                    "name": "سُورَةُ الحَجِّ",
+                    "englishName": "Al-Hajj",
+                    "englishNameTranslation": "The Pilgrimage",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 78
+                },
+                "numberInSurah": 55,
+                "juz": 17,
+                "manzil": 4,
+                "page": 338,
+                "ruku": 291,
+                "hizbQuarter": 135,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "22": {
+                "number": 22,
+                "name": "سُورَةُ الحَجِّ",
+                "englishName": "Al-Hajj",
+                "englishNameTranslation": "The Pilgrimage",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 78
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

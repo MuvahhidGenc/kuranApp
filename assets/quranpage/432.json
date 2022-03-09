@@ -1,0 +1,228 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 432,
+        "ayahs": [
+            {
+                "number": 3638,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3638.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3638.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3638.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3638.mp3"
+                ],
+                "text": "قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ بَعْدَ إِذْ جَآءَكُم ۖ بَلْ كُنتُم مُّجْرِمِينَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 32,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 373,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3639,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3639.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3639.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3639.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3639.mp3"
+                ],
+                "text": "وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًۭا ۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ ۚ هَلْ يُجْزَوْنَ إِلَّا مَا كَانُوا۟ يَعْمَلُونَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 33,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 373,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3640,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3640.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3640.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3640.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3640.mp3"
+                ],
+                "text": "وَمَآ أَرْسَلْنَا فِى قَرْيَةٍۢ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 34,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 373,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3641,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3641.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3641.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3641.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3641.mp3"
+                ],
+                "text": "وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًۭا وَأَوْلَٰدًۭا وَمَا نَحْنُ بِمُعَذَّبِينَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 35,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 373,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3642,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3642.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3642.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3642.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3642.mp3"
+                ],
+                "text": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 36,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 373,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3643,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3643.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3643.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3643.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3643.mp3"
+                ],
+                "text": "وَمَآ أَمْوَٰلُكُمْ وَلَآ أَوْلَٰدُكُم بِٱلَّتِى تُقَرِّبُكُمْ عِندَنَا زُلْفَىٰٓ إِلَّا مَنْ ءَامَنَ وَعَمِلَ صَٰلِحًۭا فَأُو۟لَٰٓئِكَ لَهُمْ جَزَآءُ ٱلضِّعْفِ بِمَا عَمِلُوا۟ وَهُمْ فِى ٱلْغُرُفَٰتِ ءَامِنُونَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 37,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 374,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3644,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3644.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3644.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3644.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3644.mp3"
+                ],
+                "text": "وَٱلَّذِينَ يَسْعَوْنَ فِىٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُو۟لَٰٓئِكَ فِى ٱلْعَذَابِ مُحْضَرُونَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 38,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 374,
+                "hizbQuarter": 173,
+                "sajda": false
+            },
+            {
+                "number": 3645,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3645.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/3645.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/3645.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/3645.mp3"
+                ],
+                "text": "قُلْ إِنَّ رَبِّى يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥ ۚ وَمَآ أَنفَقْتُم مِّن شَىْءٍۢ فَهُوَ يُخْلِفُهُۥ ۖ وَهُوَ خَيْرُ ٱلرَّٰزِقِينَ",
+                "surah": {
+                    "number": 34,
+                    "name": "سُورَةُ سَبَإٍ",
+                    "englishName": "Saba",
+                    "englishNameTranslation": "Sheba",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 54
+                },
+                "numberInSurah": 39,
+                "juz": 22,
+                "manzil": 5,
+                "page": 432,
+                "ruku": 374,
+                "hizbQuarter": 173,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "34": {
+                "number": 34,
+                "name": "سُورَةُ سَبَإٍ",
+                "englishName": "Saba",
+                "englishNameTranslation": "Sheba",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 54
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

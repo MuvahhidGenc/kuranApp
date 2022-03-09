@@ -1,0 +1,353 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 499,
+        "ayahs": [
+            {
+                "number": 4474,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4474.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4474.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4474.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4474.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 1,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4475,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4475.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4475.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4475.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4475.mp3"
+                ],
+                "text": "تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 2,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4476,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4476.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4476.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4476.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4476.mp3"
+                ],
+                "text": "إِنَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍۢ لِّلْمُؤْمِنِينَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 3,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4477,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4477.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4477.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4477.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4477.mp3"
+                ],
+                "text": "وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٌۭ لِّقَوْمٍۢ يُوقِنُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 4,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4478,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4478.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4478.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4478.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4478.mp3"
+                ],
+                "text": "وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍۢ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌۭ لِّقَوْمٍۢ يَعْقِلُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 5,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4479,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4479.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4479.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4479.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4479.mp3"
+                ],
+                "text": "تِلْكَ ءَايَٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۖ فَبِأَىِّ حَدِيثٍۭ بَعْدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤْمِنُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 6,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4480,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4480.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4480.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4480.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4480.mp3"
+                ],
+                "text": "وَيْلٌۭ لِّكُلِّ أَفَّاكٍ أَثِيمٍۢ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 7,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4481,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4481.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4481.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4481.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4481.mp3"
+                ],
+                "text": "يَسْمَعُ ءَايَٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًۭا كَأَن لَّمْ يَسْمَعْهَا ۖ فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍۢ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 8,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4482,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4482.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4482.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4482.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4482.mp3"
+                ],
+                "text": "وَإِذَا عَلِمَ مِنْ ءَايَٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا ۚ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌۭ مُّهِينٌۭ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 9,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4483,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4483.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4483.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4483.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4483.mp3"
+                ],
+                "text": "مِّن وَرَآئِهِمْ جَهَنَّمُ ۖ وَلَا يُغْنِى عَنْهُم مَّا كَسَبُوا۟ شَيْـًۭٔا وَلَا مَا ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 10,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4484,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4484.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4484.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4484.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4484.mp3"
+                ],
+                "text": "هَٰذَا هُدًۭى ۖ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ لَهُمْ عَذَابٌۭ مِّن رِّجْزٍ أَلِيمٌ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 11,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 434,
+                "hizbQuarter": 199,
+                "sajda": false
+            },
+            {
+                "number": 4485,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4485.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4485.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4485.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4485.mp3"
+                ],
+                "text": "۞ ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 12,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 435,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4486,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4486.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4486.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4486.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4486.mp3"
+                ],
+                "text": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًۭا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يَتَفَكَّرُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 13,
+                "juz": 25,
+                "manzil": 6,
+                "page": 499,
+                "ruku": 435,
+                "hizbQuarter": 200,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "45": {
+                "number": 45,
+                "name": "سُورَةُ الجَاثِيَةِ",
+                "englishName": "Al-Jaathiya",
+                "englishNameTranslation": "Crouching",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 37
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

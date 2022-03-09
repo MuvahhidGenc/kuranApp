@@ -1,0 +1,403 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 327,
+        "ayahs": [
+            {
+                "number": 2541,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2541.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2541.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2541.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2541.mp3"
+                ],
+                "text": "فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًۭا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 58,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2542,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2542.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2542.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2542.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2542.mp3"
+                ],
+                "text": "قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 59,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2543,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2543.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2543.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2543.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2543.mp3"
+                ],
+                "text": "قَالُوا۟ سَمِعْنَا فَتًۭى يَذْكُرُهُمْ يُقَالُ لَهُۥٓ إِبْرَٰهِيمُ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 60,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2544,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2544.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2544.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2544.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2544.mp3"
+                ],
+                "text": "قَالُوا۟ فَأْتُوا۟ بِهِۦ عَلَىٰٓ أَعْيُنِ ٱلنَّاسِ لَعَلَّهُمْ يَشْهَدُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 61,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2545,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2545.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2545.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2545.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2545.mp3"
+                ],
+                "text": "قَالُوٓا۟ ءَأَنتَ فَعَلْتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبْرَٰهِيمُ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 62,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2546,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2546.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2546.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2546.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2546.mp3"
+                ],
+                "text": "قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 63,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2547,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2547.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2547.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2547.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2547.mp3"
+                ],
+                "text": "فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 64,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2548,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2548.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2548.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2548.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2548.mp3"
+                ],
+                "text": "ثُمَّ نُكِسُوا۟ عَلَىٰ رُءُوسِهِمْ لَقَدْ عَلِمْتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 65,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2549,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2549.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2549.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2549.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2549.mp3"
+                ],
+                "text": "قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًۭٔا وَلَا يَضُرُّكُمْ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 66,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2550,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2550.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2550.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2550.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2550.mp3"
+                ],
+                "text": "أُفٍّۢ لَّكُمْ وَلِمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ ۖ أَفَلَا تَعْقِلُونَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 67,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2551,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2551.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2551.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2551.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2551.mp3"
+                ],
+                "text": "قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 68,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2552,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2552.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2552.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2552.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2552.mp3"
+                ],
+                "text": "قُلْنَا يَٰنَارُ كُونِى بَرْدًۭا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 69,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2553,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2553.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2553.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2553.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2553.mp3"
+                ],
+                "text": "وَأَرَادُوا۟ بِهِۦ كَيْدًۭا فَجَعَلْنَٰهُمُ ٱلْأَخْسَرِينَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 70,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2554,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2554.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2554.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2554.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2554.mp3"
+                ],
+                "text": "وَنَجَّيْنَٰهُ وَلُوطًا إِلَى ٱلْأَرْضِ ٱلَّتِى بَٰرَكْنَا فِيهَا لِلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 71,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            },
+            {
+                "number": 2555,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2555.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2555.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2555.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2555.mp3"
+                ],
+                "text": "وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةًۭ ۖ وَكُلًّۭا جَعَلْنَا صَٰلِحِينَ",
+                "surah": {
+                    "number": 21,
+                    "name": "سُورَةُ الأَنبِيَاءِ",
+                    "englishName": "Al-Anbiyaa",
+                    "englishNameTranslation": "The Prophets",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 112
+                },
+                "numberInSurah": 72,
+                "juz": 17,
+                "manzil": 4,
+                "page": 327,
+                "ruku": 282,
+                "hizbQuarter": 131,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "21": {
+                "number": 21,
+                "name": "سُورَةُ الأَنبِيَاءِ",
+                "englishName": "Al-Anbiyaa",
+                "englishNameTranslation": "The Prophets",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 112
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,203 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 181,
+        "ayahs": [
+            {
+                "number": 1194,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1194.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1194.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1194.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1194.mp3"
+                ],
+                "text": "وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا كَانُوٓا۟ أَوْلِيَآءَهُۥٓ ۚ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 34,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 149,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1195,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1195.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1195.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1195.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1195.mp3"
+                ],
+                "text": "وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءًۭ وَتَصْدِيَةًۭ ۚ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 35,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 149,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1196,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1196.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1196.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1196.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1196.mp3"
+                ],
+                "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ يُنفِقُونَ أَمْوَٰلَهُمْ لِيَصُدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيْهِمْ حَسْرَةًۭ ثُمَّ يُغْلَبُونَ ۗ وَٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ جَهَنَّمَ يُحْشَرُونَ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 36,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 149,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1197,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1197.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1197.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1197.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1197.mp3"
+                ],
+                "text": "لِيَمِيزَ ٱللَّهُ ٱلْخَبِيثَ مِنَ ٱلطَّيِّبِ وَيَجْعَلَ ٱلْخَبِيثَ بَعْضَهُۥ عَلَىٰ بَعْضٍۢ فَيَرْكُمَهُۥ جَمِيعًۭا فَيَجْعَلَهُۥ فِى جَهَنَّمَ ۚ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 37,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 149,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1198,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1198.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1198.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1198.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1198.mp3"
+                ],
+                "text": "قُل لِّلَّذِينَ كَفَرُوٓا۟ إِن يَنتَهُوا۟ يُغْفَرْ لَهُم مَّا قَدْ سَلَفَ وَإِن يَعُودُوا۟ فَقَدْ مَضَتْ سُنَّتُ ٱلْأَوَّلِينَ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 38,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 150,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1199,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1199.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1199.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1199.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1199.mp3"
+                ],
+                "text": "وَقَٰتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌۭ وَيَكُونَ ٱلدِّينُ كُلُّهُۥ لِلَّهِ ۚ فَإِنِ ٱنتَهَوْا۟ فَإِنَّ ٱللَّهَ بِمَا يَعْمَلُونَ بَصِيرٌۭ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 39,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 150,
+                "hizbQuarter": 72,
+                "sajda": false
+            },
+            {
+                "number": 1200,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1200.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1200.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1200.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1200.mp3"
+                ],
+                "text": "وَإِن تَوَلَّوْا۟ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَوْلَىٰكُمْ ۚ نِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ",
+                "surah": {
+                    "number": 8,
+                    "name": "سُورَةُ الأَنفَالِ",
+                    "englishName": "Al-Anfaal",
+                    "englishNameTranslation": "The Spoils of War",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 75
+                },
+                "numberInSurah": 40,
+                "juz": 9,
+                "manzil": 2,
+                "page": 181,
+                "ruku": 150,
+                "hizbQuarter": 72,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "8": {
+                "number": 8,
+                "name": "سُورَةُ الأَنفَالِ",
+                "englishName": "Al-Anfaal",
+                "englishNameTranslation": "The Spoils of War",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 75
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

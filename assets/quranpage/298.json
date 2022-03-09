@@ -1,0 +1,303 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 298,
+        "ayahs": [
+            {
+                "number": 2175,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2175.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2175.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2175.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2175.mp3"
+                ],
+                "text": "وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌۭ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 35,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2176,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2176.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2176.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2176.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2176.mp3"
+                ],
+                "text": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةًۭ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًۭا مِّنْهَا مُنقَلَبًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 36,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2177,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2177.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2177.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2177.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2177.mp3"
+                ],
+                "text": "قَالَ لَهُۥ صَاحِبُهُۥ وَهُوَ يُحَاوِرُهُۥٓ أَكَفَرْتَ بِٱلَّذِى خَلَقَكَ مِن تُرَابٍۢ ثُمَّ مِن نُّطْفَةٍۢ ثُمَّ سَوَّىٰكَ رَجُلًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 37,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2178,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2178.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2178.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2178.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2178.mp3"
+                ],
+                "text": "لَّٰكِنَّا۠ هُوَ ٱللَّهُ رَبِّى وَلَآ أُشْرِكُ بِرَبِّىٓ أَحَدًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 38,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2179,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2179.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2179.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2179.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2179.mp3"
+                ],
+                "text": "وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 39,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2180,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2180.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2180.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2180.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2180.mp3"
+                ],
+                "text": "فَعَسَىٰ رَبِّىٓ أَن يُؤْتِيَنِ خَيْرًۭا مِّن جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًۭا مِّنَ ٱلسَّمَآءِ فَتُصْبِحَ صَعِيدًۭا زَلَقًا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 40,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2181,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2181.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2181.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2181.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2181.mp3"
+                ],
+                "text": "أَوْ يُصْبِحَ مَآؤُهَا غَوْرًۭا فَلَن تَسْتَطِيعَ لَهُۥ طَلَبًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 41,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2182,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2182.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2182.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2182.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2182.mp3"
+                ],
+                "text": "وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 42,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2183,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2183.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2183.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2183.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2183.mp3"
+                ],
+                "text": "وَلَمْ تَكُن لَّهُۥ فِئَةٌۭ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 43,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2184,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2184.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2184.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2184.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2184.mp3"
+                ],
+                "text": "هُنَالِكَ ٱلْوَلَٰيَةُ لِلَّهِ ٱلْحَقِّ ۚ هُوَ خَيْرٌۭ ثَوَابًۭا وَخَيْرٌ عُقْبًۭا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 44,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 256,
+                "hizbQuarter": 119,
+                "sajda": false
+            },
+            {
+                "number": 2185,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2185.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/2185.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/2185.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/2185.mp3"
+                ],
+                "text": "وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًۭا تَذْرُوهُ ٱلرِّيَٰحُ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍۢ مُّقْتَدِرًا",
+                "surah": {
+                    "number": 18,
+                    "name": "سُورَةُ الكَهۡفِ",
+                    "englishName": "Al-Kahf",
+                    "englishNameTranslation": "The Cave",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 110
+                },
+                "numberInSurah": 45,
+                "juz": 15,
+                "manzil": 4,
+                "page": 298,
+                "ruku": 257,
+                "hizbQuarter": 119,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "18": {
+                "number": 18,
+                "name": "سُورَةُ الكَهۡفِ",
+                "englishName": "Al-Kahf",
+                "englishNameTranslation": "The Cave",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 110
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

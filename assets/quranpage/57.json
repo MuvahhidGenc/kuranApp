@@ -1,0 +1,253 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 57,
+        "ayahs": [
+            {
+                "number": 346,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/346.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/346.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/346.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/346.mp3"
+                ],
+                "text": "رَبَّنَآ ءَامَنَّا بِمَآ أَنزَلْتَ وَٱتَّبَعْنَا ٱلرَّسُولَ فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 53,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 46,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 347,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/347.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/347.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/347.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/347.mp3"
+                ],
+                "text": "وَمَكَرُوا۟ وَمَكَرَ ٱللَّهُ ۖ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 54,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 46,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 348,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/348.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/348.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/348.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/348.mp3"
+                ],
+                "text": "إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ۖ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 55,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 349,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/349.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/349.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/349.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/349.mp3"
+                ],
+                "text": "فَأَمَّا ٱلَّذِينَ كَفَرُوا۟ فَأُعَذِّبُهُمْ عَذَابًۭا شَدِيدًۭا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 56,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 350,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/350.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/350.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/350.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/350.mp3"
+                ],
+                "text": "وَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمْ أُجُورَهُمْ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 57,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 351,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/351.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/351.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/351.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/351.mp3"
+                ],
+                "text": "ذَٰلِكَ نَتْلُوهُ عَلَيْكَ مِنَ ٱلْءَايَٰتِ وَٱلذِّكْرِ ٱلْحَكِيمِ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 58,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 352,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/352.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/352.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/352.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/352.mp3"
+                ],
+                "text": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍۢ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 59,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 353,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/353.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/353.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/353.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/353.mp3"
+                ],
+                "text": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 60,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            },
+            {
+                "number": 354,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/354.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/354.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/354.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/354.mp3"
+                ],
+                "text": "فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ",
+                "surah": {
+                    "number": 3,
+                    "name": "سُورَةُ آلِ عِمۡرَانَ",
+                    "englishName": "Aal-i-Imraan",
+                    "englishNameTranslation": "The Family of Imraan",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 200
+                },
+                "numberInSurah": 61,
+                "juz": 3,
+                "manzil": 1,
+                "page": 57,
+                "ruku": 47,
+                "hizbQuarter": 23,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "3": {
+                "number": 3,
+                "name": "سُورَةُ آلِ عِمۡرَانَ",
+                "englishName": "Aal-i-Imraan",
+                "englishNameTranslation": "The Family of Imraan",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 200
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

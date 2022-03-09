@@ -1,0 +1,178 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 253,
+        "ayahs": [
+            {
+                "number": 1736,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1736.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1736.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1736.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1736.mp3"
+                ],
+                "text": "ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَـَٔابٍۢ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 29,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 208,
+                "hizbQuarter": 101,
+                "sajda": false
+            },
+            {
+                "number": 1737,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1737.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1737.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1737.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1737.mp3"
+                ],
+                "text": "كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 30,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 208,
+                "hizbQuarter": 101,
+                "sajda": false
+            },
+            {
+                "number": 1738,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1738.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1738.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1738.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1738.mp3"
+                ],
+                "text": "وَلَوْ أَنَّ قُرْءَانًۭا سُيِّرَتْ بِهِ ٱلْجِبَالُ أَوْ قُطِّعَتْ بِهِ ٱلْأَرْضُ أَوْ كُلِّمَ بِهِ ٱلْمَوْتَىٰ ۗ بَل لِّلَّهِ ٱلْأَمْرُ جَمِيعًا ۗ أَفَلَمْ يَا۟يْـَٔسِ ٱلَّذِينَ ءَامَنُوٓا۟ أَن لَّوْ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعًۭا ۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ تُصِيبُهُم بِمَا صَنَعُوا۟ قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًۭا مِّن دَارِهِمْ حَتَّىٰ يَأْتِىَ وَعْدُ ٱللَّهِ ۚ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 31,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 208,
+                "hizbQuarter": 101,
+                "sajda": false
+            },
+            {
+                "number": 1739,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1739.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1739.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1739.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1739.mp3"
+                ],
+                "text": "وَلَقَدِ ٱسْتُهْزِئَ بِرُسُلٍۢ مِّن قَبْلِكَ فَأَمْلَيْتُ لِلَّذِينَ كَفَرُوا۟ ثُمَّ أَخَذْتُهُمْ ۖ فَكَيْفَ كَانَ عِقَابِ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 32,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 209,
+                "hizbQuarter": 101,
+                "sajda": false
+            },
+            {
+                "number": 1740,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1740.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1740.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1740.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1740.mp3"
+                ],
+                "text": "أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍۭ بِمَا كَسَبَتْ ۗ وَجَعَلُوا۟ لِلَّهِ شُرَكَآءَ قُلْ سَمُّوهُمْ ۚ أَمْ تُنَبِّـُٔونَهُۥ بِمَا لَا يَعْلَمُ فِى ٱلْأَرْضِ أَم بِظَٰهِرٍۢ مِّنَ ٱلْقَوْلِ ۗ بَلْ زُيِّنَ لِلَّذِينَ كَفَرُوا۟ مَكْرُهُمْ وَصُدُّوا۟ عَنِ ٱلسَّبِيلِ ۗ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍۢ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 33,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 209,
+                "hizbQuarter": 101,
+                "sajda": false
+            },
+            {
+                "number": 1741,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1741.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/1741.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/1741.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/1741.mp3"
+                ],
+                "text": "لَّهُمْ عَذَابٌۭ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْءَاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍۢ",
+                "surah": {
+                    "number": 13,
+                    "name": "سُورَةُ الرَّعۡدِ",
+                    "englishName": "Ar-Ra'd",
+                    "englishNameTranslation": "The Thunder",
+                    "revelationType": "Medinan",
+                    "numberOfAyahs": 43
+                },
+                "numberInSurah": 34,
+                "juz": 13,
+                "manzil": 3,
+                "page": 253,
+                "ruku": 209,
+                "hizbQuarter": 101,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "13": {
+                "number": 13,
+                "name": "سُورَةُ الرَّعۡدِ",
+                "englishName": "Ar-Ra'd",
+                "englishNameTranslation": "The Thunder",
+                "revelationType": "Medinan",
+                "numberOfAyahs": 43
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

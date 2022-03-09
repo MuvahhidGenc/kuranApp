@@ -1,0 +1,286 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 502,
+        "ayahs": [
+            {
+                "number": 4506,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4506.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4506.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4506.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4506.mp3"
+                ],
+                "text": "وَبَدَا لَهُمْ سَيِّـَٔاتُ مَا عَمِلُوا۟ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 33,
+                "juz": 25,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 437,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4507,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4507.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4507.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4507.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4507.mp3"
+                ],
+                "text": "وَقِيلَ ٱلْيَوْمَ نَنسَىٰكُمْ كَمَا نَسِيتُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا وَمَأْوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 34,
+                "juz": 25,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 437,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4508,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4508.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4508.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4508.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4508.mp3"
+                ],
+                "text": "ذَٰلِكُم بِأَنَّكُمُ ٱتَّخَذْتُمْ ءَايَٰتِ ٱللَّهِ هُزُوًۭا وَغَرَّتْكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ فَٱلْيَوْمَ لَا يُخْرَجُونَ مِنْهَا وَلَا هُمْ يُسْتَعْتَبُونَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 35,
+                "juz": 25,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 437,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4509,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4509.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4509.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4509.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4509.mp3"
+                ],
+                "text": "فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَٰلَمِينَ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 36,
+                "juz": 25,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 437,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4510,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4510.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4510.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4510.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4510.mp3"
+                ],
+                "text": "وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+                "surah": {
+                    "number": 45,
+                    "name": "سُورَةُ الجَاثِيَةِ",
+                    "englishName": "Al-Jaathiya",
+                    "englishNameTranslation": "Crouching",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 37
+                },
+                "numberInSurah": 37,
+                "juz": 25,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 437,
+                "hizbQuarter": 200,
+                "sajda": false
+            },
+            {
+                "number": 4511,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4511.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4511.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4511.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4511.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ حمٓ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 1,
+                "juz": 26,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4512,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4512.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4512.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4512.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4512.mp3"
+                ],
+                "text": "تَنزِيلُ ٱلْكِتَٰبِ مِنَ ٱللَّهِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 2,
+                "juz": 26,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4513,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4513.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4513.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4513.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4513.mp3"
+                ],
+                "text": "مَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَآ إِلَّا بِٱلْحَقِّ وَأَجَلٍۢ مُّسَمًّۭى ۚ وَٱلَّذِينَ كَفَرُوا۟ عَمَّآ أُنذِرُوا۟ مُعْرِضُونَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 3,
+                "juz": 26,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4514,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4514.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4514.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4514.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4514.mp3"
+                ],
+                "text": "قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌۭ فِى ٱلسَّمَٰوَٰتِ ۖ ٱئْتُونِى بِكِتَٰبٍۢ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍۢ مِّنْ عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 4,
+                "juz": 26,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            },
+            {
+                "number": 4515,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4515.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/4515.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/4515.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/4515.mp3"
+                ],
+                "text": "وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ",
+                "surah": {
+                    "number": 46,
+                    "name": "سُورَةُ الأَحۡقَافِ",
+                    "englishName": "Al-Ahqaf",
+                    "englishNameTranslation": "The Dunes",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 35
+                },
+                "numberInSurah": 5,
+                "juz": 26,
+                "manzil": 6,
+                "page": 502,
+                "ruku": 438,
+                "hizbQuarter": 201,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "45": {
+                "number": 45,
+                "name": "سُورَةُ الجَاثِيَةِ",
+                "englishName": "Al-Jaathiya",
+                "englishNameTranslation": "Crouching",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 37
+            },
+            "46": {
+                "number": 46,
+                "name": "سُورَةُ الأَحۡقَافِ",
+                "englishName": "Al-Ahqaf",
+                "englishNameTranslation": "The Dunes",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 35
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}

@@ -1,0 +1,419 @@
+{
+    "code": 200,
+    "status": "OK",
+    "data": {
+        "number": 604,
+        "ayahs": [
+            {
+                "number": 6222,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6222.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6222.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6222.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6222.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+                "surah": {
+                    "number": 112,
+                    "name": "سُورَةُ الإِخۡلَاصِ",
+                    "englishName": "Al-Ikhlaas",
+                    "englishNameTranslation": "Sincerity",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 4
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 554,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6223,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6223.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6223.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6223.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6223.mp3"
+                ],
+                "text": "ٱللَّهُ ٱلصَّمَدُ",
+                "surah": {
+                    "number": 112,
+                    "name": "سُورَةُ الإِخۡلَاصِ",
+                    "englishName": "Al-Ikhlaas",
+                    "englishNameTranslation": "Sincerity",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 4
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 554,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6224,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6224.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6224.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6224.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6224.mp3"
+                ],
+                "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+                "surah": {
+                    "number": 112,
+                    "name": "سُورَةُ الإِخۡلَاصِ",
+                    "englishName": "Al-Ikhlaas",
+                    "englishNameTranslation": "Sincerity",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 4
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 554,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6225,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6225.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6225.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6225.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6225.mp3"
+                ],
+                "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+                "surah": {
+                    "number": 112,
+                    "name": "سُورَةُ الإِخۡلَاصِ",
+                    "englishName": "Al-Ikhlaas",
+                    "englishNameTranslation": "Sincerity",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 4
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 554,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6226,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6226.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6226.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6226.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6226.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+                "surah": {
+                    "number": 113,
+                    "name": "سُورَةُ الفَلَقِ",
+                    "englishName": "Al-Falaq",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 555,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6227,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6227.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6227.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6227.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6227.mp3"
+                ],
+                "text": "مِن شَرِّ مَا خَلَقَ",
+                "surah": {
+                    "number": 113,
+                    "name": "سُورَةُ الفَلَقِ",
+                    "englishName": "Al-Falaq",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 555,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6228,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6228.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6228.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6228.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6228.mp3"
+                ],
+                "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+                "surah": {
+                    "number": 113,
+                    "name": "سُورَةُ الفَلَقِ",
+                    "englishName": "Al-Falaq",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 555,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6229,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6229.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6229.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6229.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6229.mp3"
+                ],
+                "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+                "surah": {
+                    "number": 113,
+                    "name": "سُورَةُ الفَلَقِ",
+                    "englishName": "Al-Falaq",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 555,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6230,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6230.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6230.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6230.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6230.mp3"
+                ],
+                "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+                "surah": {
+                    "number": 113,
+                    "name": "سُورَةُ الفَلَقِ",
+                    "englishName": "Al-Falaq",
+                    "englishNameTranslation": "The Dawn",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 5
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 555,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6231,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6231.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6231.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6231.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6231.mp3"
+                ],
+                "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 1,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6232,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6232.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6232.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6232.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6232.mp3"
+                ],
+                "text": "مَلِكِ ٱلنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 2,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6233,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6233.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6233.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6233.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6233.mp3"
+                ],
+                "text": "إِلَٰهِ ٱلنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 3,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6234,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6234.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6234.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6234.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6234.mp3"
+                ],
+                "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 4,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6235,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6235.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6235.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6235.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6235.mp3"
+                ],
+                "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 5,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            },
+            {
+                "number": 6236,
+                "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6236.mp3",
+                "audioSecondary": [
+                    "https://cdn2.islamic.network/quran/audio/128/ar.alafasy/6236.mp3",
+                    "https://cdn.islamic.network/quran/audio/64/ar.alafasy/6236.mp3",
+                    "https://cdn2.islamic.network/quran/audio/64/ar.alafasy/6236.mp3"
+                ],
+                "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+                "surah": {
+                    "number": 114,
+                    "name": "سُورَةُ النَّاسِ",
+                    "englishName": "An-Naas",
+                    "englishNameTranslation": "Mankind",
+                    "revelationType": "Meccan",
+                    "numberOfAyahs": 6
+                },
+                "numberInSurah": 6,
+                "juz": 30,
+                "manzil": 7,
+                "page": 604,
+                "ruku": 556,
+                "hizbQuarter": 240,
+                "sajda": false
+            }
+        ],
+        "surahs": {
+            "112": {
+                "number": 112,
+                "name": "سُورَةُ الإِخۡلَاصِ",
+                "englishName": "Al-Ikhlaas",
+                "englishNameTranslation": "Sincerity",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 4
+            },
+            "113": {
+                "number": 113,
+                "name": "سُورَةُ الفَلَقِ",
+                "englishName": "Al-Falaq",
+                "englishNameTranslation": "The Dawn",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 5
+            },
+            "114": {
+                "number": 114,
+                "name": "سُورَةُ النَّاسِ",
+                "englishName": "An-Naas",
+                "englishNameTranslation": "Mankind",
+                "revelationType": "Meccan",
+                "numberOfAyahs": 6
+            }
+        },
+        "edition": {
+            "identifier": "ar.alafasy",
+            "language": "ar",
+            "name": "مشاري العفاسي",
+            "englishName": "Alafasy",
+            "format": "audio",
+            "type": "versebyverse",
+            "direction": null
+        }
+    }
+}
