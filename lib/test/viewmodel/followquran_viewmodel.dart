@@ -17,6 +17,41 @@ class FollowQuranViewModel extends ChangeNotifier {
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
   PageController pageController = PageController();
+
+  Widget get getAppBarTitle => Column(
+        children: [
+          Center(
+            child: Text(
+              getAyahList!.isEmpty ? "" : getAyahList![0].surah!.englishName!,
+              textAlign: TextAlign.left,
+            ),
+          ),
+          Wrap(
+            spacing: 2.0,
+            children: [
+              Text(
+                getAyahList!.isEmpty
+                    ? ""
+                    : " Sayfa : {${getAyahList![0].page.toString()} / 604} - ",
+                textAlign: TextAlign.left,
+                style: TextStyle(fontSize: 15),
+              ),
+              Text(
+                getAyahList!.isEmpty
+                    ? ""
+                    : " Cüz : {${getAyahList![0].juz.toString()} / 30}",
+                textAlign: TextAlign.left,
+                style: TextStyle(fontSize: 15),
+              ),
+              /*Text(
+                  getText.isEmpty ? "" : "604",
+                  textAlign: TextAlign.left,
+                ),*/
+            ],
+          )
+        ],
+      );
+
   audioPlayerStream() {
     audioPlayer.onPlayerStateChanged.listen((state) {
       // print("test");

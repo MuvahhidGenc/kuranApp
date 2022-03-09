@@ -38,48 +38,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     var provider = Provider.of<FollowQuranViewModel>(context);
     return Scaffold(
       backgroundColor: theme.listTileTheme.iconColor,
-      appBar: AppBar(
-        title: Column(
-          children: [
-            Center(
-              child: Text(
-                getText.isEmpty ? "" : getText[0].surah!.englishName!,
-                textAlign: TextAlign.left,
-              ),
-            ),
-            Wrap(
-              spacing: 2.0,
-              children: [
-                Text(
-                  getText.isEmpty
-                      ? ""
-                      : " Sayfa : {${getText[0].page.toString()} / 604} - ",
-                  textAlign: TextAlign.left,
-                  style: TextStyle(fontSize: 15),
-                ),
-                Text(
-                  getText.isEmpty
-                      ? ""
-                      : " Cüz : {${getText[0].juz.toString()} / 30}",
-                  textAlign: TextAlign.left,
-                  style: TextStyle(fontSize: 15),
-                ),
-                /*Text(
-                  getText.isEmpty ? "" : "604",
-                  textAlign: TextAlign.left,
-                ),*/
-              ],
-            )
-          ],
-        ),
-      ),
+      appBar: AppBar(title: provider.getAppBarTitle),
       body: PageView.builder(
         controller: provider.pageController,
         itemCount: 604,
-        onPageChanged: (int page) async {
+        onPageChanged: (int page) {
           provider.getAyahList = getText;
           provider.aktifsurah = 1;
-          getText = await provider.getText(pageNo: page, kariId: "ar.alafasy");
+          provider.getAppBarTitle;
           // var path = getText[0].audioSecondary![1];
           // provider.playAudio(path: path);
         },
