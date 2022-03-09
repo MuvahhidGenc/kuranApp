@@ -1,11 +1,10 @@
-import 'package:auto_size_text/auto_size_text.dart';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
-import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 class FollowQuranView extends StatefulWidget {
   const FollowQuranView({Key? key}) : super(key: key);
@@ -43,7 +42,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       backgroundColor: theme.listTileTheme.iconColor,
       appBar: AppBar(
         title: Text(
-          "data",
+          getText!.length>0? "":getText![0].surah!.name!,
           textAlign: TextAlign.left,
         ),
       ),
@@ -60,7 +59,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers
           return Padding(
-            padding: const EdgeInsets.all(15.0),
+            padding: const EdgeInsets.only(left:5.0,right: 5.0),
             child: Container(
               child: FutureBuilder(
                   future: quranGetText(index + 1),
@@ -88,7 +87,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           var path = getText![0].audioSecondary![1];
           provider.playAudio(path: path);
         },
+        
       ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
     );
   }
 
@@ -103,21 +104,22 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           textDirection: TextDirection.rtl,
           text: TextSpan(
             style: TextStyle(
-                fontSize: 25,
+                fontSize: 18,
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children:getText?.map((e) {
               var listNumber=getText!.indexOf(e);
               return TextSpan(
                 style: listNumber == _fqvmProvider.aktifsurah-1
                     ? TextStyle(
-                        backgroundColor: Colors.grey[400],
-                      )
-                    : null,
+  background: Paint()..color = Colors.grey,
+  fontFamily:'KFGQPC Uthman Taha Naskh',)
+                    : TextStyle(
+  fontFamily:'KFGQPC Uthman Taha Naskh',),
                 text: " " + e.text!.trim() + " ",
                 children: [
                   WidgetSpan(
                       child: CircleAvatar(
-                    radius: 15,
+                    radius: 10,
                     child: Text(_followQuranViewModel
                         .convertToArabicNumber(e.numberInSurah!)),
                   )),

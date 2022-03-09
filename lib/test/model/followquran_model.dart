@@ -4,6 +4,8 @@
 
 import 'dart:convert';
 
+import 'package:kuran/view/meal/model/singleayah_model.dart';
+
 FollowQuranModel followQuranModelFromJson(String str) =>
     FollowQuranModel.fromJson(json.decode(str));
 
@@ -24,6 +26,7 @@ class Data {
   Data({
     this.number,
     this.ayahs,
+    
   });
 
   int? number;
@@ -41,6 +44,7 @@ class Ayah {
     this.audio,
     this.audioSecondary,
     this.text,
+    this.surah,
     this.numberInSurah,
     this.juz,
     this.manzil,
@@ -54,6 +58,7 @@ class Ayah {
   String? audio;
   List<String>? audioSecondary;
   String? text;
+  SurahDetail? surah;
   int? numberInSurah;
   int? juz;
   int? manzil;
@@ -67,6 +72,7 @@ class Ayah {
         audio: json["audio"],
         audioSecondary: List<String>.from(json["audioSecondary"].map((x) => x)),
         text: json["text"],
+        surah: SurahDetail.fromJson(json["surah"]),
         numberInSurah: json["numberInSurah"],
         juz: json["juz"],
         manzil: json["manzil"],
@@ -75,6 +81,41 @@ class Ayah {
         hizbQuarter: json["hizbQuarter"],
         sajda: json["sajda"],
       );
+}
+class SurahDetail {
+    SurahDetail({
+        this.number,
+        this.name,
+        this.englishName,
+        this.englishNameTranslation,
+        this.revelationType,
+        this.numberOfAyahs,
+    });
+
+    int? number;
+    String? name;
+    String? englishName;
+    String? englishNameTranslation;
+    String? revelationType;
+    int? numberOfAyahs;
+
+    factory SurahDetail.fromJson(Map<String, dynamic> json) => SurahDetail(
+        number: json["number"],
+        name: json["name"],
+        englishName: json["englishName"],
+        englishNameTranslation: json["englishNameTranslation"],
+        revelationType: json["revelationType"],
+        numberOfAyahs: json["numberOfAyahs"],
+    );
+
+    Map<String, dynamic> toJson() => {
+        "number": number,
+        "name": name,
+        "englishName": englishName,
+        "englishNameTranslation": englishNameTranslation,
+        "revelationType": revelationType,
+        "numberOfAyahs": numberOfAyahs,
+    };
 }
 
 class Edition {
@@ -116,3 +157,4 @@ class Edition {
         "direction": direction,
       };
 }
+

@@ -65,7 +65,6 @@ dependencies:
   carousel_slider: ^4.0.0
   carousel_images: ^1.1.2
   arabic_numbers: ^1.0.0
-  auto_size_text: ^3.0.0
   
 
   #UI
@@ -101,7 +100,13 @@ flutter:
   # "family" key with the font family name, and a "fonts" key with a
   # list giving the asset and other descriptors for the font. For
   # example:
-  # fonts:
+  fonts:
+    - family: noorehira
+      fonts:
+        - asset: fonts/UthmanTN1-Ver10.otf
+    - family: KFGQPC Uthman Taha Naskh
+      fonts:
+        - asset: fonts/UthmanTN1-Ver10.otf
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
