@@ -12,8 +12,8 @@ class FollowQuranViewModel extends ChangeNotifier {
   var _arabicNumber = ArabicNumbers();
   var _arabicNumberConvert;
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
-    PlayerState? audioPlayerState;                                                                  
-  int aktifsurah = 1;
+  PlayerState? audioPlayerState;
+  int aktifsurah = 0;
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
   PageController pageController = PageController();
@@ -22,21 +22,25 @@ class FollowQuranViewModel extends ChangeNotifier {
       // print("test");
       audioPlayerState = state;
       var totalAyah = getAyahList!.length;
-     
+      print(aktifsurah.toString() + " " + totalAyah.toString());
+
       if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
         aktifsurah++;
         playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
-        floattingActionButtonIcon=Icons.play_circle_fill;
-       
-      }else if(audioPlayerState==PlayerState.COMPLETED && aktifsurah==totalAyah){
-         aktifsurah = -1;
-          floattingActionButtonIcon=Icons.play_circle_fill;
-          nextPage(pageController);
-          aktifsurah=1;
-      }if(audioPlayerState==PlayerState.PLAYING){
-        floattingActionButtonIcon=Icons.pause_circle_filled;
-      }else if(audioPlayerState==PlayerState.STOPPED || audioPlayerState==PlayerState.PAUSED || floattingActionButtonIcon==null){
-          floattingActionButtonIcon=Icons.play_circle_fill;
+        floattingActionButtonIcon = Icons.play_circle_fill;
+      } else if (audioPlayerState == PlayerState.COMPLETED &&
+          aktifsurah == totalAyah) {
+        aktifsurah = -1;
+        floattingActionButtonIcon = Icons.play_circle_fill;
+        // nextPage(pageController);
+        // aktifsurah=1;
+      }
+      if (audioPlayerState == PlayerState.PLAYING) {
+        floattingActionButtonIcon = Icons.pause_circle_filled;
+      } else if (audioPlayerState == PlayerState.STOPPED ||
+          audioPlayerState == PlayerState.PAUSED ||
+          floattingActionButtonIcon == null) {
+        floattingActionButtonIcon = Icons.play_circle_fill;
       }
       // print(aktifsurah);
       notifyListeners();
@@ -51,11 +55,10 @@ class FollowQuranViewModel extends ChangeNotifier {
     }
     notifyListeners();
   }
-  void nextPage(PageController pageController){
+
+  void nextPage(PageController pageController) {
     pageController.animateToPage(pageController.page!.toInt() + 1,
-      duration: Duration(milliseconds: 400),
-      curve: Curves.easeIn
-    );
+        duration: Duration(milliseconds: 400), curve: Curves.easeIn);
   }
 
 /*Future quranGetText(int page) async {

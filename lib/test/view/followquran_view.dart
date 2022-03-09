@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
@@ -15,13 +14,13 @@ class FollowQuranView extends StatefulWidget {
 
 class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
-  List<Ayah>? getText;
-  var itemKey=GlobalKey();
-  
+  List<Ayah> getText = [];
+  var itemKey = GlobalKey();
+
   Future quranGetText(int page) async {
     getText =
         await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
-     
+
     return getText;
   }
 
@@ -31,7 +30,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     super.initState();
     Provider.of<FollowQuranViewModel>(context, listen: false)
         .audioPlayerStream();
-        
   }
 
   @override
@@ -41,25 +39,54 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     return Scaffold(
       backgroundColor: theme.listTileTheme.iconColor,
       appBar: AppBar(
-        title: Text(
-          getText!.length>0? "":getText![0].surah!.name!,
-          textAlign: TextAlign.left,
+        title: Column(
+          children: [
+            Center(
+              child: Text(
+                getText.isEmpty ? "" : getText[0].surah!.englishName!,
+                textAlign: TextAlign.left,
+              ),
+            ),
+            Wrap(
+              spacing: 2.0,
+              children: [
+                Text(
+                  getText.isEmpty
+                      ? ""
+                      : " Sayfa : {${getText[0].page.toString()} / 604} - ",
+                  textAlign: TextAlign.left,
+                  style: TextStyle(fontSize: 15),
+                ),
+                Text(
+                  getText.isEmpty
+                      ? ""
+                      : " Cüz : {${getText[0].juz.toString()} / 30}",
+                  textAlign: TextAlign.left,
+                  style: TextStyle(fontSize: 15),
+                ),
+                /*Text(
+                  getText.isEmpty ? "" : "604",
+                  textAlign: TextAlign.left,
+                ),*/
+              ],
+            )
+          ],
         ),
       ),
       body: PageView.builder(
-        controller:provider.pageController,
+        controller: provider.pageController,
         itemCount: 604,
-        onPageChanged: (int page) {
-          
-           provider.getAyahList = getText;
-          provider.aktifsurah=1;
-          var path = getText![0].audioSecondary![1];
-          provider.playAudio(path: path);
+        onPageChanged: (int page) async {
+          provider.getAyahList = getText;
+          provider.aktifsurah = 1;
+          getText = await provider.getText(pageNo: page, kariId: "ar.alafasy");
+          // var path = getText[0].audioSecondary![1];
+          // provider.playAudio(path: path);
         },
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers
           return Padding(
-            padding: const EdgeInsets.only(left:5.0,right: 5.0),
+            padding: const EdgeInsets.only(left: 5.0, right: 5.0),
             child: Container(
               child: FutureBuilder(
                   future: quranGetText(index + 1),
@@ -78,16 +105,16 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       ),
       floatingActionButton: FloatingActionButton(
         child: Icon(
-          provider.floattingActionButtonIcon??Icons.play_circle_fill,
+          provider.floattingActionButtonIcon ?? Icons.play_circle_fill,
           size: 40,
         ),
         onPressed: () {
           provider.getAyahList = getText;
-          provider.aktifsurah=1;
-          var path = getText![0].audioSecondary![1];
+          var deger = provider.aktifsurah = 1;
+          print(deger);
+          var path = getText[0].audioSecondary![1];
           provider.playAudio(path: path);
         },
-        
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
     );
@@ -104,17 +131,23 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           textDirection: TextDirection.rtl,
           text: TextSpan(
             style: TextStyle(
-                fontSize: 18,
+                fontSize: 28,
                 color: SnippetExtanstion(context).theme.primaryColorLight),
-            children:getText?.map((e) {
-              var listNumber=getText!.indexOf(e);
+            children: getText.map((e) {
+              var listNumber = getText.indexOf(e);
+              print("İndis : " +
+                  listNumber.toString() +
+                  " aktif : " +
+                  _fqvmProvider.aktifsurah.toString());
               return TextSpan(
-                style: listNumber == _fqvmProvider.aktifsurah-1
+                style: listNumber == _fqvmProvider.aktifsurah - 1
                     ? TextStyle(
-  background: Paint()..color = Colors.grey,
-  fontFamily:'KFGQPC Uthman Taha Naskh',)
+                        backgroundColor: Colors.grey,
+                        fontFamily: 'KFGQPC Uthman Taha Naskh',
+                      )
                     : TextStyle(
-  fontFamily:'KFGQPC Uthman Taha Naskh',),
+                        fontFamily: 'KFGQPC Uthman Taha Naskh',
+                      ),
                 text: " " + e.text!.trim() + " ",
                 children: [
                   WidgetSpan(
@@ -136,7 +169,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 ],
               );
             }).toList(),
-            
           ),
         ),
       ],
