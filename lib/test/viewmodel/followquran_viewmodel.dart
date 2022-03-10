@@ -3,6 +3,7 @@ import 'package:arabic_numbers/arabic_numbers.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/urlpath_extanstion.dart';
@@ -18,46 +19,14 @@ class FollowQuranViewModel extends ChangeNotifier {
   IconData? floattingActionButtonIcon;
   PageController pageController = PageController();
 
-  Widget get getAppBarTitle => Column(
-        children: [
-          Center(
-            child: Text(
-              getAyahList!.isEmpty ? "" : getAyahList![0].surah!.englishName!,
-              textAlign: TextAlign.left,
-            ),
-          ),
-          Wrap(
-            spacing: 2.0,
-            children: [
-              Text(
-                getAyahList!.isEmpty
-                    ? ""
-                    : " Sayfa : {${getAyahList![0].page.toString()} / 604} - ",
-                textAlign: TextAlign.left,
-                style: TextStyle(fontSize: 15),
-              ),
-              Text(
-                getAyahList!.isEmpty
-                    ? ""
-                    : " Cüz : {${getAyahList![0].juz.toString()} / 30}",
-                textAlign: TextAlign.left,
-                style: TextStyle(fontSize: 15),
-              ),
-              /*Text(
-                  getText.isEmpty ? "" : "604",
-                  textAlign: TextAlign.left,
-                ),*/
-            ],
-          )
-        ],
-      );
+
 
   audioPlayerStream() {
     audioPlayer.onPlayerStateChanged.listen((state) {
       // print("test");
       audioPlayerState = state;
       var totalAyah = getAyahList!.length;
-      print(aktifsurah.toString() + " " + totalAyah.toString());
+     
 
       if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
         aktifsurah++;
@@ -90,10 +59,21 @@ class FollowQuranViewModel extends ChangeNotifier {
     }
     notifyListeners();
   }
+  stopAudio() {
+   audioPlayer.stop();
+  }
 
   void nextPage(PageController pageController) {
     pageController.animateToPage(pageController.page!.toInt() + 1,
         duration: Duration(milliseconds: 400), curve: Curves.easeIn);
+  }
+   List<Ayah> getTexts = [];
+
+  Future quranGetText(int page) async {
+    getTexts =
+        await getText(pageNo: page, kariId: "ar.alafasy");
+
+    return getTexts;
   }
 
 /*Future quranGetText(int page) async {
@@ -101,7 +81,7 @@ class FollowQuranViewModel extends ChangeNotifier {
         await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
     return getText;
   }*/
-  getPage({required int pageNo, required String kariId}) async {
+  /*getPage({required int pageNo, required String kariId}) async {
     final response = await http.get(Uri.parse(UrlsConstant.ALQURANCLOUDV1 +
         UrlPathExtanstion(URLAlQuranPath.page).urlPath! +
         "$pageNo/$kariId"));
@@ -115,8 +95,19 @@ class FollowQuranViewModel extends ChangeNotifier {
   getText({required int pageNo, String? kariId}) async {
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
     return getPagevar.ayahs;
+  }*/
+ getPage({required int pageNo, required String kariId}) async {
+    final data = await rootBundle.loadString('assets/quranpage/$pageNo.json');
+  Map<String, dynamic> decode = jsonDecode(data);
+  var get = FollowQuranModel.fromJson(decode);
+  
+  return get.data;
   }
 
+  getText({required int pageNo, String? kariId}) async {
+    var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
+    return getPagevar.ayahs;
+  }
   getAudio() async {}
 
   convertToArabicNumber(int number) {

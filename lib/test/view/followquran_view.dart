@@ -15,7 +15,6 @@ class FollowQuranView extends StatefulWidget {
 class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   List<Ayah> getText = [];
-  var itemKey = GlobalKey();
 
   Future quranGetText(int page) async {
     getText =
@@ -38,33 +37,70 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     var provider = Provider.of<FollowQuranViewModel>(context);
     return Scaffold(
       backgroundColor: theme.listTileTheme.iconColor,
-      appBar: AppBar(title: provider.getAppBarTitle),
+      appBar: AppBar(title: Column(
+        children: [
+          Center(
+            child: Text(
+              getText.isEmpty ? "" : getText[0].surah!.englishName!,
+              textAlign: TextAlign.left,
+            ),
+          ),
+          Wrap(
+            spacing: 2.0,
+            children: [
+              Text(
+                getText.isEmpty
+                    ? ""
+                    : " Sayfa : {${getText[0].page.toString()} / 604} - ",
+                textAlign: TextAlign.left,
+                style: TextStyle(fontSize: 15),
+              ),
+              Text(
+                getText.isEmpty
+                    ? ""
+                    : " Cüz : {${getText[0].juz.toString()} / 30}",
+                textAlign: TextAlign.left,
+                style: TextStyle(fontSize: 15),
+              ),
+              /*Text(
+                  getText.isEmpty ? "" : "604",
+                  textAlign: TextAlign.left,
+                ),*/
+            ],
+          )
+        ],
+      )),
       body: PageView.builder(
         controller: provider.pageController,
         itemCount: 604,
-        onPageChanged: (int page) {
+       
+        onPageChanged: (int page) async{
           provider.getAyahList = getText;
           provider.aktifsurah = 1;
-          provider.getAppBarTitle;
+          provider.stopAudio();
           // var path = getText[0].audioSecondary![1];
           // provider.playAudio(path: path);
         },
         itemBuilder: (context, index) {
           // ignore: avoid_unnecessary_containers
           return Padding(
-            padding: const EdgeInsets.only(left: 5.0, right: 5.0),
+            padding: const EdgeInsets.all(5.0),
             child: Container(
-              child: FutureBuilder(
-                  future: quranGetText(index + 1),
-                  builder: (BuildContext context, AsyncSnapshot asyncSnapshot) {
-                    if (asyncSnapshot.hasData) {
-                      return quranPageListText(provider);
-                    } else {
-                      return Center(
-                        child: CircularProgressIndicator(),
-                      );
-                    }
-                  }),
+              decoration: BoxDecoration(border: Border.all(width: 2,color: theme.primaryColor)),
+              child: Padding(
+                padding: const EdgeInsets.all(5.0),
+                child: FutureBuilder(
+                    future: quranGetText(index + 1),
+                    builder: (BuildContext context, AsyncSnapshot asyncSnapshot) {
+                      if (asyncSnapshot.hasData) {
+                        return quranPageListText(provider);
+                      } else {
+                        return Center(
+                          child: CircularProgressIndicator(),
+                        );
+                      }
+                    }),
+              ),
             ),
           );
         },
@@ -77,7 +113,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         onPressed: () {
           provider.getAyahList = getText;
           var deger = provider.aktifsurah = 1;
-          print(deger);
+         
           var path = getText[0].audioSecondary![1];
           provider.playAudio(path: path);
         },
@@ -97,14 +133,11 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           textDirection: TextDirection.rtl,
           text: TextSpan(
             style: TextStyle(
-                fontSize: 28,
+                fontSize: 19,
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children: getText.map((e) {
               var listNumber = getText.indexOf(e);
-              print("İndis : " +
-                  listNumber.toString() +
-                  " aktif : " +
-                  _fqvmProvider.aktifsurah.toString());
+             
               return TextSpan(
                 style: listNumber == _fqvmProvider.aktifsurah - 1
                     ? TextStyle(
