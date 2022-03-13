@@ -13,14 +13,12 @@ class NetworkManager extends ChangeNotifier {
   bool downloading = true;
   double progress = 0;
   double newProgress = 0;
-  @override
-  notifyListeners();
 
   Future<dynamic> downloadFile(
       {required String url, required String fileName}) async {
     Dio dio = Dio();
     var dir = await getApplicationDocumentsDirectory();
-    var path = "${dir.path}/$fileName";
+    var path = "${dir.path}/$fileName.zip";
     var pathState = File(path);
     if (!pathState.existsSync()) {
       if (await connectionControl()) {
@@ -29,7 +27,7 @@ class NetworkManager extends ChangeNotifier {
           downloading = true;
           progress = ((rec / total) * 100);
           notifyListeners();
-          //print(progress);
+          print(progress);
           //print(dir.path+"/kuranuthmani.dpf");
         }).then((value) {
           if (value.statusCode != 200) {
@@ -80,7 +78,8 @@ class NetworkManager extends ChangeNotifier {
     return 1;
   }*/
 
-  Future downloadMediaFile({required String url,required String folderandpath}) async {
+  Future downloadMediaFile(
+      {required String url, required String folderandpath}) async {
     final dir = await getApplicationDocumentsDirectory();
     final file = File('${dir.path}/$folderandpath');
 
