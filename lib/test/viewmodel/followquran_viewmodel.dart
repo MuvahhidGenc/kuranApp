@@ -5,6 +5,7 @@ import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
+import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:flutter_archive/flutter_archive.dart';
@@ -20,11 +21,17 @@ class FollowQuranViewModel extends ChangeNotifier {
   IconData? floattingActionButtonIcon;
   PageController pageController =
       PageController(initialPage: 0, keepPage: false);
+  List<Ayah> getTexts = [];
 
   audioPlayerStream() {
+   audioPlayer.onPlayerError.listen((msg) {
+     print(msg);
+   });
     audioPlayer.onPlayerStateChanged.listen((state) async {
       audioPlayerState = state;
       var totalAyah = getAyahList!.length;
+
+        
 
       if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
         aktifsurah++;
@@ -45,6 +52,7 @@ class FollowQuranViewModel extends ChangeNotifier {
           audioPlayerState == PlayerState.PAUSED ||
           floattingActionButtonIcon == null) {
         floattingActionButtonIcon = Icons.play_circle_fill;
+       
       }
       // print(aktifsurah);
       notifyListeners();
@@ -53,20 +61,21 @@ class FollowQuranViewModel extends ChangeNotifier {
 
   Future playAudio({required String path}) async {
     if (audioPlayerState == PlayerState.PLAYING) {
-      audioPlayer.stop();
+    
+      await audioPlayer.stop();
     } else {
-      audioPlayer.play(path);
+     await audioPlayer.play(path,isLocal: true);
     }
     // notifyListeners();
   }
 
   Future onlyPlayAudio({required String path}) async {
-    audioPlayer.play(path);
+   await audioPlayer.play(path,isLocal: true);
     // notifyListeners();
   }
 
-  stopAudio() {
-    audioPlayer.stop();
+  stopAudio() async{
+   await audioPlayer.stop();
     notifyListeners();
   }
 
@@ -75,11 +84,19 @@ class FollowQuranViewModel extends ChangeNotifier {
         duration: Duration(milliseconds: 400), curve: Curves.easeIn);
   }
 
-  List<Ayah> getTexts = [];
+  onChangePage(int page)async{
+        getAyahList =await quranGetText(page+1);
+        print(getAyahList![0].text);
+        aktifsurah = 1;
+        await stopAudio();
+        
+  }
+
+
 
   Future quranGetText(int page) async {
     getTexts = await getText(pageNo: page, kariId: "ar.alafasy");
-
+    //notifyListeners();
     return getTexts;
   }
 
@@ -92,12 +109,19 @@ class FollowQuranViewModel extends ChangeNotifier {
   }
 
   Future zipExtract(String zipPath, String fileName) async {
+    
     final dir = await getApplicationDocumentsDirectory();
     final path = "${dir.path}";
 
     final zipFile = File(zipPath);
     final appDataDir = Directory.systemTemp;
     final destinationDir = Directory("${appDataDir.path}");
+    if(zipPath== ExcationManagerEnum.downloadEroor){
+      print("download Error");
+      destinationDir.delete(recursive: true);
+      
+      return;
+    }
     if (destinationDir.existsSync()) {
       return;
     }
@@ -150,12 +174,13 @@ class FollowQuranViewModel extends ChangeNotifier {
     return get.data;
   }
 
-  getText({required int pageNo, String? kariId}) async {
+    getText({required int pageNo, String? kariId}) async {
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
+    notifyListeners();
     return getPagevar.ayahs;
   }
 
-  getAudio() async {}
+
 
   convertToArabicNumber(int number) {
     return _arabicNumber.convert(number).toString();

@@ -23,10 +23,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   bool fullScreen = false;
 
   Future quranGetText(int page) async {
-    getText =
-        await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
-    print(await GetPageAPI()
-        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/3.zip"));
+    getText =await Provider.of<FollowQuranViewModel>(context,listen: false).quranGetText(page);
+    /*print(await GetPageAPI()
+        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/3.zip"));*/
     return getText;
   }
 
@@ -35,8 +34,10 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     // TODO: implement initState
     fullScreen = false;
     super.initState();
-    Provider.of<FollowQuranViewModel>(context, listen: false)
-        .audioPlayerStream();
+    quranGetText(1);
+    _followQuranViewModel=Provider.of<FollowQuranViewModel>(context, listen: false);
+    _followQuranViewModel.audioPlayerStream();
+    
 
     // quranGetText(1);
     //Provider.of<FollowQuranViewModel>(context, listen: false).aktifsurah = 1;
@@ -45,7 +46,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   @override
   void dispose() {
     // TODO: implement dispose
-    //  Provider.of<FollowQuranViewModel>(context, listen: false).stopAudio();
     super.dispose();
   }
 
@@ -89,6 +89,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             provider.aktifsurah = 1;
             // print(provider.aktifsurah);
             var path = getText[0].audioSecondary![1];
+            
             provider.playAudio(path: path);
           } else if (i == 4) {
             fullScreen = !fullScreen;
@@ -115,14 +116,18 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     return PageView.builder(
       controller: provider.pageController,
       itemCount: 604,
+      
       onPageChanged: (int page) async {
+        print(page);
         // Provider.of<FollowQuranViewModel>(context).getAyahList = getText;
         // Provider.of<FollowQuranViewModel>(context).aktifsurah = 1;
-        print(page);
-        //getText = await quranGetText(page);
+       // print(page);
+        getText = await quranGetText(page+1);
         provider.getAyahList = getText;
+        print(getText[0].text);
         provider.aktifsurah = 1;
         await provider.stopAudio();
+       
 
         // print(provider.aktifsurah);
         // var path = getText[0].audioSecondary![1];
@@ -130,7 +135,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       },
       itemBuilder: (context, index) {
         // ignore: avoid_unnecessary_containers
-        provider.downloadAudioZip((index + 3).toString());
+        //provider.downloadAudioZip((index + 2).toString());
         return Padding(
           padding: const EdgeInsets.all(5.0),
           child: Container(
@@ -138,18 +143,8 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 border: Border.all(width: 2, color: theme.primaryColor)),
             child: Padding(
               padding: const EdgeInsets.all(5.0),
-              child: FutureBuilder(
-                  future: quranGetText(index + 1),
-                  builder: (BuildContext context, AsyncSnapshot asyncSnapshot) {
-                    //provider.aktifsurah = 1;
-                    if (asyncSnapshot.hasData) {
-                      return quranPageListText(provider, context);
-                    } else {
-                      return Center(
-                        child: CircularProgressIndicator(),
-                      );
-                    }
-                  }),
+              child:quranPageListText(provider, context),
+                  
             ),
           ),
         );

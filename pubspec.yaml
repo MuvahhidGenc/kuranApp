@@ -29,6 +29,7 @@ environment:
 dependencies:
   arabic_numbers: ^1.0.0
   audioplayers: ^0.20.1
+  auto_size_text: ^3.0.0
   carousel_images: ^1.1.2
   carousel_slider: ^4.0.0
   connectivity: ^3.0.6
