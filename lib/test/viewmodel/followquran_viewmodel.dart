@@ -14,26 +14,25 @@ import 'package:path_provider/path_provider.dart';
 class FollowQuranViewModel extends ChangeNotifier {
   var _arabicNumber = ArabicNumbers();
   var _arabicNumberConvert;
-  AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
-  PlayerState? audioPlayerState;
-  int aktifsurah = 0;
+ // AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
+//  PlayerState? audioPlayerState;
+ // int aktifsurah = 0;
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
   PageController pageController =
       PageController(initialPage: 0, keepPage: false);
   List<Ayah> getTexts = [];
 
-  audioPlayerStream() {
-   audioPlayer.onPlayerError.listen((msg) {
-     print(msg);
+  /*audioPlayerStream() {
+   audioPlayer.onDurationChanged.listen((event) {
+     print(event.inSeconds.toDouble());
    });
     audioPlayer.onPlayerStateChanged.listen((state) async {
       audioPlayerState = state;
       var totalAyah = getAyahList!.length;
-
-        
-
+      print(aktifsurah);
       if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
+        await audioPlayer.stop();
         aktifsurah++;
 
         await playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
@@ -64,13 +63,13 @@ class FollowQuranViewModel extends ChangeNotifier {
     
       await audioPlayer.stop();
     } else {
-     await audioPlayer.play(path,isLocal: true);
+     await audioPlayer.play(path,isLocal: false);
     }
     // notifyListeners();
   }
 
   Future onlyPlayAudio({required String path}) async {
-   await audioPlayer.play(path,isLocal: true);
+   await audioPlayer.play(path,isLocal: false);
     // notifyListeners();
   }
 
@@ -90,7 +89,7 @@ class FollowQuranViewModel extends ChangeNotifier {
         aktifsurah = 1;
         await stopAudio();
         
-  }
+  }*/
 
 
 
