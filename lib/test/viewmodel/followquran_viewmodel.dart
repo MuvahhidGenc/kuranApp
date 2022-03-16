@@ -22,6 +22,8 @@ class FollowQuranViewModel extends ChangeNotifier {
   PageController pageController =
       PageController(initialPage: 0, keepPage: false);
   List<Ayah> getTexts = [];
+  bool _textFontState=false;
+  double _fontSize=17;
 
   /*audioPlayerStream() {
    audioPlayer.onDurationChanged.listen((event) {
@@ -91,6 +93,17 @@ class FollowQuranViewModel extends ChangeNotifier {
         
   }*/
 
+get textFontState=>_textFontState;
+get fontSize=>_fontSize;
+
+setTextFontState(bool textFontState){
+  _textFontState=textFontState;
+  notifyListeners();
+  }
+  setTextFontSize(double fontsize){
+  _fontSize=fontsize;
+  notifyListeners();
+  }
 
 
   Future quranGetText(int page) async {

@@ -1,13 +1,8 @@
 import 'package:audioplayers/audioplayers.dart';
-import 'package:audioplayers/audioplayers_api.dart';
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/scheduler.dart';
-import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/globals/manager/network_manager.dart';
-import 'package:kuran/globals/services/dio/request.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
@@ -23,98 +18,112 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   var _followQuranViewModel = FollowQuranViewModel();
   List<Ayah> getText = [];
   bool fullScreen = false;
-   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
+  AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState? audioPlayerState;
   int aktifsurah = 0;
-
-Future playAudio({required String path}) async {
-    if (audioPlayerState == PlayerState.PLAYING) {
-    
-      await audioPlayer.stop();
-    } else {
-     await audioPlayer.play(path,isLocal: false);
-    }
-    // notifyListeners();
-  }
-
-  Future onlyPlayAudio({required String path}) async {
-   await audioPlayer.play(path,isLocal: false);
-    // notifyListeners();
-  }
-
-  stopAudio() async{
-   await audioPlayer.stop();
-  }
-
-  void nextPage(PageController pageController) {
-    pageController.animateToPage(pageController.page!.toInt() + 1,
-        duration: Duration(milliseconds: 400), curve: Curves.easeIn);
-  }
-
-   audioPlayerStream() {
-     
-  
-    audioPlayer.onPlayerStateChanged.listen((state) async {
-      audioPlayerState = state;
-      var totalAyah = getText.length;
-      print(aktifsurah);
-      if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
-       // await audioPlayer.stop();
-        aktifsurah++;
-
-        await playAudio(path:getText[aktifsurah - 1].audioSecondary![1]);
-        print(aktifsurah.toString() + " - " + totalAyah.toString());
-        _followQuranViewModel.floattingActionButtonIcon = Icons.play_circle_fill;
-      } else if (audioPlayerState == PlayerState.COMPLETED &&
-         aktifsurah == totalAyah) {
-        aktifsurah = -1;
-        _followQuranViewModel.floattingActionButtonIcon = Icons.play_circle_fill;
-       nextPage(_followQuranViewModel.pageController);
-          aktifsurah=1;
-      }
-      if (audioPlayerState == PlayerState.PLAYING) {
-        _followQuranViewModel.floattingActionButtonIcon = Icons.pause_circle_filled;
-      } else if (audioPlayerState == PlayerState.STOPPED ||
-          audioPlayerState == PlayerState.PAUSED ||
-          _followQuranViewModel.floattingActionButtonIcon == null) {
-           
-        _followQuranViewModel.floattingActionButtonIcon = Icons.play_circle_fill;
-       
-      }
-      // print(aktifsurah);
-      setState(() {
-        
-      });
-    });
-  }
-
-  Future quranGetText(int page) async {
-    getText =await Provider.of<FollowQuranViewModel>(context,listen: false).quranGetText(page);
-    /*print(await GetPageAPI()
-        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/3.zip"));*/
-    return getText;
-  }
-
+  List<GlobalKey> keys = List.empty();
+  ScrollController _scrollController = ScrollController();
   @override
   void initState() {
     // TODO: implement initState
     fullScreen = false;
     super.initState();
     quranGetText(1);
-    _followQuranViewModel=Provider.of<FollowQuranViewModel>(context, listen: false);
+    _followQuranViewModel =
+        Provider.of<FollowQuranViewModel>(context, listen: false);
     audioPlayerStream();
+    //addKeysGlobalKey();
+  }
+
+  _scrollToBottom() {
+    _scrollController.jumpTo(_scrollController.position.maxScrollExtent);
+  }
+
+  Future playAudio({required String path, bool? onlyPlay}) async {
+    if (audioPlayerState == PlayerState.PLAYING) {
+      await audioPlayer.stop();
+    } else {
+      await audioPlayer.play(path, isLocal: false);
+    }
+    // notifyListeners();
+  }
+
+  Future onlyPlayAudio({required String path}) async {
+    await audioPlayer.play(path, isLocal: false);
+    // notifyListeners();
+  }
+
+  stopAudio() async {
+    await audioPlayer.stop();
+  }
+
+  void nextPage(PageController pageController) {
+    pageController.animateToPage(pageController.page!.toInt() + 1,
+        duration: const Duration(milliseconds: 400), curve: Curves.easeIn);
+  }
+
+  audioPlayerStream() {
+    addKeysGlobalKey() {
+      keys = List.generate(getText.length, (i) => GlobalKey());
+    }
+
+    audioPlayer.onPlayerStateChanged.listen((state) async {
+      audioPlayerState = state;
+      var totalAyah = getText.length;
+      if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
+        // await audioPlayer.stop();
+        aktifsurah++;
+        /*Scrollable.ensureVisible(
+   keys[aktifsurah-1].currentContext!,
+   alignment: 0.2,
+   duration: Duration(milliseconds: 500),
+);*/
+        await playAudio(path: getText[aktifsurah - 1].audioSecondary![1]);
+        //print(aktifsurah.toString() + " - " + totalAyah.toString());
+        _followQuranViewModel.floattingActionButtonIcon =
+            Icons.play_circle_fill;
+      } else if (audioPlayerState == PlayerState.COMPLETED &&
+          aktifsurah == totalAyah) {
+        aktifsurah = -1;
+        _followQuranViewModel.floattingActionButtonIcon =
+            Icons.play_circle_fill;
+        nextPage(_followQuranViewModel.pageController);
+        aktifsurah = 1;
+      }
+      if (audioPlayerState == PlayerState.PLAYING) {
+        _followQuranViewModel.floattingActionButtonIcon =
+            Icons.pause_circle_filled;
+      } else if (audioPlayerState == PlayerState.STOPPED ||
+          audioPlayerState == PlayerState.PAUSED ||
+          _followQuranViewModel.floattingActionButtonIcon == null) {
+        _followQuranViewModel.floattingActionButtonIcon =
+            Icons.play_circle_fill;
+      }
+      // print(aktifsurah);
+
+      setState(() {});
+    });
+  }
+
+  Future quranGetText(int page) async {
+    getText = await Provider.of<FollowQuranViewModel>(context, listen: false)
+        .quranGetText(page);
+
+    /*print(await GetPageAPI()
+        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/3.zip"));*/
+    return getText;
   }
 
   @override
   void dispose() {
     // TODO: implement dispose
-   //audioPlayer.dispose();
+    //audioPlayer.dispose();
     super.dispose();
   }
- 
 
   @override
   Widget build(BuildContext context) {
+    WidgetsBinding.instance?.addPostFrameCallback((_) => _scrollToBottom());
     var theme = SnippetExtanstion(context).theme;
     var provider = Provider.of<FollowQuranViewModel>(context);
 
@@ -122,9 +131,13 @@ Future playAudio({required String path}) async {
       backgroundColor: theme.listTileTheme.iconColor,
       appBar: !fullScreen ? appBar() : null,
       body: bodyPageView(provider, theme, context),
-      floatingActionButton: fullScreen ? floatingActionBottom(provider) : null,
+      floatingActionButton: fullScreen
+          ? floatingActionBottom(provider)
+          : null /*provider.textFontState?textFontSizeSettingWidget(provider)*/ /*:null*/,
       floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
       bottomNavigationBar: !fullScreen ? bottomNavigatorBar(provider) : null,
+      bottomSheet:
+          provider.textFontState ? textFontSizeSettingWidget(provider) : null,
     );
   }
 
@@ -133,37 +146,44 @@ Future playAudio({required String path}) async {
         style: TabStyle.fixedCircle,
         backgroundColor: SnippetExtanstion(context).theme.primaryColor,
         items: [
-          TabItem(icon: Icons.list, title: "Süreler"),
-          TabItem(
+          const TabItem(icon: Icons.list, title: ""),
+          const TabItem(
               icon: Icons.speaker_notes_off,
               activeIcon: Icons.speaker_notes,
-              title: "Meal"),
+              title: ""),
           TabItem(
               icon:
                   provider.floattingActionButtonIcon ?? Icons.play_circle_fill,
-              title: "Play",
+              title: "",
               isIconBlend: true),
-          TabItem(icon: Icons.settings, title: "Ayarlar"),
-          TabItem(icon: Icons.fullscreen, title: "Tam Ekran"),
+          const TabItem(icon: Icons.text_fields, title: ""),
+          const TabItem(icon: Icons.fullscreen, title: ""),
         ],
         initialActiveIndex: 2,
         onTap: (int i) {
           if (i == 2) {
+            provider.setTextFontState(false);
             provider.getAyahList = getText;
-            aktifsurah = 1;
-            // print(provider.aktifsurah);
             var path = getText[0].audioSecondary![1];
-            playAudio(path:path);
+
+            aktifsurah = 1;
+            playAudio(path: path);
+
+            // print(audioPlayerState);
+
           } else if (i == 4) {
+            provider.setTextFontState(false);
             fullScreen = !fullScreen;
             setState(() {});
+          } else if (i == 3) {
+            provider.setTextFontState(!provider.textFontState);
           }
         },
       );
 
   FloatingActionButton floatingActionBottom(FollowQuranViewModel provider) {
     return FloatingActionButton(
-      child: Icon(
+      child: const Icon(
         Icons.fullscreen_exit,
       ),
       mini: true,
@@ -174,25 +194,28 @@ Future playAudio({required String path}) async {
     );
   }
 
+  Widget textFontSizeSettingWidget(FollowQuranViewModel provider) {
+    return Container(
+      height: 75,
+      child: Slider.adaptive(
+        min: 17,
+        value: provider.fontSize,
+        max: 40,
+        onChanged: (double value) => provider.setTextFontSize(value),
+      ),
+    );
+  }
+
   PageView bodyPageView(
       FollowQuranViewModel provider, ThemeData theme, BuildContext context) {
     return PageView.builder(
       controller: provider.pageController,
       itemCount: 604,
-      
       onPageChanged: (int page) async {
-        print(page);
-        // Provider.of<FollowQuranViewModel>(context).getAyahList = getText;
-        // Provider.of<FollowQuranViewModel>(context).aktifsurah = 1;
-       // print(page);
-        getText = await quranGetText(page+1);
+        getText = await quranGetText(page + 1);
         provider.getAyahList = getText;
-        //print(getText[0].text);
         aktifsurah = 1;
         await audioPlayer.stop();
-       
-
-        // print(provider.aktifsurah);
         var path = getText[0].audioSecondary![1];
         playAudio(path: path);
       },
@@ -206,8 +229,7 @@ Future playAudio({required String path}) async {
                 border: Border.all(width: 2, color: theme.primaryColor)),
             child: Padding(
               padding: const EdgeInsets.all(5.0),
-              child:quranPageListText(provider, context),
-                  
+              child: quranPageListText(provider, context),
             ),
           ),
         );
@@ -233,14 +255,14 @@ Future playAudio({required String path}) async {
                   ? ""
                   : " Sayfa : {${getText[0].page.toString()} / 604} - ",
               textAlign: TextAlign.left,
-              style: TextStyle(fontSize: 15),
+              style: const TextStyle(fontSize: 15),
             ),
             Text(
               getText.isEmpty
                   ? ""
                   : " Cüz : {${getText[0].juz.toString()} / 30}",
               textAlign: TextAlign.left,
-              style: TextStyle(fontSize: 15),
+              style: const TextStyle(fontSize: 15),
             ),
             /*Text(
                 getText.isEmpty ? "" : "604",
@@ -256,6 +278,7 @@ Future playAudio({required String path}) async {
   Widget quranPageListText(
       FollowQuranViewModel _fqvmProvider, BuildContext context) {
     return ListView(
+      controller: _scrollController,
       shrinkWrap: true,
       children: [
         RichText(
@@ -265,7 +288,7 @@ Future playAudio({required String path}) async {
           textDirection: TextDirection.rtl,
           text: TextSpan(
             style: TextStyle(
-                fontSize: 27,
+                fontSize: _fqvmProvider.fontSize,
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children: getText.map((e) {
               var listNumber = getText.indexOf(e);
@@ -274,26 +297,23 @@ Future playAudio({required String path}) async {
                   listNumber.toString());*/
               return TextSpan(
                 style: listNumber == aktifsurah - 1
-                    ? TextStyle(
+                    ? const TextStyle(
                         backgroundColor: Colors.grey,
                         fontFamily: 'KFGQPC Uthman Taha Naskh',
                       )
-                    : TextStyle(
+                    : const TextStyle(
                         fontFamily: 'KFGQPC Uthman Taha Naskh',
                       ),
                 text: " " + e.text!.trim() + " ",
                 recognizer: TapGestureRecognizer()
                   ..onTap = () async {
+                    await stopAudio();
                     _fqvmProvider.getAyahList = getText;
-
-                   await stopAudio();
-
                     aktifsurah = listNumber + 1;
+                    playAudio(path: e.audioSecondary![1]);
 
-                    playAudio(path:e.audioSecondary![1]);
-
-                    print(aktifsurah);
-                    setState(() {});
+                    // print(aktifsurah);
+                    // setState(() {});
                   },
                 children: [
                   WidgetSpan(
