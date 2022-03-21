@@ -1,8 +1,11 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
+import 'package:kuran/globals/widgets/alertdialog_widget.dart';
+import 'package:kuran/globals/widgets/cupertionpicker_widget.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
@@ -21,8 +24,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState? audioPlayerState;
   int aktifsurah = 0;
-  List<GlobalKey> keys = List.empty();
-  ScrollController _scrollController = ScrollController();
   @override
   void initState() {
     // TODO: implement initState
@@ -33,10 +34,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         Provider.of<FollowQuranViewModel>(context, listen: false);
     audioPlayerStream();
     //addKeysGlobalKey();
-  }
-
-  _scrollToBottom() {
-    _scrollController.jumpTo(_scrollController.position.maxScrollExtent);
   }
 
   Future playAudio({required String path, bool? onlyPlay}) async {
@@ -57,27 +54,14 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     await audioPlayer.stop();
   }
 
-  void nextPage(PageController pageController) {
-    pageController.animateToPage(pageController.page!.toInt() + 1,
-        duration: const Duration(milliseconds: 400), curve: Curves.easeIn);
-  }
-
   audioPlayerStream() {
-    addKeysGlobalKey() {
-      keys = List.generate(getText.length, (i) => GlobalKey());
-    }
-
     audioPlayer.onPlayerStateChanged.listen((state) async {
       audioPlayerState = state;
       var totalAyah = getText.length;
       if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
         // await audioPlayer.stop();
         aktifsurah++;
-        /*Scrollable.ensureVisible(
-   keys[aktifsurah-1].currentContext!,
-   alignment: 0.2,
-   duration: Duration(milliseconds: 500),
-);*/
+
         await playAudio(path: getText[aktifsurah - 1].audioSecondary![1]);
         //print(aktifsurah.toString() + " - " + totalAyah.toString());
         _followQuranViewModel.floattingActionButtonIcon =
@@ -87,7 +71,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         aktifsurah = -1;
         _followQuranViewModel.floattingActionButtonIcon =
             Icons.play_circle_fill;
-        nextPage(_followQuranViewModel.pageController);
+        _followQuranViewModel.nextPage(_followQuranViewModel.pageController);
         aktifsurah = 1;
       }
       if (audioPlayerState == PlayerState.PLAYING) {
@@ -123,7 +107,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
 
   @override
   Widget build(BuildContext context) {
-    WidgetsBinding.instance?.addPostFrameCallback((_) => _scrollToBottom());
+    //WidgetsBinding.instance?.addPostFrameCallback((_) => _scrollToBottom());
     var theme = SnippetExtanstion(context).theme;
     var provider = Provider.of<FollowQuranViewModel>(context);
 
@@ -136,8 +120,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           : null /*provider.textFontState?textFontSizeSettingWidget(provider)*/ /*:null*/,
       floatingActionButtonLocation: FloatingActionButtonLocation.startFloat,
       bottomNavigationBar: !fullScreen ? bottomNavigatorBar(provider) : null,
-      bottomSheet:
-          provider.textFontState ? textFontSizeSettingWidget(provider) : null,
+      bottomSheet: provider.bottomSheetController,
     );
   }
 
@@ -161,8 +144,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         ],
         initialActiveIndex: 2,
         onTap: (int i) {
-          if (i == 2) {
-            provider.setTextFontState(false);
+          if (i == 1) {
+            provider.setBottomSheetMealState(!provider.bottomSheetMealState);
+          } else if (i == 2) {
             provider.getAyahList = getText;
             var path = getText[0].audioSecondary![1];
 
@@ -172,11 +156,18 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             // print(audioPlayerState);
 
           } else if (i == 4) {
-            provider.setTextFontState(false);
             fullScreen = !fullScreen;
             setState(() {});
           } else if (i == 3) {
             provider.setTextFontState(!provider.textFontState);
+          } else if (i == 0) {
+            _onPressChoisePageBottomSheetModel(provider);
+          }
+          if (i != 3) {
+            provider.setTextFontState(false);
+          }
+          if (i != 1) {
+            provider.setBottomSheetMealState(false);
           }
         },
       );
@@ -194,18 +185,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     );
   }
 
-  Widget textFontSizeSettingWidget(FollowQuranViewModel provider) {
-    return Container(
-      height: 75,
-      child: Slider.adaptive(
-        min: 17,
-        value: provider.fontSize,
-        max: 40,
-        onChanged: (double value) => provider.setTextFontSize(value),
-      ),
-    );
-  }
-
   PageView bodyPageView(
       FollowQuranViewModel provider, ThemeData theme, BuildContext context) {
     return PageView.builder(
@@ -217,7 +196,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         aktifsurah = 1;
         await audioPlayer.stop();
         var path = getText[0].audioSecondary![1];
-        playAudio(path: path);
+        onlyPlayAudio(path: path);
       },
       itemBuilder: (context, index) {
         // ignore: avoid_unnecessary_containers
@@ -264,21 +243,15 @@ class _FollowQuranViewState extends State<FollowQuranView> {
               textAlign: TextAlign.left,
               style: const TextStyle(fontSize: 15),
             ),
-            /*Text(
-                getText.isEmpty ? "" : "604",
-                textAlign: TextAlign.left,
-              ),*/
           ],
         )
       ],
     ));
   }
 
-  //Widget quranPageListText(FollowQuranViewModel _fqvmProvider) {
   Widget quranPageListText(
       FollowQuranViewModel _fqvmProvider, BuildContext context) {
     return ListView(
-      controller: _scrollController,
       shrinkWrap: true,
       children: [
         RichText(
@@ -292,9 +265,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children: getText.map((e) {
               var listNumber = getText.indexOf(e);
-              /* print((_fqvmProvider.aktifsurah - 1).toString() +
-                  " - " +
-                  listNumber.toString());*/
               return TextSpan(
                 style: listNumber == aktifsurah - 1
                     ? const TextStyle(
@@ -307,13 +277,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 text: " " + e.text!.trim() + " ",
                 recognizer: TapGestureRecognizer()
                   ..onTap = () async {
-                    await stopAudio();
                     _fqvmProvider.getAyahList = getText;
                     aktifsurah = listNumber + 1;
-                    playAudio(path: e.audioSecondary![1]);
-
-                    // print(aktifsurah);
-                    // setState(() {});
+                    onlyPlayAudio(path: e.audioSecondary![1]);
                   },
                 children: [
                   WidgetSpan(
@@ -322,22 +288,131 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                     child: Text(_followQuranViewModel
                         .convertToArabicNumber(e.numberInSurah!)),
                   )),
-                  /* TextSpan(
-                                  text: " ﴿" +
-                                      _followQuranViewModel
-                                          .convertToArabicNumber(
-                                              e.numberInSurah) +
-                                      "﴾ ",
-                                  style: TextStyle(
-                                      fontSize: 18,
-                                      color: Colors.deepOrangeAccent),
-                                ),*/
                 ],
               );
             }).toList(),
           ),
         ),
       ],
+    );
+  }
+
+  _onPressChoisePageBottomSheetModel(FollowQuranViewModel provider) {
+    showModalBottomSheet(
+        context: context,
+        builder: (context) {
+          var gotoSurah = ModelSheetMenuExtension(ModelSheetMenuItems.gotoSurah)
+              .modelSheetMenuItemString!;
+          var gotoJuz = ModelSheetMenuExtension(ModelSheetMenuItems.gotojuz)
+              .modelSheetMenuItemString!;
+          var gotoPage = ModelSheetMenuExtension(ModelSheetMenuItems.gotopage)
+              .modelSheetMenuItemString!;
+          return Container(
+            height: SnippetExtanstion(context).media.size.height * 0.265,
+            child: Column(
+              children: [
+                bottomSheetMenuListTile(
+                  provider,
+                  gotoSurah,
+                  onClick: () => gotoModelPicker(
+                      gotoSurah,
+                      List.generate(
+                          604, (index) => Text((index + 1).toString()))),
+                ),
+                bottomSheetMenuListTile(
+                  provider,
+                  gotoJuz,
+                  onClick: () => gotoModelPicker(
+                      gotoJuz,
+                      List.generate(
+                          30, (index) => Text((index + 1).toString()))),
+                ),
+                bottomSheetMenuListTile(
+                  provider,
+                  gotoPage,
+                  onClick: () => gotoModelPicker(
+                      gotoPage,
+                      List.generate(
+                          604, (index) => Text((index + 1).toString()))),
+                ),
+              ],
+            ),
+          );
+        });
+  }
+
+  ListTile bottomSheetMenuListTile(FollowQuranViewModel provider, String name,
+      {Icon? leftIcon, Icon? rightIcon, required VoidCallback onClick}) {
+    return ListTile(
+      leading: leftIcon ?? Icon(Icons.list_alt),
+      title: Text(name),
+      onTap: onClick,
+      trailing: rightIcon ?? Icon(Icons.arrow_right),
+    );
+  }
+
+  void gotoModelPicker(String buttonName, List<Widget> children) {
+    int page = 0;
+    showCupertinoModalPopup(
+        context: context,
+        builder: (BuildContext builder) {
+          return cupertinoPicker(children, page, buttonName);
+        });
+  }
+
+  Container cupertinoPicker(
+      List<Widget> children, int page, String buttonName) {
+    return Container(
+      color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
+      height: MediaQuery.of(context).copyWith().size.height * 0.4,
+      child: Column(
+        children: [
+          Expanded(
+            child: CupertinoPicker(
+              children: children,
+              onSelectedItemChanged: (value) {
+                if (buttonName ==
+                    ModelSheetMenuExtension(ModelSheetMenuItems.gotojuz)
+                        .modelSheetMenuItemString)
+                  page = value * 20;
+                else if (buttonName ==
+                    ModelSheetMenuExtension(ModelSheetMenuItems.gotoSurah)
+                        .modelSheetMenuItemString)
+                  page = value;
+                else if (buttonName ==
+                    ModelSheetMenuExtension(ModelSheetMenuItems.gotopage)
+                        .modelSheetMenuItemString) {}
+              },
+              itemExtent: 25,
+              diameterRatio: 1,
+              useMagnifier: true,
+              magnification: 1.3,
+              looping: true,
+            ),
+          ),
+          SizedBox(
+            height: 5,
+          ),
+          Padding(
+            padding: const EdgeInsets.all(8.0),
+            child: SizedBox(
+              width: double.infinity,
+              height: 50,
+              child: ElevatedButton(
+                onPressed: () {
+                  _followQuranViewModel.gotoPage(
+                      _followQuranViewModel.pageController, page);
+                },
+                child: Text(buttonName),
+                // icon: Icon(Icons.arrow_right),
+              ),
+            ),
+          ),
+          SizedBox(
+            height: 10,
+          ),
+        ],
+      ),
     );
   }
 }

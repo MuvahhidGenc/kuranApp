@@ -24,6 +24,13 @@ class AppThemeBase extends ChangeNotifier {
         textColor: Colors.brown[50],
         iconColor: Colors.brown[50],
       ),
+      bottomSheetTheme: BottomSheetThemeData(
+        backgroundColor: Colors.brown.withOpacity(0.5),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.only(
+              topLeft: Radius.circular(25), topRight: Radius.circular(25)),
+        ),
+      ),
       drawerTheme: DrawerThemeData(backgroundColor: Colors.brown[100]),
       iconTheme: IconThemeData(color: Colors.brown),
       //colorScheme: ColorScheme(primary: primary, primaryVariant: primaryVariant, secondary: secondary, secondaryVariant: secondaryVariant, surface: surface, background: background, error: error, onPrimary: onPrimary, onSecondary: onSecondary, onSurface: onSurface, onBackground: onBackground, onError: onError, brightness: brightness)
@@ -34,6 +41,13 @@ class AppThemeBase extends ChangeNotifier {
   ThemeData get dark {
     return ThemeData.dark().copyWith(
       primaryColorLight: Colors.white,
+      bottomSheetTheme: BottomSheetThemeData(
+        backgroundColor: Colors.black.withOpacity(0.5),
+        shape: RoundedRectangleBorder(
+          borderRadius: BorderRadius.only(
+              topLeft: Radius.circular(50), topRight: Radius.circular(50)),
+        ),
+      ),
     );
   }
 

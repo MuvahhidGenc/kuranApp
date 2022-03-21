@@ -38,8 +38,7 @@ class KuranModelView {
   }
 
   Future dbKeyControl(String key) async {
-    dynamic dbControl =await HiveDb().getBox(key);
+    dynamic dbControl = await HiveDb().getBox(key);
     return dbControl != null ? dbControl : null;
-    return true;
   }
 }

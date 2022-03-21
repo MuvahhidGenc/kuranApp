@@ -9,21 +9,25 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:flutter_archive/flutter_archive.dart';
+import 'package:kuran/test/model/sure_name_model.dart';
+import 'package:kuran/test/widgets/bottomsheetfontsize_widget.dart';
+import 'package:kuran/test/widgets/bottomsheetmeal_widget.dart';
 import 'package:path_provider/path_provider.dart';
 
 class FollowQuranViewModel extends ChangeNotifier {
   var _arabicNumber = ArabicNumbers();
   var _arabicNumberConvert;
- // AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
+  // AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
 //  PlayerState? audioPlayerState;
- // int aktifsurah = 0;
+  // int aktifsurah = 0;
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
   PageController pageController =
       PageController(initialPage: 0, keepPage: false);
   List<Ayah> getTexts = [];
-  bool _textFontState=false;
-  double _fontSize=17;
+  bool _bottomSheetTextFontState = false;
+  bool _bottomSheetMealState = false;
+  double _fontSize = 20;
 
   /*audioPlayerStream() {
    audioPlayer.onDurationChanged.listen((event) {
@@ -93,18 +97,64 @@ class FollowQuranViewModel extends ChangeNotifier {
         
   }*/
 
-get textFontState=>_textFontState;
-get fontSize=>_fontSize;
-
-setTextFontState(bool textFontState){
-  _textFontState=textFontState;
-  notifyListeners();
+  get textFontState => _bottomSheetTextFontState;
+  get fontSize => _fontSize;
+  get bottomSheetMealState => _bottomSheetMealState;
+  get bottomSheetController {
+    if (textFontState) {
+      return BottomSheetFontSizeWidget();
+    } else if (bottomSheetMealState) {
+      return BottomSheetMealWidget();
+    }
+    return SizedBox(
+      height: 0,
+    );
   }
-  setTextFontSize(double fontsize){
-  _fontSize=fontsize;
-  notifyListeners();
+
+  void gotoPage(PageController pageController, int page) {
+    pageController.animateToPage(page.toInt(),
+        duration: Duration(milliseconds: 400), curve: Curves.easeIn);
+    notifyListeners();
   }
 
+  void nextPage(PageController pageController) {
+    pageController.animateToPage(pageController.page!.toInt() + 1,
+        duration: const Duration(milliseconds: 400), curve: Curves.easeIn);
+  }
+
+  setBottomSheetMealState(bool mealState) {
+    _bottomSheetMealState = mealState;
+    notifyListeners();
+  }
+
+  setTextFontState(bool textFontState) {
+    _bottomSheetTextFontState = textFontState;
+    notifyListeners();
+  }
+
+  setTextFontSize(double fontsize) {
+    _fontSize = fontsize;
+    notifyListeners();
+  }
+
+  modelSheetMenuSelectedItem(String selectedItem) {
+    if (returnSelectedItemName(ModelSheetMenuItems.gotoSurah, selectedItem)) {
+      print("Süreye Git OnClick is Working");
+    }
+    if (returnSelectedItemName(ModelSheetMenuItems.gotojuz, selectedItem)) {
+      print("Cüze Git OnClick is Working");
+    }
+    if (returnSelectedItemName(ModelSheetMenuItems.gotopage, selectedItem)) {
+      print("Sayfaya Git OnClick is Working");
+    }
+  }
+
+  returnSelectedItemName(ModelSheetMenuItems name, String selectedItem) {
+    if (ModelSheetMenuExtension(name).modelSheetMenuItemString == selectedItem)
+      return true;
+    else
+      return false;
+  }
 
   Future quranGetText(int page) async {
     getTexts = await getText(pageNo: page, kariId: "ar.alafasy");
@@ -121,17 +171,16 @@ setTextFontState(bool textFontState){
   }
 
   Future zipExtract(String zipPath, String fileName) async {
-    
     final dir = await getApplicationDocumentsDirectory();
     final path = "${dir.path}";
 
     final zipFile = File(zipPath);
     final appDataDir = Directory.systemTemp;
     final destinationDir = Directory("${appDataDir.path}");
-    if(zipPath== ExcationManagerEnum.downloadEroor){
+    if (zipPath == ExcationManagerEnum.downloadEroor) {
       print("download Error");
       destinationDir.delete(recursive: true);
-      
+
       return;
     }
     if (destinationDir.existsSync()) {
@@ -178,6 +227,14 @@ setTextFontState(bool textFontState){
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
     return getPagevar.ayahs;
   }*/
+  Future<SureNameModel> getSureNameslist() async {
+    //get List Surah Names;
+    var getSureNames = await rootBundle.loadString("assets/jsons/surahs.json");
+    var sureNamesList = SureNameModel.fromJson(jsonDecode(getSureNames));
+
+    return sureNamesList;
+  }
+
   getPage({required int pageNo, required String kariId}) async {
     final data = await rootBundle.loadString('assets/quranpage/$pageNo.json');
     Map<String, dynamic> decode = jsonDecode(data);
@@ -186,13 +243,11 @@ setTextFontState(bool textFontState){
     return get.data;
   }
 
-    getText({required int pageNo, String? kariId}) async {
+  getText({required int pageNo, String? kariId}) async {
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
     notifyListeners();
     return getPagevar.ayahs;
   }
-
-
 
   convertToArabicNumber(int number) {
     return _arabicNumber.convert(number).toString();

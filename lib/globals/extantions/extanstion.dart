@@ -61,3 +61,20 @@ extension DirectoryNameEnum on DirectoryName {
     }
   }
 }
+
+enum ModelSheetMenuItems { gotoSurah, gotojuz, gotopage }
+
+extension ModelSheetMenuExtension on ModelSheetMenuItems {
+  String? get modelSheetMenuItemString {
+    switch (this) {
+      case ModelSheetMenuItems.gotoSurah:
+        return "Süreye Git";
+      case ModelSheetMenuItems.gotojuz:
+        return "Cüze Git";
+      case ModelSheetMenuItems.gotopage:
+        return "Sayfaya Git";
+        break;
+      default:
+    }
+  }
+}
