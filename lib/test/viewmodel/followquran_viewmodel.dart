@@ -227,13 +227,13 @@ class FollowQuranViewModel extends ChangeNotifier {
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
     return getPagevar.ayahs;
   }*/
-  Future<SureNameModel> getSureNameslist() async {
+  Future<List<Datum>> getSureNameslist() async {
     //get List Surah Names;
     var getSureNames = await rootBundle.loadString("assets/jsons/surahs.json");
     var sureNamesList = SureNameModel.fromJson(jsonDecode(getSureNames));
 
-    return sureNamesList;
-  }
+    return sureNamesList.data!;
+    }
 
   getPage({required int pageNo, required String kariId}) async {
     final data = await rootBundle.loadString('assets/quranpage/$pageNo.json');

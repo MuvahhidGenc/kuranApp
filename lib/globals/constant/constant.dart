@@ -1,3 +1,5 @@
+import 'package:kuran/globals/extantions/extanstion.dart';
+
 class Constant {
   static const Map<String,String> MUSHAFIMAGELIST={
     'assets/images/mushaf.png': "Mushaf",

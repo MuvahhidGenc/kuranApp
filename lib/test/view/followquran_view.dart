@@ -7,6 +7,7 @@ import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/globals/widgets/cupertionpicker_widget.dart';
 import 'package:kuran/test/model/followquran_model.dart';
+import 'package:kuran/test/model/sure_name_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
 import 'package:provider/provider.dart';
 
@@ -297,7 +298,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     );
   }
 
-  _onPressChoisePageBottomSheetModel(FollowQuranViewModel provider) {
+  _onPressChoisePageBottomSheetModel(FollowQuranViewModel provider) async{
+    List<Datum> surahName=await provider.getSureNameslist(); 
+    print(surahName.length);
     showModalBottomSheet(
         context: context,
         builder: (context) {
@@ -308,7 +311,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           var gotoPage = ModelSheetMenuExtension(ModelSheetMenuItems.gotopage)
               .modelSheetMenuItemString!;
           return Container(
-            height: SnippetExtanstion(context).media.size.height * 0.265,
+            height: SnippetExtanstion(context).media.size.height * 0.3,
             child: Column(
               children: [
                 bottomSheetMenuListTile(
@@ -316,8 +319,8 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                   gotoSurah,
                   onClick: () => gotoModelPicker(
                       gotoSurah,
-                      List.generate(
-                          604, (index) => Text((index + 1).toString()))),
+                      []
+                      ),
                 ),
                 bottomSheetMenuListTile(
                   provider,
@@ -352,16 +355,17 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   }
 
   void gotoModelPicker(String buttonName, List<Widget> children) {
-    int page = 0;
+   Navigator.pop(context);
     showCupertinoModalPopup(
         context: context,
         builder: (BuildContext builder) {
-          return cupertinoPicker(children, page, buttonName);
+          return cupertinoPicker(children, buttonName);
         });
   }
 
   Container cupertinoPicker(
-      List<Widget> children, int page, String buttonName) {
+      List<Widget> children, String buttonName) {
+        int page=0;
     return Container(
       color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
       height: MediaQuery.of(context).copyWith().size.height * 0.4,
@@ -374,14 +378,16 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotojuz)
                         .modelSheetMenuItemString)
-                  page = value * 20;
+                  page = (value * 20)+1;
                 else if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotoSurah)
                         .modelSheetMenuItemString)
                   page = value;
                 else if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotopage)
-                        .modelSheetMenuItemString) {}
+                        .modelSheetMenuItemString) {
+                          page = value;
+                        }
               },
               itemExtent: 25,
               diameterRatio: 1,
@@ -400,6 +406,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
               height: 50,
               child: ElevatedButton(
                 onPressed: () {
+                  Navigator.pop(context);
                   _followQuranViewModel.gotoPage(
                       _followQuranViewModel.pageController, page);
                 },
