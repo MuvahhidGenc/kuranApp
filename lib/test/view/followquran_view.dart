@@ -9,6 +9,7 @@ import 'package:kuran/globals/widgets/cupertionpicker_widget.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:kuran/test/model/sure_name_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
+import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:provider/provider.dart';
 
 class FollowQuranView extends StatefulWidget {
@@ -25,6 +26,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState? audioPlayerState;
   int aktifsurah = 0;
+
   @override
   void initState() {
     // TODO: implement initState
@@ -33,6 +35,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     quranGetText(1);
     _followQuranViewModel =
         Provider.of<FollowQuranViewModel>(context, listen: false);
+    _followQuranViewModel.getSureNameslist();
     audioPlayerStream();
     //addKeysGlobalKey();
   }
@@ -298,9 +301,8 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     );
   }
 
-  _onPressChoisePageBottomSheetModel(FollowQuranViewModel provider) async{
-    List<Datum> surahName=await provider.getSureNameslist(); 
-    print(surahName.length);
+  _onPressChoisePageBottomSheetModel(FollowQuranViewModel provider) async {
+    print(provider.surahNames!.length);
     showModalBottomSheet(
         context: context,
         builder: (context) {
@@ -314,22 +316,28 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             height: SnippetExtanstion(context).media.size.height * 0.3,
             child: Column(
               children: [
-                bottomSheetMenuListTile(
-                  provider,
-                  gotoSurah,
-                  onClick: () => gotoModelPicker(
-                      gotoSurah,
-                      []
-                      ),
-                ),
-                bottomSheetMenuListTile(
-                  provider,
-                  gotoJuz,
-                  onClick: () => gotoModelPicker(
-                      gotoJuz,
-                      List.generate(
-                          30, (index) => Text((index + 1).toString()))),
-                ),
+                bottomSheetMenuListTile(provider, gotoSurah, onClick: () {
+                  gotoModelPicker(
+                    gotoSurah,
+                    List.generate(
+                      provider.surahNames!.length,
+                      (i) => Text((i + 1).toString() +
+                          "." +
+                          provider.surahNames![i].name! +
+                          " Süresi"),
+                    ),
+                  );
+                  // +"."+provider.surahNames![i].name!
+                }),
+                bottomSheetMenuListTile(provider, gotoJuz, onClick: () {
+                  gotoModelPicker(
+                    gotoJuz,
+                    List.generate(
+                      30,
+                      (i) => Text((i + 1).toString()),
+                    ),
+                  );
+                }),
                 bottomSheetMenuListTile(
                   provider,
                   gotoPage,
@@ -355,7 +363,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   }
 
   void gotoModelPicker(String buttonName, List<Widget> children) {
-   Navigator.pop(context);
+    Navigator.pop(context);
     showCupertinoModalPopup(
         context: context,
         builder: (BuildContext builder) {
@@ -363,9 +371,8 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         });
   }
 
-  Container cupertinoPicker(
-      List<Widget> children, String buttonName) {
-        int page=0;
+  Container cupertinoPicker(List<Widget> children, String buttonName) {
+    int page = 0;
     return Container(
       color: SnippetExtanstion(context).theme.scaffoldBackgroundColor,
       height: MediaQuery.of(context).copyWith().size.height * 0.4,
@@ -378,16 +385,16 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotojuz)
                         .modelSheetMenuItemString)
-                  page = (value * 20)+1;
+                  page = (value * 20) + 1;
                 else if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotoSurah)
                         .modelSheetMenuItemString)
-                  page = value;
+                  page = _followQuranViewModel.surahNames![value].pageNumber!;
                 else if (buttonName ==
                     ModelSheetMenuExtension(ModelSheetMenuItems.gotopage)
                         .modelSheetMenuItemString) {
-                          page = value;
-                        }
+                  page = value;
+                }
               },
               itemExtent: 25,
               diameterRatio: 1,

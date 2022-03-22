@@ -28,6 +28,7 @@ class FollowQuranViewModel extends ChangeNotifier {
   bool _bottomSheetTextFontState = false;
   bool _bottomSheetMealState = false;
   double _fontSize = 20;
+  List<Datum>? surahNames;
 
   /*audioPlayerStream() {
    audioPlayer.onDurationChanged.listen((event) {
@@ -227,12 +228,13 @@ class FollowQuranViewModel extends ChangeNotifier {
     var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
     return getPagevar.ayahs;
   }*/
-  Future<List<Datum>> getSureNameslist() async {
+  getSureNameslist() async {
     //get List Surah Names;
     var getSureNames = await rootBundle.loadString("assets/jsons/surahs.json");
-    var sureNamesList = SureNameModel.fromJson(jsonDecode(getSureNames));
+    surahNames = SureNameModel.fromJson(jsonDecode(getSureNames)).data;
 
-    return sureNamesList.data!;
+    notifyListeners();
+    
     }
 
   getPage({required int pageNo, required String kariId}) async {
