@@ -19,7 +19,7 @@ class FollowQuranViewModel extends ChangeNotifier {
   var _arabicNumberConvert;
   // AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
 //  PlayerState? audioPlayerState;
-  // int aktifsurah = 0;
+  int aktifsurah = 0;
   List<Ayah>? getAyahList;
   IconData? floattingActionButtonIcon;
   PageController pageController =
@@ -234,8 +234,7 @@ class FollowQuranViewModel extends ChangeNotifier {
     surahNames = SureNameModel.fromJson(jsonDecode(getSureNames)).data;
 
     notifyListeners();
-    
-    }
+  }
 
   getPage({required int pageNo, required String kariId}) async {
     final data = await rootBundle.loadString('assets/quranpage/$pageNo.json');

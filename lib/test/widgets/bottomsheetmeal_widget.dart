@@ -11,8 +11,18 @@ class BottomSheetMealWidget extends StatelessWidget {
     var theme = SnippetExtanstion(context).theme;
     var media = SnippetExtanstion(context).media;
     var provider = context.watch<FollowQuranViewModel>();
+
+    print(provider.getTexts[provider.aktifsurah - 1].number);
+    print(provider.getTexts[provider.aktifsurah - 1].surah!.number);
     return Container(
       height: media.size.height * 0.3,
+      child: ListView(
+        children: [
+          Text(provider.getTexts[provider.aktifsurah - 1] == null
+              ? ""
+              : provider.getTexts[provider.aktifsurah - 1].text!)
+        ],
+      ),
       //color: theme.backgroundColor,
     );
   }
