@@ -33,6 +33,7 @@ class FollowQuranViewModel extends ChangeNotifier {
   MealModel mealModel = MealModel();
   String translationFileName = "tanslation";
   var ayahTranslation;
+  String aktifSurahName = "";
 
   /*audioPlayerStream() {
    audioPlayer.onDurationChanged.listen((event) {
@@ -115,38 +116,44 @@ class FollowQuranViewModel extends ChangeNotifier {
       height: 0,
     );
   }
-  getAyahTranslation()async{
-    if(getTexts.length>0){
-      if(aktifsurah==null){
-        aktifsurah=1;
 
+  //getAyahTranslation() async {}
+
+  getTranslation() async {
+    if (getTexts.length > 0) {
+      if (aktifsurah == null) {
+        aktifsurah = 0;
       }
-ayahTranslation= await setAyahTranslation(surahId: getTexts[aktifsurah].surah!.number!,ayahNo: getTexts[aktifsurah].numberInSurah!);
+      var surahId = getTexts[aktifsurah - 1].surah!.number!;
+      var ayahNo = getTexts[aktifsurah - 1].numberInSurah!;
+      var translationPath = await NetworkManager().saveStorage(
+          url: UrlsConstant.ACIK_KURAN_URL + "surah/$surahId?author=6",
+          fileName: translationFileName + "_$surahId.json",
+          folder: "translations");
+
+      mealModel = MealModel.fromJson(jsonDecode(translationPath));
+      ayahTranslation = mealModel.data!.verses!
+          .where((element) => (element.verseNumber == ayahNo))
+          .first
+          .translation!
+          .text;
     }
-    
-    
+    aktifSurahName = mealModel.data!.name!;
+
     notifyListeners();
+    //return ayah;
   }
- setAyahTranslation({required int surahId,required int ayahNo}) async {
-    var translationPath = await NetworkManager().saveStorage(
-        url: UrlsConstant.ACIK_KURAN_URL + "surah/$surahId?author=6",
-        fileName: translationFileName + "_$surahId.json",
-        folder: "translations");
 
-    mealModel = MealModel.fromJson(jsonDecode(translationPath));
-   var ayah= mealModel.data!.verses!.where((element) => (element.verseNumber==ayahNo-1));
-   return ayah.first.translation!.text;
-
-  }
   void gotoPage(PageController pageController, int page) {
     pageController.animateToPage(page.toInt(),
         duration: Duration(milliseconds: 400), curve: Curves.easeIn);
     notifyListeners();
   }
 
-  void nextPage(PageController pageController) {
+  nextPage(PageController pageController) async {
     pageController.animateToPage(pageController.page!.toInt() + 1,
         duration: const Duration(milliseconds: 400), curve: Curves.easeIn);
+    return;
   }
 
   setBottomSheetMealState(bool mealState) {
@@ -234,26 +241,6 @@ ayahTranslation= await setAyahTranslation(surahId: getTexts[aktifsurah].surah!.n
     }
   }
 
-/*Future quranGetText(int page) async {
-    getText =
-        await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
-    return getText;
-  }*/
-  /*getPage({required int pageNo, required String kariId}) async {
-    final response = await http.get(Uri.parse(UrlsConstant.ALQURANCLOUDV1 +
-        UrlPathExtanstion(URLAlQuranPath.page).urlPath! +
-        "$pageNo/$kariId"));
-    if (response.statusCode == 200) {
-      Map<String, dynamic> decode = jsonDecode(response.body);
-      var get = FollowQuranModel.fromJson(decode);
-      return get.data;
-    }
-  }
-
-  getText({required int pageNo, String? kariId}) async {
-    var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
-    return getPagevar.ayahs;
-  }*/
   getSureNameslist() async {
     //get List Surah Names;
     var getSureNames = await rootBundle.loadString("assets/jsons/surahs.json");
@@ -279,4 +266,25 @@ ayahTranslation= await setAyahTranslation(surahId: getTexts[aktifsurah].surah!.n
   convertToArabicNumber(int number) {
     return _arabicNumber.convert(number).toString();
   }
+
+  /*Future quranGetText(int page) async {
+    getText =
+        await _followQuranViewModel.getText(pageNo: page, kariId: "ar.alafasy");
+    return getText;
+  }*/
+  /*getPage({required int pageNo, required String kariId}) async {
+    final response = await http.get(Uri.parse(UrlsConstant.ALQURANCLOUDV1 +
+        UrlPathExtanstion(URLAlQuranPath.page).urlPath! +
+        "$pageNo/$kariId"));
+    if (response.statusCode == 200) {
+      Map<String, dynamic> decode = jsonDecode(response.body);
+      var get = FollowQuranModel.fromJson(decode);
+      return get.data;
+    }
+  }
+
+  getText({required int pageNo, String? kariId}) async {
+    var getPagevar = await getPage(pageNo: pageNo, kariId: kariId!);
+    return getPagevar.ayahs;
+  }*/
 }
