@@ -66,6 +66,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         // await audioPlayer.stop();
         aktifsurah++;
         _followQuranViewModel.aktifsurah = aktifsurah;
+         _followQuranViewModel.getAyahTranslation();
         await playAudio(path: getText[aktifsurah - 1].audioSecondary![1]);
         //print(aktifsurah.toString() + " - " + totalAyah.toString());
         _followQuranViewModel.floattingActionButtonIcon =

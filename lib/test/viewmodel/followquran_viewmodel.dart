@@ -12,6 +12,7 @@ import 'package:flutter_archive/flutter_archive.dart';
 import 'package:kuran/test/model/sure_name_model.dart';
 import 'package:kuran/test/widgets/bottomsheetfontsize_widget.dart';
 import 'package:kuran/test/widgets/bottomsheetmeal_widget.dart';
+import 'package:kuran/view/meal/model/meal_model.dart';
 import 'package:path_provider/path_provider.dart';
 
 class FollowQuranViewModel extends ChangeNotifier {
@@ -29,6 +30,9 @@ class FollowQuranViewModel extends ChangeNotifier {
   bool _bottomSheetMealState = false;
   double _fontSize = 20;
   List<Datum>? surahNames;
+  MealModel mealModel = MealModel();
+  String translationFileName = "tanslation";
+  var ayahTranslation;
 
   /*audioPlayerStream() {
    audioPlayer.onDurationChanged.listen((event) {
@@ -111,7 +115,29 @@ class FollowQuranViewModel extends ChangeNotifier {
       height: 0,
     );
   }
+  getAyahTranslation()async{
+    if(getTexts.length>0){
+      if(aktifsurah==null){
+        aktifsurah=1;
 
+      }
+ayahTranslation= await setAyahTranslation(surahId: getTexts[aktifsurah].surah!.number!,ayahNo: getTexts[aktifsurah].numberInSurah!);
+    }
+    
+    
+    notifyListeners();
+  }
+ setAyahTranslation({required int surahId,required int ayahNo}) async {
+    var translationPath = await NetworkManager().saveStorage(
+        url: UrlsConstant.ACIK_KURAN_URL + "surah/$surahId?author=6",
+        fileName: translationFileName + "_$surahId.json",
+        folder: "translations");
+
+    mealModel = MealModel.fromJson(jsonDecode(translationPath));
+   var ayah= mealModel.data!.verses!.where((element) => (element.verseNumber==ayahNo-1));
+   return ayah.first.translation!.text;
+
+  }
   void gotoPage(PageController pageController, int page) {
     pageController.animateToPage(page.toInt(),
         duration: Duration(milliseconds: 400), curve: Curves.easeIn);

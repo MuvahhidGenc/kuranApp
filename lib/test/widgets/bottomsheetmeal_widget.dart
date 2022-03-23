@@ -14,13 +14,14 @@ class BottomSheetMealWidget extends StatelessWidget {
 
     print(provider.getTexts[provider.aktifsurah - 1].number);
     print(provider.getTexts[provider.aktifsurah - 1].surah!.number);
+    provider.getAyahTranslation();
     return Container(
       height: media.size.height * 0.3,
       child: ListView(
         children: [
-          Text(provider.getTexts[provider.aktifsurah - 1] == null
+          Text(provider.ayahTranslation==null
               ? ""
-              : provider.getTexts[provider.aktifsurah - 1].text!)
+              : provider.ayahTranslation!)
         ],
       ),
       //color: theme.backgroundColor,
