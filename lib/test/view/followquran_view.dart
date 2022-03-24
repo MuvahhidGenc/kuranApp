@@ -3,6 +3,7 @@ import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/globals/widgets/cupertionpicker_widget.dart';
@@ -69,10 +70,10 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         // await audioPlayer.stop();
         _followQuranViewModel.aktifsurah++;
         // _followQuranViewModel._followQuranViewModel.aktifsurah = _followQuranViewModel.aktifsurah;
-        if(_followQuranViewModel.bottomSheetMealState==true){
-         await _followQuranViewModel.getTranslation();
+        if (_followQuranViewModel.bottomSheetMealState == true) {
+          await _followQuranViewModel.getTranslation();
         }
-        
+
         await playAudio(
             path: getText[_followQuranViewModel.aktifsurah - 1]
                 .audioSecondary![1]);
@@ -81,7 +82,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             Icons.play_circle_fill;
       } else if (audioPlayerState == PlayerState.COMPLETED &&
           _followQuranViewModel.aktifsurah == totalAyah) {
-       // _followQuranViewModel.aktifsurah = -1;
+        // _followQuranViewModel.aktifsurah = -1;
         _followQuranViewModel.floattingActionButtonIcon =
             Icons.play_circle_fill;
         await _followQuranViewModel
@@ -146,9 +147,10 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         backgroundColor: SnippetExtanstion(context).theme.primaryColor,
         items: [
           const TabItem(icon: Icons.list, title: ""),
-          const TabItem(
-              icon: Icons.speaker_notes_off,
-              activeIcon: Icons.speaker_notes,
+          TabItem(
+              icon: provider.bottomSheetMealState
+                  ? Icons.speaker_notes
+                  : Icons.speaker_notes_off,
               title: ""),
           TabItem(
               icon:
@@ -159,12 +161,11 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           const TabItem(icon: Icons.fullscreen, title: ""),
         ],
         initialActiveIndex: 2,
-        onTap: (int i) async{
+        onTap: (int i) async {
           if (i == 1) {
-            
-           await _followQuranViewModel.getTranslation();
+            if (provider.aktifsurah == 0) provider.aktifsurah = 1;
+            await _followQuranViewModel.getTranslation();
             provider.setBottomSheetMealState(!provider.bottomSheetMealState);
-            
           } else if (i == 2) {
             provider.getAyahList = getText;
             var path = getText[0].audioSecondary![1];
@@ -178,6 +179,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             fullScreen = !fullScreen;
             setState(() {});
           } else if (i == 3) {
+            provider.setBottomSheetMealState(false);
             provider.setTextFontState(!provider.textFontState);
           } else if (i == 0) {
             _onPressChoisePageBottomSheetModel(provider);
@@ -185,9 +187,9 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           if (i != 3) {
             provider.setTextFontState(false);
           }
-          if (i != 1) {
+          /*if (i != 1) {
             provider.setBottomSheetMealState(false);
-          }
+          }*/
         },
       );
 
@@ -242,7 +244,11 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       children: [
         Center(
           child: Text(
-           _followQuranViewModel.aktifSurahName=="" ? getText.isEmpty ? "" : getText[0].surah!.englishName!:_followQuranViewModel.aktifSurahName,
+            _followQuranViewModel.aktifSurahName == ""
+                ? getText.isEmpty
+                    ? ""
+                    : getText[0].surah!.englishName!
+                : _followQuranViewModel.aktifSurahName,
             textAlign: TextAlign.left,
           ),
         ),
@@ -250,7 +256,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
           spacing: 2.0,
           children: [
             Text(
-             getText.isEmpty
+              getText.isEmpty
                   ? ""
                   : " Sayfa : {${getText[0].page.toString()} / 604} - ",
               textAlign: TextAlign.left,
@@ -285,24 +291,69 @@ class _FollowQuranViewState extends State<FollowQuranView> {
                 color: SnippetExtanstion(context).theme.primaryColorLight),
             children: getText.map((e) {
               var listNumber = getText.indexOf(e);
+
               return TextSpan(
-                style: listNumber == _followQuranViewModel.aktifsurah - 1
-                    ? const TextStyle(
-                        backgroundColor: Colors.grey,
-                        fontFamily: 'KFGQPC Uthman Taha Naskh',
-                      )
-                    : const TextStyle(
-                        fontFamily: 'KFGQPC Uthman Taha Naskh',
-                      ),
-                text: " " + e.text!.trim() + " ",
-                recognizer: TapGestureRecognizer()
-                  ..onTap = () async {
-                    _fqvmProvider.getAyahList = getText;
-                    _followQuranViewModel.aktifsurah = listNumber + 1;
-                    _followQuranViewModel.getTranslation();
-                    onlyPlayAudio(path: e.audioSecondary![1]);
-                  },
                 children: [
+                  if (e.numberInSurah == 1)
+                    WidgetSpan(
+                      child: Center(
+                        child: Padding(
+                          padding: const EdgeInsets.all(8.0),
+                          child: Stack(
+                            children: [
+                              Image.asset(
+                                "assets/images/surahBackGroundBlack.png",
+                                height: SnippetExtanstion(context)
+                                        .media
+                                        .size
+                                        .height *
+                                    0.1,
+                                width: double.infinity,
+                                fit: BoxFit.fill,
+                                color: Colors.brown,
+                              ),
+                              Positioned(
+                                  //top: 50,
+
+                                  child: Center(
+                                child: Padding(
+                                  padding: const EdgeInsets.only(top: 15.0),
+                                  child: Text(
+                                    e.surah!.name!,
+                                    style: TextStyle(
+                                      fontSize: 20,
+                                      fontWeight: FontWeight.bold,
+                                    ),
+                                  ),
+                                ),
+                              ))
+                            ],
+                          ),
+                        ),
+                      ),
+                    ),
+                  TextSpan(
+                    style: listNumber == _followQuranViewModel.aktifsurah - 1
+                        ? const TextStyle(
+                            backgroundColor: Colors.grey,
+                            fontFamily: 'KFGQPC Uthman Taha Naskh',
+                          )
+                        : const TextStyle(
+                            fontFamily: 'KFGQPC Uthman Taha Naskh',
+                          ),
+                    text: " " + e.surah!.number.toString() == "1"
+                        ? e.text!.trim().replaceAll(
+                                "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ", "") +
+                            " "
+                        : e.text!.trim(),
+                    recognizer: TapGestureRecognizer()
+                      ..onTap = () async {
+                        _fqvmProvider.getAyahList = getText;
+                        _followQuranViewModel.aktifsurah = listNumber + 1;
+                        _followQuranViewModel.getTranslation();
+                        onlyPlayAudio(path: e.audioSecondary![1]);
+                      },
+                  ),
                   WidgetSpan(
                       child: CircleAvatar(
                     radius: 10,
@@ -314,6 +365,11 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             }).toList(),
           ),
         ),
+        _followQuranViewModel.bottomSheetMealState
+            ? SizedBox(
+                height: SnippetExtanstion(context).media.size.height * 0.3,
+              )
+            : SizedBox(),
       ],
     );
   }
