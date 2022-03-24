@@ -35,73 +35,6 @@ class FollowQuranViewModel extends ChangeNotifier {
   var ayahTranslation;
   String aktifSurahName = "";
 
-  /*audioPlayerStream() {
-   audioPlayer.onDurationChanged.listen((event) {
-     print(event.inSeconds.toDouble());
-   });
-    audioPlayer.onPlayerStateChanged.listen((state) async {
-      audioPlayerState = state;
-      var totalAyah = getAyahList!.length;
-      print(aktifsurah);
-      if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
-        await audioPlayer.stop();
-        aktifsurah++;
-
-        await playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
-        print(aktifsurah.toString() + " - " + totalAyah.toString());
-        floattingActionButtonIcon = Icons.play_circle_fill;
-      } else if (audioPlayerState == PlayerState.COMPLETED &&
-          aktifsurah == totalAyah) {
-        aktifsurah = -1;
-        floattingActionButtonIcon = Icons.play_circle_fill;
-        // nextPage(pageController);
-        // aktifsurah=1;
-      }
-      if (audioPlayerState == PlayerState.PLAYING) {
-        floattingActionButtonIcon = Icons.pause_circle_filled;
-      } else if (audioPlayerState == PlayerState.STOPPED ||
-          audioPlayerState == PlayerState.PAUSED ||
-          floattingActionButtonIcon == null) {
-        floattingActionButtonIcon = Icons.play_circle_fill;
-       
-      }
-      // print(aktifsurah);
-      notifyListeners();
-    });
-  }
-
-  Future playAudio({required String path}) async {
-    if (audioPlayerState == PlayerState.PLAYING) {
-    
-      await audioPlayer.stop();
-    } else {
-     await audioPlayer.play(path,isLocal: false);
-    }
-    // notifyListeners();
-  }
-
-  Future onlyPlayAudio({required String path}) async {
-   await audioPlayer.play(path,isLocal: false);
-    // notifyListeners();
-  }
-
-  stopAudio() async{
-   await audioPlayer.stop();
-    notifyListeners();
-  }
-
-  void nextPage(PageController pageController) {
-    pageController.animateToPage(pageController.page!.toInt() + 1,
-        duration: Duration(milliseconds: 400), curve: Curves.easeIn);
-  }
-
-  onChangePage(int page)async{
-        getAyahList =await quranGetText(page+1);
-        print(getAyahList![0].text);
-        aktifsurah = 1;
-        await stopAudio();
-        
-  }*/
 
   get textFontState => _bottomSheetTextFontState;
   get fontSize => _fontSize;
@@ -117,13 +50,10 @@ class FollowQuranViewModel extends ChangeNotifier {
     );
   }
 
-  //getAyahTranslation() async {}
+
 
   getTranslation() async {
     if (getTexts.length > 0) {
-      if (aktifsurah == null) {
-        aktifsurah = 0;
-      }
       var surahId = getTexts[aktifsurah - 1].surah!.number!;
       var ayahNo = getTexts[aktifsurah - 1].numberInSurah!;
       var translationPath = await NetworkManager().saveStorage(
@@ -134,9 +64,7 @@ class FollowQuranViewModel extends ChangeNotifier {
       mealModel = MealModel.fromJson(jsonDecode(translationPath));
       ayahTranslation = mealModel.data!.verses!
           .where((element) => (element.verseNumber == ayahNo))
-          .first
-          .translation!
-          .text;
+          .first;
     }
     aktifSurahName = mealModel.data!.name!;
 
@@ -266,6 +194,76 @@ class FollowQuranViewModel extends ChangeNotifier {
   convertToArabicNumber(int number) {
     return _arabicNumber.convert(number).toString();
   }
+
+
+//AudioStream
+  /*audioPlayerStream() {
+   audioPlayer.onDurationChanged.listen((event) {
+     print(event.inSeconds.toDouble());
+   });
+    audioPlayer.onPlayerStateChanged.listen((state) async {
+      audioPlayerState = state;
+      var totalAyah = getAyahList!.length;
+      print(aktifsurah);
+      if (audioPlayerState == PlayerState.COMPLETED && aktifsurah < totalAyah) {
+        await audioPlayer.stop();
+        aktifsurah++;
+
+        await playAudio(path: getAyahList![aktifsurah - 1].audioSecondary![1]);
+        print(aktifsurah.toString() + " - " + totalAyah.toString());
+        floattingActionButtonIcon = Icons.play_circle_fill;
+      } else if (audioPlayerState == PlayerState.COMPLETED &&
+          aktifsurah == totalAyah) {
+        aktifsurah = -1;
+        floattingActionButtonIcon = Icons.play_circle_fill;
+        // nextPage(pageController);
+        // aktifsurah=1;
+      }
+      if (audioPlayerState == PlayerState.PLAYING) {
+        floattingActionButtonIcon = Icons.pause_circle_filled;
+      } else if (audioPlayerState == PlayerState.STOPPED ||
+          audioPlayerState == PlayerState.PAUSED ||
+          floattingActionButtonIcon == null) {
+        floattingActionButtonIcon = Icons.play_circle_fill;
+       
+      }
+      // print(aktifsurah);
+      notifyListeners();
+    });
+  }
+
+  Future playAudio({required String path}) async {
+    if (audioPlayerState == PlayerState.PLAYING) {
+    
+      await audioPlayer.stop();
+    } else {
+     await audioPlayer.play(path,isLocal: false);
+    }
+    // notifyListeners();
+  }
+
+  Future onlyPlayAudio({required String path}) async {
+   await audioPlayer.play(path,isLocal: false);
+    // notifyListeners();
+  }
+
+  stopAudio() async{
+   await audioPlayer.stop();
+    notifyListeners();
+  }
+
+  void nextPage(PageController pageController) {
+    pageController.animateToPage(pageController.page!.toInt() + 1,
+        duration: Duration(milliseconds: 400), curve: Curves.easeIn);
+  }
+
+  onChangePage(int page)async{
+        getAyahList =await quranGetText(page+1);
+        print(getAyahList![0].text);
+        aktifsurah = 1;
+        await stopAudio();
+        
+  }*/
 
   /*Future quranGetText(int page) async {
     getText =

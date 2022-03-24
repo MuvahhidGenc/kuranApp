@@ -25,7 +25,7 @@ class AppThemeBase extends ChangeNotifier {
         iconColor: Colors.brown[50],
       ),
       bottomSheetTheme: BottomSheetThemeData(
-        backgroundColor: Colors.brown.withOpacity(0.7),
+        backgroundColor: Colors.brown.withOpacity(0.9),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.only(
               topLeft: Radius.circular(25), topRight: Radius.circular(25)),
@@ -42,7 +42,7 @@ class AppThemeBase extends ChangeNotifier {
     return ThemeData.dark().copyWith(
       primaryColorLight: Colors.white,
       bottomSheetTheme: BottomSheetThemeData(
-        backgroundColor: Colors.black.withOpacity(0.7),
+        backgroundColor: Colors.black.withOpacity(0.9),
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.only(
               topLeft: Radius.circular(50), topRight: Radius.circular(50)),

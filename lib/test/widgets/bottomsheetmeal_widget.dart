@@ -5,46 +5,45 @@ import 'package:provider/provider.dart';
 
 class BottomSheetMealWidget extends StatelessWidget {
   const BottomSheetMealWidget({Key? key}) : super(key: key);
-
+  
   @override
   Widget build(BuildContext context) {
     var theme = SnippetExtanstion(context).theme;
     var media = SnippetExtanstion(context).media;
     var provider = context.watch<FollowQuranViewModel>();
-    provider.getTranslation();
     return Container(
       height: media.size.height * 0.3,
       child: ListView(
         children: [
           Padding(
             padding: const EdgeInsets.all(18.0),
-            child: Column(
+            child:provider.aktifsurah>0?  Column(
               children: [
-                Center(
-                  child: Text(provider.ayahTranslation == null
+               Center(
+                  child: Text(provider.ayahTranslation.translation!.text == null
                       ? ""
-                      : provider.aktifSurahName.toUpperCase() + " SÜRESİ"),
+                      : provider.aktifSurahName.toUpperCase() + " SÜRESİ",style: TextStyle(color: theme.listTileTheme.textColor),),
                 ),
                 Divider(
                   height: 20,
                 ),
                 Center(
-                  child: Text(provider.ayahTranslation == null
+                  child: Text(provider.ayahTranslation.translation!.text == null
                       ? ""
-                      : provider.aktifsurah.toString() +
+                      : provider.ayahTranslation.verseNumber.toString() +
                           " - ) " +
-                          provider.ayahTranslation!),
+                          provider.ayahTranslation!.translation!.text,style: TextStyle(color: theme.listTileTheme.textColor),),
                 ),
                 SizedBox(
                   height: 20,
                 ),
                 Center(
-                  child: Text(provider.ayahTranslation == null
+                  child: Text(provider.ayahTranslation.translation!.text == null
                       ? ""
-                      : "Çeviri : Ali BULAÇ"),
+                      : "Çeviri : Ali BULAÇ",style: TextStyle(color: theme.listTileTheme.textColor),),
                 ),
               ],
-            ),
+            ):SizedBox(),
           )
         ],
       ),
