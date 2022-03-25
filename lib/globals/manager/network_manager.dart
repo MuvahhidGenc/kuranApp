@@ -28,11 +28,17 @@ class NetworkManager extends ChangeNotifier {
           progress = ((rec / total) * 100);
           notifyListeners();
           print(progress);
+          
           //print(dir.path+"/kuranuthmani.dpf");
         }).then((value) {
+            if(progress!=100){
+            if(pathState.existsSync())
+              pathState.deleteSync();
+          }
           if (value.statusCode != 200) {
             return ExcationManagerEnum.downloadEroor;
           }
+        
         });
 
         downloading = false;

@@ -2,11 +2,14 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:arabic_numbers/arabic_numbers.dart';
 import 'package:audioplayers/audioplayers.dart';
+import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:kuran/globals/constant/urls_constant.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
 import 'package:kuran/globals/manager/network_manager.dart';
+import 'package:kuran/globals/services/dio/request.dart';
+import 'package:kuran/globals/widgets/alertdialog_widget.dart';
 import 'package:kuran/test/model/followquran_model.dart';
 import 'package:flutter_archive/flutter_archive.dart';
 import 'package:kuran/test/model/sure_name_model.dart';
@@ -34,6 +37,9 @@ class FollowQuranViewModel extends ChangeNotifier {
   String translationFileName = "tanslation";
   var ayahTranslation;
   String aktifSurahName = "";
+  double? progress;
+  bool? downloading;
+  String? surahAudioSize;
 
 
   get textFontState => _bottomSheetTextFontState;
@@ -54,6 +60,7 @@ class FollowQuranViewModel extends ChangeNotifier {
 
   getTranslation() async {
     if (getTexts.length > 0) {
+     
       var surahId = getTexts[aktifsurah - 1].surah!.number!;
       var ayahNo = getTexts[aktifsurah - 1].numberInSurah!;
       var translationPath = await NetworkManager().saveStorage(
@@ -120,12 +127,76 @@ class FollowQuranViewModel extends ChangeNotifier {
 
   Future quranGetText(int page) async {
     getTexts = await getText(pageNo: page, kariId: "ar.alafasy");
+    
     //notifyListeners();
     return getTexts;
   }
 
+  showAlertDialog(BuildContext context,String fileName)async{
+    surahAudioSize=await GetPageAPI()
+        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/${getTexts.first.surah!.number}.zip");
+    return getDialog(
+                context: context,
+                title: "Ses İndirme İzni ?",
+                content: CircularProgressIndicator(value: progress??0,),
+                actions: [
+                   TextButton.icon(
+                    onPressed: ()async {
+                      Navigator.pop(context);
+                       await downloadAudioZip(fileName);
+                    },
+                    icon: Icon(Icons.downloading),
+                    label: Text("Süreyi İndir ("+(surahAudioSize??0.toString())+")"),
+                  ),
+                  TextButton.icon(
+                    onPressed: () {
+                        
+                    },
+                    icon: Icon(Icons.downloading),
+                    label: Text("Tümünü İndir (804 MB)"),
+                  ),
+                ]);
+  }
+  
+  
+ Future<dynamic> downloadFile(
+      {required String url, required String fileName}) async {
+    Dio dio = Dio();
+    var dir = await getApplicationDocumentsDirectory();
+    var path = "${dir.path}/$fileName.zip";
+    var pathState = File(path);
+    if (!pathState.existsSync()) {
+      if (await NetworkManager().connectionControl()) {
+        await dio.download(url, path, onReceiveProgress: (rec, total) {
+          // print("Rec:$rec,Total: $total test");
+          downloading = true;
+          progress = ((rec / total) * 100);
+          notifyListeners();
+          print(progress);
+          //print(dir.path+"/kuranuthmani.dpf");
+        }).then((value) {
+            if(progress!=100){
+            if(pathState.existsSync())
+              pathState.deleteSync();
+          }
+          if (value.statusCode != 200) {
+            return ExcationManagerEnum.downloadEroor;
+          }
+        });
+          
+        downloading = false;
+        notifyListeners();
+      } else {
+        return ExcationManagerEnum.notConnection;
+      }
+    }
+
+    return path;
+  }
+
   Future downloadAudioZip(String fileName) async {
-    var file = await NetworkManager().downloadFile(
+    
+    var file = await downloadFile(
       url: UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/$fileName.zip",
       fileName: fileName,
     );
@@ -140,7 +211,7 @@ class FollowQuranViewModel extends ChangeNotifier {
     final appDataDir = Directory.systemTemp;
     final destinationDir = Directory("${appDataDir.path}");
     if (zipPath == ExcationManagerEnum.downloadEroor) {
-      print("download Error");
+      print("download Error ");
       destinationDir.delete(recursive: true);
 
       return;
@@ -164,6 +235,7 @@ class FollowQuranViewModel extends ChangeNotifier {
             print('crc: ${zipEntry.crc}');
             return ZipFileOperation.includeItem;
           });
+
     } catch (e) {
       print(e);
     }

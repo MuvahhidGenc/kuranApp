@@ -3,14 +3,10 @@ import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_cached_pdfview/flutter_cached_pdfview.dart';
 import 'package:kuran/globals/extantions/extanstion.dart';
-import 'package:kuran/globals/widgets/alertdialog_widget.dart';
-import 'package:kuran/globals/widgets/cupertionpicker_widget.dart';
+import 'package:kuran/globals/manager/filepath_manager.dart';
 import 'package:kuran/test/model/followquran_model.dart';
-import 'package:kuran/test/model/sure_name_model.dart';
 import 'package:kuran/test/viewmodel/followquran_viewmodel.dart';
-import 'package:kuran/view/kuran/model/sure_name_model.dart';
 import 'package:provider/provider.dart';
 
 class FollowQuranView extends StatefulWidget {
@@ -26,6 +22,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
   bool fullScreen = false;
   AudioPlayer audioPlayer = AudioPlayer(mode: PlayerMode.MEDIA_PLAYER);
   PlayerState? audioPlayerState;
+  String? surahAudioSize;
   //int _followQuranViewModel.aktifsurah = 0;
 
   @override
@@ -65,11 +62,10 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     audioPlayer.onPlayerStateChanged.listen((state) async {
       audioPlayerState = state;
       var totalAyah = getText.length;
+        print( getText[_followQuranViewModel.aktifsurah-1].surah!.number);
       if (audioPlayerState == PlayerState.COMPLETED &&
           _followQuranViewModel.aktifsurah < totalAyah) {
-        // await audioPlayer.stop();
         _followQuranViewModel.aktifsurah++;
-        // _followQuranViewModel._followQuranViewModel.aktifsurah = _followQuranViewModel.aktifsurah;
         if (_followQuranViewModel.bottomSheetMealState == true) {
           await _followQuranViewModel.getTranslation();
         }
@@ -77,18 +73,16 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         await playAudio(
             path: getText[_followQuranViewModel.aktifsurah - 1]
                 .audioSecondary![1]);
-        //print(_followQuranViewModel.aktifsurah.toString() + " - " + totalAyah.toString());
         _followQuranViewModel.floattingActionButtonIcon =
             Icons.play_circle_fill;
       } else if (audioPlayerState == PlayerState.COMPLETED &&
           _followQuranViewModel.aktifsurah == totalAyah) {
-        // _followQuranViewModel.aktifsurah = -1;
+          
         _followQuranViewModel.floattingActionButtonIcon =
             Icons.play_circle_fill;
         await _followQuranViewModel
             .nextPage(_followQuranViewModel.pageController);
         _followQuranViewModel.aktifsurah = 0;
-        //  _followQuranViewModel._followQuranViewModel.aktifsurah = _followQuranViewModel.aktifsurah;
       }
       if (audioPlayerState == PlayerState.PLAYING) {
         _followQuranViewModel.floattingActionButtonIcon =
@@ -99,7 +93,6 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         _followQuranViewModel.floattingActionButtonIcon =
             Icons.play_circle_fill;
       }
-      // print(_followQuranViewModel.aktifsurah);
 
       setState(() {});
     });
@@ -109,8 +102,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     getText = await Provider.of<FollowQuranViewModel>(context, listen: false)
         .quranGetText(page);
 
-    /*print(await GetPageAPI()
-        .getFileSize(UrlsConstant.KURAN_MP3_TRAR_URL + "versebyverse/3.zip"));*/
+    
     return getText;
   }
 
@@ -163,10 +155,16 @@ class _FollowQuranViewState extends State<FollowQuranView> {
         initialActiveIndex: 2,
         onTap: (int i) async {
           if (i == 1) {
-            if (provider.aktifsurah == 0) provider.aktifsurah = 1;
+            // Translation Button
+            
+           if (provider.aktifsurah == 0) provider.aktifsurah = 1;
             await _followQuranViewModel.getTranslation();
             provider.setBottomSheetMealState(!provider.bottomSheetMealState);
           } else if (i == 2) {
+            String filename=getText[provider.aktifsurah].surah!.number.toString();
+            //Play And Pause Button
+            if(await FilePathManager().getFilePathControl(filename)){
+                //provider.showAlertDialog(context);
             provider.getAyahList = getText;
             var path = getText[0].audioSecondary![1];
 
@@ -174,14 +172,21 @@ class _FollowQuranViewState extends State<FollowQuranView> {
             playAudio(path: path);
 
             // print(audioPlayerState);
+            }else{
+              provider.showAlertDialog(context,filename);
+            }
+            
 
           } else if (i == 4) {
+            // FullScreen Button
             fullScreen = !fullScreen;
             setState(() {});
           } else if (i == 3) {
+            // TextFontSlider Button
             provider.setBottomSheetMealState(false);
             provider.setTextFontState(!provider.textFontState);
           } else if (i == 0) {
+            // GotoPage Button
             _onPressChoisePageBottomSheetModel(provider);
           }
           if (i != 3) {
@@ -212,6 +217,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
       controller: provider.pageController,
       itemCount: 604,
       onPageChanged: (int page) async {
+        print( getText[_followQuranViewModel.aktifsurah-1].surah!.number);
         getText = await quranGetText(page + 1);
         provider.getAyahList = getText;
         _followQuranViewModel.aktifsurah = 1;
@@ -280,6 +286,7 @@ class _FollowQuranViewState extends State<FollowQuranView> {
     return ListView(
       shrinkWrap: true,
       children: [
+        Stack(),
         RichText(
           overflow: TextOverflow.clip,
           //textScaleFactor: 1.1,
